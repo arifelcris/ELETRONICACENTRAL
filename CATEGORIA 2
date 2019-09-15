@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>FILMES</name>
+<name>[COLOR green].[/COLOR]FILMES</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/John.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-TESTE-TONY/master/FILMES</externallink>
 <fanart>https://ia801400.us.archive.org/12/items/desenhos_201909/fime%20vingadores.png</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>SÉRIES</name>
+<name>[COLOR green].[/COLOR]SÉRIES</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/series%20flash.png</thumbnail>
 <externallink>https://raw.githubusercontent.com</externallink>
 <fanart>https://ia801400.us.archive.org/12/items/desenhos_201909/s%C3%A9ries%20geral.png</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>DESENHOS</name>
+<name>[COLOR green].[/COLOR]DESENHOS</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/desenhos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com</externallink>
 <fanart>https://ia801400.us.archive.org/12/items/desenhos_201909/varios%20desenhos.png</fanart>
