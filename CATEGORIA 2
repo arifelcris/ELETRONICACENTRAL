@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>CANAIS</name>
+<thumbnail>https://i</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-TESTE-TONY/master/TV%20FOGO</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]//[/COLOR]-CANAIS-[COLOR deeppink]//[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>FILMES</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/John.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-TESTE-TONY/master/FILMES</externallink>
@@ -7,7 +22,7 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]//[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]//[/COLOR]</info>
 </channel>
 </channels>
 
@@ -22,7 +37,7 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- AS MELHORES SÉRIES -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]//[/COLOR]- AS MELHORES SÉRIES -[COLOR deeppink]//[/COLOR]</info>
 </channel>
 </channels>
 
@@ -37,22 +52,9 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]//[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]//[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>CANAIS</name>
-<thumbnail>https://i</thumbnail>
-<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-TESTE-TONY/master/TV%20FOGO</externallink>
-<fanart></fanart>
-<info>
 
-
-[COLOR deeppink]|[/COLOR]-CABOS DIVERSOS-[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
