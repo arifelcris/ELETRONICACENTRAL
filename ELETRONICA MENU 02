@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>CANAIS</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
 <thumbnail>https://i</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/ELETRONICA%20CANAIS%2001</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]//[/COLOR]-CANAIS-[COLOR deeppink]//[/COLOR]</info>
+[COLOR deeppink]///[/COLOR] CANAIS DE TV AO VIVO [COLOR deeppink]///[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>FILMES</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/John.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/MENU%2003%20FILMES%20CATEGORIAS</externallink>
 <fanart>https://ia801400.us.archive.org/12/items/desenhos_201909/fime%20vingadores.png</fanart>
 <info>
 
 
-[COLOR deeppink]//[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]//[/COLOR]</info>
+[COLOR deeppink]///[/COLOR] MELHORES FILMES E LANÇAMENTOS [COLOR deeppink]///[/COLOR]</info>
 </channel>
 </channels>
 
@@ -30,14 +30,14 @@
 
 <channels>
 <channel>
-<name>SÉRIES</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] SÉRIES [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/series%20flash.png</thumbnail>
 <externallink>https://raw.githubusercontent.com</externallink>
 <fanart>https://ia801400.us.archive.org/12/items/desenhos_201909/s%C3%A9ries%20geral.png</fanart>
 <info>
 
 
-[COLOR deeppink]//[/COLOR]- AS MELHORES SÉRIES -[COLOR deeppink]//[/COLOR]</info>
+[COLOR deeppink]///[/COLOR] AS MELHORES SÉRIES [COLOR deeppink]///[/COLOR]</info>
 </channel>
 </channels>
 
@@ -45,14 +45,14 @@
 
 <channels>
 <channel>
-<name>DESENHOS</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/desenhos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com</externallink>
 <fanart>https://ia801400.us.archive.org/12/items/desenhos_201909/varios%20desenhos.png</fanart>
 <info>
 
 
-[COLOR deeppink]//[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]//[/COLOR]</info>
+[COLOR deeppink]///[/COLOR] TUDO PARA CRIANÇADA [COLOR deeppink]///[/COLOR]</info>
 </channel>
 </channels>
 
