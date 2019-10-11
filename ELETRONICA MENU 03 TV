@@ -5,20 +5,6 @@
 </item>
 
 <item>
-<title>CANAL RICOS</title>
-<link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
-<thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
-<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR white]A Fazenda 10[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/afazenda-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
-<thumbnail>https://ler9.files.wordpress.com/2012/08/a-fazenda1.jpg</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://canal.cometa.top/hls1/bobonordeste-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
@@ -47,6 +33,8 @@
 <link>https://canal.cometa.top/hls1/recordsp-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record.png</thumbnail>
 </item>
+
+
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
@@ -107,6 +95,8 @@
 <link>https://canal.cometa.top/hls1/natgeowild-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png</thumbnail>
 </item>
+
+
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
@@ -245,6 +235,8 @@
 <link>https://canal.cometa.top/hls1/premiere9-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
 </item>
+
+
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
@@ -450,6 +442,8 @@
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png</thumbnail>
 </item>
 
+
+
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
 <link>here</link>
@@ -515,6 +509,8 @@
 <link>https://canal.cometa.top/hls1/tooncast-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png</thumbnail>
 </item>
+
+
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
@@ -617,6 +613,8 @@
 <link>https://canal.cometa.top/hls1/multishow-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png</thumbnail>
 </item>
+
+
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
