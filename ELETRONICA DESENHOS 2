@@ -10,23 +10,4 @@
 </item>
 
 
-MODELO GDRIVE APENAS UM LINK
 
-<item>
-<title>[B][COLOR lime]*NEW  [/COLOR][/B][B] NOME [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=IGNORE?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:AQUI[/B][/COLOR]</info>
-</item>
-
-
-MODELO UNIVERSAL DE APENAS UM LINK
-
-<item>
-<title>[B][COLOR lime]*NEW  [/COLOR][/B][B] NOME [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:AQUI[/B][/COLOR]</info>
-</item>
