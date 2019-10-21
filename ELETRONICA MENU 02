@@ -30,6 +30,19 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] SÉRIES [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
+<thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/series%20flash.png</thumbnail>
+<externallink>AQUI</externallink>
+<fanart>https://ia801400.us.archive.org/12/items/desenhos_201909/s%C3%A9ries%20geral.png</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] AS MELHORES SÉRIES  [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white] SÉRIES DE DESENHOS [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/series%20flash.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/ELETRONICA%20S%C3%89RIES%203</externallink>
