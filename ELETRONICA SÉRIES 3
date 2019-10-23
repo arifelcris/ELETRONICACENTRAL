@@ -17,6 +17,19 @@ Em A Guarda do Leão, Kion torna-se responsável por assumir o comando do corpo 
 
 <channels>
 <channel>
+<name>[B] ALF, o ETeimoso (Dublado) [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg</thumbnail>
+<externallink>AQUI</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] [COLOR lime]  ALF segue um sinal de rádio amador para a Terra e acaba caindo na garagem da casa da família Tanner. Os Tanner são uma típica família de classe média em Riverside, Califórnia. A família consiste do assistente social Willie, sua esposa Kate, sua filha adolescente Lynn, o filho mais novo Brian, e o gato Lucky. Sem saberem ao certo o que fazer, os Tanner levam ALF para casa e o escondem da Alien Task Force e de seus metidos vizinhos Trevor e Raquel Ochmonek, até que ele possa reparar sua nave. ALF geralmente fica escondido na cozinha. Eventualmente é revelado que Melmac, o planeta de ALF, foi destruído por uma catástrofe envolvendo bombas nucleares e ele acaba se tornando um membro permanente da família, embora o choque cultural, a solidão e a saudade de casa, frequentemente causem problemas aos Tanner.[/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B] As Aventuras de Jackie Chan (Dublado) [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bsg03VVkB41Vzs6w1NvpFvq2yH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20JACKIE%20CHAN</externallink>
