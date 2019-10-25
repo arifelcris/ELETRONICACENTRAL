@@ -1,5 +1,19 @@
 <channels>
 <channel>
+<name>[B] A Bíblia [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20A%20B%C3%8DBLIA</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] [COLOR lime]Misturando contos bíblicos e parábolas, esta minissérie recria para um público moderno a visão da Bíblia sobre a humanidade e o divino.[/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B] Ayrton Senna do Brasil [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6wsabKvyBN5trDKVcjJwU9gXAF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADA%20AYRTON%20SENNA</externallink>
