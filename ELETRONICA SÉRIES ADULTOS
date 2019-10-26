@@ -11,7 +11,19 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[B] A Hora do Rush [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRn1qoAfDeRlUdAsAFqNd4R8ZOb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20A%20HORA%20DO%20RUSH</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSWNemgirQNzrXW8MiXthwZQiW9.jpg</fanart>
+<info>
 
+[COLOR deeppink]///[/COLOR] [COLOR lime]A série segue Detetive Carter, um detetive radical do LAPD, e o Detetive Lee, um detetive certinho de Hong Kong, e como eles são forçados a formar uma parceria improvável[/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
 <name>[B] Ayrton Senna do Brasil [/B]</name>
