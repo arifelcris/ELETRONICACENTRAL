@@ -39,6 +39,19 @@
 
 <channels>
 <channel>
+<name>[B]Arquivo X [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9urbLzuN9p55MjH4P2gE15Jo3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADA%20ARQUIVO%20X</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9urbLzuN9p55MjH4P2gE15Jo3.jpg</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] [COLOR lime]Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), dois agentes do FBI investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.[/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B] Ayrton Senna do Brasil [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6wsabKvyBN5trDKVcjJwU9gXAF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADA%20AYRTON%20SENNA</externallink>
