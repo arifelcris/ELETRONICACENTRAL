@@ -54,6 +54,19 @@ Em A Guarda do Leão, Kion torna-se responsável por assumir o comando do corpo 
 
 <channels>
 <channel>
+<name>[B] Os Croods (Dublado) [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iUL8WGXYnmpEPEVzg2gS0O4mHx.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20OS%20CROODS</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iUL8WGXYnmpEPEVzg2gS0O4mHx.jpg</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] [COLOR lime] Na época pré-histórica de Croodacious, a Mãe Natureza ainda fazia experiências, a fauna e a flora eram muito diferentes de hoje em dia. Neste cenário, um homem das cavernas, líder da sociedade local, deve enfrentar a concorrência com um gênio pré-histórico, descobridor do fogo.[/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B] Família Dinossauros (Dublado) [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sg2k91Mi5YPzRQdVm6hGAjzVC9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20FAM%C3%8DLIA%20DINOSSAUROS</externallink>
