@@ -58,13 +58,13 @@ https://canaisgratis.top/8ac1c7fc-80c4-4a40-8863-228a45e47f54
 
 <item>
 <title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=</link>
+<link>https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8|Referer=https://cometa.top//player3/canais.php?canal=animalplanet</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/discovery-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<link>https://cdnfe1.azureedge.net/hls1/discovery.m3u8|Referer=https://cometa.top//player3/canais.php?canal=discovery</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png</thumbnail>
 </item>
 
