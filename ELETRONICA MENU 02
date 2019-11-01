@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES [/COLOR] [COLOR lime]FULLHD - HD[/COLOR][/B]</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/John.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/ELETRONICA%20MENU%2003%20FILMES</externallink>
 <fanart>https://ia801400.us.archive.org/12/items/desenhos_201909/fime%20vingadores.png</fanart>
@@ -40,7 +40,7 @@ JOAÇABA S/C
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] SÉRIES [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] SÉRIES [/COLOR] [COLOR lime]FULLHD - HD[/COLOR][/B]</name>
 <thumbnail>https://ia801400.us.archive.org/12/items/desenhos_201909/series%20flash.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/ELETRONICA%20S%C3%89RIES%20ADULTOS</externallink>
 <fanart>https://ia801400.us.archive.org/12/items/desenhos_201909/series%20flash.png</fanart>
@@ -53,7 +53,7 @@ JOAÇABA S/C
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS / SÉRIES [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS / SÉRIES [/COLOR] [COLOR lime]FULLHD - HD[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzIRUlg3aJ2k9gr3LePeVnVwJXu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/ELETRONICA%20S%C3%89RIES%203</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gr2QyAB8TQdMKqi19qOJV2sx1t5.jpg</fanart>
@@ -68,7 +68,7 @@ JOAÇABA S/C
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS / FILMES [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS / FILMES [/COLOR] [COLOR lime]FULLHD - HD[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/devZdyPRXMiN8HHiX7Y8s0LLEee.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/ELETRONICA%20DESENHOS%202</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pddlVF5uTMJD6KUfPGciOTbJJzc.jpg</fanart>
@@ -82,7 +82,7 @@ JOAÇABA S/C
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS / FILMES 3D [/COLOR] [COLOR gold]HD[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS / FILMES 3D [/COLOR] [COLOR lime]FULLHD - HD[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqQNfP4TdhZMHcIMEgABW84rYmH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/ELETRONICA%20DESENHOS%203D</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kS8LHLxEOCMS4klWMm6djucNvE7.jpg</fanart>
