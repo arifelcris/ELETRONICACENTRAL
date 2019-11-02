@@ -19,7 +19,7 @@ item>
 <item>
 <title>[B][COLOR white] CANAL SONY [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/sony.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=sony&img=sony</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/sony.jpg</thumbnail>
 </item>
 
 <item>
@@ -31,7 +31,7 @@ item>
 item>
 <title>[B][COLOR white] FOX [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/fox.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=fox&img=fox</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/fox.jpg</thumbnail>
 </item>
 
 <item>
@@ -55,7 +55,7 @@ item>
 <item>
 <title>[B][COLOR white] HBO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/hbo.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hbo&img=hbo</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/hbo.jpg</thumbnail>
 </item>
 
 <item>
@@ -73,37 +73,37 @@ item>
 <item>
 <title>[B][COLOR white] HBO PLUS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/hboplus.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hboplus&img=hboplus</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/hboplus.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] HBO SIGNATURE [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hbosignature&img=hbosignature</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/hbosignature.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] MAX [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/max.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=max&img=max</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/max.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] MAX PRIME [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/maxprime.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=maxprime&img=maxprime</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/maxprime.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] MAX UP [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/maxup.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=maxup&img=maxup</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/maxup.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] MEGAPIX [/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/megapix.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=megapix&img=megapix</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/Megapix.jpg</thumbnail>
 </item>
 
 <item>
@@ -133,13 +133,13 @@ item>
 <item>
 <title>[B][COLOR white] TCM [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/tcm.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=tcm&img=tcm</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tcm.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/tcm.jpg</thumbnail>
 </item>
 
 item>
 <title>[B][COLOR white] TELECINE ACTION [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecineaction&img=telecineaction</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecineaction.jpg</thumbnail>
 </item>
 
 <item>
@@ -151,7 +151,7 @@ item>
 <item>
 <title>[B][COLOR white] TELECINE FUN [/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinefun&img=telecinefun</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecinefun.jpg</thumbnail>
 </item>
 
 <item>
@@ -163,13 +163,13 @@ item>
 <item>
 <title>[B][COLOR white] TELECINE PREMIUM [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinepremium&img=telecinepremium</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecinepremium.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TELECINE TOUCH [/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinetouch&img=telecinetouch</link>
-<thumbnail></thumbnail>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecinetouch.jpg</thumbnail>
 </item>
 
 <item>
