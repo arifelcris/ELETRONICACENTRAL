@@ -1,200 +1,197 @@
-
 item>
-<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/aie-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<title>[B][COLOR white] A&E [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/aie.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=aie&img=aie</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] AMC [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/amc.m3u8|Referer=https://cometa.top//player3/canais.php?canal=amc</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
 </item>
 
 item>
-<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/axn-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<title>[B][COLOR white] AXN [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/axn.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=axn&img=axn</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] CANAL SONY [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/sony.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=sony&img=sony</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] CINEMAX [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/cinemax.m3u8|Referer=https://cometa.top//player3/canais.php?canal=cinemax</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
 </item>
 
 item>
-<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/fox-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<title>[B][COLOR white] FOX [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/fox.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=fox&img=fox</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] FOX PREMIUM 1 [/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8|Referer=https://cometa.top//player3/canais.php?canal=foxpremium1</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] FOX PREMIUM 2 [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8|Referer=https://cometa.top//player3/canais.php?canal=foxpremium2</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] FX [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/fx.m3u8|Referer=https://cometa.top//player3/canais.php?canal=fx</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hbo-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] HBO [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/hbo.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hbo&img=hbo</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hbo2-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] HBO 2 [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/hbo2.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hbo2&img=hbo2</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hbofamily-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] HBO FAMILY [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/hbofamily.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hbofamily&img=hbofamily</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hboplus-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] HBO PLUS [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/hboplus.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hboplus&img=hboplus</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/hbosignature-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] HBO SIGNATURE [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hbosignature&img=hbosignature</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]MAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/max-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] MAX [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/max.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=max&img=max</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/maxprime-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] MAX PRIME [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/maxprime.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=maxprime&img=maxprime</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/maxup-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] MAX UP [/COLOR] [[/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/maxup.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=maxup&img=maxup</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/megapix-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] MEGAPIX [/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/megapix.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=megapix&img=megapix</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/paramount-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white]PARAMOUNT [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/paramount.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=paramount&img=paramount</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/sony-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png</thumbnail>
-</item>
-
 <item>
-<title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] SPACE [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/space.m3u8|Referer=https://cometa.top//player3/canais.php?canal=space</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/space.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] STUDIO UNIVERSAL [/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/studiouniversal.m3u8|Referer=https://cometa.top//player3/canais.php?canal=studiouniversal</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] SYFY [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/syfy.m3u8|Referer=https://cometa.top//player3/canais.php?canal=syfy</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white]TCM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/tcm-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<item>
+<title>[B][COLOR white] TCM [/COLOR]/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/tcm.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=tcm&img=tcm</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tcm.png</thumbnail>
 </item>
 
 item>
-<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecineaction-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<title>[B][COLOR white] TELECINE ACTION [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecineaction&img=telecineaction</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8|Referer=https://cometa.top//player3/canais.php?canal=telecinecult</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecinefun-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecinepipoca-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecinepremium-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://canal.cometa.top/hls1/telecinetouch-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<title>[B][COLOR white] TELECINE CULT [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinecult&img=telecinecult</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TELECINE FUN [/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinefun&img=telecinefun</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TELECINE PIPOCA [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/telecinepipoca.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinepipoca&img=telecinepipoca</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TELECINE PREMIUM [/COLOR] [/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinepremium&img=telecinepremium</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TELECINE TOUCH [/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinetouch&img=telecinetouch</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TNT [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/tnt.m3u8|Referer=https://cometa.top//player3/canais.php?canal=tnt</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TNT SÉRIES [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/tntseries.m3u8|Referer=https://cometa.top//player3/canais.php?canal=tntseries</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] UNIVERSAL CHANNEL [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/universal.m3u8|Referer=https://cometa.top//player3/canais.php?canal=universal</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]WARNER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] WARNER [/COLOR] [/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/warner.m3u8|Referer=https://cometa.top//player3/canais.php?canal=warner</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png</thumbnail>
 </item>
-
-
