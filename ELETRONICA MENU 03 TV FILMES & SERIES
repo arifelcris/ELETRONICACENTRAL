@@ -10,7 +10,7 @@
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] AXN [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/axn.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=axn&img=axn</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
@@ -28,7 +28,7 @@ item>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] FOX [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/fox.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=fox&img=fox</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/fox.jpg</thumbnail>
@@ -136,7 +136,7 @@ item>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/tcm.jpg</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] TELECINE ACTION [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecineaction&img=telecineaction</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecineaction.jpg</thumbnail>
