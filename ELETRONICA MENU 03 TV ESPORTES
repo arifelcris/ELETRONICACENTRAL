@@ -1,0 +1,132 @@
+<item>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/band.m3u8|Referer=https://cometa.top//player3/canais.php?canal=band</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/combate-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/discoveryturbo-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN+[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/espn.m3u8|Referer=https://cometa.top//player3/canais.php?canal=espn</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_plus.png</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/espnbrasil-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/sportv1.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white]ESPORTE INTERATIVO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/esporteinterativo2-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei2.png</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/foxsports1-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/foxsports2-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/sportv1.m3u8|Referer=https://cometa.top//player3/canais.php?canal=sportv1</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/sportv2.m3u8|Referer=https://cometa.top//player3/canais.php?canal=sportv2</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/sportv3.m3u8|Referer=https://cometa.top//player3/canais.php?canal=sportv3</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/premiereclubes.m3u8|Referer=https://cometa.top//player3/canais.php?canal=premiereclubes</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/premiere2.m3u8|Referer=https://cometa.top//player3/canais.php?canal=premiere2</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/premiere3.m3u8|Referer=https://cometa.top//player3/canais.php?canal=premiere3</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/premiere4.m3u8|Referer= https://cometa.top//player3/canais.php?canal=premiere4</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/premiere5.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=premiere5&img=premiere5</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/premiere6.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=premiere6&img=premiere6</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/premiere7.m3u8|Referer=https://cometa.top//player3/canais.php?canal=premiere7</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/premiere8-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://canal.cometa.top/hls1/premiere9-sd.m3u8|Referer=https://www.miceret.com/contador.php</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png</thumbnail>
+</item>
+
