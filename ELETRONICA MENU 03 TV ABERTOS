@@ -1,17 +1,18 @@
 <item>
-<title>[B][COLOR white] SBT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>AQUI|AQUI</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR white] RECORD [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>AQUI|AQUI</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record.png</thumbnail>
+<link>AQUI|Referer=AQUI</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUFEW0dD7liTlxQQLWGtCUys56Y_gDwtIu5Q8ccxx0EASrEjh7</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] REDE BANDEIRANTES [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>AQUI|Referer=AQUI</link>
-<thumbnail></thumbnail>
+<link>https://cdnfe1.azureedge.net/hls1/band.m3u8|Referer=https://cometa.top//player3/canais.php?canal=band</link>
+<thumbnail>https://i.pinimg.com/originals/74/ae/d8/74aed8843f43a46b63737f4451e337f0.png</thumbnail>
 </item>
+
+<item>
+<title>[B][COLOR white] SBT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/sbt.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=sbt&img=sbt</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
+</item>
+
