@@ -78,19 +78,6 @@
 
 <channels>
 <channel>
-<name>[B] Dois Homens e Meio [/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20DOIS%20HOMENS%20E%20MEIO</externallink>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIYCfkAylDQX5uHU8XV6MoyhH5V.jpg</fanart>
-<info>
-
-[COLOR deeppink]///[/COLOR] [COLOR lime] Charlie Harper é um solteirão no paraíso, dono de uma maravilhosa casa de praia em Malibú, um profissional muito bem pago pelo que faz e um namorador com vida extremamente ativa. Então, o seu tenso irmão, Alan, bem no meio de um complicado divórcio, se muda para a casa de Charlie - e trás com ele seu filho de 10 anos de idade, Jake. Desculpe Charlie, mas parece que seu paraíso simplesmente deixou de existir. [/COLOR] [COLOR deeppink]///[/COLOR]</info>
-</channel>
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[B] Chapolin Colorado [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/805oMXvqXqKbPzVkVNgywoxkC9a.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20CHAPOLIN%20COLORADO</externallink>
@@ -117,7 +104,20 @@
 
 <channels>
 <channel>
-<name>[B] Eu, a Patroa e as Crianças [/B]</name>
+<name>[B] Dois Homens e Meio [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20DOIS%20HOMENS%20E%20MEIO</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIYCfkAylDQX5uHU8XV6MoyhH5V.jpg</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] [COLOR lime] Charlie Harper é um solteirão no paraíso, dono de uma maravilhosa casa de praia em Malibú, um profissional muito bem pago pelo que faz e um namorador com vida extremamente ativa. Então, o seu tenso irmão, Alan, bem no meio de um complicado divórcio, se muda para a casa de Charlie - e trás com ele seu filho de 10 anos de idade, Jake. Desculpe Charlie, mas parece que seu paraíso simplesmente deixou de existir. [/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B] Eu a Patroa e as Crianças [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbP9C7qilXCBwEIXuUBd3vq3NAS.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbP9C7qilXCBwEIXuUBd3vq3NAS.jpg</fanart>
