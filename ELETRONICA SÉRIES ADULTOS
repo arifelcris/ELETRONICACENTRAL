@@ -39,7 +39,7 @@
 
 <channels>
 <channel>
-<name>[B]Arquivo X [/B]</name>
+<name>[B] Arquivo X [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9urbLzuN9p55MjH4P2gE15Jo3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADA%20ARQUIVO%20X</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9urbLzuN9p55MjH4P2gE15Jo3.jpg</fanart>
@@ -128,4 +128,16 @@
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[B] Fronteira [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20FRONTEIRA</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] [COLOR lime]  A luta caótica e violenta para controlar a riqueza e o poder no comércio de peles da América do Norte no final do século XVIII. Contada a partir de múltiplas perspectivas, A Fronteira ocorre em um mundo onde as negociações comerciais podem ser resolvidas com as lutas de machado de perto, e onde delicadas relações entre tribos nativas e europeus podem desencadear conflitos sangrentos. [/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
