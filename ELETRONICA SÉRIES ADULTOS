@@ -85,6 +85,20 @@
 
 <channels>
 <channel>
+<name>[B] Cara x Cara [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdlywBkTXMggOLKKBuOjOsNOtKM.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20CARA%20X%20CARA</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdlywBkTXMggOLKKBuOjOsNOtKM.jpg</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] [COLOR lime] A série é centrada em Billy McBride (Billy Bob Thornton), um advogado que um dia foi poderoso, mas acabou tornando-se uma sombra de si depois de perder um caso que culminou na morte de uma criança inocente. Ao recorrer ao álcool para aliviar sua culpa, McBride acaba perdendo a esposa e é expulso de sua firma de advocacia por Cooper, seu sócio. Quando vê a oportunidade de enfrentar Cooper em um caso, McBride começa a recuperar sua antiga ambição. [/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B] Chapolin Colorado [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/805oMXvqXqKbPzVkVNgywoxkC9a.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20CHAPOLIN%20COLORADO</externallink>
