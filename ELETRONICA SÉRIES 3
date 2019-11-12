@@ -71,7 +71,20 @@ Em A Guarda do Leão, Kion torna-se responsável por assumir o comando do corpo 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[B] Coelho Ricochete e Blau Blau [/B]</name>
+<name>[B] Cavalo de Fogo (Dublado) [/B]</name>
+<thumbnail>https://redecanais.rocks/player3/imgs-videos/RCServer08/imgs-videos/Cavalo%20de%20Fogo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20CAVALO%20DE%20FOGO</externallink>
+<fanart>https://redecanais.rocks/player3/imgs-videos/RCServer08/imgs-videos/Cavalo%20de%20Fogo.jpg</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] [COLOR lime] Wildfire é um desenho animado produzido por Hanna-Barbera em 1986. Foi originalmente exibido na rede de televisão norte-americana CBS em uma única temporada de 13 episódios, sendo transmitida de 13 setembro a 6 dezembro de 1986. No Brasil, foi exibido pelo SBT, também passando em outros países. [/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[B] Coelho Ricochete e Blau Blau (Dublado) [/B]</name>
 <thumbnail>https://redecanais.futbol/player3/imgs-videos/RCServer08/imgs-videos/Coelho%20Ricochete%20e%20Blau%20Blau.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20COELHO%20RICOCHETE%20E%20BLAU%20BLAU</externallink>
 <fanart>https://redecanais.futbol/player3/imgs-videos/RCServer08/imgs-videos/Coelho%20Ricochete%20e%20Blau%20Blau.jpg</fanart>
@@ -97,7 +110,7 @@ Em A Guarda do Leão, Kion torna-se responsável por assumir o comando do corpo 
 
 <channels>
 <channel>
-<name>[B] Kick Buttowski: Um Projeto de Dublê[/B]</name>
+<name>[B] Kick Buttowski: Um Projeto de Dublê (Dublado) [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/29nNP9wNeiD0q6a90XH78zniokc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20KICK%20BUTTOWSKI</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/29nNP9wNeiD0q6a90XH78zniokc.jpg</fanart>
