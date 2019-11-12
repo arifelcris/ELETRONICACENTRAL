@@ -120,7 +120,19 @@ Em A Guarda do Leão, Kion torna-se responsável por assumir o comando do corpo 
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[B] Formiga Atômica (Dublado) [/B]</name>
+<thumbnail>https://redecanais.rocks/player3/imgs-videos/RCServer08/imgs-videos/Formiga%20At%C3%B4mica.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ADDON-ELETRONICA/master/TEMPORADAS%20FORMIGA%20AT%C3%94MICA</externallink>
+<fanart>https://redecanais.rocks/player3/imgs-videos/RCServer08/imgs-videos/Formiga%20At%C3%B4mica.jpg</fanart>
+<info>
 
+[COLOR deeppink]///[/COLOR] [COLOR lime] A Formiga Atômica é um desenho animado de um super-herói criado por Hanna-Barbera em 1965. Seu nome pode ser derivado de adamantino, numa indicação de sua grande força. A Formiga Atômica tem sua base num formigueiro próximo da cidade, onde ela tem um computador do tipo mainframe e equipamentos de exercício. [/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
 <name>[B] Kick Buttowski: Um Projeto de Dublê (Dublado) [/B]</name>
