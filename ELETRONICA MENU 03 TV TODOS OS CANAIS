@@ -4,21 +4,6 @@
 <thumbnail>aqui</thumbnail>
 </item>
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 10" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2018/09/a-fazenda-10-2.jpg" group-title="CANAIS ABERTOS",A FAZENDA 10
-http://srvunion.com:8880/live/88522/2disp/15145.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA [Alternativo]" tvg-logo="https://pbs.twimg.com/profile_images/1034901637234675714/CdpuPLV3_400x400.jpg" group-title="CANAIS ABERTOS",A FAZENDA [Alternativo]
-http://srvunion.com:8880/live/88522/2disp/19441.ts
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://2.bp.blogspot.com/-yUr9gubW2eM/W0x5XN_HziI/AAAAAAAAH_0/zqjZiBx98mQai2htc9nmGyPg95iFzI66QCLcBGAs/s1600/oie_9h93eMxOf50E.jpg" group-title="FILMES E SÉRIES",A&E
-http://srvunion.com:8880/live/88522/2disp/8156.ts
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E [Alternativo]" tvg-logo="https://2.bp.blogspot.com/-yUr9gubW2eM/W0x5XN_HziI/AAAAAAAAH_0/zqjZiBx98mQai2htc9nmGyPg95iFzI66QCLcBGAs/s1600/oie_9h93eMxOf50E.jpg" group-title="FILMES E SÉRIES",A&E [Alternativo]
-http://srvunion.com:8880/live/88522/2disp/12719.ts
-
-
-
-
-
-
 <item>
 <title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/bandnews.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=bandnews&img=bandnews</link>
