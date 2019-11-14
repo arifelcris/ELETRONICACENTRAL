@@ -6,7 +6,7 @@
 
 <item>
 <title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/bandnews.m3u8|Referer=ttps://canaisgratis.org/player3/canais.php?canal=bandnews&img=bandnews</link>
+<link>https://cdnfe1.azureedge.net/hls1/bandnews.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=bandnews&img=bandnews</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/bandnews.jpg</thumbnail>
 </item>
 
