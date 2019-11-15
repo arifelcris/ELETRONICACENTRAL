@@ -1,4 +1,4 @@
-<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.2" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.ELETRONICACENTRAL"
        name="[COLOR white][B]ELETRÔNICA CENTRAL[/B][/COLOR]"
        version="1.1"
