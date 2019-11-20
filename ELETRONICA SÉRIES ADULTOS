@@ -208,12 +208,15 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B] Nosso Planeta [/B]</name>
-<link>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/TEMPORADAS%20NOSSO%20PLANETA</link>
+<channels>
+<channel>
+<name>[B] Nosso Planeta [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/imR6dHfuApFPYalreSuWQHeI17s.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/TEMPORADAS%20NOSSO%20PLANETA</link>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/imR6dHfuApFPYalreSuWQHeI17s.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:
-Experimente a beleza natural do nosso planeta e examine como as mudanças climáticas afetam todas as criaturas vivas neste documentário ambicioso e de alcance espetacular.[/B][/COLOR]</info>
-</item>
+<info>
 
+[COLOR deeppink]///[/COLOR] [COLOR lime] 
+Experimente a beleza natural do nosso planeta e examine como as mudanças climáticas afetam todas as criaturas vivas neste documentário ambicioso e de alcance espetacular. [/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
