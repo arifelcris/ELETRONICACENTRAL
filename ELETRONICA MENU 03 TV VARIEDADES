@@ -1,15 +1,20 @@
 <item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/J5WhofI.png</thumbnail>
+</item>
+<item>
 <title>[B][COLOR white] ARTE 1 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/arte1.m3u8|Referer=https://cometa.top//player3/canais.php?canal=arte1</link>
+<link>https://cdnfe1.azureedge.net/hls1/arte1.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=arte1</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/Arte1.jpg</thumbnail>
 </item>
 
 <item> 
 <title>[B][COLOR white] BIS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/bis.m3u8|Referer=https://cometa.top//player3/canais.php?canal=bis</link>
+<link>https://cdnfe1.azureedge.net/hls1/bis.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=bis</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/bis.jpg</thumbnail>
 </item>
-]
+
 <item>
 <title>[B][COLOR white] CANAL OFF [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/off.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=off&img=off</link>
@@ -18,25 +23,25 @@
 
 <item>
 <title>[B][COLOR white] COMEDY CENTRAL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/comedycentral.m3u8|Referer=https://cometa.top//player3/canais.php?canal=comedycentral</link>
+<link>https://cdnfe1.azureedge.net/hls1/comedycentral.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=comedycentral</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/comedycentral.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] CURTA! [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/curta.m3u8|Referer=https://cometa.top//player3/canais.php?canal=curta</link>
+<link>https://cdnfe1.azureedge.net/hls1/curta.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=curta</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/curta.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] DISCOVERY HOME&HEALTH [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8|Referer=https://cometa.top//player3/canais.php?canal=discoveryhomeihealth</link>
+<link>https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoveryhomeihealth</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/discoveryhomeihealth.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] DISCOVERY WORLD [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8|Referer=https://cometa.top//player3/canais.php?canal=discoveryworld</link>
+<link>https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoveryworld</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/discoveryworld.jpg</thumbnail>
 </item>
 
@@ -48,7 +53,7 @@
 
 <item>
 <title>[B][COLOR white] FISH TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/fishtv.m3u8|Referer=https://cometa.top//player3/canais.php?canal=fishtv</link>
+<link>https://cdnfe1.azureedge.net/hls1/fishtv.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=fishtv</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/fishtv.jpg</thumbnail>
 </item>
 
@@ -60,25 +65,25 @@
 
 <item>
 <title>[B][COLOR white] FOX LIFE [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/foxlife.m3u8|Referer=https://cometa.top//player3/canais.php?canal=foxlife</link>
+<link>https://cdnfe1.azureedge.net/hls1/foxlife.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=foxlife</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/foxlife.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] GNT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/gnt.m3u8|Referer=https://cometa.top//player3/canais.php?canal=gnt</link>
+<link>https://cdnfe1.azureedge.net/hls1/gnt.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=gnt</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/GNT.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] ID [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/investigacaodiscovery.m3u8|Referer=https://cometa.top//player3/canais.php?canal=investigacaodiscovery</link>
+<link>https://cdnfe1.azureedge.net/hls1/investigacaodiscovery.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=investigacaodiscovery</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/investigacaodiscovery.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] LIFETIME [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/lifetime.m3u8|Referer=https://cometa.top//player3/canais.php?canal=lifetime</link>
+<link>https://cdnfe1.azureedge.net/hls1/lifetime.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=lifetime</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/Lifetime.jpg</thumbnail>
 </item>
 
@@ -90,19 +95,19 @@
 
 <item>
 <title>[B][COLOR white] MTV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/mtv.m3u8|Referer=https://cometa.top//player3/canais.php?canal=mtv</link>
+<link>https://cdnfe1.azureedge.net/hls1/mtv.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=mtv</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] MULTISHOW [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/multishow.m3u8|Referer=https://cometa.top//player3/canais.php?canal=multishow</link>
+<link>https://cdnfe1.azureedge.net/hls1/multishow.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=multishow</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/multishow.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TLC [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/tlc.m3u8|Referer=https://cometa.top//player3/canais.php?canal=tlc</link>
+<link>https://cdnfe1.azureedge.net/hls1/tlc.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=tlc</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/tlc.jpg</thumbnail>
 </item>
 
@@ -111,7 +116,5 @@
 <link>https://cdnfe1.azureedge.net/hls1/viva.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=viva&img=viva</link>
 <thumbnail></thumbnail>
 </item>
-
-
 
 
