@@ -6,11 +6,11 @@
 
 <item>
 <title>[B][COLOR white] AMC [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/amc.m3u8|Referer=https://cometa.top//player3/canais.php?canal=amc</link>
+<link>https://cdnfe1.azureedge.net/hls1/amc.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=amc</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] AXN [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/axn.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=axn&img=axn</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png</thumbnail>
@@ -24,7 +24,7 @@
 
 <item>
 <title>[B][COLOR white] CINEMAX [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/cinemax.m3u8|Referer=https://cometa.top//player3/canais.php?canal=cinemax</link>
+<link>https://cdnfe1.azureedge.net/hls1/cinemax.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=cinemax</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
 </item>
 
@@ -36,19 +36,19 @@
 
 <item>
 <title>[B][COLOR white] FOX PREMIUM 1 [/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8|Referer=https://cometa.top//player3/canais.php?canal=foxpremium1</link>
+<link>https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=foxpremium1</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] FOX PREMIUM 2 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8|Referer=https://cometa.top//player3/canais.php?canal=foxpremium2</link>
+<link>https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=foxpremium2</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] FX [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/fx.m3u8|Referer=https://cometa.top//player3/canais.php?canal=fx</link>
+<link>https://cdnfe1.azureedge.net/hls1/fx.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=fx</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png</thumbnail>
 </item>
 
@@ -114,19 +114,19 @@
 
 <item>
 <title>[B][COLOR white] SPACE [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/space.m3u8|Referer=https://cometa.top//player3/canais.php?canal=space</link>
+<link>https://cdnfe1.azureedge.net/hls1/space.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=space</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/space.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] STUDIO UNIVERSAL [/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/studiouniversal.m3u8|Referer=https://cometa.top//player3/canais.php?canal=studiouniversal</link>
+<link>https://cdnfe1.azureedge.net/hls1/studiouniversal.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=studiouniversal</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] SYFY [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/syfy.m3u8|Referer=https://cometa.top//player3/canais.php?canal=syfy</link>
+<link>https://cdnfe1.azureedge.net/hls1/syfy.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=syfy</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png</thumbnail>
 </item>
 
@@ -174,24 +174,25 @@
 
 <item>
 <title>[B][COLOR white] TNT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/tnt.m3u8|Referer=https://cometa.top//player3/canais.php?canal=tnt</link>
+<link>https://cdnfe1.azureedge.net/hls1/tnt.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=tnt</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TNT SERIES [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/tntseries.m3u8|Referer=https://cometa.top//player3/canais.php?canal=tntseries</link>
+<link>https://cdnfe1.azureedge.net/hls1/tntseries.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=tntseries</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] UNIVERSAL CHANNEL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/universal.m3u8|Referer=https://cometa.top//player3/canais.php?canal=universal</link>
+<link>https://cdnfe1.azureedge.net/hls1/universal.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=universal</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] WARNER [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/warner.m3u8|Referer=https://cometa.top//player3/canais.php?canal=warner</link>
+<link>https://cdnfe1.azureedge.net/hls1/warner.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=warner</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png</thumbnail>
 </item>
+
