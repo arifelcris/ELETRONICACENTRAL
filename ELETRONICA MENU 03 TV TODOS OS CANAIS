@@ -433,7 +433,7 @@ item>
 
 <item>
 <title>[B][COLOR white] BOOMERANG [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/boomerang.m3u8|Referer= https://cometa.org//player3/canais.php?canal=boomerang</link>
+<link>https://cdnfe1.azureedge.net/hls1/boomerang.m3u8|Referer=https://cometa.org//player3/canais.php?canal=boomerang</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
 </item>
 
