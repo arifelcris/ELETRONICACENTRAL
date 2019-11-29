@@ -18,7 +18,7 @@
 
 <item>
 <title>[B][COLOR white] RECORD [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/recordsp.m3u8|Referer=https://redecanais.observer//player3/canais.php?canal=recordsp</link>
+<link>https://cdnfe1.azureedge.net/hls1/recordsp.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=recordsp&img=recordsp</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUFEW0dD7liTlxQQLWGtCUys56Y_gDwtIu5Q8ccxx0EASrEjh7</thumbnail>
 </item>
 
@@ -130,7 +130,7 @@
 
 <item>
 <title>[B][COLOR white] ESPN 2 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/espn2.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=espn2&img=espn2</link>
+<link>https://cdnfe1.azureedge.net/hls1/espn2.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=espn2&img=espn2</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/espn2.jpg</thumbnail>
 </item>
 
@@ -172,19 +172,19 @@
 
 <item>
 <title>[B][COLOR white] PREMIERE 4 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/premiere4.m3u8|Referer= https://cometa.top//player3/canais.php?canal=premiere4</link>
+<link>https://cdnfe1.azureedge.net/hls1/premiere4.m3u8|Referer= https://canaisgratis.org/player3/canais.php?canal=premiere4&img=premiere4</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/premiere4.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] PREMIERE 5 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/premiere5.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=premiere5&img=premiere5</link>
+<link>https://cdnfe1.azureedge.net/hls1/premiere5.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=premiere5&img=premiere5</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/premiere5.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] PREMIERE 6 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/premiere6.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=premiere6&img=premiere6</link>
+<link>https://cdnfe1.azureedge.net/hls1/premiere6.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=premiere6&img=premiere6</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/premiere6.jpg</thumbnail>
 </item>
 
@@ -227,7 +227,7 @@
 
 <item>
 <title>[B][COLOR white] A&E [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/aie.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=aie&img=aie</link>
+<link>https://cdnfe1.azureedge.net/hls1/aie.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=aie&img=aie</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png</thumbnail>
 </item>
 
@@ -245,7 +245,7 @@ item>
 
 <item>
 <title>[B][COLOR white] CANAL SONY [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/sony.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=sony&img=sony</link>
+<link>https://cdnfe1.azureedge.net/hls1/sony.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=sony&img=sony</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/sony.jpg</thumbnail>
 </item>
 
@@ -257,12 +257,12 @@ item>
 
 <item>
 <title>[B][COLOR white] FOX [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/fox.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=fox&img=fox</link>
+<link>https://cdnfe1.azureedge.net/hls1/fox.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=fox&img=fox</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/fox.jpg</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] FOX PREMIUM 1 [/COLOR][/B]</title>
+<title>[B][COLOR white] FOX PREMIUM 1 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=foxpremium1</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png</thumbnail>
 </item>
@@ -281,13 +281,13 @@ item>
 
 <item>
 <title>[B][COLOR white] HBO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/hbo.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hbo&img=hbo</link>
+<link>https://cdnfe1.azureedge.net/hls1/hbo.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=hbo&img=hbo</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/hbo.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] HBO 2 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/hbo2.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hbo2&img=hbo2</link>
+<link>https://cdnfe1.azureedge.net/hls1/hbo2.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=hbo2&img=hbo2</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png</thumbnail>
 </item>
 
@@ -299,43 +299,43 @@ item>
 
 <item>
 <title>[B][COLOR white] HBO PLUS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/hboplus.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hboplus&img=hboplus</link>
+<link>https://cdnfe1.azureedge.net/hls1/hboplus.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=hboplus&img=hboplus</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/hboplus.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] HBO SIGNATURE [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=hbosignature&img=hbosignature</link>
+<link>https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=hbosignature&img=hbosignature</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/hbosignature.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] MAX [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/max.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=max&img=max</link>
+<link>https://cdnfe1.azureedge.net/hls1/max.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=max&img=max</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/max.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] MAX PRIME [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/maxprime.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=maxprime&img=maxprime</link>
+<link>https://cdnfe1.azureedge.net/hls1/maxprime.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=maxprime&img=maxprime</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/maxprime.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] MAX UP [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/maxup.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=maxup&img=maxup</link>
+<link>https://cdnfe1.azureedge.net/hls1/maxup.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=maxup&img=maxup</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/maxup.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] MEGAPIX [/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/megapix.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=megapix&img=megapix</link>
+<link>https://cdnfe1.azureedge.net/hls1/megapix.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=megapix&img=megapix</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/Megapix.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]PARAMOUNT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/paramount.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=paramount&img=paramount</link>
+<link>https://cdnfe1.azureedge.net/hls1/paramount.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=paramount&img=paramount</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png</thumbnail>
 </item>
 
@@ -359,43 +359,43 @@ item>
 
 <item>
 <title>[B][COLOR white] TCM [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/tcm.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=tcm&img=tcm</link>
+<link>https://cdnfe1.azureedge.net/hls1/tcm.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=tcm&img=tcm</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/tcm.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TELECINE ACTION [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecineaction&img=telecineaction</link>
+<link>https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=telecineaction&img=telecineaction</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecineaction.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TELECINE CULT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinecult&img=telecinecult</link>
+<link>https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=telecinecult&img=telecinecult</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TELECINE FUN [/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinefun&img=telecinefun</link>
+<link>https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8|Referer=https://redecanais.observer//player3/canais.php?canal=telecinefun</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecinefun.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TELECINE PIPOCA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/telecinepipoca.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinepipoca&img=telecinepipoca</link>
+<link>https://cdnfe1.azureedge.net/hls1/telecinepipoca.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=telecinepipoca&img=telecinepipoca</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TELECINE PREMIUM [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinepremium&img=telecinepremium</link>
+<link>https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=telecinepremium&img=telecinepremium</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecinepremium.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TELECINE TOUCH [/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=telecinetouch&img=telecinetouch</link>
+<link>https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=telecinetouch&img=telecinetouch</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecinetouch.jpg</thumbnail>
 </item>
 
@@ -433,49 +433,49 @@ item>
 
 <item>
 <title>[B][COLOR white] BOOMERANG [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/boomerang.m3u8|Referer= https://cometa.top//player3/canais.php?canal=boomerang</link>
+<link>https://cdnfe1.azureedge.net/hls1/boomerang.m3u8|Referer= https://cometa.org//player3/canais.php?canal=boomerang</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] CARTOON NETWORK [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/cartoon.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=cartoon&img=cartoon</link>
+<link>https://cdnfe1.azureedge.net/hls1/cartoon.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=cartoon&img=cartoon</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/cartoon.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] DISCOVERY KIDS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/discoverykids.m3u8https://cometa.top//player3/canais.php?canal=discoverykids|Referer=https://www.miceret.com/contador.php</link>
+<link>https://cdnfe1.azureedge.net/hls1/discoverykids.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoverykids&img=discoverykids</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/DiscoveryKids.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] DISNEY CHANNEL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/disney.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=disney&img=disney</link>
+<link>https://cdnfe1.azureedge.net/hls1/disney.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=disney&img=disney</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] DISNEY JUNIOR [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/disneyjunior.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=disneyjunior&img=disneyjunior</link>
+<link>https://cdnfe1.azureedge.net/hls1/disneyjunior.m3u8|Referer=https://redecanais.observer//player3/canais.php?canal=disneyjunior</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISNEY XD [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/disneyxd.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=disneyxd&img=disneyxd</link>
+<link>https://cdnfe1.azureedge.net/hls1/disneyxd.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=disneyxd&img=disneyxd</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] GLOOB [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/gloob.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=gloob&img=gloob</link>
+<link>https://cdnfe1.azureedge.net/hls1/gloob.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=gloob&img=gloob</link>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/gloob.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] NAT GEO KIDS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link> https://cdnfe1.azureedge.net/hls1/natgeokids.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=natgeokids&img=natgeokids</link>
+<link>https://cdnfe1.azureedge.net/hls1/natgeokids.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=natgeokids&img=natgeokids</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -487,19 +487,19 @@ item>
 
 <item>
 <title>[B][COLOR white] NICKELODEON [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/nick.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=nick&img=nick</link>
+<link>https://cdnfe1.azureedge.net/hls1/nick.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=nick&img=nick</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] TOONCAST [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/tooncast.m3u8|https://canaisgratis.top/player3/canais.php?canal=tooncast&img=tooncast</link>
+<link>https://cdnfe1.azureedge.net/hls1/tooncast.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=tooncast&img=tooncast</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] ZOOMOO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/zoomoo.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=zoomoo&img=zoomoo</link>
+<link>https://cdnfe1.azureedge.net/hls1/zoomoo.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=zoomoo&img=zoomoo</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -522,7 +522,7 @@ item>
 
 <item>
 <title>[B][COLOR white] CANAL OFF [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/off.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=off&img=off</link>
+<link>https://cdnfe1.azureedge.net/hls1/off.m3u8|Referer=https://redecanais.observer//player3/canais.php?canal=off</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -552,7 +552,7 @@ item>
 
 <item>
 <title>[B][COLOR white] E!ENTERTAINMENT TELEVISION [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/canale.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=canale&img=canale</link>
+<link>https://cdnfe1.azureedge.net/hls1/canale.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=canale&img=canale</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -564,7 +564,7 @@ item>
 
 <item>
 <title>[B][COLOR white] FOOD NETWORK [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=foodnetwork&img=foodnetwork</link>
+<link>https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=foodnetwork&img=foodnetwork</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/foodnetwork.jpg</thumbnail>
 </item>
 
@@ -594,7 +594,7 @@ item>
 
 <item>
 <title>[B][COLOR white] MAIS GLOBOSAT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=foodnetwork&img=foodnetwork</link>
+<link>https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=foodnetwork&img=foodnetwork</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/maisglobosat.jpg</thumbnail>
 </item>
 
@@ -618,6 +618,6 @@ item>
 
 <item>
 <title>[B][COLOR white] VIVA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/viva.m3u8|Referer=https://canaisgratis.top/player3/canais.php?canal=viva&img=viva</link>
+<link>https://cdnfe1.azureedge.net/hls1/viva.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=viva&img=viva</link>
 <thumbnail></thumbnail>
 </item>
