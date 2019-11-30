@@ -42,7 +42,8 @@
 
 <item>
 <title>[B][COLOR white] JOVEN PAN [/COLOR] [/B]</title>
-<link>https://youtu.be/97WrE4FWyVI</link>
+link>https://youtu.be/97WrE4FWyVI</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL https://youtu.be/97WrE4FWyVI$$lsname=[COLOR lime]FULLHD[/COLOR] </link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jovem_Pan_FM_logo.svg/1200px-Jovem_Pan_FM_logo.svg.png</thumbnail>
 </item>
 
