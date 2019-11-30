@@ -71,6 +71,12 @@
 </item>
    
 <item>
+<title>[B][COLOR white] SÉCULO 21 [/COLOR] [/B]</title>
+<link>https://www.rs21.com.br/ao-vivo/</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC3oDHU1dR52j86hay0JCoNzYuhzQf7E6mJUAZGD0mo2toFT06</thumbnail>
+</item>   
+   
+<item>
 <title>[B][COLOR white] SBT [/COLOR] [/B]</title>
 <link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w342679154_b216000_sleng.m3u8</link>
 <thumbnail><thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail></thumbnail>
@@ -113,6 +119,12 @@
 </item>
 
 <item>
+<title>[B][COLOR white] TV MUNDO MAIOR [/COLOR] [/B]</title>
+<link>https://tvmundomaior.com.br/assista-ao-vivo-tv-mundo-maior/</link>
+<thumbnail>https://amigosdaboanova.com.br/wp-content/uploads/2016/11/logo-tv-mundo-maior.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] TV SENADO [/COLOR] [/B]</title>
 <link>https://www.youtube.com/watch?v=UHTfVKlRS-0&feature=youtu.be</link>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l788MUrwN9sWRSr7K7XAoX2eXJLZ3LLEqk7tuA=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
@@ -123,4 +135,3 @@
 <link>https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1346466590.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png</thumbnail>
 </item>
-
