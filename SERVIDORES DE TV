@@ -6,10 +6,10 @@
 <fanart>https://www.appsgeyser.com/geticon.php?widget=redecanais_3958599&width=512</fanart>
 <info>ELETRÔNICA CENTRAL</info>
 </channel>
-<channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-</channel>
+</channels>
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR white] SERVIDOR 2 [/COLOR] [/B]</name>
 <thumbnail>https://i.imgur.com/FHvlVK6.jpg</thumbnail>
@@ -17,10 +17,10 @@
 <fanart></fanart>
 <info>ELETRÔNICA CENTRAL</info>
 </channel>
-<channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-</channel>
+</channels>
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR white] SERVIDOR 3 [/COLOR] [/B]</name>
 <thumbnail></thumbnail>
@@ -28,4 +28,4 @@
 <fanart></fanart>
 <info>ELETRÔNICA CENTRAL</info>
 </channel>
-<channels>
+</channels>
