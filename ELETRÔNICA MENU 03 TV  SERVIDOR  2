@@ -41,10 +41,22 @@
 </item> 
 
 <item>
-<title>[B][COLOR white] JOVEN PAN (You Tube [/COLOR] [/B]</title>
-<link>https://www.youtube.com/watch?v=sn5nQLsUBCU&feature=youtu.be</link>
+<title>[B][COLOR white] JOVEN PAN (You Tube) [/COLOR] [/B]</title>
+<link>https://www.youtube.com/|Referer=https://www.youtube.com/watch?v=sn5nQLsUBCU&feature=youtu.be</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jovem_Pan_FM_logo.svg/1200px-Jovem_Pan_FM_logo.svg.png</thumbnail>
 </item>
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/bandnews.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=bandnews&img=bandnews</link>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/bandnews.jpg</thumbnail>
+</item>
+
+
+
+
+
+
 
 <item>
 <title>[B][COLOR white] RECORD TV [/COLOR] [/B]</title>
