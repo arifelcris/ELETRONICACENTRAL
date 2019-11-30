@@ -5,8 +5,14 @@
 </item>
 
 <item>
+<title>[B][COLOR white]BANDEIRANTES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/band.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=band&img=band</link>
+<thumbnail>https://canaisgratis.org/player3/imgs-videos/Canais/Band.jpg</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://www.youtube.com/watch?v=SmP31GYACvI&feature=youtu.be</link>
+<link>https://cdnfe1.azureedge.net/hls1/bandnews.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=bandnews&img=bandnews</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/bandnews.jpg</thumbnail>
 </item>
 
