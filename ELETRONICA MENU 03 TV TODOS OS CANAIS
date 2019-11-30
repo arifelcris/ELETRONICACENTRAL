@@ -16,18 +16,6 @@
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/Band.jpg</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] CULTURA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title> 
-<link>http://www.assistirtvonlinegratis.com.br/tvonline/tv-cultura/</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4dbL9HJZ__meV-ZJTcKLbYMhZo4DmGQNhb50krngBFEZkaRvA</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white] GAZETA TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title> 
-<link>https://www.tvgazeta.com.br/aovivo/</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvYrnz_5S0lKlRs0MsuILz9BGon_64xgXzYjD3wmR4PMAvVedn</thumbnail>
-</item>
-
 <item>
 <title>[B][COLOR white] RECORD [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/recordsp.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=recordsp&img=recordsp</link>
@@ -41,21 +29,9 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] REDE TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1030574200.m3u8</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQomwlSPglR1lxtM49IVgDldwWgtBx0H_yL2XgUXQg6yvP1unx</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR white] SBT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/sbt.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=sbt&img=sbt</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white] TV ESCOLA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://www.assistirtvonlinegratis.com.br/tvonline/tv-escola/</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXHbpG8qjbdXz06IuJtLNROvPwzno0lX5cKvOhQR7lezNGOje1</thumbnail>
 </item>
 
 <item>
