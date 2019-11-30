@@ -17,15 +17,27 @@
 </item>
 
 <item>
+<title>[B][COLOR white] GAZETA TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title> 
+<link>https://www.tvgazeta.com.br/aovivo/</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvYrnz_5S0lKlRs0MsuILz9BGon_64xgXzYjD3wmR4PMAvVedn</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] RECORD [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/recordsp.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=recordsp&img=recordsp</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUFEW0dD7liTlxQQLWGtCUys56Y_gDwtIu5Q8ccxx0EASrEjh7</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] RECOR NEWS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] RECORD NEWS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/recordnews.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=recordnews&img=recordnews</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/recordnews.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] REDE TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://www.redetv.uol.com.br/aovivo/</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQomwlSPglR1lxtM49IVgDldwWgtBx0H_yL2XgUXQg6yvP1unx</thumbnail>
 </item>
 
 <item>
@@ -106,8 +118,8 @@
 
 <item>
 <title>[B][COLOR white] BAND SPORTS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/band.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=band</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/bandsports.jpg</thumbnail>
+<link>https://cdnfe1.azureedge.net/hls1/bandsports.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=bandsports&img=bandsports</link>
+<thumbnail>https://canaisgratis.org/player3/imgs-videos/Canais/bandsports.jpg</thumbnail>
 </item>
 
 <item>
