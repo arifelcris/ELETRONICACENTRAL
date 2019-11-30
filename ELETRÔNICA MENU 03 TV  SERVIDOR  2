@@ -42,7 +42,7 @@
 
 <item>
 <title>[B][COLOR white] JOVEN PAN ...(You Tube) [/COLOR] [/B]</title>
-<link>https://www.youtube.com|Referer=https://www.youtube.com/watch?v=SmP31GYACvI</link>
+<link>https://www.youtube.com/service_ajax?name=updatedMetadataEndpoint|Referer=https://www.youtube.com/watch?v=SmP31GYACvI</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jovem_Pan_FM_logo.svg/1200px-Jovem_Pan_FM_logo.svg.png</thumbnail>
 </item>
 
