@@ -54,7 +54,7 @@ item>
 
 <item>
 <title>[B][COLOR white] RECORD TV [/COLOR] [/B]</title>
-<link>https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8</link>
+<link>https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-b.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUFEW0dD7liTlxQQLWGtCUys56Y_gDwtIu5Q8ccxx0EASrEjh7</thumbnail>
 </item>
 
@@ -85,7 +85,7 @@ item>
 <item>
 <title>[B][COLOR white] SBT [/COLOR] [/B]</title>
 <link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w342679154_b216000_sleng.m3u8</link>
-<thumbnail><thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
 </item>
 
 <item>
