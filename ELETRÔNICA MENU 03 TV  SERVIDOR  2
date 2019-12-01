@@ -24,7 +24,7 @@
 
 <item>
 <title>[B][COLOR white] CANAL FUTURA [/COLOR] [/B]</title>
-<link>http://caikron.com.br:1935/unipar/tvup/chunklist_w531992788.m3u8</link>
+<link>http://caikron.com.br:1935/unipar/tvup/chunklist_w1949029073.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPj0rN68oo1JF4xv_8UlHNxJJ0FqjryROH8gvmn_JpQmp6jg3c</thumbnail>
 </item>
 
@@ -40,19 +40,13 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ-tHGXotNQUIZV0Vcc-c-1JST6K6D4jlKCpLtPp0HTeMu5pA5</thumbnail>
 </item> 
 
-<item>
+item>
 <title>[B][COLOR white] CINE MAIS [/COLOR] [/B]</title>
 <link>https://www.google-analytics.com/csi/batch|Referer=https://sba1.com/aovivo/cinemais</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQa9B7lKSHWp_psFqd_A4AR75yFMYkiH-cMbmUtIDvAvzcX5PxB</thumbnail>
 </item> 
 
-<item>
-<title>[B][COLOR white] FUTURA [/COLOR] [/B]</title>
-<link>http://www.futuraplay.org/?ref=FuturaORG</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1UaVQ9Y_edQpNbkCoHWIUStlVb5BSvxFoSRyETvLoJIhbeRdE</thumbnail>
-</item>
-
-<item>
+item>
 <title>[B][COLOR white] JOVEN PAN te(You Tube) [/COLOR] [/B]</title>
 <link>http://www.youtube.com/c/jovempannews|Referer=https://www.youtube.com/watch?v=SmP31GYACvI</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jovem_Pan_FM_logo.svg/1200px-Jovem_Pan_FM_logo.svg.png</thumbnail>
@@ -60,7 +54,7 @@
 
 <item>
 <title>[B][COLOR white] RECORD TV [/COLOR] [/B]</title>
-<link>https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on</link>
+<link>https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUFEW0dD7liTlxQQLWGtCUys56Y_gDwtIu5Q8ccxx0EASrEjh7</thumbnail>
 </item>
 
@@ -82,7 +76,7 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoHJU8drz_mpE_20Bdx4q41YxKgUbYuow3ddpthxo794cRjK4M</thumbnail>
 </item>
    
-<item>
+item>
 <title>[B][COLOR white] SÉCULO 21 [/COLOR] [/B]</title>
 <link>https://www.rs21.com.br/ao-vivo/</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC3oDHU1dR52j86hay0JCoNzYuhzQf7E6mJUAZGD0mo2toFT06</thumbnail>
@@ -118,7 +112,7 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4LJmOhUVEUv0yEzNOiJJ3LxDfdl-QbkTt0Xqr_BiCrfvVAeKh</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] TV ESCOLA [/COLOR] [/B]</title>
 <link>https://tvescola.org.br/assista/</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1vj1OQ7_YBsusBKN3oAFORQJwl_haEtT3Eek617fS8tmxo99o</thumbnail>
@@ -130,25 +124,25 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTP896kZF1_HXMrGSun8AXANnaVgMY2x5CnXWqe9QlUisyREMBR</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] TV JUSTIÇA [/COLOR] [/B]</title>
 <link>https://www.youtube.com/watch?v=7BpnxRFR76s&feature=youtu.be</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmdQCrh8oJaEQ3655_b1SueCBPv5HcERG6YXY6_ACYSEAm1LjY</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] TV MUNDO MAIOR [/COLOR] [/B]</title>
 <link>https://tvmundomaior.com.br/assista-ao-vivo-tv-mundo-maior/</link>
 <thumbnail>https://amigosdaboanova.com.br/wp-content/uploads/2016/11/logo-tv-mundo-maior.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] TV NOVO TEMPO [/COLOR] [/B]</title>
 <link>http://novotempo.com/tv/aovivo/</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRY-TtFd_3BBFBkbxp5CvRe7kIonHBQAVDM_JLyxQ-e7WuJ0du0</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] TV SENADO [/COLOR] [/B]</title>
 <link>https://www.youtube.com/watch?v=UHTfVKlRS-0&feature=youtu.be</link>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l788MUrwN9sWRSr7K7XAoX2eXJLZ3LLEqk7tuA=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
