@@ -7,13 +7,13 @@
 <item>
 <title>[B][COLOR white]BANDEIRANTES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/band.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=band&img=band</link>
-<thumbnail>https://canaisgratis.org/player3/imgs-videos/Canais/Band.jpg</thumbnail>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/BAND.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/bandnews.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=bandnews&img=bandnews</link>
-<thumbnail>https://drive.google.com/open?id=1gxLrPYDfjAmNkLEtMKYi8mGhldEz7NmU</thumbnail>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Band%20News.jpg</thumbnail>
 </item>
 
 <item>
@@ -25,7 +25,7 @@
 <item>
 <title>[B][COLOR white] RECORD NEWS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/recordnews.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=recordnews&img=recordnews</link>
-<thumbnail>https://drive.google.com/open?id=17jnNBGDKSRmfKf1qwogKhunNIc1e3qZE</thumbnail>
+<thumbnail>https://ia601409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Record%20News.png</thumbnail>
 </item>
 
 <item>
@@ -33,6 +33,8 @@
 <link>https://cdnfe1.azureedge.net/hls1/sbt.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=sbt&img=sbt</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
 </item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]DOCUMENTÁRIOS[/COLOR][/B]</title>
@@ -43,58 +45,76 @@
 <item>
 <title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=animalplanet&img=animalplanet</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png</thumbnail>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Animal%20Planet.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/discovery.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discovery&img=discovery</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/discovery.jpg</thumbnail>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/discoverycivilization.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoverycivilization&img=discoverycivilization</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/discoverycivilization.jpg</thumbnail>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery%20Civilizacao.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] DISCOVERY HOME&HEALTH [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoveryhomeihealth</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/discoverysience.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoverysience&img=discoverysience</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/discoverysience.jpg</thumbnail>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery%20ciencia.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/discoverytheater.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoverytheater&img=discoverytheater</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_theater.png</thumbnail>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery%20Theater.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] DISCOVERY TURBO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/discoveryturbo.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoveryturbo</link>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/DiscoveryTurbo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] DISCOVERY WORLD [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoveryworld</link>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery%20Word.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/history.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=history</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/history.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]HISTORY 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/history2.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=history2</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png</thumbnail>
+<thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/History%202.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/natgeo.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=natgeo</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/natgeowild.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=natgeowild</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]ESPORTES[/COLOR][/B]</title>
@@ -111,13 +131,7 @@
 <item>
 <title>[B][COLOR white] COMBATE [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/combate.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=combate</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/combate.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] DISCOVERY TURBO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/discoveryturbo.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoveryturbo</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/discoveryturbo.jpg</thumbnail>
+<thumbnail>https://ia601409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Combat.jpg</thumbnail>
 </item>
 
 <item>
@@ -129,13 +143,13 @@
 <item>
 <title>[B][COLOR white] ESPN 2 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/espn2.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=espn2&img=espn2</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/espn2.jpg</thumbnail>
+<thumbnail>https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] ESPN BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=espnbrasil&img=espnbrasil</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/espnbrasil.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png</thumbnail>
 </item>
 
 <item>
@@ -216,6 +230,7 @@
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/SporTV3.jpg</thumbnail>
 </item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]FILMES & SÉRIES[/COLOR][/B]</title>
@@ -332,7 +347,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white]PARAMOUNT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] PARAMOUNT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/paramount.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=paramount&img=paramount</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png</thumbnail>
 </item>
@@ -404,7 +419,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] TNT SERIES [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TNT SÉRIES [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/tntseries.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=tntseries</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png</thumbnail>
 </item>
@@ -421,7 +436,7 @@ item>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png</thumbnail>
 </item>
 
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]INFANTIL[/COLOR][/B]</title>
@@ -501,11 +516,14 @@ item>
 <thumbnail></thumbnail>
 </item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/J5WhofI.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white] ARTE 1 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/arte1.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=arte1</link>
@@ -537,19 +555,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] DISCOVERY HOME&HEALTH [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoveryhomeihealth</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/discoveryhomeihealth.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] DISCOVERY WORLD [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discoveryworld</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/discoveryworld.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] E!ENTERTAINMENT TELEVISION [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] ENTERTAINMENT TELEVISION [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cdnfe1.azureedge.net/hls1/canale.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=canale&img=canale</link>
 <thumbnail></thumbnail>
 </item>
@@ -619,4 +625,3 @@ item>
 <link>https://cdnfe1.azureedge.net/hls1/viva.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=viva&img=viva</link>
 <thumbnail></thumbnail>
 </item>
-
