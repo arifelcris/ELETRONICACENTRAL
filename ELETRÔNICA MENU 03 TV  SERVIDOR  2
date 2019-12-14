@@ -187,25 +187,25 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] DISCOVERY CHANNEL [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/discovery.m3u8|Referer=http://fotodicas.com/canal/discovery-channel/1/</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery.jpg</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR white]DISCOVERY HOME&HEALTH [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<item> 
+<title>[B][COLOR white] DISCOVERY HOME & HEALTH [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryhomeihealth.m3u8|Referer=http://fotodicas.com/canal/discovery-home-health/1/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white]DISCOVERY SCIENCE [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoverysience.m3u8|Referer=http://fotodicas.com/canal/discovery-science/1/</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery%20ciencia.jpg</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] DISCOVERY THEATER [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoverytheater.m3u8|Referer=http://fotodicas.com/canal/discovery-theater/1/</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery%20Theater.jpg</thumbnail>
 </item>
@@ -249,7 +249,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] ALL SPORTS DF [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] ALL SPORTS DF [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://173.236.10.10:1935/dgrau/dgrau/chunklist_w1197127082.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -291,6 +291,12 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR white] FISH TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://tvnanet.xyz:25461/live/palmeiras/1986/76.m3u8</link>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/fishtv.jpg</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] FOX SPORTS [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxsports1.m3u8|Referer=http://fotodicas.com/canal/fox-sports/1/</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/foxsports1.jpg</thumbnail>
@@ -303,7 +309,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] PFC PREMIERE  [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] PREMIERE CLUBES  [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiereclubes.m3u8|Referer=http://fotodicas.com/canal/pfc-premiere/1/</link>
 <thumbnail></thumbnail>
 </item>
@@ -359,6 +365,12 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR white] COMEDY CENTRAL [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/comedycentral.m3u8|Referer=http://fotodicas.com/canal/comedy-central/1/</link>
+<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/comedycentral.jpg</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] CINEMAX [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/cinemax.m3u8|Referer=http://fotodicas.com/canal/cinemax/1/</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png</thumbnail>
@@ -368,6 +380,12 @@ item>
 <title>[B][COLOR white] FOX [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/fox.m3u8|Referer=http://fotodicas.com/canal/fox/1/</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/fox.jpg</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white] FOX LIFE [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/foxlife.m3u8|Referer=http://fotodicas.com/canal/fox-life/1/</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -419,6 +437,12 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR white] INVESTIGAÇÃO DISCOVERY [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/investigacaodiscovery.m3u8|Referer=http://fotodicas.com/canal/investigacao-discovery/1/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] MAX [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/max.m3u8|Referer=http://fotodicas.com/canal/max/1/</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/max.jpg</thumbnail>
@@ -437,7 +461,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] MEGAPIX [/COLOR][/B]</title>
+<title>[B][COLOR white] MEGAPIX [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/megapix.m3u8|Referer=http://fotodicas.com/canal/megapix/1/</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/Megapix.jpg</thumbnail>
 </item>
@@ -455,7 +479,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] STUDIO UNIVERSAL [/COLOR][/B]</title>
+<title>[B][COLOR white] STUDIO UNIVERSAL [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/studiouniversal.m3u8|Referer=http://fotodicas.com/canal/studio-Universal/1/</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png</thumbnail>
 </item>
@@ -466,8 +490,14 @@ item>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png</thumbnail>
 </item>
 
+item>
+<title>[B][COLOR white] TBS [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/tnt.m3u8|Referer=http://fotodicas.com/canal/tnt/1/</link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
-<title>[B][COLOR white] TCM [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] TCM [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://tvnanet.xyz:25461/live/palmeiras/1986/237.m3u8</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/tcm.jpg</thumbnail>
 </item>
@@ -485,7 +515,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] TELECINE FUN [/COLOR][/B]</title>
+<title>[B][COLOR white] TELECINE FUN [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinefun.m3u8|Referer=http://fotodicas.com/canal/telecine-fun/1/</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecinefun.jpg</thumbnail>
 </item>
@@ -503,7 +533,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] TELECINE TOUCH [/COLOR][/B]</title>
+<title>[B][COLOR white] TELECINE TOUCH [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinetouch.m3u8|Referer=http://fotodicas.com/canal/telecine-touch/1/</link>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/telecinetouch.jpg</thumbnail>
 </item>
@@ -535,7 +565,7 @@ item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]INFANTIL[/COLOR][/B]</title>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime] INFANTIL [/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
 </item>
@@ -571,7 +601,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white]DISNEY XD [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] DISNEY XD [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/disneyxd.m3u8|Referer=http://fotodicas.com/canal/disney-xd/1/</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png</thumbnail>
 </item>
@@ -607,7 +637,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] TV RA TIM BUM [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV RÁ TIM BUM [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://mj1b2xsspj.singularcdn.net.br/encompass/TVRaTimBum/master_Layer4.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -633,7 +663,7 @@ item>
 </item>
 
 <item> 
-<title>[B][COLOR white] CANALCURTA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] CANAL CURTA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/curta.m3u8|Referer=http://fotodicas.com/canal/curta!/1/</link>
 <thumbnail></thumbnail>
 </item>
@@ -645,27 +675,16 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] COMEDY CENTRAL [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/comedycentral.m3u8|Referer=http://fotodicas.com/canal/comedy-central/1/</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/comedycentral.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] CURTA! [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/curta.m3u8|Referer=http://fotodicas.com/canal/curta!/1/</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/curta.jpg</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white] ENTERTAINMENT TELEVISION [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/canale.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=canale&img=canale</link>
+<title>[B][COLOR white] CANAL VIVA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/viva.m3u8|Referer=http://fotodicas.com/canal/canal-viva/1/</link>
 <thumbnail></thumbnail>
 </item>
 
+
 <item>
-<title>[B][COLOR white] FISH TV [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>http://tvnanet.xyz:25461/live/palmeiras/1986/76.m3u8</link>
-<thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/fishtv.jpg</thumbnail>
+<title>[B][COLOR white] E! ENTERTAINMENT  [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/canale.m3u8|Referer=http://fotodicas.com/canal/ei/1/</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -711,8 +730,14 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] MUSIC BOX BRASIL [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] MUSIC BOX BRASIL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] OFF [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/off.m3u8|Referer=http://fotodicas.com/canal/off/1/</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -722,15 +747,21 @@ item>
 <thumbnail>https://canaisgratis.top/player3/imgs-videos/Canais/tlc.jpg</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] VH1 MEGAHITS [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/viva.m3u8|Referer=http://fotodicas.com/canal/canal-viva/1/</link>
+<item>
+<title>[B][COLOR white] TV5 MONDE BRESIL (FRANÇA AO VIVO)[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://mj1b2xsspj.singularcdn.net.br/encompass/TV5Monde/master_Layer4.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR white] VIVA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://d2lp5sf6fdaodz.cloudfront.net/hls1/viva.m3u8|Referer=http://fotodicas.com/canal/canal-viva/1/</link>
+item>
+<title>[B][COLOR white] VH1 MEGAHITS [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white] WOOHOO [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
