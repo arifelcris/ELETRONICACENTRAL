@@ -1,2 +1,3 @@
 # ADDON-ELETRONICA CENTRAL de Joaçaba SC
-feito por arifelcris
+Addon para Kodi
+Adicionando conteúdos diariamente
