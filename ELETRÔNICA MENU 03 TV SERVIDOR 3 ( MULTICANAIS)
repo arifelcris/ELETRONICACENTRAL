@@ -45,8 +45,8 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://live.multicanais.com/live/animalplanethd/video.m3u8|Referer=https://multicanais.com/player.php?canal=animalplanethd</link>
+<title>[B][COLOR white]ANIMAL PLANET teste[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://live.multicanais.com/live/animalplanetsd/video.m3u8|referer: https://multicanais.com/player.php?canal=animalplanetsd</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Animal%20Planet.png</thumbnail>
 </item>
 
