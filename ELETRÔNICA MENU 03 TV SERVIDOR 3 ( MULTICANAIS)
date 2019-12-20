@@ -46,7 +46,7 @@
 
 #EXTM3U   
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAL DOCUMENTARIO",ANIMAL PLANET
-https://live.multicanais.com/live/animalplanetsd/video.m3u8
+https://live.multicanais.com/live/animalplanetsd/video.m3u8|Referer=https://multicanais.com/player.php?canal=animalplanetsd
 
 
 <item>
