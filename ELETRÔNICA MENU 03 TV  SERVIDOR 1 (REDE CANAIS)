@@ -43,14 +43,14 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>                                                                  
-<link>https://origastream.azureedge.net/hls1/animalplanet.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=animalplanet&img=animalplanet</link>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>                                                                 
+<link>https://jeni.azureedge.net/hls1/animalplanet.m3u8 |Referer=https://canaisgratis.org/player3/canaisplayer.php?canal=animalplanet</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Animal%20Planet.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://origastream.azureedge.net/hls1/discovery.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discovery&img=discovery</link>
+<link>https://jeni.azureedge.net/hls1/discovery.m3u8|Referer=https://canaisgratis.org/player3/canaisplayer.php?canal=discovery</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery.jpg</thumbnail>
 </item>
 
@@ -631,5 +631,3 @@ item>
 <link>https://origastream.azureedge.net/hls1/viva.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=viva&img=viva</link>
 <thumbnail></thumbnail>
 </item>
-
-
