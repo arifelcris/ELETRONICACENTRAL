@@ -75,8 +75,8 @@
 </item>
 
 <item>
-<title>[B][COLOR white] HISTORY [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://live.multicanais.com/live/historyhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=historyhd</link>
+<title>[B][COLOR white] HISTORY teste[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://live.multicanais.com/live/historyhd/video.m3u8?md5=xr5IyxvPF2MQ3nmJQrLqNQ&expires=157690109|Referer=https://multicanais.com/player.php?canal=historyhd</link>
 <thumbnail></thumbnail>
 </item>
 
