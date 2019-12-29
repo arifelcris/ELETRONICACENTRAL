@@ -6,31 +6,31 @@
 
 <item>
 <title>[B][COLOR white]BANDEIRANTES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://helena.global.ssl.fastly.net/hls1/band.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=band&img=band</link>
+<link>https://d2b8g5kuusn7xk.cloudfront.net/hls1/band.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=band&img=band</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/BAND.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://helena.global.ssl.fastly.net/hls1/bandnews.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=bandnews&img=bandnews</link>
+<link>https://d2b8g5kuusn7xk.cloudfront.net/hls1/bandnews.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=bandnews&img=bandnews</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Band%20News.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] RECORD [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://helena.global.ssl.fastly.net/hls1/recordsp.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=recordsp&img=recordsp</link>
+<link>https://d2b8g5kuusn7xk.cloudfront.net/hls1/recordsp.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=recordsp&img=recordsp</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUFEW0dD7liTlxQQLWGtCUys56Y_gDwtIu5Q8ccxx0EASrEjh7</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] RECORD NEWS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://helena.global.ssl.fastly.net/hls1/recordnews.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=recordnews&img=recordnews</link>
+<link>https://d2b8g5kuusn7xk.cloudfront.net/hls1/recordnews.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=recordnews&img=recordnews</link>
 <thumbnail>https://ia601409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Record%20News.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] SBT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://helena.global.ssl.fastly.net/hls1/sbt.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=sbt&img=sbt</link>
+<link>https://d2b8g5kuusn7xk.cloudfront.net/hls1/sbt.m3u8|Referer=https://canaisgratis.info/player3/canais.php?canal=sbt&img=sbt</link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
 </item>
 
