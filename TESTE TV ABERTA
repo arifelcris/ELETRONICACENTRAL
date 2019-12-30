@@ -58,3 +58,11 @@
 <link>https://r2---sn-hioxu-m52l.googlevideo.com/videoplayback?expire=1577700091&ei=m3YJXuX5IbmFobIPwcGbwAk&ip=187.45.109.143&id=Q3PYf_t2VCY.0&itag=|Referer=https://www.youtube.com/watch?v=Q3PYf_t2VCY#action=share</link>
 <thumbnail></thumbnail>
 </item>
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="CANAIS ABERTOS",[COLOR white][B]CANAL RICOS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Q3PYf_t2VCY&t=1602s;url=http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+
+
+
