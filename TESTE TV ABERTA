@@ -66,13 +66,13 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sr_j7E
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8cei03oA5yE/hqdefault.jpg" group-title="RADIO JOVEN PAN",[B] [COLOR white]RADIO JOVEN PAN [/COLOR] [COLOR gold] ON [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cei03oA5yE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bPGeb-FkOsU/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT [/COLOR] [COLOR gold] ON FULLHD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bPGeb-FkOsU/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (BRASÍLIA) [/COLOR] [COLOR gold] ON FULLHD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bPGeb-FkOsU
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LwcTWxegMOE/hqdefault.jpg" group-title="SBT SCC",[B] [COLOR white]SBT SCC[/COLOR] [COLOR gold] ON HD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LwcTWxegMOE/hqdefault.jpg" group-title=[B] [COLOR white]SBT SCC (SANTA CATARINA) [/COLOR] [COLOR gold] ON HD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LwcTWxegMOE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/12v0yFkvtBM/hqdefault.jpg" group-title="SBT VTV",[B] [COLOR white](SANTOS E CAMPINAS)[/COLOR] [COLOR gold] ON FULLHD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/12v0yFkvtBM/hqdefault.jpg" group-title=[B] [COLOR white]SBT VTV (SANTOS E CAMPINAS) [/COLOR] [COLOR gold] ON FULLHD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=12v0yFkvtBM
 
 
