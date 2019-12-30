@@ -72,7 +72,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bPGeb-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LwcTWxegMOE/hqdefault.jpg" group-title="SBT SCC",[B] [COLOR white]SBT SCC[/COLOR] [COLOR gold] ON HD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LwcTWxegMOE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/12v0yFkvtBM/hqdefault.jpg" group-title="SBT VTV",[B] [COLOR white]SBT VTV[/COLOR] [COLOR gold] ON HD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/12v0yFkvtBM/hqdefault.jpg" group-title="SBT VTV",[B] [COLOR white]SBT VTV[/COLOR] [COLOR gold] ON FULLHD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=12v0yFkvtBM
 
 
