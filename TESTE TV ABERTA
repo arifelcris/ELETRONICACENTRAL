@@ -61,8 +61,10 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="CANAIS ABERTOS",[COLOR white][B]CANAL RICOS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo=""http://i.ytimg.com/vi/Q3PYf_t2VCY&t=1602s/hqdefault.jpg"" group-title="CHEF TV",[COLOR white][B]CHEF TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Q3PYf_t2VCY&t=1602s;url=http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""http://i.ytimg.com/vi/sr_j7EtX5Jg/hqdefault.jpg"" group-title="JOVEN PAN",[COLOR white][B]JOVEN PAN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sr_j7EtX5Jg;url=http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 
 
