@@ -70,11 +70,18 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8DPUx7
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3q6cbR-J16A/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3q6cbR-J16A
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Etqzjo_hlgM&feature=youtu.be/hqdefault.jpg" group-title=" RBC REDE BRASIL",[B] [COLOR white] RBC REDE BRASIL [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Etqzjo_hlgM&feature=youtu.be
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4edGuQCfQ1U&feature=youtu.be/hqdefault.jpg" group-title=" RECORD NEWS",[B] [COLOR white]RECORD NEWS [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4edGuQCfQ1U&feature=youtu.be
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AOgaFtHCdmM/hqdefault.jpg" group-title="SANTUÁRIO DE FÁTIMA",[B] [COLOR white]SANTUÁRIO DE FÁTIMA [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AOgaFtHCdmM
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/i4pHalUONcY/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (RJ)[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i4pHalUONcY
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bPGeb-FkOsU/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (BRASÍLIA) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bPGeb-FkOsU
 
@@ -90,6 +97,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=t9WV1T
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="TV MUNDO MAIOR",[B] [COLOR white]TV MUNDO MAIOR[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="TV SENADO",[B] [COLOR white]TV SENADO[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
 
 
 
