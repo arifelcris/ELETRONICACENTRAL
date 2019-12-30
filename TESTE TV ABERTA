@@ -71,5 +71,5 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VI
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_rj.png" group-title="REDETV",[COLOR white][B]REDETV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TVAOVIVO&streamtype=HLSRETRY&amp;url=https://www.redetv.uol.com.br/aovivo/
+plugin://plugin.video.f4mTester/?name=TVAOVIVO&streamtype=HLSRETRY&amp;url=https://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
 
