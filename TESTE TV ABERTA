@@ -1,10 +1,4 @@
-<item>
-<title>[B][COLOR white] CANÇÃO NOVA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://tv.cancaonova.com/</link>
-<link>https://youtu.be/L3hp-wTdUiE</link>
-<link>http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ-tHGXotNQUIZV0Vcc-c-1JST6K6D4jlKCpLtPp0HTeMu5pA5</thumbnail>
-</item> 
+
 
 <item>
 <title>[B][COLOR white] REDE TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
@@ -74,3 +68,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cei03
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="TV MUNDO MAIOR",[B] [COLOR white]TV MUNDO MAIOR[/COLOR] [COLOR gold] ON [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_rj.png" group-title="REDETV",[COLOR white][B]REDETV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TVAOVIVO&streamtype=HLSRETRY&amp;url=https://www.redetv.uol.com.br/aovivo/
+
