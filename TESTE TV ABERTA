@@ -66,10 +66,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sr_j7E
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8cei03oA5yE/hqdefault.jpg" group-title="RADIO JOVEN PAN",[B] [COLOR white]RADIO JOVEN PAN [/COLOR] [COLOR gold] ON [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cei03oA5yE
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bPGeb-FkOsU/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT [/COLOR] [COLOR gold] ON FULLHD[/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bPGeb-FkOsU
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="TV MUNDO MAIOR",[B] [COLOR white]TV MUNDO MAIOR[/COLOR] [COLOR gold] ON [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
 
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="REDETV",[COLOR white][B]REDETV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TV arifelcris&streamtype=HLSRETRY&amp;url=https://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+
 
