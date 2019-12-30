@@ -57,13 +57,19 @@
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/L3hp-wTdUiE&feature=youtu.be/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L3hp-wTdUiE&feature=youtu.be
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hsVstDO4reo/hqdefault.jpg" group-title="CIDADE DO CARRO",[B] [COLOR white]CIDADE DO CARRO[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hsVstDO4reo
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8DPUx7c2UKU/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8DPUx7c2UKU
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sr_j7EtX5Jg/hqdefault.jpg" group-title="JOVEN PAN",[B] [COLOR white]JOVEN PAN[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3q6cbR-J16A/hqdefault.jpg" group-title="JOVEM PAN NEWS",[B] [COLOR white]JOVEM PAN NEWS [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3q6cbR-J16A
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sr_j7EtX5Jg/hqdefault.jpg" group-title="JOVEM PAN",[B] [COLOR white]JOVEM PAN[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sr_j7EtX5Jg
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8cei03oA5yE/hqdefault.jpg" group-title="RADIO JOVEN PAN",[B] [COLOR white]RADIO JOVEN PAN [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8cei03oA5yE/hqdefault.jpg" group-title="RADIO JOVEM PAN",[B] [COLOR white]RADIO JOVEM PAN [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cei03oA5yE
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bPGeb-FkOsU/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (BRASÍLIA) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
