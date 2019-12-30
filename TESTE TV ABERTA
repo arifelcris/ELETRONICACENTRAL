@@ -70,6 +70,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cei03
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
 
 
-#EXTINF:-1 tvg-logo="000" group-title="REDETV",[COLOR white][B]REDETV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="REDETV",[COLOR white][B]REDETV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8|Referer=https://www.redetv.uol.com.br/aovivo/
 
