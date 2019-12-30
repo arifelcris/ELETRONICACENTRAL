@@ -60,6 +60,8 @@
 </item>
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/L3hp-wTdUiE&feature=youtu.be/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR gold] ON [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L3hp-wTdUiE&feature=youtu.be
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Q3PYf_t2VCY&t=1602s/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV[/COLOR] [COLOR gold] ON [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Q3PYf_t2VCY&t=1602s
