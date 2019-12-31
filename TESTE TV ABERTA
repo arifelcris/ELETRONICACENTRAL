@@ -55,7 +55,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wAn1UvFVhzU/hqdefault.jpg" group-title="CANAL RIT",[B] [COLOR white]CANAL RIT (RJ)[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wAn1UvFVhzU/hqdefault.jpg" group-title="CANAL RIT",[B] [COLOR white]CANAL RIT [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wAn1UvFVhzU
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/L3hp-wTdUiE&feature=youtu.be/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
