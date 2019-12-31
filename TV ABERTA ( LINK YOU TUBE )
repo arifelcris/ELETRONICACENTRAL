@@ -15,7 +15,10 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8DPUx7
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3q6cbR-J16A/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3q6cbR-J16A
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Etqzjo_hlgM/hqdefault.jpg" group-title=" RBC REDE BRASIL",[B] [COLOR white] RBC REDE BRASIL [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1J6N_oJ-_TM/hqdefault.jpg" group-title="MEGA TV",[B] [COLOR white]MEGA TV [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1J6N_oJ-_TM
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Etqzjo_hlgM/hqdefault.jpg" group-title="RBC REDE BRASIL",[B] [COLOR white] RBC REDE BRASIL [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Etqzjo_hlgM
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4edGuQCfQ1U&feature=youtu.be/hqdefault.jpg" group-title=" RECORD NEWS",[B] [COLOR white]RECORD NEWS [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
