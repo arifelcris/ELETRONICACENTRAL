@@ -5,6 +5,31 @@
 </item>
 
 <item>
+<title>[B][COLOR white] JORNAL RECORD [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://r7live15-lh.akamaihd.net/i/pgm15_1@833327/index_480_av-p.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNorw4WgGOgFPTWJO4DQWoW2r4c7OP9ly44kTk-PhPoXTidb7g</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] REDE BRASIL [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w703130515.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjreX0RysCVRq6pRi6bN9EcPQUd1RLERs7qDnC79GHHCdT7f4N</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] REDE FAMÍLIA [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b2442736.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuvo8nW5xStrXwJpaRaKWIr-iAJ3GWtpm_7pqufM5FQEPPoEns</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white] REDE GOSPEL [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>https://frn.rtsp.me/o7syjmsLO69pVTbzrLYLQw/1577849185/hls/yzK7dHKn.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0Jg8FXAAUj-AfwWwkZRaHxDA96XKdcc2APiZr0UNNP3lk2O42</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] REDE TV (LINK 1)[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w665158316.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4o5yFlPsr19N7vIIoVFZSH3chn9cswlPWTg3gdFr3pg8Cg3xX</thumbnail>
@@ -14,6 +39,12 @@
 <title>[B][COLOR white] REDE TV (LINK 2)[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w360677441.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4o5yFlPsr19N7vIIoVFZSH3chn9cswlPWTg3gdFr3pg8Cg3xX</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] REDE TVT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G-AOO0DJAxz-Ng61m8ILJWE)/dm/3/x6ph7x7/s/live-0.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9qdSUPB_A43ZiA2n8SxRbjZE9z-bjautMZVCNoYATBFELxVGS</thumbnail>
 </item>
 
 <item>
