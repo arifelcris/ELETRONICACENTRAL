@@ -1,4 +1,40 @@
 <item>
+<title>[B][COLOR white] ALL TV [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w148964618.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNpcBkZAclR7gOm6RYMTvrIHCQlCcDLZcoNCNj-Jrybv-hY1DY</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] AGRO CANAL [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>http://www.agrobrasiltv.com.br/ao-vivo</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0P2Zru1Qk3WvOGP-nUuxi1Jc95fY8r9H4bSSCwt3qnilp77Ox</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] BAND [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1852917636.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzdDhbMqf8HurmuYU2skxVrJ4GRLfEHC61lD-odZmkpDGvkrAw</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] CANAL CARIOCA [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w1030994637.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-t71A1yZhLw0/XcTsT2mNzMI/AAAAAAAAAHE/4bvVdcG7yyI9Bj-f6bH2k-w2Ki-mcEwEgCLcBGAsYHQ/s1600/TV-Carioca.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] CANAL RICOS [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://video01.kshost.com.br/canalricos548/canalricos548/chunklist_w215257170.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCMDY1N6SGkX_wSz1MIdxLiaw2WDmX639SRL1odW68eZIiqdHO</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] CARIRI TV[/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/chunklist_w336141932.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSLD-H4-Z3AJYqdh0uG3K6qd2YqrSMjQV1igYp_fb7bXBEFYc_</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] CULTURA [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
 <link>https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
@@ -8,6 +44,12 @@
 <title>[B][COLOR white] JORNAL RECORD [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
 <link>https://r7live15-lh.akamaihd.net/i/pgm15_1@833327/index_480_av-p.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNorw4WgGOgFPTWJO4DQWoW2r4c7OP9ly44kTk-PhPoXTidb7g</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] MKK [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://59f2354c05961.streamlock.net:1443/mkkweb/_definst_/mkkweb/chunklist_w1992776570.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOiGhJbhyQljXynA3_4BVk-ja8AWuf3albkZRo0_V4OMOMPfsz</thumbnail>
 </item>
 
 <item>
@@ -21,7 +63,6 @@
 <link>https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b2442736.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuvo8nW5xStrXwJpaRaKWIr-iAJ3GWtpm_7pqufM5FQEPPoEns</thumbnail>
 </item>
-
 
 <item>
 <title>[B][COLOR white] REDE GOSPEL [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
@@ -60,10 +101,11 @@
 </item>
 
 <item>
-<title>[B][COLOR white] TV BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(FdvNggIhO8g)r(TOqkzw)a(uy1tqQ)p(d(Ujo)k(l0k)m(YZ5B0edLq8av5vDan_cQEA)n(a(PMGpJw)s(9Xg)'a(QTrIJA)s(9w0)'a(rnykWQ)s(hO8)))s(s(uI0)b(Sejpf8SypFD-YC49p9eqBSnO5Z8c1SyhwJDjKCnofl1fbBtm8_G-himtkiFS_dB7kXGCGE1r42hZ6Boh0Q)'s(hy4)b(dmyJYvBXyJg6G0nNH-UVNBIm1jQnIk46NGPOBr2ldgUnY6gQ44jjBYdKd4zScrncOifKzdiqUZFO3zPjii4r9nGkzssyJ6ZZfk0dypaw)'s(3LA)b(O-Mmw44_))m(0))/25_index.m3u8</link>
-<thumbnail>https://i0.wp.com/cinecinemania.com.br/wp-content/uploads/2018/02/17218980-b57d-409f-aaa8-06cbd31b3974-10285-000007c2a03e44df.jpg?fit=1920%2C1275&ssl=1</thumbnail>
+<title>[B][COLOR white] TV ARAUTOS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://www.arautos.org/tv/</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ43aVjX93RzbRlDUtCGrxEF0sO3D58x8ZNvzfN3GlUB6e95Mdm</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR white] TV ABERTA SP [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
@@ -72,9 +114,62 @@
 </item>
 
 <item>
+<title>[B][COLOR white] TV DO POVO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://5b6d86cbca7b3.streamlock.net/tvdopovo1/tvdopovo1/chunklist_w132536206.m3u8</link>
+<thumbnail>https://portal.tvdopovo.com/wp-content/uploads/2019/02/tv1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV INTERLAGOS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/chunklist_w676170349.m3u8</link>
+<thumbnail>http://www.tvinterlagos.tv.br/LOGO/loga_aracatuba.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(FdvNggIhO8g)r(TOqkzw)a(uy1tqQ)p(d(Ujo)k(l0k)m(YZ5B0edLq8av5vDan_cQEA)n(a(PMGpJw)s(9Xg)'a(QTrIJA)s(9w0)'a(rnykWQ)s(hO8)))s(s(uI0)b(Sejpf8SypFD-YC49p9eqBSnO5Z8c1SyhwJDjKCnofl1fbBtm8_G-himtkiFS_dB7kXGCGE1r42hZ6Boh0Q)'s(hy4)b(dmyJYvBXyJg6G0nNH-UVNBIm1jQnIk46NGPOBr2ldgUnY6gQ44jjBYdKd4zScrncOifKzdiqUZFO3zPjii4r9nGkzssyJ6ZZfk0dypaw)'s(3LA)b(O-Mmw44_))m(0))/25_index.m3u8</link>
+<thumbnail>https://i0.wp.com/cinecinemania.com.br/wp-content/uploads/2018/02/17218980-b57d-409f-aaa8-06cbd31b3974-10285-000007c2a03e44df.jpg?fit=1920%2C1275&ssl=1</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV CLIC BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8</link>
+<thumbnail>http://tvclicbrasil.com/wp-content/uploads/2019/08/logo-da-tv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV MASTER [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://serv1.videovox.pw/tvmaster/tvmaster/playlist.m3u8</link>
+<thumbnail>data:image/png;base64,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</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV OMINDARÉ [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist_w1091724257.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1055095388594683904/nE1aTa0q_400x400.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]  TV SOTEROPOLITANA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy5Lc-_xVdyi8-yHDxqGRSFEJbXWBzGfBoI-rTCJHRmVHKdAhX</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]  TVN AO VIVO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/chunklist_w546880552.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZS3-1kNuS2CNPZvLg6z6gfDC64g2Xl91uAvfmK32quSyHuyX7</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] SESC TV [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
 <link>https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR white] WEB TV [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w467132841.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSA-VYqs1UH5xG8KrHsx6Ctse-pbV3C0y8Y5h4Tieh0wvcsSWSU</thumbnail>
+</item>
 
