@@ -4,16 +4,24 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNpcBkZAclR7gOm6RYMTvrIHCQlCcDLZcoNCNj-Jrybv-hY1DY</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR white] AGRO CANAL [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
-<link>http://www.agrobrasiltv.com.br/ao-vivo</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0P2Zru1Qk3WvOGP-nUuxi1Jc95fY8r9H4bSSCwt3qnilp77Ox</thumbnail>
-</item>
+
 
 <item>
 <title>[B][COLOR white] BAND [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
 <link>https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1852917636.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzdDhbMqf8HurmuYU2skxVrJ4GRLfEHC61lD-odZmkpDGvkrAw</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] CANAL 10 [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>http://wowza.acessaradios.com.br:1935/canaldez/canaldez/chunklist_w1125158668.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoGVToyWgpPlgsPh4Gh83pWjz5-SATbpfePbeqNCKtFwFtKzli</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] CANAL 10 (FOZ DO IGUAÇÚ)[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w1914094782.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoGVToyWgpPlgsPh4Gh83pWjz5-SATbpfePbeqNCKtFwFtKzli</thumbnail>
 </item>
 
 <item>
@@ -59,15 +67,46 @@
 </item>
 
 <item>
+<title>[B][COLOR white] REDE CNT (PR) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://cdn0.showcase.com.br/hls/cnt/cwb.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdnpW5Zhp8g8QjVnBiw4S-jxXF3_GT_uny2ErhOS8ghWMBzpk3</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] REDE FAMÍLIA [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b2442736.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuvo8nW5xStrXwJpaRaKWIr-iAJ3GWtpm_7pqufM5FQEPPoEns</thumbnail>
 </item>
 
+
+<item>
+<title>[B][COLOR white] REDE FAMÍLIA (CAMPINAS) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b2835236.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuvo8nW5xStrXwJpaRaKWIr-iAJ3GWtpm_7pqufM5FQEPPoEns</thumbnail>
+</item> 
+
 <item>
 <title>[B][COLOR white] REDE GOSPEL [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>https://frn.rtsp.me/o7syjmsLO69pVTbzrLYLQw/1577849185/hls/yzK7dHKn.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0Jg8FXAAUj-AfwWwkZRaHxDA96XKdcc2APiZr0UNNP3lk2O42</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] REDE MEIONORTE (PI) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://player-api.new.livestream.com/accounts/3332377/events/8939020/broadcasts/200342535.secure.m3u8</link>
+<thumbnail>https://www.meionorte.com/assets/redemeionorte.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] REDE SÉCULO 21 (SP) [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>https://cdn0.showcase.com.br/hls/rs21/main.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7d9brG1RQIWjLhoJvLMjjJyo3GtHZonuX78A8oc8h49ueUGfM</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] REDE SUPER (SP) [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<link>https://playback2.akamaized.net/streams/10205943_3429501_lsi8w560wmmvqjd36hj_1/master.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHYHC0pR48hikkq5tPfwyE245a-4x6OW9j19MQr8O2ztR3excS</thumbnail>
 </item>
 
 <item>
@@ -89,6 +128,12 @@
 </item>
 
 <item>
+<title>[B][COLOR white] REDE UNIÃO BRASIL (CE) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_M_H15GrCjalGroSjF_4nuyEt_ClrBYv5YVbx3ZvJM6tS8Un4</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] REDE VIDA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png</thumbnail>
@@ -102,15 +147,38 @@
 
 <item>
 <title>[B][COLOR white] TV ARAUTOS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://www.arautos.org/tv/</link>
+<link>http://player-arautos-demo.s3-website-us-east-1.amazonaws.com/fc9fe6de-28ce-4112-ba3b-a5816f3360f7</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ43aVjX93RzbRlDUtCGrxEF0sO3D58x8ZNvzfN3GlUB6e95Mdm</thumbnail>
 </item>
-
 
 <item>
 <title>[B][COLOR white] TV ABERTA SP [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>http://v8.ciclano.io:1935/canalpaulo/canalpaulo/playlist.m3u8</link>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV APARECIDA (SP) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkzNwMUHA0ks1YOvH9E6fOMq8AyDz4vt0Gjp3CBbQy1D5rcQ5i</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(FdvNggIhO8g)r(TOqkzw)a(uy1tqQ)p(d(Ujo)k(l0k)m(YZ5B0edLq8av5vDan_cQEA)n(a(PMGpJw)s(9Xg)'a(QTrIJA)s(9w0)'a(rnykWQ)s(hO8)))s(s(uI0)b(Sejpf8SypFD-YC49p9eqBSnO5Z8c1SyhwJDjKCnofl1fbBtm8_G-himtkiFS_dB7kXGCGE1r42hZ6Boh0Q)'s(hy4)b(dmyJYvBXyJg6G0nNH-UVNBIm1jQnIk46NGPOBr2ldgUnY6gQ44jjBYdKd4zScrncOifKzdiqUZFO3zPjii4r9nGkzssyJ6ZZfk0dypaw)'s(3LA)b(O-Mmw44_))m(0))/25_index.m3u8</link>
+<thumbnail>https://i0.wp.com/cinecinemania.com.br/wp-content/uploads/2018/02/17218980-b57d-409f-aaa8-06cbd31b3974-10285-000007c2a03e44df.jpg?fit=1920%2C1275&ssl=1</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV CIDADE 10 (RS) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUYG_oIHDU_HCINpuSVKyo8w4Qq_2EE9do4ww5vVO4C82p2oOH</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV CLIC BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8</link>
+<thumbnail>http://tvclicbrasil.com/wp-content/uploads/2019/08/logo-da-tv.png</thumbnail>
 </item>
 
 <item>
@@ -126,15 +194,15 @@
 </item>
 
 <item>
-<title>[B][COLOR white] TV BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(FdvNggIhO8g)r(TOqkzw)a(uy1tqQ)p(d(Ujo)k(l0k)m(YZ5B0edLq8av5vDan_cQEA)n(a(PMGpJw)s(9Xg)'a(QTrIJA)s(9w0)'a(rnykWQ)s(hO8)))s(s(uI0)b(Sejpf8SypFD-YC49p9eqBSnO5Z8c1SyhwJDjKCnofl1fbBtm8_G-himtkiFS_dB7kXGCGE1r42hZ6Boh0Q)'s(hy4)b(dmyJYvBXyJg6G0nNH-UVNBIm1jQnIk46NGPOBr2ldgUnY6gQ44jjBYdKd4zScrncOifKzdiqUZFO3zPjii4r9nGkzssyJ6ZZfk0dypaw)'s(3LA)b(O-Mmw44_))m(0))/25_index.m3u8</link>
-<thumbnail>https://i0.wp.com/cinecinemania.com.br/wp-content/uploads/2018/02/17218980-b57d-409f-aaa8-06cbd31b3974-10285-000007c2a03e44df.jpg?fit=1920%2C1275&ssl=1</thumbnail>
+<title>[B][COLOR white] TV ITARARÉ (PB) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://stream.tvitarare.com.br/hls/site/site_low/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/97/Logotipo_da_TV_Itarar%C3%A9.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV CLIC BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8</link>
-<thumbnail>http://tvclicbrasil.com/wp-content/uploads/2019/08/logo-da-tv.png</thumbnail>
+<title>[B][COLOR white] TV MACEIÓ (AL) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>https://59f1cbe63db89.streamlock.net:1443/toptv/_definst_/toptv/chunklist_w1764954402.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbTEh5ApumVuWbeIa_LFqO7E-e40Z2ofzef8M88PTL-RSKAov4</thumbnail>
 </item>
 
 <item>
@@ -144,15 +212,53 @@
 </item>
 
 <item>
+<title>[B][COLOR white] TV NOVO TEMPO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b628000_slpor.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaSCGbKKGVW3ZP1DHfeZ9KqMPry1sf_51w_PlAzVrR3M-d-o0o</thumbnail>
+</item>
+
+
+<item>
 <title>[B][COLOR white] TV OMINDARÉ [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>http://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist_w1091724257.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1055095388594683904/nE1aTa0q_400x400.jpg</thumbnail>
 </item>
 
 <item>
+<title>[B][COLOR white] TV OSASCO (SP) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://stmv3.srvstm.com/luisantonio1763/luisantonio1763/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbQu4QHNTAYlD5htp16J8s0AnfngckBnVI_aww14Lopr6vcZnc</thumbnail>
+</item>
+
+
+<item>
 <title>[B][COLOR white]  TV SOTEROPOLITANA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy5Lc-_xVdyi8-yHDxqGRSFEJbXWBzGfBoI-rTCJHRmVHKdAhX</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]  TVC (RJ) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://stmv3.srvstm.com/tvc16/tvc16/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEtgI22IhkmIA6OyarnTZmkZNsrpM674tKr6qXGGAHAOeeZqaG</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]  TVE (BH) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4kZIKsZMPtNLchoQPZvzzAatCf8TLPRi3RQ5N5zGbFZjXhEcB</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]  TVE (PR) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>http://200.189.113.201/hls/tve.m3u8</link>
+<thumbnail>https://i1.wp.com/angelorigon.com.br/wp-content/uploads/2018/05/e-parana.jpg?fit=567%2C231&ssl=1</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]  TVE (RS) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<link>http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1769320766.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBfbKC3DnJDcfPWnfA_Ty9nNLT7myhtDXjUIEqun9XNgL7AtZq</thumbnail>
 </item>
 
 <item>
@@ -166,6 +272,8 @@
 <link>https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8</link>
 <thumbnail></thumbnail>
 </item>
+
+
 
 <item>
 <title>[B][COLOR white] WEB TV [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
