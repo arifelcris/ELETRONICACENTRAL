@@ -97,8 +97,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=t9WV1T
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="TV MUNDO MAIOR",[B] [COLOR white]TV MUNDO MAIOR[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="TV SENADO",[B] [COLOR white]TV SENADO[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
+
 
 
 
