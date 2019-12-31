@@ -42,6 +42,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=12v0yF
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/t9WV1TC64kQ/hqdefault.jpg" group-title="TV CANAL VAQUEJADA",[B] [COLOR white]TV CANAL VAQUEJADA [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=t9WV1TC64kQ
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wamhwtCHEaQ/hqdefault.jpg" group-title="TV HORIZONTE",[B] [COLOR white]TV HORIZONTE[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wamhwtCHEaQ
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="TV MUNDO MAIOR",[B] [COLOR white]TV MUNDO MAIOR[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
 
