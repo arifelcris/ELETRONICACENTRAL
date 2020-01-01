@@ -45,6 +45,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=t9WV1T
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wamhwtCHEaQ/hqdefault.jpg" group-title="TV HORIZONTE",[B] [COLOR white]TV HORIZONTE[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wamhwtCHEaQ
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VU88tYv_9rc&feature=emb_logo/hqdefault.jpg" group-title="TV MCE",[B] [COLOR white]TV MCE [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VU88tYv_9rc&feature=emb_logo
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="TV MUNDO MAIOR",[B] [COLOR white]TV MUNDO MAIOR[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
 
