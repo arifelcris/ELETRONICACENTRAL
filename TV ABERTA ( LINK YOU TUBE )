@@ -9,7 +9,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L3hp-w
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hsVstDO4reo/hqdefault.jpg" group-title="CIDADE DO CARRO",[B] [COLOR white]CIDADE DO CARRO[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hsVstDO4reo
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8DPUx7c2UKU/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8DPUx7c2UKU/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8DPUx7c2UKU
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3q6cbR-J16A/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
