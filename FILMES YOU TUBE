@@ -15,7 +15,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qdlAMh
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ccfOkh2UV8s/hqdefault.jpg" group-title="A Saga do Guerreiro",[B] [COLOR white]A Saga do Guerreiro[/COLOR] [COLOR gold] (2019) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ccfOkh2UV8s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wtH9VTbVh58/hqdefault.jpg" group-title="A Última Bala",[B] [COLOR white]A Última Bala[/COLOR] [COLOR gold](2012) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/G47nUSfFfWY/hqdefault.jpg" group-title="A Última Bala",[B] [COLOR white]A Última Bala[/COLOR] [COLOR gold](2012) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wtH9VTbVh58
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rCItOluWnHI/hqdefault.jpg" group-title="Antes do Adeus",[B] [COLOR white]Antes do Adeus[/COLOR] [COLOR gold] (2014) FULLHD [/COLOR][/B]
