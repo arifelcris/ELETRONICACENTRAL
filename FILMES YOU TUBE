@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/0jxBZ6wS0Rc/hqdefault.jpg" group-title="A Caçada",[B] [COLOR white]A Caçada[/COLOR] [COLOR gold] (2019) FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NH8i3vlA5MI/hqdefault.jpg" group-title="A Caçada",[B] [COLOR white]A Caçada[/COLOR] [COLOR gold] (2019) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0jxBZ6wS0Rc
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ihHnRAK79FY/hqdefault.jpg" group-title="A Dupla Invencível",[B] [COLOR white]A Dupla Invencível[/COLOR] [COLOR gold] HD [/COLOR][/B]
@@ -14,6 +14,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qdlAMh
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ccfOkh2UV8s/hqdefault.jpg" group-title="A Saga do Guerreiro",[B] [COLOR white]A Saga do Guerreiro[/COLOR] [COLOR gold] (2019) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ccfOkh2UV8s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wtH9VTbVh58/hqdefault.jpg" group-title="A Última Bala",[B] [COLOR white]A Última Bala[/COLOR] [COLOR gold](2012) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wtH9VTbVh58
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rCItOluWnHI/hqdefault.jpg" group-title="Antes do Adeus",[B] [COLOR white]Antes do Adeus[/COLOR] [COLOR gold] (2014) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rCItOluWnHI
@@ -41,9 +44,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WtYUFB
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Tvq1Oh2EnG4/hqdefault.jpg" group-title="Guerra contra Aliens",[B] [COLOR white]Guerra contra Aliens[/COLOR] [COLOR gold] (2019) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Tvq1Oh2EnG4
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Ut0i8leKgpQ/hqdefault.jpg" group-title="John Wick: De volta ao jogo",[B] [COLOR white]John Wick: De volta ao jogo[/COLOR] [COLOR gold](2019) FULLHD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ut0i8leKgpQ
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hrDoNnLllT0/hqdefault.jpg" group-title="John Wick 3 Parabellum ",[B] [COLOR white]John Wick 3 Parabellum [/COLOR] [COLOR gold](2019) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hrDoNnLllT0
@@ -105,8 +105,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PFho-y
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jxvdmk5bCuA/hqdefault.jpg" group-title="Regressão",[B] [COLOR white]Regressão[/COLOR] [COLOR gold] (2015) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Jxvdmk5bCuA
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PL0PO0p71Jo0N7phpJgpGCuRLjWunWj6Pr/hqdefault.jpg" group-title="Roubo sem Saída",[B] [COLOR white]Roubo sem Saída[/COLOR] [COLOR gold] (2016) HD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PL0PO0p71Jo0N7phpJgpGCuRLjWunWj6Pr
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/e0PfGMYq5pE/hqdefault.jpg" group-title="Roubo sem Saída",[B] [COLOR white]Roubo sem Saída[/COLOR] [COLOR gold] (2016) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e0PfGMYq5pE
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8EpltdVI9CM/hqdefault.jpg" group-title="Santos ou Soldados",[B] [COLOR white]Santos ou Soldados[/COLOR] [COLOR gold] (2003) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8EpltdVI9CM
