@@ -57,7 +57,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BX0V3E
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/uoOae4te7ag/hqdefault.jpg" group-title="Legião do Mal",[B] [COLOR white]Legião do Mal[/COLOR] [COLOR gold] (2010) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uoOae4te7ag
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NH8i3vlA5MI/hqdefault.jpg" group-title="Lucy",[B] [COLOR white]Lucy[/COLOR] [COLOR gold] (2014) FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8WmnLD2TpKo/hqdefault.jpg" group-title="Lucy",[B] [COLOR white]Lucy[/COLOR] [COLOR gold] (2014) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NH8i3vlA5MI
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/J86hX0PAoNk/hqdefault.jpg" group-title="Lutero",[B] [COLOR white]Lutero[/COLOR] [COLOR gold] (2003) FULLHD [/COLOR][/B]
