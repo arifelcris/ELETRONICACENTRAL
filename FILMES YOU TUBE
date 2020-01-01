@@ -3,20 +3,20 @@
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/O0M5nAczjjA/hqdefault.jpg" group-title=[B] [COLOR white]For Honor[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O0M5nAczjjA
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WtYUFBuOXa8/hqdefault.jpg" group-title="God of War - O Filme",[B] [COLOR white]God of War - O Filme[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WtYUFBuOXa8/hqdefault.jpg" group-title=[B] [COLOR white]God of War - O Filme[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WtYUFBuOXa8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Ut0i8leKgpQ/hqdefault.jpg" group-title="John Wick: De volta ao jogo",[B] [COLOR white]John Wick: De volta ao jogo[/COLOR] [COLOR gold](2019) FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Ut0i8leKgpQ/hqdefault.jpg" group-title=[B] [COLOR white]John Wick: De volta ao jogo[/COLOR] [COLOR gold](2019) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ut0i8leKgpQ
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hrDoNnLllT0/hqdefault.jpg" group-title="John Wick 3 Parabellum ",[B] [COLOR white]John Wick 3 Parabellum [/COLOR] [COLOR gold](2019) FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hrDoNnLllT0/hqdefault.jpg" group-title=[B] [COLOR white]John Wick 3 Parabellum [/COLOR] [COLOR gold](2019) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hrDoNnLllT0
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zBduCVyICMQ/hqdefault.jpg" group-title="O Guerreiro",[B] [COLOR white]O Guerreiro[/COLOR] [COLOR gold](2017) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zBduCVyICMQ/hqdefault.jpg" group-title=[B] [COLOR white]O Guerreiro[/COLOR] [COLOR gold](2017) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zBduCVyICMQ
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Dt0T4jn-C1o/hqdefault.jpg" group-title=" MEGATUBARÃO",[B] [COLOR white] MEGATUBARÃO[/COLOR] [COLOR gold](2019) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Dt0T4jn-C1o/hqdefault.jpg" group-title=[B] [COLOR white] MEGATUBARÃO[/COLOR] [COLOR gold](2019) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Dt0T4jn-C1o
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/w5IAo4-CPtY/hqdefault.jpg" group-title="Warcraft",[B] [COLOR white]Warcraft[/COLOR] [COLOR gold](2019) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/w5IAo4-CPtY/hqdefault.jpg" group-title=[B] [COLOR white]Warcraft[/COLOR] [COLOR gold](2019) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w5IAo4-CPtY
