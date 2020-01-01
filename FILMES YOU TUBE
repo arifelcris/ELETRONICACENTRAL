@@ -1,10 +1,46 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/0jxBZ6wS0Rc/hqdefault.jpg" group-title="A Caçada",[B] [COLOR white]A Caçada[/COLOR] [COLOR gold] (2019) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0jxBZ6wS0Rc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ihHnRAK79FY/hqdefault.jpg" group-title="A Dupla Invencível",[B] [COLOR white]A Dupla Invencível[/COLOR] [COLOR gold] HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ihHnRAK79FY
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SVibxQOt_Ow/hqdefault.jpg" group-title="A Justiceira ",[B] [COLOR white]A Justiceira [/COLOR] [COLOR gold] (2019) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SVibxQOt_Ow
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qdlAMhLS8Dg/hqdefault.jpg" group-title="A Maldição do Anel",[B] [COLOR white]A Maldição do Anel[/COLOR] [COLOR gold] (2004) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qdlAMhLS8Dg
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ccfOkh2UV8s/hqdefault.jpg" group-title="A Saga do Guerreiro",[B] [COLOR white]A Saga do Guerreiro[/COLOR] [COLOR gold] (2019) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ccfOkh2UV8s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rCItOluWnHI/hqdefault.jpg" group-title="Antes do Adeus",[B] [COLOR white]Antes do Adeus[/COLOR] [COLOR gold] (2014) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rCItOluWnHI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3_TbsLttyok/hqdefault.jpg" group-title="Deadpool 2",[B] [COLOR white]Deadpool 2[/COLOR] [COLOR gold] (2018) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3_TbsLttyok
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1tqSJOj5JHE/hqdefault.jpg" group-title="Death Stranding",[B] [COLOR white]Death Stranding[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1tqSJOj5JHE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BmMId_IMUXc/hqdefault.jpg" group-title="Duelo de cordas",[B] [COLOR white]Duelo de cordas[/COLOR] [COLOR gold] (2016) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BmMId_IMUXc
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/O0M5nAczjjA/hqdefault.jpg" group-title="For Honor",[B] [COLOR white]For Honor[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O0M5nAczjjA
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nBCv9AuOoxM/hqdefault.jpg" group-title="Free Fire - O Tiroteio",[B] [COLOR white]Free Fire - O Tiroteio[/COLOR] [COLOR gold] (2017) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nBCv9AuOoxM
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Glur5Us-Ge4/hqdefault.jpg" group-title="Fronteira",[B] [COLOR white]Fronteira[/COLOR] [COLOR gold] (2019) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Glur5Us-Ge4
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WtYUFBuOXa8/hqdefault.jpg" group-title="God of War - O Filme",[B] [COLOR white]God of War - O Filme[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WtYUFBuOXa8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Tvq1Oh2EnG4/hqdefault.jpg" group-title="Guerra contra Aliens",[B] [COLOR white]Guerra contra Aliens[/COLOR] [COLOR gold] (2019) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Tvq1Oh2EnG4
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Ut0i8leKgpQ/hqdefault.jpg" group-title="John Wick: De volta ao jogo",[B] [COLOR white]John Wick: De volta ao jogo[/COLOR] [COLOR gold](2019) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ut0i8leKgpQ
@@ -12,11 +48,86 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ut0i8l
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hrDoNnLllT0/hqdefault.jpg" group-title="John Wick 3 Parabellum ",[B] [COLOR white]John Wick 3 Parabellum [/COLOR] [COLOR gold](2019) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hrDoNnLllT0
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/9gGHJEC0bMA/hqdefault.jpg" group-title="Hickok o Xerife Pistoleiro",[B] [COLOR white]Hickok o Xerife Pistoleiro[/COLOR] [COLOR gold] (2017) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9gGHJEC0bMA
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BX0V3EcatEk/hqdefault.jpg" group-title="Invasão Zumbi",[B] [COLOR white]Invasão Zumbi[/COLOR] [COLOR gold] (2016) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BX0V3EcatEk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/uoOae4te7ag/hqdefault.jpg" group-title="Legião do Mal",[B] [COLOR white]Legião do Mal[/COLOR] [COLOR gold] (2010) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uoOae4te7ag
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NH8i3vlA5MI/hqdefault.jpg" group-title="Lucy",[B] [COLOR white]Lucy[/COLOR] [COLOR gold] (2014) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NH8i3vlA5MI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/J86hX0PAoNk/hqdefault.jpg" group-title="Lutero",[B] [COLOR white]Lutero[/COLOR] [COLOR gold] (2003) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=J86hX0PAoNk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Dt0T4jn-C1o/hqdefault.jpg" group-title="Megatubarão",[B] [COLOR white] Megatubarão[/COLOR] [COLOR gold](2019) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Dt0T4jn-C1o
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/W0F1Og7q9n4/hqdefault.jpg" group-title="Mortal Kombat X",[B] [COLOR white]Mortal Kombat X[/COLOR] [COLOR gold] 4K [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=W0F1Og7q9n4
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4a8Pudn-a9Y/hqdefault.jpg" group-title="Muito Louca",[B] [COLOR white]Muito Louca[/COLOR] [COLOR gold] (2018) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4a8Pudn-a9Y
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kNPQs1gg_YI/hqdefault.jpg" group-title="Noé",[B] [COLOR white]Noé[/COLOR] [COLOR gold] (2014) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kNPQs1gg_YI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AYBx1XE7v_I/hqdefault.jpg" group-title="O Acordo",[B] [COLOR white]O Acordo[/COLOR] [COLOR gold] (2013) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AYBx1XE7v_I
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/m-zqW2Xt-c4/hqdefault.jpg" group-title="O Atirador",[B] [COLOR white]O Atirador[/COLOR] [COLOR gold] (1993) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=m-zqW2Xt-c4
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zBduCVyICMQ/hqdefault.jpg" group-title="O Guerreiro",[B] [COLOR white]O Guerreiro[/COLOR] [COLOR gold](2017) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zBduCVyICMQ
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Dt0T4jn-C1o/hqdefault.jpg" group-title=" MEGATUBARÃO",[B] [COLOR white] MEGATUBARÃO[/COLOR] [COLOR gold](2019) HD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Dt0T4jn-C1o
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/vn9QuT8msW4/hqdefault.jpg" group-title="O Guerreiro do Amanhã",[B] [COLOR white]O Guerreiro do Amanhã[/COLOR] [COLOR gold] (2014) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vn9QuT8msW4
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VoBo9bgseDk/hqdefault.jpg" group-title="O Vendedor Chinês ",[B] [COLOR white]O Vendedor Chinês [/COLOR] [COLOR gold] (2017) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VoBo9bgseDk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/IQnXP2iiU7g/hqdefault.jpg" group-title="Operação Perigosa",[B] [COLOR white]Operação Perigosa[/COLOR] [COLOR gold] (2013) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IQnXP2iiU7g
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Trt85izXV1k/hqdefault.jpg" group-title="Os meninos que enganavam os nazistas",[B] [COLOR white]Os meninos que enganavam os nazistas[/COLOR] [COLOR gold] (2017) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Trt85izXV1k
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/S2DRBIRrSXw/hqdefault.jpg" group-title="Ouija: A Ressurreição",[B] [COLOR white]Ouija: A Ressurreição[/COLOR] [COLOR gold] (2015) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=S2DRBIRrSXw
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PFho-ypaSXk/hqdefault.jpg" group-title="Pegando Fogo",[B] [COLOR white]Pegando Fogo[/COLOR] [COLOR gold] (2015) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PFho-ypaSXk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jxvdmk5bCuA/hqdefault.jpg" group-title="Regressão",[B] [COLOR white]Regressão[/COLOR] [COLOR gold] (2015) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Jxvdmk5bCuA
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PL0PO0p71Jo0N7phpJgpGCuRLjWunWj6Pr/hqdefault.jpg" group-title="Roubo sem Saída",[B] [COLOR white]Roubo sem Saída[/COLOR] [COLOR gold] (2016) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PL0PO0p71Jo0N7phpJgpGCuRLjWunWj6Pr
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8EpltdVI9CM/hqdefault.jpg" group-title="Santos ou Soldados",[B] [COLOR white]Santos ou Soldados[/COLOR] [COLOR gold] (2003) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8EpltdVI9CM
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Dyy09--mb8Q/hqdefault.jpg" group-title="Sem Controle",[B] [COLOR white]Sem Controle[/COLOR] [COLOR gold] (2017) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Dyy09--mb8Q
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DLSMu1mpe-s/hqdefault.jpg" group-title="Stratton Forças Especiais",[B] [COLOR white]Stratton Forças Especiais[/COLOR] [COLOR gold] (2017) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DLSMu1mpe-s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/cIbRJ9HvO2A/hqdefault.jpg" group-title="Super Veloses e Mega Furiosos",[B] [COLOR white]Super Veloses e Mega Furiosos[/COLOR] [COLOR gold] (2019) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cIbRJ9HvO2A
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QQu0p-0kRxg/hqdefault.jpg" group-title="Uma Razão para Recomeçar",[B] [COLOR white]Uma Razão para Recomeçar [/COLOR] [COLOR gold] (2018) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QQu0p-0kRxg
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Y_emJe5V1O8/hqdefault.jpg" group-title="Uma História de Vingança",[B] [COLOR white]Uma História de Vingança[/COLOR] [COLOR gold] (2017) FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y_emJe5V1O8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kzX-aFeWom8/hqdefault.jpg" group-title="Vikings",[B] [COLOR white]Vikings[/COLOR] [COLOR gold] (2013) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kzX-aFeWom8
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/w5IAo4-CPtY/hqdefault.jpg" group-title="Warcraft",[B] [COLOR white]Warcraft[/COLOR] [COLOR gold](2019) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w5IAo4-CPtY
