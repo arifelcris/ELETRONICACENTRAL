@@ -1,0 +1,17 @@
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=1/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T02E01[/COLOR] [COLOR gold] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=1
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=2/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T02E02[/COLOR] [COLOR gold] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=2
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=3/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T02E03[/COLOR] [COLOR gold] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=3
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=4/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T02E04[/COLOR] [COLOR gold] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=4
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=5/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T02E05[/COLOR] [COLOR gold] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=5
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=6/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T02E05[/COLOR] [COLOR gold] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PLgYPF3C3Px60KwKcHZ1ArsLEjccMPX9k9&index=6
