@@ -9,7 +9,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=g4Nb7I
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/EcuO3UtYGnE/hqdefault.jpg" group-title="Paulinho Mixaria & Tetéco AO VIVO no Circo Teatro Teleco",[B] [COLOR white]Paulinho Mixaria & Tetéco AO VIVO no Circo Teatro Teleco[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EcuO3UtYGnE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bJbdihFlg_k/hqdefault.jpg" group-title="Paulinho Mixaria: Show na Semana Farroupilha da Flórida, Estados Unidos (2019)",[B] [COLOR white]"Paulinho Mixaria: Show na Semana Farroupilha da Flórida, Estados Unidos (2019)"[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bJbdihFlg_k/hqdefault.jpg" group-title="Paulinho Mixaria: Show na Semana Farroupilha da Flórida Estados Unidos (2019)",[B] [COLOR white]"Paulinho Mixaria: Show na Semana Farroupilha da Flórida, Estados Unidos (2019)"[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bJbdihFlg_k
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NMlBC-CQAzM/hqdefault.jpg" group-title="Paulinho Mixaria em "Óia as Cunversa" (Parte 1)",[B] [COLOR white]Paulinho Mixaria em "Óia as Cunversa" (Parte 1)[/COLOR] [COLOR gold] HD [/COLOR][/B]
