@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/o6vzJibJtno/hqdefault.jpg" group-title="O Fantasma da Vila - A Vila do Mixaria",[B] [COLOR white]O Fantasma da Vila: A Vila do Mixaria (EP01)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=o6vzJibJtno
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/_Ky1IQVlSDI/hqdefault.jpg" group-title="O Fantasma da Vila - A Vila do Mixaria",[B] [COLOR white]O Fantasma da Vila: A Vila do Mixaria (EP02)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_Ky1IQVlSDI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/xEZcfhFcCuU/hqdefault.jpg" group-title="O Fantasma da Vila - A Vila do Mixaria",[B] [COLOR white]O Fantasma da Vila: A Vila do Mixaria (EP03)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xEZcfhFcCuU
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Y_wYEwQE_Mw&t=9s/hqdefault.jpg" group-title="O Fantasma da Vila - A Vila do Mixaria",[B] [COLOR white]O Fantasma da Vila: A Vila do Mixaria (EP04)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y_wYEwQE_Mw&t=9s
