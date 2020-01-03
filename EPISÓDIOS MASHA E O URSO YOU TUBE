@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/imoDsJSLaLg/hqdefault.jpg" group-title="Masha e o Urso: A Vassoura Voadoura",[B] [COLOR white]Masha e o Urso: A Vassoura Voadoura[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=imoDsJSLaLg
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bUv6brR1i4o/hqdefault.jpg" group-title="Masha e o Urso: Carnaval ",[B] [COLOR white]Masha e o Urso: Carnaval [/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bUv6brR1i4o
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/40UNeS3mjXA/hqdefault.jpg" group-title="Masha e o Urso: Coleção de canções de Masha e o Urso 1",[B] [COLOR white]Masha e o Urso: Coleção de canções de Masha e o Urso[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=40UNeS3mjXA
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/OkQcj1M-3zw/hqdefault.jpg" group-title="Masha e o Urso: Coleção de canções de Masha e o Urso 2",[B] [COLOR white]Masha e o Urso: Coleção de canções de Masha e o Urso [/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OkQcj1M-3zw
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/_SRVMyX1Kpo/hqdefault.jpg" group-title="Masha e o Urso: Coleção De Férias",[B] [COLOR white]Masha e o Urso: Coleção De Férias[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_SRVMyX1Kpo
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HRAR7WH3OnI/hqdefault.jpg" group-title="Masha e o Urso: Contos para Dormir  Halloween 2019",[B] [COLOR white]Masha e o Urso: Contos para Dormir  Halloween 2019[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HRAR7WH3OnI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YytwQ4PaeaM&t=1314s/hqdefault.jpg" group-title="Masha e o Urso: Cozinhando com Masha",[B] [COLOR white]Masha e o Urso: Cozinhando com Masha[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YytwQ4PaeaM&t=1314s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/2r4vBwV7Xd0/hqdefault.jpg" group-title="Masha e o Urso: Estação Chuvosa",[B] [COLOR white]Masha e o Urso: Estação Chuvosa[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2r4vBwV7Xd0
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/_IkQXUNJVsE/hqdefault.jpg" group-title="Masha e o Urso: Eu Mesmo Faço Isso",[B] [COLOR white]Masha e o Urso: Eu Mesmo Faço Isso[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_IkQXUNJVsE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/EOpUWiKgmc8/hqdefault.jpg" group-title="Masha e o Urso: Feliz Páscoa! ",[B] [COLOR white]Masha e o Urso: Feliz Páscoa! [/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EOpUWiKgmc8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/9tOW1v3hjLM/hqdefault.jpg" group-title="Masha e o Urso: Festa entre amigos ",[B] [COLOR white]Masha e o Urso: Festa entre amigos [/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9tOW1v3hjLM
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/u_jJ2ySh8So/hqdefault.jpg" group-title="Masha e o Urso: Jantar De Gala",[B] [COLOR white]Masha e o Urso: Jantar De Gala[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u_jJ2ySh8So
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/tJOUVHwSIN8/hqdefault.jpg" group-title="Masha e o Urso: Jogos Com Masha!",[B] [COLOR white]Masha e o Urso: Jogos Com Masha![/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tJOUVHwSIN8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VZTBmhcc6D4/hqdefault.jpg" group-title="Masha e o Urso: Livros Favoritos De Masha",[B] [COLOR white]Masha e o Urso: Livros Favoritos De Masha[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VZTBmhcc6D4
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Hz5sjIMafDc/hqdefault.jpg" group-title="Masha e o Urso: Maravilhas Do Inverno",[B] [COLOR white]Masha e o Urso: Maravilhas Do Inverno[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Hz5sjIMafDc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Masha e o Urso: Os Três Mosqueteiros",[B] [COLOR white]Masha e o Urso: Os Três Mosqueteiros[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mKfeCK7amXc/hqdefault.jpg" group-title="Masha e o Urso: Quem é o Chefe De Casa?",[B] [COLOR white]Masha e o Urso: Quem é o Chefe De Casa?[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mKfeCK7amXc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/7hOORD_7OTw/hqdefault.jpg" group-title="Masha e o Urso: Salvando o Natal!",[B] [COLOR white]Masha e o Urso: Salvando o Natal![/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7hOORD_7OTw
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/-7NyP15mkAY/hqdefault.jpg" group-title="Masha e o Urso: Todas os episódios (2019)",[B] [COLOR white]Masha e o Urso: Todas os episódios (2019)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-7NyP15mkAY
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/IiU1o6VYgpA/hqdefault.jpg" group-title="Masha e o Urso: Todas os episódios",[B] [COLOR white]Masha e o Urso: Todas os episódios[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IiU1o6VYgpA
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/7Fk6-IVbNZM/hqdefault.jpg" group-title="Masha e o Urso: Top 10 Melhores Episódios",[B] [COLOR white]Masha e o Urso: Top 10 Melhores Episódios[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7Fk6-IVbNZM
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/-Tsy9mQDXbE/hqdefault.jpg" group-title="Masha e o Urso: Uma Vez por Ano",[B] [COLOR white]Masha e o Urso: Uma Vez por Ano[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-Tsy9mQDXbE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VSfoV_xrh78/hqdefault.jpg" group-title="Masha e o Urso: Viva! Verão! Férias! ",[B] [COLOR white]Masha e o Urso: Viva! Verão! Férias! [/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VSfoV_xrh78
