@@ -21,6 +21,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wtH9VT
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rCItOluWnHI/hqdefault.jpg" group-title="Antes do Adeus",[B] [COLOR white]Antes do Adeus[/COLOR] [COLOR gold] (2014) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rCItOluWnHI
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hfxr9iCE1u4/hqdefault.jpg" group-title="As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (1/2)",[B] [COLOR white]As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (1/2)[/COLOR] [COLOR gold] HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hfxr9iCE1u4
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mfOABydlS6k/hqdefault.jpg" group-title="As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (2/2)",[B] [COLOR white]As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (2/2) [/COLOR] [COLOR gold] HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mfOABydlS6k
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3_TbsLttyok/hqdefault.jpg" group-title="Deadpool 2",[B] [COLOR white]Deadpool 2[/COLOR] [COLOR gold] (2018) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3_TbsLttyok
 
@@ -98,6 +104,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Trt85i
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/S2DRBIRrSXw/hqdefault.jpg" group-title="Ouija: A Ressurreição",[B] [COLOR white]Ouija: A Ressurreição[/COLOR] [COLOR gold] (2015) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=S2DRBIRrSXw
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Paulinho Mixaria: Morando Com a Sogra",[B] [COLOR white]Paulinho Mixaria: Morando Com a Sogra[/COLOR] [COLOR gold] HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PFho-ypaSXk/hqdefault.jpg" group-title="Pegando Fogo",[B] [COLOR white]Pegando Fogo[/COLOR] [COLOR gold] (2015) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PFho-ypaSXk
