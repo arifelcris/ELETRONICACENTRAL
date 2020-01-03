@@ -105,8 +105,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Trt85i
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/S2DRBIRrSXw/hqdefault.jpg" group-title="Ouija: A Ressurreição",[B] [COLOR white]Ouija: A Ressurreição[/COLOR] [COLOR gold] (2015) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=S2DRBIRrSXw
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Paulinho Mixaria: Morando Com a Sogra",[B] [COLOR white]Paulinho Mixaria: Morando Com a Sogra[/COLOR] [COLOR gold] HD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZG0fSLt4NtU&t=2825s/hqdefault.jpg" group-title="Paulinho Mixaria: Morando Com a Sogra",[B] [COLOR white]Paulinho Mixaria: Morando Com a Sogra[/COLOR] [COLOR gold] HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZG0fSLt4NtU&t=2825s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PFho-ypaSXk/hqdefault.jpg" group-title="Pegando Fogo",[B] [COLOR white]Pegando Fogo[/COLOR] [COLOR gold] (2015) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PFho-ypaSXk
