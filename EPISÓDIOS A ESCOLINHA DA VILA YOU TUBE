@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rE04wJ9BVos/hqdefault.jpg" group-title="A Escolinha da Vila - Trailer Oficial | A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila - Trailer Oficial | A Vila do Mixaria[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rE04wJ9BVos
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Nf-w60KSiIw&t=690s/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP01)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Nf-w60KSiIw&t=690s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/9Mxq7bufgwc/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP02)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9Mxq7bufgwc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/oaX0H-81AOk/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP03)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oaX0H-81AOk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/gZ84e9f0AMw/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP04)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gZ84e9f0AMw
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/odkXTCk3PTo/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP05)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=odkXTCk3PTo
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GxcYAkxj0Kg/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP06)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GxcYAkxj0Kg
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZBzhWCA4wO8/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP07)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZBzhWCA4wO8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/2Fjvmdq1b0w&t=1196s/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP08)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2Fjvmdq1b0w&t=1196s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/aqWHd7IjYuA/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP09)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aqWHd7IjYuA
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/KKsA86ehbok/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP10)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KKsA86ehbok
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BWtUKWh0Ybk/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP11)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BWtUKWh0Ybk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SKBVIywb2Dg/hqdefault.jpg" group-title="A Escolinha da Vila: A Vila do Mixaria",[B] [COLOR white]A Escolinha da Vila: A Vila do Mixaria (EP12) [/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SKBVIywb2Dg
+
