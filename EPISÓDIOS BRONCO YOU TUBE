@@ -1,13 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/me7LK_ap6_g/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio: O Futebol[/COLOR] [COLOR gold] HD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=me7LK_ap6_g
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/t7OkvY7w220/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]Bronco- Episódio: A Eleição do Síndico[/COLOR] [COLOR gold] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=t7OkvY7w220
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/oL0zkgsOeY4&t=309s/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio: A Namorada[/COLOR] [COLOR gold] HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oL0zkgsOeY4&t=309s
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/fEDSCP0ybS4/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio: O Monge[/COLOR] [COLOR gold] HD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fEDSCP0ybS4
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eJfbHGVggp8/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio: O Amor é Lindo[/COLOR] [COLOR gold] HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eJfbHGVggp8
@@ -15,11 +12,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eJfbHG
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/tMNTbatODtI/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio: O Careca[/COLOR] [COLOR gold] HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tMNTbatODtI
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/t7OkvY7w220/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]Bronco- Episódio: A Eleição do Síndico[/COLOR] [COLOR gold] SD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=t7OkvY7w220
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/me7LK_ap6_g/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio: O Futebol[/COLOR] [COLOR gold] HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=me7LK_ap6_g
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio: O Futebol[/COLOR] [COLOR gold] HD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/fEDSCP0ybS4/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio: O Monge[/COLOR] [COLOR gold] HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fEDSCP0ybS4
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio: O Futebol[/COLOR] [COLOR gold] HD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
