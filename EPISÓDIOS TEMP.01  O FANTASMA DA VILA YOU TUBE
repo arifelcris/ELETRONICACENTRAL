@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nIRsOQgYesw&t=11s/hqdefault.jpg" group-title="VEM AÍ O MEU SERIADO: A VILA DO MIXARIA",[B] [COLOR white]VEM AÍ O MEU SERIADO: A VILA DO MIXARIA[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nIRsOQgYesw&t=11s
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/o6vzJibJtno/hqdefault.jpg" group-title="O Fantasma da Vila - A Vila do Mixaria",[B] [COLOR white]O Fantasma da Vila: A Vila do Mixaria (EP01)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=o6vzJibJtno
 
