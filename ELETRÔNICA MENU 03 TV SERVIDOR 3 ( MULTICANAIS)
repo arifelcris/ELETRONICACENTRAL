@@ -8,13 +8,21 @@ http://0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/35F1ljd.jpg" group-title="Abertos",DISCOVERY
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/35F1ljd.jpg" group-title="Abertos",DISCOVERY
+plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=gRH-P6VR98POONggpCV8EQ&expires=1578105398
 
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/35F1ljd.jpg" group-title="Abertos",DISCOVERY
+plugin://plugin.video.f4mTester/?name=eletronicaHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/35F1ljd.jpg" group-title="Abertos",DISCOVERY
+plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=gRH-P6VR98POONggpCV8EQ&expires=1578105398|Referer=https://multicanais.com/player.php?canal=discoverychannelhd
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/35F1ljd.jpg" group-title="Abertos",DISCOVERY
+plugin://plugin.video.f4mProxy/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=gRH-P6VR98POONggpCV8EQ&expires=1578105398|Referer=https://multicanais.com/player.php?canal=discoverychannelhd
 
 
-
-
-
+https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=gRH-P6VR98POONggpCV8EQ&expires=1578105398
 
 
 
