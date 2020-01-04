@@ -1,0 +1,233 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/2Q93rB8yj8E/hqdefault.jpg" group-title="África: A Serpente Africana - RARO",[B] [COLOR white]A Serpente Africana - RARO[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2Q93rB8yj8E
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UW-Zehc_jeM/hqdefault.jpg" group-title="África: Animais assassinos da África - Gladiadores",[B] [COLOR white]África: Animais assassinos da África - Gladiadores[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UW-Zehc_jeM
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HmbiZdJzpeE&t=1072s/hqdefault.jpg" group-title="África: Animais de Kalahari",[B] [COLOR white]África: Animais de Kalahari[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HmbiZdJzpeE&t=1072s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/h2usGY1173A/hqdefault.jpg" group-title="África: Mundo Selvagem da Namibia ",[B] [COLOR white]África: Mundo Selvagem da Namibia[/COLOR] [COLOR gold] (hd) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h2usGY1173A
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5VyurhZ_UzY/hqdefault.jpg" group-title="África: Predadores Africanos",[B] [COLOR white]África: Predadores Africanos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5VyurhZ_UzY
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DBC3UTgm8sc/hqdefault.jpg" group-title=África: Savana Africana",[B] [COLOR white]África: Savana Africana[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DBC3UTgm8sc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4BiUEXXnOFw/hqdefault.jpg" group-title="A Vida Secreta Dos Predadores",[B] [COLOR white]A Vida Secreta Dos Predadores[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4BiUEXXnOFw
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HJ7UTMcByBI&t=77s/hqdefault.jpg" group-title="África do Sul Selvagem: Documentários de Animais ",[B] [COLOR white]África do Sul Selvagem: Documentários de Animais[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HJ7UTMcByBI&t=77s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LE45pS2UnNA/hqdefault.jpg" group-title="África do Sul Selvagem: Terra de Gigantes 1",[B] [COLOR white]África do Sul Selvagem: Terra de Gigantes[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LE45pS2UnNA
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XtiNVTJPQgk/hqdefault.jpg" group-title="Africa do Sul Selvagem: Terra de Gigantes 2",[B] [COLOR white]Africa do Sul Selvagem: Terra de Gigantes[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XtiNVTJPQgk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XNWwrcyCC44/hqdefault.jpg" group-title="Africa Safári",[B] [COLOR white]Africa Safári[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XNWwrcyCC44
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/FihVxDHX94M/hqdefault.jpg" group-title="Amazonas Selvagem Berço da Vida",[B] [COLOR white]Amazonas Selvagem Berço da Vida[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FihVxDHX94M
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/R93Ce8tR3pI&t=1386s/hqdefault.jpg" group-title="Amazônia Indomáve l: As Lágrimas da Lua",[B] [COLOR white]Amazônia Indomáve l: As Lágrimas da Lua[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R93Ce8tR3pI&t=1386s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/O2KZ94AyU-Q&t=1105s/hqdefault.jpg" group-title="Amazônia Indomável 2: O Nascimento de Xadá",[B] [COLOR white]Amazônia Indomável 2: O Nascimento de Xadá[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O2KZ94AyU-Q&t=1105s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hwZBe7oDz0k&t=138s/hqdefault.jpg" group-title="Amazônia Indomável 3: Os Jacarés e o Mercúrio",[B] [COLOR white]Amazônia Indomável 3: Os Jacarés e o Mercúrio[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hwZBe7oDz0k&t=138s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jKQJSiaSJJ4&t=1061s/hqdefault.jpg" group-title="Amazônia Indomável 4: A Noite das Antas",[B] [COLOR white]Amazônia Indomável 4: A Noite das Antas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jKQJSiaSJJ4&t=1061s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/b1JVN58P32g/hqdefault.jpg" group-title="Amazônia Indomável 5: A Morte de Luana",[B] [COLOR white]Amazônia Indomável 5: A Morte de Luana[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b1JVN58P32g
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/JV5auum0uKU/hqdefault.jpg" group-title="Amazônia Indomável 6: O Sobrevivente",[B] [COLOR white]Amazônia Indomável 6: O Sobrevivente[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JV5auum0uKU
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/g2YK4OF4D14/hqdefault.jpg" group-title="Amazônia Indomável 7: Mãe Coragem",[B] [COLOR white]Amazônia Indomável 7: Mãe Coragem[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=g2YK4OF4D14
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eJoIeTwbRH8/hqdefault.jpg" group-title="Amazônia Indomável 8: Crianças da Noite",[B] [COLOR white]Amazônia Indomável 8: Crianças da Noite[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eJoIeTwbRH8
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/l1cGvs1rH64&t=283s/hqdefault.jpg" group-title="Amazônia Indomável 9: O Triunfo das Águas",[B] [COLOR white]Amazônia Indomável 9: O Triunfo das Águas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=l1cGvs1rH64&t=283s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/_gFH-HVcAPA&t=1s/hqdefault.jpg" group-title="Amazônia Indomável 10: Os Filhos de Calhoa",[B] [COLOR white]Amazônia Indomável 10: Os Filhos de Calhoa[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_gFH-HVcAPA&t=1s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CxGLR__rtPs&t=1s/hqdefault.jpg" group-title="Amazônia Indomável 11: O Boto que quis morrer",[B] [COLOR white]Amazônia Indomável 11: O Boto que quis morrer[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CxGLR__rtPs&t=1s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/OslQ_NQtbPw/hqdefault.jpg" group-title="Amazônia Indomável 12: Oceano Verde",[B] [COLOR white]Amazônia Indomável 12:Oceano Verde[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OslQ_NQtbPw
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/InTcMCNFWdQ/hqdefault.jpg" group-title="América Indomável - Ep02 - Litorais",[B] [COLOR white]América Indomável - Ep02 - Litorais[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=InTcMCNFWdQ
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mPeNlL6JrcY/hqdefault.jpg" group-title="Animais Perigosos: Sensores de Caça",[B] [COLOR white]Animais Perigosos: Sensores de Caça[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mPeNlL6JrcY
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/fJbxBMEBFQc/hqdefault.jpg" group-title="Animais Selvagens da Rússia",[B] [COLOR white]Animais Selvagens da Rússia[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fJbxBMEBFQc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CQI5b3CuVp0/hqdefault.jpg" group-title="Assassinos da Africa: matando e comendo para sobreviver",[B] [COLOR white]Assassinos da Africa: matando e comendo para sobreviver[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CQI5b3CuVp0
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/i4nAxr3kd8k/hqdefault.jpg" group-title="Bahamas Selvagem",[B] [COLOR white]Bahamas Selvagem[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i4nAxr3kd8k
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HlRUz2PHqDY/hqdefault.jpg" group-title="Batalha pelo Acasalamento Animal",[B] [COLOR white]Batalha pelo Acasalamento Animal[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HlRUz2PHqDY
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jrGjI0MHwrQ&t=6s/hqdefault.jpg" group-title="Brasil Secreto: Pantanal Selvagem 1",[B] [COLOR white]Brasil Secreto: Pantanal Selvagem[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jrGjI0MHwrQ&t=6s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/2dXPiL26eYc/hqdefault.jpg" group-title="Brasil Secreto: Pantanal 2",[B] [COLOR white]Brasil Secreto: Pantanal[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2dXPiL26eYc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zrn6C68_PUQ/hqdefault.jpg" group-title="Brasil Selvagem: A Sombra do Gavião - Amazônia",[B] [COLOR white]Brasil Selvagem: A Sombra do Gavião - Amazônia[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zrn6C68_PUQ
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iEhSQFoIbJg/hqdefault.jpg" group-title="Brasil Selvagem: A Toca da Onça Pintada - Pantanal",[B] [COLOR white]Brasil Selvagem: A Toca da Onça Pintada - Pantanal[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iEhSQFoIbJg
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/d-JxWJ5s3pQ/hqdefault.jpg" group-title="Brasil Selvagem: Jóias da Selva 1 - Mata Atlântica",[B] [COLOR white]Brasil Selvagem: Jóias da Selva - Mata Atlântica[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=d-JxWJ5s3pQ
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eMHByxH1tWY/hqdefault.jpg" group-title="Brasil Selvagem: Jóias da Selva 2 - Mata Atlântica",[B] [COLOR white]Brasil Selvagem: Jóias da Selva Mata Atlântica[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eMHByxH1tWY
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iINQnH0on-A/hqdefault.jpg" group-title="Brasil Selvagem: O Banquete do Tamanduá - Cerrado",[B] [COLOR white]Brasil Selvagem: O Banquete do Tamanduá - Cerrado[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iINQnH0on-A
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/2eEEQA4vKIc/hqdefault.jpg" group-title="Búfalos: Instintos Assassinos",[B] [COLOR white]Búfalos: Instintos Assassinos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2eEEQA4vKIc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/cP-OuQavsEU/hqdefault.jpg" group-title="Caçadores da África: Hienas e cães selvagens",[B] [COLOR white]Caçadores da África: Hienas e cães selvagens[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cP-OuQavsEU
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HwZC9rjoLsQ/hqdefault.jpg" group-title="Croácia Selvagem",[B] [COLOR white]Croácia Selvagem[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HwZC9rjoLsQ
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YQTZxmFTW48/hqdefault.jpg" group-title="Destino Selvagem: Rio Nilo do Egito a Africa",[B] [COLOR white]Destino Selvagem: Rio Nilo do Egito a Africa[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YQTZxmFTW48
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NWptR9b79YE/hqdefault.jpg" group-title="Escola de Predadores: O jogo da caça ",[B] [COLOR white]Escola de Predadores: O jogo da caça [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NWptR9b79YE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lWWTNq0iD-s/hqdefault.jpg" group-title="Filhotes Extremos: Famílias Corajosas",[B] [COLOR white]Filhotes Extremos: Famílias Corajosas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lWWTNq0iD-s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zszgFC16PoE/hqdefault.jpg" group-title="Guepardo: Instinto de Sobrevivência",[B] [COLOR white]Guepardo: Instinto de Sobrevivência[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zszgFC16PoE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qpgU0_r0pbE/hqdefault.jpg" group-title="Hienas: A Herdeira Do CLã Hienas",[B] [COLOR white]Hienas: A Herdeira Do CLã Hienas[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qpgU0_r0pbE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bGNBJ5XdyQA/hqdefault.jpg" group-title="Himalaia: Caminho do Céu",[B] [COLOR white]Himalaia: Caminho do Céu[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bGNBJ5XdyQA
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qsue7U30OJc/hqdefault.jpg" group-title="Himalaia: luta pela sobrevivencia",[B] [COLOR white]Himalaia: luta pela sobrevivencia[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qsue7U30OJc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CNAJ4lpIGzs/hqdefault.jpg" group-title="Ilha do Principe: O éden esquecido do Atlântico",[B] [COLOR white]Ilha do Principe: O éden esquecido do Atlântico (legendado)[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CNAJ4lpIGzs
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/-Cy49341-wU/hqdefault.jpg" group-title="Império Selvagem: A Mãe dos Leões",[B] [COLOR white]Império Selvagem: A Mãe dos Leões[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-Cy49341-wU
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/TVucaMLEDtU/hqdefault.jpg" group-title="Império Selvagem: A Pedra do Leopardo",[B] [COLOR white]Império Selvagem: A Pedra do Leopardo[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TVucaMLEDtU
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ngBesMfP9u4/hqdefault.jpg" group-title="Império Selvagem: A Rainha do Norte",[B] [COLOR white]Império Selvagem: A Rainha do Norte[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ngBesMfP9u4
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/07oZV4LNfRE/hqdefault.jpg" group-title="Império Selvagem: Alcateia em Perigo",[B] [COLOR white]Império Selvagem: Alcateia em Perigo[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=07oZV4LNfRE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/auWnXli71GA/hqdefault.jpg" group-title="Indonésia Selvagem",[B] [COLOR white]Indonésia Selvagem[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=auWnXli71GA
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/auWnXli71GA&t=38s/hqdefault.jpg" group-title="Indonésia Selvagem: Reino de Dragões ",[B] [COLOR white]Indonésia Selvagem: Reino de Dragões [/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=auWnXli71GA&t=38s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/M2n4hMpnpgU/hqdefault.jpg" group-title="Leões: Caçadores De Gigantes",[B] [COLOR white]Leões: Caçadores De Gigantes[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=M2n4hMpnpgU
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/dzTDZAgr93w/hqdefault.jpg" group-title="Leões: Caçadores noturnos",[B] [COLOR white]Leões: Caçadores noturnos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dzTDZAgr93w
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3KLtvlCKzYQ/hqdefault.jpg" group-title="Leões: Leões de volta à Savana",[B] [COLOR white]Leões: Leões de volta à Savana[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3KLtvlCKzYQ
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VQp9QyoNsBo/hqdefault.jpg" group-title="Leões: Fraternidade Dos Leões",[B] [COLOR white]Leões: Fraternidade Dos Leões[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VQp9QyoNsBo
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sDKM5_6a17M&t=164s/hqdefault.jpg" group-title="Leões: Nascido Para Reinar Mapogos 1",[B] [COLOR white]Leões: Nascido Para Reinar Mapogos[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sDKM5_6a17M&t=164s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sDKM5_6a17M/hqdefault.jpg" group-title="Leões: Nascido Para Reinar Mapogos 2",[B] [COLOR white]Leões: Nascido Para Reinar Mapogos[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sDKM5_6a17M
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/OiCvqTsFDBE/hqdefault.jpg" group-title="Leões: Os Reis do deserto",[B] [COLOR white]Leões: Os Reis do deserto[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OiCvqTsFDBE
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/X2SvgFqwi8s/hqdefault.jpg" group-title="Leões: Os Últimos Leões de Okavango",[B] [COLOR white]Leões: Os Últimos Leões de Okavango[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=X2SvgFqwi8s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/6zjqxsayNNs/hqdefault.jpg" group-title="Leões: Reino em Perigo",[B] [COLOR white]Leões: Reino em Perigo[/COLOR] [COLOR gold] (hd) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6zjqxsayNNs
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hJlEEXUvqUc/hqdefault.jpg" group-title="Lobos: Alcateia de Lobos",[B] [COLOR white]Lobos: Alcateia de Lobos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hJlEEXUvqUc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/FIdXw4okrm0/hqdefault.jpg" group-title="Macacos: Filhote Cego",[B] [COLOR white]Macacos: Filhote Cego[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FIdXw4okrm0
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/S02uN51tdPQ/hqdefault.jpg" group-title="Macacos: Orangotangos de Sumatra",[B] [COLOR white]Macacos: Orangotangos de Sumatra[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=S02uN51tdPQ
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SK93hG5YxxY/hqdefault.jpg" group-title="Mundo Selvagem: Os 20 Animais que podem matá-lo",[B] [COLOR white]Mundo Selvagem: Os 20 Animais que podem matá-lo[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SK93hG5YxxY
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LpIGk03YqCM&t=2s/hqdefault.jpg" group-title="Natureza Selvagem: Bisão",[B] [COLOR white]Natureza Selvagem: Bisão[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LpIGk03YqCM&t=2s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/IoHDscdJHGM/hqdefault.jpg" group-title="Natureza Selvagem: Kalahari",[B] [COLOR white]Natureza Selvagem: Kalahari[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IoHDscdJHGM
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ohzg1k7r08A/hqdefault.jpg" group-title="Natureza Selvagem: Ilhas Ogasawara 1",[B] [COLOR white]Natureza Selvagem: Ilhas Ogasawara[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ohzg1k7r08A
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/vvLszIVTp_I/hqdefault.jpg" group-title="Natureza Selvagem: Ilhas Ogasawara 2",[B] [COLOR white]Natureza Selvagem: Ilhas Ogasawara[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vvLszIVTp_I
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XEeLxxkVsnU&t=3s/hqdefault.jpg" group-title="Natureza Selvagem: Monte Kilimanjaro",[B] [COLOR white]Natureza Selvagem: Monte Kilimanjaro[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XEeLxxkVsnU&t=3s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DIgY6CwhXMs/hqdefault.jpg" group-title="O Ponto de Vista das Formigas",[B] [COLOR white]O Ponto de Vista das Formigas[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DIgY6CwhXMs
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YWC9Tcf0hjI/hqdefault.jpg" group-title="O Reino dos Oceanos: Predadores do Paraíso",[B] [COLOR white]O Reino dos Oceanos: Predadores do Paraíso[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YWC9Tcf0hjI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lXwY4NTflYM/hqdefault.jpg" group-title="O Reino dos Primata",[B] [COLOR white]O Reino dos Primata[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lXwY4NTflYM
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bMrZhco8ftg/hqdefault.jpg" group-title="Oeste Africano - Deserto da Namíbia",[B] [COLOR white]Oeste Africano - Deserto da Namíbia[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bMrZhco8ftg
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PohQYYTB0xI/hqdefault.jpg" group-title="Os Grandes Felinos",[B] [COLOR white]Os Grandes Felinos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PohQYYTB0xI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mJ8Z8MPGasQ/hqdefault.jpg" group-title="Os incríveis Insetos",[B] [COLOR white]Os incríveis Insetos[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mJ8Z8MPGasQ
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/7sSTiXlFqJw/hqdefault.jpg" group-title="Pantanal Documentário: Animais Selvagens",[B] [COLOR white]Pantanal Documentário: Animais Selvagens[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7sSTiXlFqJw
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/L7n1m91qbJg/hqdefault.jpg" group-title="Planeta Mutante 1",[B] [COLOR white]Planeta Mutante[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L7n1m91qbJg
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XURliYfBRQg/hqdefault.jpg" group-title="Planeta Mutante 2",[B] [COLOR white]Planeta Mutante - Animal Planet[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XURliYfBRQg
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lYZB9OVgZTw/hqdefault.jpg" group-title="Planeta terra: Atravessando os Penhascos ",[B] [COLOR white]Planeta terra: Atravessando os Penhascos [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lYZB9OVgZTw
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/F2Ib642AdkU/hqdefault.jpg" group-title="Planeta Terra - Croácia Selvagem ",[B] [COLOR white]Planeta Terra - Croácia Selvagem [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=F2Ib642AdkU
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Xgrwle46oI8/hqdefault.jpg" group-title="Planeta Terra: Natureza Selvagem",[B] [COLOR white]Planeta Terra: Natureza Selvagem[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Xgrwle46oI8
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/I4G1iyySoMc/hqdefault.jpg" group-title="Planeta Terra: Nosso Lar Dublado",[B] [COLOR white]Planeta Terra: Nosso Lar Dublado[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=I4G1iyySoMc
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/edsmwPCxcyM/hqdefault.jpg" group-title="Planeta Terra: O Homem e a Natureza - Plánicie Africana",[B] [COLOR white]Planeta Terra: O Homem e a Natureza - Plánicie Africana[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=edsmwPCxcyM
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sSu_ccA_RZI&t=3s/hqdefault.jpg" group-title="Planeta Terra: Vespas Assassinas",[B] [COLOR white]Planeta Terra: Vespas Assassinas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sSu_ccA_RZI&t=3s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zH9r4JADTgs/hqdefault.jpg" group-title="Predadores Mortais: Maiores Emboscadas",[B] [COLOR white]Predadores Mortais: Maiores Emboscadas[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zH9r4JADTgs
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1irIRHfJ_gU/hqdefault.jpg" group-title="Reino dos Primatas",[B] [COLOR white]Reino dos Primatas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1irIRHfJ_gU
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CqyHXD-1wYg/hqdefault.jpg" group-title="Rio Kongo ",[B] [COLOR white]O Rio Kongo [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CqyHXD-1wYg
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kR_ObizjU0s/hqdefault.jpg" group-title="Tubarões: O Mistério na Ilha dos Tubarões",[B] [COLOR white]Tubarões:Tubarões: O Mistério na Ilha dos Tubarões[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kR_ObizjU0s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Z1rspHT77hk/hqdefault.jpg" group-title="Um Rio no Céu",[B] [COLOR white]Um Rio no Céu[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Z1rspHT77hk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ESYknlOTCmg/hqdefault.jpg" group-title="Vida Selvagem: Mundo Animal na Indiana",[B] [COLOR white]Vida Selvagem: Mundo Animal na Indiana[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ESYknlOTCmg
