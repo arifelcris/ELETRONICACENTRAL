@@ -29,32 +29,32 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XNWwrc
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/FihVxDHX94M/hqdefault.jpg" group-title="Amazonas Selvagem Berço da Vida",[B] [COLOR white]Amazonas Selvagem Berço da Vida[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FihVxDHX94M
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/R93Ce8tR3pI&t=1386s/hqdefault.jpg" group-title="Amazônia Indomáve l: As Lágrimas da Lua",[B] [COLOR white]Amazônia Indomáve l: As Lágrimas da Lua[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/R93Ce8tR3pI&t=1386s/hqdefault.jpg" group-title="Amazônia Indomáve l: As Lágrimas da Lua",[B] [COLOR white]Amazônia Indomáve l: As Lágrimas da Lua[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R93Ce8tR3pI&t=1386s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/O2KZ94AyU-Q&t=1105s/hqdefault.jpg" group-title="Amazônia Indomável 2: O Nascimento de Xadá",[B] [COLOR white]Amazônia Indomável 2: O Nascimento de Xadá[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/O2KZ94AyU-Q&t=1105s/hqdefault.jpg" group-title="Amazônia Indomável 2: O Nascimento de Xadá",[B] [COLOR white]Amazônia Indomável 2: O Nascimento de Xadá[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O2KZ94AyU-Q&t=1105s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hwZBe7oDz0k&t=138s/hqdefault.jpg" group-title="Amazônia Indomável 3: Os Jacarés e o Mercúrio",[B] [COLOR white]Amazônia Indomável 3: Os Jacarés e o Mercúrio[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hwZBe7oDz0k&t=138s/hqdefault.jpg" group-title="Amazônia Indomável 3: Os Jacarés e o Mercúrio",[B] [COLOR white]Amazônia Indomável 3: Os Jacarés e o Mercúrio[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hwZBe7oDz0k&t=138s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jKQJSiaSJJ4&t=1061s/hqdefault.jpg" group-title="Amazônia Indomável 4: A Noite das Antas",[B] [COLOR white]Amazônia Indomável 4: A Noite das Antas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jKQJSiaSJJ4&t=1061s/hqdefault.jpg" group-title="Amazônia Indomável 4: A Noite das Antas",[B] [COLOR white]Amazônia Indomável 4: A Noite das Antas[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jKQJSiaSJJ4&t=1061s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/b1JVN58P32g/hqdefault.jpg" group-title="Amazônia Indomável 5: A Morte de Luana",[B] [COLOR white]Amazônia Indomável 5: A Morte de Luana[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/b1JVN58P32g/hqdefault.jpg" group-title="Amazônia Indomável 5: A Morte de Luana",[B] [COLOR white]Amazônia Indomável 5: A Morte de Luana[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b1JVN58P32g
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/JV5auum0uKU/hqdefault.jpg" group-title="Amazônia Indomável 6: O Sobrevivente",[B] [COLOR white]Amazônia Indomável 6: O Sobrevivente[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/JV5auum0uKU/hqdefault.jpg" group-title="Amazônia Indomável 6: O Sobrevivente",[B] [COLOR white]Amazônia Indomável 6: O Sobrevivente[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JV5auum0uKU
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/g2YK4OF4D14/hqdefault.jpg" group-title="Amazônia Indomável 7: Mãe Coragem",[B] [COLOR white]Amazônia Indomável 7: Mãe Coragem[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/g2YK4OF4D14/hqdefault.jpg" group-title="Amazônia Indomável 7: Mãe Coragem",[B] [COLOR white]Amazônia Indomável 7: Mãe Coragem[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=g2YK4OF4D14
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eJoIeTwbRH8/hqdefault.jpg" group-title="Amazônia Indomável 8: Crianças da Noite",[B] [COLOR white]Amazônia Indomável 8: Crianças da Noite[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eJoIeTwbRH8/hqdefault.jpg" group-title="Amazônia Indomável 8: Crianças da Noite",[B] [COLOR white]Amazônia Indomável 8: Crianças da Noite[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eJoIeTwbRH8
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/l1cGvs1rH64&t=283s/hqdefault.jpg" group-title="Amazônia Indomável 9: O Triunfo das Águas",[B] [COLOR white]Amazônia Indomável 9: O Triunfo das Águas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/l1cGvs1rH64&t=283s/hqdefault.jpg" group-title="Amazônia Indomável 9: O Triunfo das Águas",[B] [COLOR white]Amazônia Indomável 9: O Triunfo das Águas[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=l1cGvs1rH64&t=283s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/_gFH-HVcAPA&t=1s/hqdefault.jpg" group-title="Amazônia Indomável 10: Os Filhos de Calhoa",[B] [COLOR white]Amazônia Indomável 10: Os Filhos de Calhoa[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/_gFH-HVcAPA&t=1s/hqdefault.jpg" group-title="Amazônia Indomável 10: Os Filhos de Calhoa",[B] [COLOR white]Amazônia Indomável 10: Os Filhos de Calhoa[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_gFH-HVcAPA&t=1s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CxGLR__rtPs&t=1s/hqdefault.jpg" group-title="Amazônia Indomável 11: O Boto que quis morrer",[B] [COLOR white]Amazônia Indomável 11: O Boto que quis morrer[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CxGLR__rtPs&t=1s/hqdefault.jpg" group-title="Amazônia Indomável 11: O Boto que quis morrer",[B] [COLOR white]Amazônia Indomável 11: O Boto que quis morrer[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CxGLR__rtPs&t=1s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/OslQ_NQtbPw/hqdefault.jpg" group-title="Amazônia Indomável 12: Oceano Verde",[B] [COLOR white]Amazônia Indomável 12:Oceano Verde[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/OslQ_NQtbPw/hqdefault.jpg" group-title="Amazônia Indomável 12: Oceano Verde",[B] [COLOR white]Amazônia Indomável 12:Oceano Verde[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OslQ_NQtbPw
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/InTcMCNFWdQ/hqdefault.jpg" group-title="América Indomável - Ep02 - Litorais",[B] [COLOR white]América Indomável - Ep02 - Litorais[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/InTcMCNFWdQ/hqdefault.jpg" group-title="América Indomável - Litorais",[B] [COLOR white]América Indomável - Litorais[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=InTcMCNFWdQ
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mPeNlL6JrcY/hqdefault.jpg" group-title="Animais Perigosos: Sensores de Caça",[B] [COLOR white]Animais Perigosos: Sensores de Caça[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
