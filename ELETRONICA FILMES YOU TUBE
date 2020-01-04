@@ -129,6 +129,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DLSMu1
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/cIbRJ9HvO2A/hqdefault.jpg" group-title="Super Veloses e Mega Furiosos",[B] [COLOR white]Super Veloses e Mega Furiosos[/COLOR] [COLOR gold] (2019) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cIbRJ9HvO2A
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rR_0VTZfjik&t=2160s/hqdefault.jpg" group-title="Um Conto de Fadas Que Aconteceu de Verdade",[B] [COLOR white]Um Conto de Fadas Que Aconteceu de Verdade[/COLOR] [COLOR gold] HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rR_0VTZfjik&t=2160s
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QQu0p-0kRxg/hqdefault.jpg" group-title="Uma Razão para Recomeçar",[B] [COLOR white]Uma Razão para Recomeçar [/COLOR] [COLOR gold] (2018) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QQu0p-0kRxg
 
