@@ -6,7 +6,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2Q93rB
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UW-Zehc_jeM
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HmbiZdJzpeE&t=1072s/hqdefault.jpg" group-title="África: Animais de Kalahari",[B] [COLOR white]África: Animais de Kalahari[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HmbiZdJzpeE&t=1072s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/h2usGY1173A/hqdefault.jpg" group-title="África: Mundo Selvagem da Namibia ",[B] [COLOR white]África: Mundo Selvagem da Namibia[/COLOR] [COLOR gold] (hd) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/h2usGY1173A/hqdefault.jpg" group-title="África: Mundo Selvagem da Namíbia ",[B] [COLOR white]África: Mundo Selvagem da Namíbia[/COLOR] [COLOR gold] (hd) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h2usGY1173A
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5VyurhZ_UzY/hqdefault.jpg" group-title="África: Predadores Africanos",[B] [COLOR white]África: Predadores Africanos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5VyurhZ_UzY
