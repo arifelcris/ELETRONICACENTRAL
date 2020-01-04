@@ -12,6 +12,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YqOsyc
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zT4aFx8OBcY&t=3967s/hqdefault.jpg" group-title="3 Horas de TV Globinho",[B] [COLOR white]3 Horas de TV Globinho[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zT4aFx8OBcY&t=3967s
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GhBf4ClJwoY&t=4s/hqdefault.jpg" group-title="6 Horas de Pato Donald",[B] [COLOR white]6 Horas de Pato Donald[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GhBf4ClJwoY&t=4s
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zXixfIbY-90&t=1938s/hqdefault.jpg" group-title="A Fuga do Planeta Terra 2",[B] [COLOR white]A Fuga do Planeta Terra 2[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zXixfIbY-90&t=1938s
 
@@ -30,18 +33,34 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QOZHi4
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lO-s1BvDlTo&t=1957s/hqdefault.jpg" group-title="Irmãos Guardiões",[B] [COLOR white]Irmãos Guardiões[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lO-s1BvDlTo&t=1957s
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Mqd4nsZ9M1U&t=1s/hqdefault.jpg" group-title="Larva: Babá",[B] [COLOR white]Larva: Babá[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Mqd4nsZ9M1U&t=1s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nM4Ce2LAoEU&t=1s/hqdefault.jpg" group-title="Larva: Bolo de Natal",[B] [COLOR white]Larva: Bolo de Natal[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nM4Ce2LAoEU&t=1s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hNQ_NbLpgE4&t=2476s/hqdefault.jpg" group-title="Larva: Chiclete",[B] [COLOR white]Larva: Chiclete[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hNQ_NbLpgE4&t=2476s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DsBD5Smrp78&t=664s/hqdefault.jpg" group-title="Larva: Coma pouca sal",[B] [COLOR white]Larva: Coma pouca sal[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DsBD5Smrp78&t=664s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Hq-_QoshmfM&t=2s/hqdefault.jpg" group-title="Larva: Desperdício",[B] [COLOR white]Larva: Desperdício[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Hq-_QoshmfM&t=2s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/xwpMLW3Jbrg&t=1s/hqdefault.jpg" group-title="Larva: Diet",[B] [COLOR white]Larva: Diet[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xwpMLW3Jbrg&t=1s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/stGi5ZqmKbg/hqdefault.jpg" group-title="Larva: Fruta Ácida",[B] [COLOR white]Larva: Fruta Ácida[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=stGi5ZqmKbg
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qMYOcrmXRFw&t=1355s/hqdefault.jpg" group-title="Larva: Jogo de Moeda",[B] [COLOR white]Larva: Jogo de Moeda[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qMYOcrmXRFw&t=1355s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Id2rDUh17uw&t=1s/hqdefault.jpg" group-title="Larva: Melhores 2018",[B] [COLOR white]Larva: Melhores 2018[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Id2rDUh17uw&t=1s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/u3TGvyLKM0Q&t=1146s/hqdefault.jpg" group-title="Larva: Melhores Episódios",[B] [COLOR white]Larva: Melhores Episódios[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u3TGvyLKM0Q&t=1146s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VazPUlqRaoY&t=1s/hqdefault.jpg" group-title="Larva: Mola",[B] [COLOR white]Larva: Mola[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VazPUlqRaoY&t=1s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UvIzFu824h0&t=1s/hqdefault.jpg" group-title="Larva: Novo Amor de Amarelo",[B] [COLOR white]Larva: Novo Amor de Amarelo[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UvIzFu824h0&t=1s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Kj6cWGINIO0&t=1s/hqdefault.jpg" group-title="Larva: O chão é lava",[B] [COLOR white]Larva: O chão é lava[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Kj6cWGINIO0&t=1s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hAiI3lRP0HM&t=1s/hqdefault.jpg" group-title="Larva: Spider Man Larva",[B] [COLOR white]Larva: Spider Man Larva[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hAiI3lRP0HM&t=1s
 
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/imoDsJSLaLg/hqdefault.jpg" group-title="Masha e o Urso: As Cores do Outono",[B] [COLOR white]Masha e o Urso: As Cores do Outono[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
@@ -106,6 +125,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nLgCYR
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GLcPpau8LGY&t=1251s/hqdefault.jpg" group-title="O Nascimento de Jesus",[B] [COLOR white]O Nascimento de Jesus[/COLOR] [COLOR gold] () [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GLcPpau8LGY&t=1251s
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jJVbLayHJwA&t=1s/hqdefault.jpg" group-title="O Retorno do Pinoquio",[B] [COLOR white]O Retorno do Pinoquio[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jJVbLayHJwA&t=1s
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DwTct0By94I&t=445s/hqdefault.jpg" group-title="Oko e Lele",[B] [COLOR white]Oko e Lele[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DwTct0By94I&t=445s
 
@@ -133,6 +155,14 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w2GuD7
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rjT86F4Deaw&t=2987s/hqdefault.jpg" group-title="Um Panda em Apuros",[B] [COLOR white]Um Panda em Apuros[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rjT86F4Deaw&t=2987s
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/F32g6D64Z0I&t=3s/hqdefault.jpg" group-title="Uma Fazenda Maluca 1",[B] [COLOR white]Uma Fazenda Maluca 1[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=F32g6D64Z0I&t=3s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/EViu2qK6f1s&t=2s/hqdefault.jpg" group-title="Uma Fazenda Maluca 2",[B] [COLOR white]Uma Fazenda Maluca 2[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EViu2qK6f1s&t=2s
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mK9amlNNEkA&t=1528s/hqdefault.jpg" group-title="Voando Alto",[B] [COLOR white]Voando Alto[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mK9amlNNEkA&t=1528s
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/b94pTvy42ZM/hqdefault.jpg" group-title="Zambezia",[B] [COLOR white]Zambezia[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b94pTvy42ZM
