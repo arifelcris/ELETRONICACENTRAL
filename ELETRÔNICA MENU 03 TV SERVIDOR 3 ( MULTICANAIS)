@@ -1,3 +1,28 @@
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LwtXftR.png" group-title="CANAIS TESTES",[COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/35F1ljd.jpg" group-title="Abertos",DISCOVERY
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]CANAIS ABERTOS[/COLOR][/B]</title>
 <link>here</link>
