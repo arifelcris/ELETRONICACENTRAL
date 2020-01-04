@@ -38,10 +38,11 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DsBD5S
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Hq-_QoshmfM&t=2s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qMYOcrmXRFw&t=1355s/hqdefault.jpg" group-title="Larva: Jogo de Moeda",[B] [COLOR white]Larva: Jogo de Moeda[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qMYOcrmXRFw&t=1355s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Kj6cWGINIO0&t=1s/hqdefault.jpg" group-title="Larva: O chão é lava",[B] [COLOR white]Larva: O chão é lava[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Kj6cWGINIO0&t=1s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/u3TGvyLKM0Q&t=1146s/hqdefault.jpg" group-title="Larva: Melhores Episódios",[B] [COLOR white]Larva: Melhores Episódios[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u3TGvyLKM0Q&t=1146s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Kj6cWGINIO0&t=1s/hqdefault.jpg" group-title="Larva: O chão é lava",[B] [COLOR white]Larva: O chão é lava[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Kj6cWGINIO0&t=1s
+
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/imoDsJSLaLg/hqdefault.jpg" group-title="Masha e o Urso: As Cores do Outono",[B] [COLOR white]Masha e o Urso: As Cores do Outono[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=imoDsJSLaLg
@@ -75,12 +76,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u_jJ2y
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tJOUVHwSIN8
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VZTBmhcc6D4/hqdefault.jpg" group-title="Masha e o Urso: Livros Favoritos De Masha",[B] [COLOR white]Masha e o Urso: Livros Favoritos De Masha[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VZTBmhcc6D4
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Hz5sjIMafDc/hqdefault.jpg" group-title="Masha e o Urso: Maravilhas Do Inverno",[B] [COLOR white]Masha e o Urso: Maravilhas Do Inverno[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Hz5sjIMafDc
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4tSvUa6dwa8/hqdefault.jpg" group-title="Masha e o Urso: Masha e suas amigas",[B] [COLOR white]Masha e o Urso: Masha e suas amigas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4tSvUa6dwa8
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/-457kWwMkWk/hqdefault.jpg" group-title="Masha e o Urso: Masha Uma Fashionista",[B] [COLOR white]Masha e o Urso: Masha Uma Fashionista[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-457kWwMkWk
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Hz5sjIMafDc/hqdefault.jpg" group-title="Masha e o Urso: Maravilhas Do Inverno",[B] [COLOR white]Masha e o Urso: Maravilhas Do Inverno[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Hz5sjIMafDc
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mKfeCK7amXc/hqdefault.jpg" group-title="Masha e o Urso: Quem é o Chefe De Casa?",[B] [COLOR white]Masha e o Urso: Quem é o Chefe De Casa?[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mKfeCK7amXc
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/7hOORD_7OTw/hqdefault.jpg" group-title="Masha e o Urso: Salvando o Natal!",[B] [COLOR white]Masha e o Urso: Salvando o Natal![/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
