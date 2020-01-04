@@ -12,6 +12,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SVibxQ
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qdlAMhLS8Dg/hqdefault.jpg" group-title="A Maldição do Anel",[B] [COLOR white]A Maldição do Anel[/COLOR] [COLOR gold] (2004) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qdlAMhLS8Dg
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GHHJiRVRuVE/hqdefault.jpg" group-title="A Lenda Do Cavalo Prateado",[B] [COLOR white]A Lenda Do Cavalo Prateado[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GHHJiRVRuVE
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ccfOkh2UV8s/hqdefault.jpg" group-title="A Saga do Guerreiro",[B] [COLOR white]A Saga do Guerreiro[/COLOR] [COLOR gold] (2019) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ccfOkh2UV8s
 
@@ -71,6 +74,15 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=J86hX0
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Dt0T4jn-C1o/hqdefault.jpg" group-title="Megatubarão",[B] [COLOR white] Megatubarão[/COLOR] [COLOR gold](2019) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Dt0T4jn-C1o
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3CAibUXctcU/hqdefault.jpg" group-title="Mr Bean: Ano Novo",[B] [COLOR white]Mr Bean: Ano Novo[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3CAibUXctcU
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/pTWAgVmyjJo/hqdefault.jpg" group-title="Mr Bean: Barbeiro",[B] [COLOR white]Mr Bean: Barbeiro[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pTWAgVmyjJo
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zM8XVqeKJvQ&t=2s/hqdefault.jpg" group-title="Mr Bean: Merry Christmas",[B] [COLOR white]Mr Bean: Merry Christmas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zM8XVqeKJvQ&t=2s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/W0F1Og7q9n4/hqdefault.jpg" group-title="Mortal Kombat X",[B] [COLOR white]Mortal Kombat X[/COLOR] [COLOR gold] 4K [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=W0F1Og7q9n4
