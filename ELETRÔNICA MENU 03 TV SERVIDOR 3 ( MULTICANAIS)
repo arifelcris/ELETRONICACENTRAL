@@ -35,7 +35,7 @@
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
 </item>
 
-
+|Referer=https://multicanais.com/player.php?canal=discoverychannelhd
 ##################################################################################################################################
 
 <item>
@@ -51,8 +51,8 @@
 </item>
 
 <item>
-<title>[B][COLOR white] DISCOVERY CHANNEL [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</link>
+<title>[B][COLOR white] DISCOVERY CHANNEL2 [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery.jpg</thumbnail>
 </item>
 
