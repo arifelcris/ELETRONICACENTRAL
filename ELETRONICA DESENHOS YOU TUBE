@@ -6,11 +6,11 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j9espk
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rrKTIJhJukQ&t=5s/hqdefault.jpg" group-title="1 Hora de Pica Pau",[B] [COLOR white]1 Hora de Pica Pau[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rrKTIJhJukQ&t=5s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zT4aFx8OBcY&t=3967s/hqdefault.jpg" group-title="3 Horas de TV Globinho",[B] [COLOR white]3 Horas de TV Globinho[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zT4aFx8OBcY&t=3967s
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YqOsyct3y1A&t=9167s/hqdefault.jpg" group-title="5 Horas de Desenhos Biblicos ",[B] [COLOR white]5 Horas de Desenhos Biblicos [/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YqOsyct3y1A&t=9167s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zT4aFx8OBcY&t=3967s/hqdefault.jpg" group-title="3 Horas de TV Globinho",[B] [COLOR white]3 Horas de TV Globinho[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zT4aFx8OBcY&t=3967s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zXixfIbY-90&t=1938s/hqdefault.jpg" group-title="A Fuga do Planeta Terra 2",[B] [COLOR white]A Fuga do Planeta Terra 2[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zXixfIbY-90&t=1938s
