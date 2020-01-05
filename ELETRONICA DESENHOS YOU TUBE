@@ -39,7 +39,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Mqd4ns
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nM4Ce2LAoEU&t=1s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hNQ_NbLpgE4&t=2476s/hqdefault.jpg" group-title="Larva: Chiclete",[B] [COLOR white]Larva: Chiclete[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hNQ_NbLpgE4&t=2476s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DsBD5Smrp78&t=664s/hqdefault.jpg" group-title="Larva: Coma pouca sal",[B] [COLOR white]Larva: Coma pouca sal[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DsBD5Smrp78&t=664s/hqdefault.jpg" group-title="Larva: Coma pouco sal",[B] [COLOR white]Larva: Coma pouco sal[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DsBD5Smrp78&t=664s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Hq-_QoshmfM&t=2s/hqdefault.jpg" group-title="Larva: Desperdício",[B] [COLOR white]Larva: Desperdício[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Hq-_QoshmfM&t=2s
