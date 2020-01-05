@@ -1,22 +1,4 @@
 
-#EXTM3U
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LwtXftR.png" group-title="CANAIS TESTES",[COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
-http://0.0.0.0
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY
-plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=gRH-P6VR98POONggpCV8EQ&expires=1578105398
-
-#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY
-plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY
-plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://multicanais.com/c00e9f44-ce04-4ce1-804e-4a8a52928221
 
 
 <item>
@@ -72,8 +54,8 @@ plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=h
 </item>
 
 <item>
-<title>[B][COLOR white] DISCOVERY CHANNEL3 [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/</link>
+<title>[B][COLOR white] DISCOVERY CHANNEL4[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php</link>
 <thumbnail>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</thumbnail>
 </item>
 
