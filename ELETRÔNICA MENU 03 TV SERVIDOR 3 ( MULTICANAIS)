@@ -4,27 +4,14 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LwtXftR.png" group-title="CANAIS TESTES",[COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY
-plugin://plugin.video.f4mTester/?name=ariHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?|Referer=https://multicanais.com/player.php?canal=discoverychannelhd
-
-#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY1
-plugin://plugin.video.f4mTester/?name=ariHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?|Referer=https://multicanais.com/player.php?canal=discoverychannelhd
 
 #EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY22
 plugin://plugin.video.f4mTester/?name=ariHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=IyMcPFgceIRaGHD__nMVpQ&expires=1578193243|User-Agent=ExoMedia
 
-#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY22
-plugin://plugin.video.f4mTester/?name=ariHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?|User-Agent=ExoMedia
-
-#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY22
-plugin://plugin.video.f4mTester/?name=ariHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8|User-Agent=ExoMedia
-
-#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY22
-plugin://plugin.video.f4mTester/?name=ariHD&streamtype=HLSRETRY&amp;url=https://multicanais.com/player.php?canal=discoverychannelhd|User-Agent=ExoMedia
+#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY23
+http://fpdownload2.macromedia.com/get/flashplayer/update/current/xml/version_pt_win_pep.xml 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY3
-plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://multicanais.com/c00e9f44-ce04-4ce1-804e-4a8a52928221
 
 
 
@@ -32,7 +19,7 @@ plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=h
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="DISCOVERY CHANNEL ***" tvg-logo="https://1.bp.blogspot.com/-W8paYGcgDKI/Wh8TWYWd60I/AAAAAAAABcc/fHHsSzJ-als0iZO9n5rmBHLLCyH7ghj3gCLcBGAs/s1600/AnimalPlanet.png" group-title="Documentários",ANIMAL PLANET
-https://live.multicanais.com/live/discoverychannelhd/video.m3u8
+https://www.telerik.com/UpdateCheck.aspx?isBeta=False 
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY FHD" tvg-logo="https://2.bp.blogspot.com/-jHasdqgcF7Y/Wh8TWTJ9oBI/AAAAAAAABcg/-wgqU7snsIo4oxWNqS6bvO2fdyOLVRLhgCLcBGAs/s1600/Discovery_Channel2.png" group-title="Documentários",DISCOVERY CHANNEL FHD
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1849.m3u8
