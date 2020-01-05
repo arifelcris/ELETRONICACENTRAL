@@ -13,6 +13,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5Vyurh
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DBC3UTgm8sc/hqdefault.jpg" group-title=África: Savana Africana",[B] [COLOR white]África: Savana Africana[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DBC3UTgm8sc
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GTPLUPOUgas/hqdefault.jpg" group-title="A Guerra da Píton",[B] [COLOR white]A Guerra da Píton[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GTPLUPOUgas
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sJ9AFC8pILI/hqdefault.jpg" group-title="A Ilha dos Dragões: Dragão do Komodo",[B] [COLOR white]A Ilha dos Dragões: Dragão do Komodo[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sJ9AFC8pILI
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4BiUEXXnOFw/hqdefault.jpg" group-title="A Vida Secreta Dos Predadores",[B] [COLOR white]A Vida Secreta Dos Predadores[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4BiUEXXnOFw
 
@@ -76,6 +82,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HlRUz2
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jrGjI0MHwrQ&t=6s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/2dXPiL26eYc/hqdefault.jpg" group-title="Brasil Secreto: Pantanal 2",[B] [COLOR white]Brasil Secreto: Pantanal[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2dXPiL26eYc
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LxSVBcKO5fE/hqdefault.jpg" group-title="Brasil Secreto: Uma Odisseia no Pantanal",[B] [COLOR white]Brasil Secreto: Uma Odisseia no Pantanal[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LxSVBcKO5fE
+
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zrn6C68_PUQ/hqdefault.jpg" group-title="Brasil Selvagem: A Sombra do Gavião - Amazônia",[B] [COLOR white]Brasil Selvagem: A Sombra do Gavião - Amazônia[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zrn6C68_PUQ
@@ -103,8 +112,13 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YQTZxm
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NWptR9b79YE/hqdefault.jpg" group-title="Escola de Predadores: O jogo da caça ",[B] [COLOR white]Escola de Predadores: O jogo da caça [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NWptR9b79YE
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/2-Zop9EtvX8/hqdefault.jpg" group-title="Filhotes Extremos: Assassinos de Nascença",[B] [COLOR white]Filhotes Extremos: Assassinos de Nascença[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2-Zop9EtvX8
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lWWTNq0iD-s/hqdefault.jpg" group-title="Filhotes Extremos: Famílias Corajosas",[B] [COLOR white]Filhotes Extremos: Famílias Corajosas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lWWTNq0iD-s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/tAOka7cKXec/hqdefault.jpg" group-title="Grandes Migrações: Nascidos para Mudar",[B] [COLOR white]Grandes Migrações: Nascidos para Mudar[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tAOka7cKXec
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zszgFC16PoE/hqdefault.jpg" group-title="Guepardo: Instinto de Sobrevivência",[B] [COLOR white]Guepardo: Instinto de Sobrevivência[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zszgFC16PoE
@@ -225,6 +239,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CqyHXD
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kR_ObizjU0s/hqdefault.jpg" group-title="Tubarões: O Mistério na Ilha dos Tubarões",[B] [COLOR white]Tubarões: Tubarões: O Mistério na Ilha dos Tubarões[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kR_ObizjU0s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mz5wMQzlxAs/hqdefault.jpg" group-title="Os Maiores Animais da América do norte",[B] [COLOR white]Os Maiores Animais da América do norte[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mz5wMQzlxAs
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/znaY2KSTElY/hqdefault.jpg" group-title="Tubarões vs Golfinhos",[B] [COLOR white]Tubarões vs Golfinhos[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=znaY2KSTElY
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Z1rspHT77hk/hqdefault.jpg" group-title="Um Rio no Céu",[B] [COLOR white]Um Rio no Céu[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Z1rspHT77hk
