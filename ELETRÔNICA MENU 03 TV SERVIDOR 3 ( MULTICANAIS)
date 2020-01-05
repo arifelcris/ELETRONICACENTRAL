@@ -11,7 +11,16 @@ plugin://plugin.video.f4mTester/?name=ariHD&streamtype=HLSRETRY&amp;url=https://
 https://live.multicanais.com/live/discoverychannelhd/video.m3u8?|Referer=https://multicanais.com/player.php?canal=discoverychannelhd
 
 #EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY2
-https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd
+https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=IyMcPFgceIRaGHD__nMVpQ&expires=1578193243|User-Agent=ExoMedia
+
+#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY2
+https://live.multicanais.com/live/discoverychannelhd/video.m3u8?|User-Agent=ExoMedia
+
+#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY2
+https://live.multicanais.com/live/discoverychannelhd/video.m3u8|User-Agent=ExoMedia
+
+#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY2
+https://multicanais.com/player.php?canal=discoverychannelhd|User-Agent=ExoMedia
 
 
 #EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY3
