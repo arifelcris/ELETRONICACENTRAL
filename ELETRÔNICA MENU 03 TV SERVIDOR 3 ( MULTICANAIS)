@@ -1,3 +1,57 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LwtXftR.png" group-title="CANAIS TESTES",[COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY
+plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=gRH-P6VR98POONggpCV8EQ&expires=1578105398
+
+#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY
+plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.jpg" group-title="Abertos",DISCOVERY
+plugin://plugin.video.f4mTester/?name=arifelcrisHD&streamtype=HLSRETRY&amp;url=https://multicanais.com/c00e9f44-ce04-4ce1-804e-4a8a52928221
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mV8ckcy.png" group-title="DOCUMENTÁRIOS",[COLOR white][B][B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="DISCOVERY CHANNEL ***" tvg-logo="https://1.bp.blogspot.com/-W8paYGcgDKI/Wh8TWYWd60I/AAAAAAAABcc/fHHsSzJ-als0iZO9n5rmBHLLCyH7ghj3gCLcBGAs/s1600/AnimalPlanet.png" group-title="Documentários",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=EletronicaHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY FHD" tvg-logo="https://2.bp.blogspot.com/-jHasdqgcF7Y/Wh8TWTJ9oBI/AAAAAAAABcg/-wgqU7snsIo4oxWNqS6bvO2fdyOLVRLhgCLcBGAs/s1600/Discovery_Channel2.png" group-title="Documentários",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1849.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY ***" tvg-logo="https://3.bp.blogspot.com/-ZMjdaD1tEec/Wh8TXqDSXPI/AAAAAAAABcw/UtDkbUuZ0fwSGJ_C0unvH2tGxOdtk_WiQCLcBGAs/s1600/Discovery_Investigacao.png" group-title="Documentários",DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1850.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH **" tvg-logo="https://1.bp.blogspot.com/-0ZRpk7mF8v4/Wh8TXOn_pnI/AAAAAAAABcs/69goEmbY4pwU_3x3keYW-abZR3z090ntACLcBGAs/s1600/Discovery_HomeHealth.png" group-title="Documentários",DISCOVERY HOME & HEALTH
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1848.m3u8
+
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/Y24RDog.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/2961.ts?|User-Agent=ExoMedia
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/3033.ts?|User-Agent=ExoMedia
+
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/3135.ts?|User-Agent=ExoMedia
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="DOCUMENTARIOS",NAT GEO HD
+http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/3012.ts?|User-Agent=ExoMedia
+
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://i.imgur.com/bbcEtgv.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION HD
+http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/3320.ts?|User-Agent=ExoMedia
+
+
+
+
+###################################################################################################################
 
 
 
@@ -53,77 +107,11 @@
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Animal%20Planet.png</thumbnail>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[B][COLOR white] DISCOVERY CHANNEL4[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php</link>
-<thumbnail>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</thumbnail>
-</item>
-
 <item>
 <title>[B][COLOR white] DISCOVERY CHANNEL[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</link>
 <thumbnail>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</thumbnail>
 </item>
-
-<item>
-<title>[B][COLOR white] DISCOVERY CHANNEL[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/</link>
-<thumbnail>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] DISCOVERY CHANNEL[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8</link>
-<thumbnail>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] DISCOVERY CHANNEL[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://live.multicanais.com</link>
-<thumbnail>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] DISCOVERY CHANNEL[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=IyMcPFgceIRaGHD__nMVpQ&expires=1578193243|Referer=https://live.multicanais.com</link>
-<thumbnail>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <item> 
 <title>[B][COLOR white] DISCOVERY HOME & HEALTH [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
