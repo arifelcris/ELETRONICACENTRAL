@@ -106,11 +106,17 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cP-OuQ
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HwZC9rjoLsQ/hqdefault.jpg" group-title="Croácia Selvagem",[B] [COLOR white]Croácia Selvagem[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HwZC9rjoLsQ
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/x0688ah1v8g&t=4s/hqdefault.jpg" group-title="Deserto: Sobrevivência por instinto",[B] [COLOR white]Deserto: Sobrevivência por instinto[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=x0688ah1v8g&t=4s
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YQTZxmFTW48/hqdefault.jpg" group-title="Destino Selvagem: Rio Nilo do Egito a Africa",[B] [COLOR white]Destino Selvagem: Rio Nilo do Egito a Africa[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YQTZxmFTW48
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NWptR9b79YE/hqdefault.jpg" group-title="Escola de Predadores: O jogo da caça ",[B] [COLOR white]Escola de Predadores: O jogo da caça [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NWptR9b79YE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/u3VEjOwb8Oo/hqdefault.jpg" group-title="Europa Selvagem",[B] [COLOR white]Europa Selvagem[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u3VEjOwb8Oo
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/2-Zop9EtvX8/hqdefault.jpg" group-title="Filhotes Extremos: Assassinos de Nascença",[B] [COLOR white]Filhotes Extremos: Assassinos de Nascença[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2-Zop9EtvX8
@@ -180,17 +186,30 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SK93hG
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LpIGk03YqCM&t=2s/hqdefault.jpg" group-title="Natureza Selvagem: Bisão",[B] [COLOR white]Natureza Selvagem: Bisão[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LpIGk03YqCM&t=2s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/IoHDscdJHGM/hqdefault.jpg" group-title="Natureza Selvagem: Kalahari",[B] [COLOR white]Natureza Selvagem: Kalahari[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IoHDscdJHGM
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/FJ3FDh3oULk/hqdefault.jpg" group-title="Natureza Selvagem: Crustáceos",[B] [COLOR white]Natureza Selvagem: Crustáceos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FJ3FDh3oULk
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kDRkP2b30Wc/hqdefault.jpg" group-title="Natureza Selvagem: Florida 1 Part",[B] [COLOR white]Natureza Selvagem: Florida 1 Part[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kDRkP2b30Wc
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/L3TJL5jbmp8/hqdefault.jpg" group-title="Natureza Selvagem: Florida 2 Part",[B] [COLOR white]Natureza Selvagem: Florida 2 Part[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L3TJL5jbmp8
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ohzg1k7r08A/hqdefault.jpg" group-title="Natureza Selvagem: Ilhas Ogasawara 1",[B] [COLOR white]Natureza Selvagem: Ilhas Ogasawara[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ohzg1k7r08A
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/vvLszIVTp_I/hqdefault.jpg" group-title="Natureza Selvagem: Ilhas Ogasawara 2",[B] [COLOR white]Natureza Selvagem: Ilhas Ogasawara[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vvLszIVTp_I
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/IoHDscdJHGM/hqdefault.jpg" group-title="Natureza Selvagem: Kalahari 1",[B] [COLOR white]Natureza Selvagem: Kalahari[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IoHDscdJHGM
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Klz8vb14Pxk/hqdefault.jpg" group-title="Natureza Selvagem: Kalahari 2",[B] [COLOR white]Natureza Selvagem: Kalahari[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Klz8vb14Pxk
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XEeLxxkVsnU&t=3s/hqdefault.jpg" group-title="Natureza Selvagem: Monte Kilimanjaro",[B] [COLOR white]Natureza Selvagem: Monte Kilimanjaro[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XEeLxxkVsnU&t=3s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PK6krPOgZXY/hqdefault.jpg" group-title="O Mundo Secreto dos Crustáceos",[B] [COLOR white]O Mundo Secreto dos Crustáceos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PK6krPOgZXY
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DIgY6CwhXMs/hqdefault.jpg" group-title="O Ponto de Vista das Formigas",[B] [COLOR white]O Ponto de Vista das Formigas[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DIgY6CwhXMs
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/gt8s04d0kz8&t=1323s/hqdefault.jpg" group-title="O Predador Hábil Puma",[B] [COLOR white]O Predador Hábil Puma[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gt8s04d0kz8&t=1323s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YWC9Tcf0hjI/hqdefault.jpg" group-title="O Reino dos Oceanos: Predadores do Paraíso",[B] [COLOR white]O Reino dos Oceanos: Predadores do Paraíso[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YWC9Tcf0hjI
@@ -200,6 +219,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lXwY4N
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bMrZhco8ftg/hqdefault.jpg" group-title="Oeste Africano - Deserto da Namíbia",[B] [COLOR white]Oeste Africano - Deserto da Namíbia[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bMrZhco8ftg
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/j921PbUsXmY&t=1036s/hqdefault.jpg" group-title="Os Caçadores da África: O último combate",[B] [COLOR white]Os Caçadores da África: O último combate[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j921PbUsXmY&t=1036s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PohQYYTB0xI/hqdefault.jpg" group-title="Os Grandes Felinos",[B] [COLOR white]Os Grandes Felinos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PohQYYTB0xI
