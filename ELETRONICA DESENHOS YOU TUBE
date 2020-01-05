@@ -149,6 +149,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=moNfzT
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/gS4ThZatQyU&t=9s/hqdefault.jpg" group-title="Romeu O Vira Lata Atrapalhado",[B] [COLOR white]Romeu O Vira Lata Atrapalhado[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gS4ThZatQyU&t=9s
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iDVSdiCSkTc/hqdefault.jpg" group-title="Suki na Savana",[B] [COLOR white]Suki na Savana[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iDVSdiCSkTc
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/w2GuD7ynWVw&t=1835s/hqdefault.jpg" group-title="Touro Ferdinando",[B] [COLOR white]Touro Ferdinando[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w2GuD7ynWVw&t=1835s
 
