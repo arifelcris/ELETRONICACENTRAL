@@ -29,14 +29,14 @@ plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=http://89.163.146.52:25461/live/3216546447.expires==/321654654987564/1848.m3u8
 
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/Y24RDog.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
-http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/2961.ts?|User-Agent=ExoMedia
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 12" tvg-logo="https://i.imgur.com/Y24RDog.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=ariHD&streamtype=HLSRETRY&amp;url=https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/3033.ts?|User-Agent=ExoMedia
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 12" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+https://multicanais.com/assistir-discovery-turbo-ao-vivo-online-24-horas/
 
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
-http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/3135.ts?|User-Agent=ExoMedia
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD 12" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+https://multicanais.com/assistir-discovery-turbo-ao-vivo-online-24-horas/
 
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="DOCUMENTARIOS",NAT GEO HD
 http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/3012.ts?|User-Agent=ExoMedia
