@@ -1,21 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" type="yt-dl",yt-dl test
+http://link.brightcove.com/services/player/bcpid756015033001?bckey=AQ~~,AAAApYJi_Ck~,GxhXCegT1Dp39ilhXuxMJxasUhVNZiil&bctid=2878862109001
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,youtube plugin
+plugin://plugin.video.youtube/play/?video_id=YoB8t0B4jx4
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 12" tvg-logo="https://i.imgur.com/Y24RDog.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 1HD
-plugin://plugin.video.f4mTester/?name=ariHD&streamtype=HLSRETRY&amp;url=https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/
+#EXTINF:-1 tvg-logo="Amedia Premium HD.png",rtmp test
+https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 12" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 1HD
-https://multicanais.com/assistir-discovery-turbo-ao-vivo-online-24-horas/
+#EXTINF:-1 ,rtmp test2
+rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/ live=1 pageUrl=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
 
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD 12" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTARIOS",NAT GEO WILD 1HD
-https://multicanais.com/assistir-discovery-turbo-ao-vivo-online-24-horas/
+#EXTINF:-1 ,rtmp test3
+rtmpe://46.246.29.154:1935/live/ playpath=rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10
 
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="DOCUMENTARIOS",NAT GEO HD
-http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/3012.ts?|User-Agent=ExoMedia
-
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://i.imgur.com/bbcEtgv.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION HD
-http://main1.aliendevapp.com:25461/live/chanelsHD/aK1hHRLHquBBlPAsEA/3320.ts?|User-Agent=ExoMedia
+#EXTINF:-1 ,rtmp test4
+rtmpe://https://multicanais.com/tvonline/ playpath=spremsp swfUrl=https://multicanais.com/tvonline/ pageUrl=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=xGby85G6ElH_bAzmegXr6A&expires=1578366937 token=#yw%tt#w@kku
+#EXTINF: -1,[COLOR white]Movie 3[/COLOR]
+https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=xGby85G6ElH_bAzmegXr6A&expires=1578366937
 
 
 
