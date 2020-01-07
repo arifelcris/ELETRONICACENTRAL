@@ -1,30 +1,3 @@
-#EXTM3U
-
-
-#EXTINF:-1 ,rtmp test4
-rtmpe://https://multicanais.com/tvonline/ playpath=spremsp swfUrl=https://multicanais.com/tvonline/ pageUrl=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=xGby85G6ElH_bAzmegXr6A&expires=1578366937 token=#yw%tt#w@kku
-
-#EXTINF: -1,[COLOR white]Movie 1[/COLOR]
-https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=xGby85G6ElH_bAzmegXr6A&expires=1578366937|User-Agent=https://multicanais.com/tvonline/
-
-#EXTINF: -1,[COLOR white]Movie 2[/COLOR]
-https://live.multicanais.com/live/discoverychannelhd/video.m3u8?|User-Agent=https://multicanais.com/tvonline/
-
-#EXTINF: -1,[COLOR white]Movie 2[/COLOR]
-https://live.multicanais.com/live/discoverychannelhd/video.m3u8|User-Agent=https://multicanais.com/tvonline/
-
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY ***" tvg-logo="https://3.bp.blogspot.com/-ZMjdaD1tEec/Wh8TXqDSXPI/AAAAAAAABcw/UtDkbUuZ0fwSGJ_C0unvH2tGxOdtk_WiQCLcBGAs/s1600/Discovery_Investigacao.png" group-title="Documentários",DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
-
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY ***" tvg-logo="https://3.bp.blogspot.com/-ZMjdaD1tEec/Wh8TXqDSXPI/AAAAAAAABcw/UtDkbUuZ0fwSGJ_C0unvH2tGxOdtk_WiQCLcBGAs/s1600/Discovery_Investigacao.png" group-title="Documentários",DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=xGby85G6ElH_bAzmegXr6A&expires=1578366937
-
-
-
-###################################################################################################################
-
-
-
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]CANAIS ABERTOS[/COLOR][/B]</title>
 <link>here</link>
@@ -73,13 +46,13 @@ plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https
 
 <item>
 <title>[B][COLOR white]ANIMAL PLANET [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://live.multicanais.com/live/animalplanetsd/video.m3u8|Referer=https://multicanais.com/player.php?canal=animalplanetsd</link>
+<link>https://live.multicanais.com/live/animalplanetsd/video.m3u8?|Referer=https://multicanais.com/player.php?canal=animalplanetsd</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Animal%20Planet.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] DISCOVERY CHANNEL[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</link>
+<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8?|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</link>
 <thumbnail>https://live.multicanais.com/live/discoverychannelhd/video.m3u8|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</thumbnail>
 </item>
 
