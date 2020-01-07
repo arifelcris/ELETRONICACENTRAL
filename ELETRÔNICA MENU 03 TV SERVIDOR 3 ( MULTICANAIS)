@@ -1,25 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" type="yt-dl",yt-dl test
-http://link.brightcove.com/services/player/bcpid756015033001?bckey=AQ~~,AAAApYJi_Ck~,GxhXCegT1Dp39ilhXuxMJxasUhVNZiil&bctid=2878862109001
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,youtube plugin
-plugin://plugin.video.youtube/play/?video_id=YoB8t0B4jx4
-
-#EXTINF:-1 tvg-logo="Amedia Premium HD.png",rtmp test
-https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/
-
-#EXTINF:-1 ,rtmp test2
-rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/ live=1 pageUrl=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
-
-#EXTINF:-1 ,rtmp test3
-rtmpe://46.246.29.154:1935/live/ playpath=rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10
 
 #EXTINF:-1 ,rtmp test4
 rtmpe://https://multicanais.com/tvonline/ playpath=spremsp swfUrl=https://multicanais.com/tvonline/ pageUrl=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=xGby85G6ElH_bAzmegXr6A&expires=1578366937 token=#yw%tt#w@kku
-#EXTINF: -1,[COLOR white]Movie 3[/COLOR]
-https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=xGby85G6ElH_bAzmegXr6A&expires=1578366937
 
+#EXTINF: -1,[COLOR white]Movie 1[/COLOR]
+https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=xGby85G6ElH_bAzmegXr6A&expires=1578366937|User-Agent=https://multicanais.com/tvonline/
+
+#EXTINF: -1,[COLOR white]Movie 2[/COLOR]
+https://live.multicanais.com/live/discoverychannelhd/video.m3u8?|User-Agent=https://multicanais.com/tvonline/
+
+#EXTINF: -1,[COLOR white]Movie 2[/COLOR]
+https://live.multicanais.com/live/discoverychannelhd/video.m3u8|User-Agent=https://multicanais.com/tvonline/
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY ***" tvg-logo="https://3.bp.blogspot.com/-ZMjdaD1tEec/Wh8TXqDSXPI/AAAAAAAABcw/UtDkbUuZ0fwSGJ_C0unvH2tGxOdtk_WiQCLcBGAs/s1600/Discovery_Investigacao.png" group-title="Documentários",DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY ***" tvg-logo="https://3.bp.blogspot.com/-ZMjdaD1tEec/Wh8TXqDSXPI/AAAAAAAABcw/UtDkbUuZ0fwSGJ_C0unvH2tGxOdtk_WiQCLcBGAs/s1600/Discovery_Investigacao.png" group-title="Documentários",DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=HLSRETRY&amp;url=https://live.multicanais.com/live/discoverychannelhd/video.m3u8?md5=xGby85G6ElH_bAzmegXr6A&expires=1578366937
 
 
 
