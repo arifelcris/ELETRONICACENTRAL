@@ -16,6 +16,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Oe8Z4s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3q6cbR-J16A/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3q6cbR-J16A
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Q14mJkZTA9E/hqdefault.jpg" group-title="JOVEM PAN LIVE (RÁDIO) ",[B] [COLOR white]JOVEM PAN LIVE [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Q14mJkZTA9E
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1J6N_oJ-_TM/hqdefault.jpg" group-title="MEGA TV",[B] [COLOR white]MEGA TV [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1J6N_oJ-_TM
 
