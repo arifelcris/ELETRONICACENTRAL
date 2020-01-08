@@ -31,7 +31,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AOgaFt
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/i4pHalUONcY/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (RJ)[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i4pHalUONcY
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bPGeb-FkOsU/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (BRASÍLIA) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eDXx1TnU0lQ/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (BRASÍLIA) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=eDXx1TnU0lQ
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LwcTWxegMOE/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT SCC (SC) [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
@@ -43,8 +43,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KYZW8F
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/fEp5qLYfWwk/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT VTV (SANTOS E CAMPINAS) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fEp5qLYfWwk
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ktro03T7pbw/hqdefault.jpg" group-title="TV A CRÍTICA",[B] [COLOR white]TV A CRÍTICA [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ktro03T7pbw
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SPif2ODfepY/hqdefault.jpg" group-title="TV A CRÍTICA",[B] [COLOR white]TV A CRÍTICA [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SPif2ODfepY
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mdHp4gWqOUg/hqdefault.jpg" group-title="TV HORIZONTE",[B] [COLOR white]TV HORIZONTE[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mdHp4gWqOUg
