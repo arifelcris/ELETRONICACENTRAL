@@ -4,7 +4,7 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNpcBkZAclR7gOm6RYMTvrIHCQlCcDLZcoNCNj-Jrybv-hY1DY</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] BAND [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
 <link>https://evpp.mm.uol.com.br/geob_band/brasilurgente/chunklist_w303942231.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzdDhbMqf8HurmuYU2skxVrJ4GRLfEHC61lD-odZmkpDGvkrAw</thumbnail>
@@ -16,7 +16,7 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoGVToyWgpPlgsPh4Gh83pWjz5-SATbpfePbeqNCKtFwFtKzli</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] CANAL 10 (FOZ DO IGUAÇU)[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w1914094782.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoGVToyWgpPlgsPh4Gh83pWjz5-SATbpfePbeqNCKtFwFtKzli</thumbnail>
@@ -46,7 +46,7 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] JORNAL RECORD [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
 <link>https://r7live15-lh.akamaihd.net/i/pgm15_1@833327/index_480_av-p.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNorw4WgGOgFPTWJO4DQWoW2r4c7OP9ly44kTk-PhPoXTidb7g</thumbnail>
@@ -70,15 +70,9 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdnpW5Zhp8g8QjVnBiw4S-jxXF3_GT_uny2ErhOS8ghWMBzpk3</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] REDE FAMÍLIA [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b2442736.m3u8</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuvo8nW5xStrXwJpaRaKWIr-iAJ3GWtpm_7pqufM5FQEPPoEns</thumbnail>
-</item>
-
 <item>
 <title>[B][COLOR white] REDE FAMÍLIA (CAMPINAS) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
-<link>https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b2835236.m3u8</link>
+<link>https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b830160.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuvo8nW5xStrXwJpaRaKWIr-iAJ3GWtpm_7pqufM5FQEPPoEns</thumbnail>
 </item> 
 
@@ -86,12 +80,6 @@ item>
 <title>[B][COLOR white] REDE GOSPEL [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>https://frn.rtsp.me/o7syjmsLO69pVTbzrLYLQw/1577849185/hls/yzK7dHKn.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0Jg8FXAAUj-AfwWwkZRaHxDA96XKdcc2APiZr0UNNP3lk2O42</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] REDE MEIONORTE (PI) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://player-api.new.livestream.com/accounts/3332377/events/8939020/broadcasts/200342535.secure.m3u8</link>
-<thumbnail>https://www.meionorte.com/assets/redemeionorte.png</thumbnail>
 </item>
 
 <item>
@@ -107,20 +95,20 @@ item>
 </item>
 
 item>
-<title>[B][COLOR white] REDE TV (LINK 1)[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w665158316.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4o5yFlPsr19N7vIIoVFZSH3chn9cswlPWTg3gdFr3pg8Cg3xX</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] REDE TV (LINK 2)[/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE TV [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
 <link>http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w360677441.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4o5yFlPsr19N7vIIoVFZSH3chn9cswlPWTg3gdFr3pg8Cg3xX</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white] REDE TVT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G-AOO0DJAxz-Ng61m8ILJWE)/dm/3/x6ph7x7/s/live-0.m3u8</link>
+<link>https://stream-04.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G5_jx2mnM46iBcV3L55mJCo)/dm/3/x6ph7x7/s/live-0.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9qdSUPB_A43ZiA2n8SxRbjZE9z-bjautMZVCNoYATBFELxVGS</thumbnail>
 </item>
 
@@ -167,7 +155,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] TV CIDADE 10 (RS) [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV CIDADE 10 (RS) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUYG_oIHDU_HCINpuSVKyo8w4Qq_2EE9do4ww5vVO4C82p2oOH</thumbnail>
 </item>
@@ -262,13 +250,13 @@ item>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZS3-1kNuS2CNPZvLg6z6gfDC64g2Xl91uAvfmK32quSyHuyX7</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] SESC TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] UNIT TV (PORTO ALEGRE) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
 <link>http://www.unitv.tv.br/aovivo.html</link>
 <thumbnail>http://cdn-radiotime-logos.tunein.com/s85137g.png</thumbnail>
