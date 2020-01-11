@@ -21,7 +21,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zXixfI
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/yVIOMaalXbg/hqdefault.jpg" group-title="Amigos alienígenas",[B] [COLOR white]Amigos alienígenas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yVIOMaalXbg
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3cyiEC9xMhA&t=1367s/hqdefault.jpg" group-title="As Aventurasde Ozzy",[B] [COLOR white]As Aventurasde Ozzy[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3cyiEC9xMhA&t=1367s/hqdefault.jpg" group-title="As Aventuras de Ozzy",[B] [COLOR white]As Aventuras de Ozzy[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3cyiEC9xMhA&t=1367s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/_4KcnJRXADM&t=1963s/hqdefault.jpg" group-title="Bunyan e Baby",[B] [COLOR white]Bunyan e Baby[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
