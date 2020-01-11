@@ -18,6 +18,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GhBf4C
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zXixfIbY-90&t=1938s/hqdefault.jpg" group-title="A Fuga do Planeta Terra 2",[B] [COLOR white]A Fuga do Planeta Terra 2[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zXixfIbY-90&t=1938s
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/yVIOMaalXbg/hqdefault.jpg" group-title="Amigos alienígenas",[B] [COLOR white]Amigos alienígenas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yVIOMaalXbg
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3cyiEC9xMhA&t=1367s/hqdefault.jpg" group-title="As Aventurasde Ozzy",[B] [COLOR white]As Aventurasde Ozzy[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3cyiEC9xMhA&t=1367s
 
