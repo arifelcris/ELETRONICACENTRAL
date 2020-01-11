@@ -116,6 +116,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-Tsy9m
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VSfoV_xrh78/hqdefault.jpg" group-title="Masha e o Urso: Viva! Verão! Férias! ",[B] [COLOR white]Masha e o Urso: Viva! Verão! Férias! [/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VSfoV_xrh78
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/emGFavNv-CY/hqdefault.jpg" group-title="Missão cegonha ",[B] [COLOR white]Missão cegonha [/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=emGFavNv-CY
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BBHXKSmJ28A&t=5s/hqdefault.jpg" group-title="Mr Bean",[B] [COLOR white]Mr Bean[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BBHXKSmJ28A&t=5s
 
@@ -136,6 +139,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=S_pgwj
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/p8k_5-NirZI&t=1432s/hqdefault.jpg" group-title="Paneta 51",[B] [COLOR white]Planeta 51[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p8k_5-NirZI&t=1432s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/dai94URnsoY/hqdefault.jpg" group-title="Pássaros Livres",[B] [COLOR white]Pássaros Livres[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dai94URnsoY
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/169k5FmiJ0k&t=4s/hqdefault.jpg" group-title="Ploey Você Nunca Voará Só",[B] [COLOR white]Ploey Você Nunca Voará Só[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=169k5FmiJ0k&t=4s
