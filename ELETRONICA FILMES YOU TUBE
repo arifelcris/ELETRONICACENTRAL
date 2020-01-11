@@ -45,9 +45,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mfOABy
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5pUaRiyeozM/hqdefault.jpg" group-title="Aventura Perigosa ",[B] [COLOR white]Aventura Perigosa [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5pUaRiyeozM
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jKt100tzyr4/hqdefault.jpg" group-title="Batman: O Cavaleiro das Trevas",[B] [COLOR white]Batman: O Cavaleiro das Trevas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jKt100tzyr4
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/TGWf_ZOjBLE/hqdefault.jpg" group-title="Beijar e Chorar ",[B] [COLOR white]Beijar e Chorar [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TGWf_ZOjBLE
 
