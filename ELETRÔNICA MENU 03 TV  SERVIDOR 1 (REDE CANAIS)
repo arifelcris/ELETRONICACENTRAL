@@ -50,7 +50,7 @@
 
 <item>
 <title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://cdn.canais.link/hls1/discovery.m3u8</link>
+<link>https://cdn.canais.link/hls1/discovery.m3u8|Referer=https://canaisgratis.org/player3/canais.php?canal=discovery&img=discovery</link>
 <thumbnail>https://ia801409.us.archive.org/14/items/canaisgerais/LOGO%20CANAIS/Discovery.jpg</thumbnail>
 </item>
 
