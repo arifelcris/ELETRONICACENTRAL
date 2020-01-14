@@ -51,26 +51,8 @@
 </item>
 
 <item>
-<title>[B][COLOR white] DISCOVERY CHANNEL111[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/live.multicanais.com/live/discoverychannelhd/video.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] DISCOVERY CHANNEL222[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/live/discoverychannelhd/video.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] DISCOVERY CHANNEL33[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/discoverychannelhd/video.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white] DISCOVERY CHANNEL444[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://multicanais.com/assistir-discovery-channel-ao-vivo-online-24-horas/video.m3u8</link>
+<title>[B][COLOR white] DISCOVERY CHANNEL[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://live.multicanais.com/live/discoverychannelhd/video.m3u8?|Referer=https://multicanais.com/player.php?canal=discoverychannelhd</link>
 <thumbnail></thumbnail>
 </item>
 
