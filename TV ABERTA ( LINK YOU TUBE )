@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/89SU5yXcDvI/hqdefault.jpg" group-title="dc",[B] [COLOR white]DC [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+https://cdn.multicanais.com/live/discoverychannelhd/2020/01/15/02/33/08-05005.ts
+
+
+#EXTINF:5.005,
+https://cdn.multicanais.com/live/discoverychannelhd/2020/01/15/02/33/08-05005.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/89SU5yXcDvI/hqdefault.jpg" group-title="CANAL RIT",[B] [COLOR white]CANAL RIT [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
