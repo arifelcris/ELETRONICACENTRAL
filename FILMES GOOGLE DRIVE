@@ -14,9 +14,9 @@
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando Alita desperta sem memória de quem é, em um mundo futurístico que não reconhece, ela é levada por Ido, um médico compassivo que percebe que em algum lugar nesta casca de ciborgue abandonada está o coração e alma de uma jovem mulher com um passado extraordinário. Enquanto Alita aprende a navegar sua nova vida e as ruas traiçoeiras da Cidade de Ferro, Ido tenta protegê-la de sua misteriosa história, enquanto seu novo amigo de rua Hugo oferece ajuda para recuperar suas memórias. Mas é somente quando as forças mortais e corruptas que controlam a cidade vêm atrás de Alita que ela descobre uma pista de seu passado, ela tem habilidades únicas de combate que os que estão no poder não conseguem controlar. Se ela puder ficar fora de seu alcance, pode ser a chave para salvar seus amigos, sua família e o mundo que ela está amando.[/B][/COLOR]</info>
 </item>
 
-item>
+<item>
 <title>[B]Deadpool - [COLOR deeppink](2016)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=aqui</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Cu5Pp8v0uxI8hd__WeIdREAoID_Y8r4D/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ehjmoNsgH9RmlGiAfYzN2whps.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ehjmoNsgH9RmlGiAfYzN2whps.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.[/B][/COLOR]</info>
@@ -159,7 +159,15 @@ item>
 </item>
 
 <item>
-<title>[B]O Retorno da Múmia - [COLOR deeppink](2001)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B]O Homem do Tai Chi- [COLOR deeppink](2013)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oMEZjdhP3CjaMzf3_oKC836wJiQBzygd/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4UAgCGZzErT1l5YQaHL1RPzpN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4UAgCGZzErT1l5YQaHL1RPzpN.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um jovem praticante de artes marciais deixa de lado sua vida pacata vida em Pequim para disputar o campeonato Wulin Wang. O que ele não esperava era ter que lidar com o submundo da cidade para proteger o legado de seu local de nascimento, Ling Kong Tai Chi.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]O Retorno da Múmia - [COLOR deeppink](2001)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1maeF_Svcqq-bt47Cqaqr8-ShrP_a2Fx6/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9BH2p1zinSx5EZ1xD89PCOJl48.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9BH2p1zinSx5EZ1xD89PCOJl48.jpg</fanart>
