@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UbDQr_BcZTk/hqdefault.jpg" group-title="9 a Salvação",[B] [COLOR white]9 a Salvação[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=watch?v=UbDQr_BcZTk
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rrKTIJhJukQ&t=5s/hqdefault.jpg" group-title="1 Hora de Pica Pau",[B] [COLOR white]1 Hora de Pica Pau[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rrKTIJhJukQ&t=5s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/v=UbDQr_BcZTk/hqdefault.jpg" group-title="1 Hora de Pica Pau",[B] [COLOR white]1 Hora de Pica Pau[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=v=UbDQr_BcZTk
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YqOsyct3y1A&t=9167s/hqdefault.jpg" group-title="5 Horas de Desenhos Biblicos ",[B] [COLOR white]5 Horas de Desenhos Biblicos [/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YqOsyct3y1A&t=9167s
