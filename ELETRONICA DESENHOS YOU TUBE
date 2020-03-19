@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/j9espk2ZPEw&t=1061s/hqdefault.jpg" group-title="9 a Salvação",[B] [COLOR white]9 a Salvação[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j9espk2ZPEw&t=1061s
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/watch?v=UbDQr_BcZTk/hqdefault.jpg" group-title="9 a Salvação",[B] [COLOR white]9 a Salvação[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=watch?v=UbDQr_BcZTk
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rrKTIJhJukQ&t=5s/hqdefault.jpg" group-title="1 Hora de Pica Pau",[B] [COLOR white]1 Hora de Pica Pau[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rrKTIJhJukQ&t=5s
