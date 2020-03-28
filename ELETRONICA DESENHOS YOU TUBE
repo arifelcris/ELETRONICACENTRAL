@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UbDQr_BcZTk/hqdefault.jpg" group-title="9 a Salvação",[B] [COLOR white]9 a Salvação[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=watch?v=UbDQr_BcZTk
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/v=UbDQr_BcZTk/hqdefault.jpg" group-title="1 Hora de Pica Pau",[B] [COLOR white]1 Hora de Pica Pau[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=v=UbDQr_BcZTk
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YqOsyct3y1A&t=9167s/hqdefault.jpg" group-title="5 Horas de Desenhos Biblicos ",[B] [COLOR white]5 Horas de Desenhos Biblicos [/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YqOsyct3y1A&t=9167s
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zT4aFx8OBcY&t=3967s/hqdefault.jpg" group-title="3 Horas de TV Globinho",[B] [COLOR white]3 Horas de TV Globinho[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zT4aFx8OBcY&t=3967s
 
@@ -17,13 +8,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GhBf4C
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zXixfIbY-90&t=1938s/hqdefault.jpg" group-title="A Fuga do Planeta Terra 2",[B] [COLOR white]A Fuga do Planeta Terra 2[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zXixfIbY-90&t=1938s
-
-
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/watch?v=yVIOMaalXbg/hqdefault.jpg" group-title="Amigos alienígenas",[B] [COLOR white]Amigos alienígenas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yVIOMaalXbg
-
-
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3cyiEC9xMhA&t=1367s/hqdefault.jpg" group-title="As Aventuras de Ozzy",[B] [COLOR white]As Aventuras de Ozzy[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3cyiEC9xMhA&t=1367s
@@ -132,9 +116,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BBHXKS
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nLgCYRPMY4o&t=1546s/hqdefault.jpg" group-title="Nem Que a Vaca Tussa",[B] [COLOR white]Nem Que a Vaca Tussa[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nLgCYRPMY4o&t=1546s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GLcPpau8LGY&t=1251s/hqdefault.jpg" group-title="O Nascimento de Jesus",[B] [COLOR white]O Nascimento de Jesus[/COLOR] [COLOR gold] () [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GLcPpau8LGY&t=1251s
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jJVbLayHJwA&t=1s/hqdefault.jpg" group-title="O Retorno do Pinoquio",[B] [COLOR white]O Retorno do Pinoquio[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jJVbLayHJwA&t=1s
 
@@ -143,9 +124,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DwTct0
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/S_pgwj7rnAg/hqdefault.jpg" group-title="Pica-Pau: Guerras da Salsicha",[B] [COLOR white]Pica-Pau: Guerras da Salsicha[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=S_pgwj7rnAg
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/p8k_5-NirZI&t=1432s/hqdefault.jpg" group-title="Paneta 51",[B] [COLOR white]Planeta 51[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p8k_5-NirZI&t=1432s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/dai94URnsoY/hqdefault.jpg" group-title="Pássaros Livres",[B] [COLOR white]Pássaros Livres[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dai94URnsoY
@@ -156,20 +134,11 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=169k5F
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AjWQ9394Bxg&t=42s/hqdefault.jpg" group-title="Pocoyo",[B] [COLOR white]Pocoyo[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AjWQ9394Bxg&t=42s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/moNfzTpVS2A&t=9s/hqdefault.jpg" group-title="Rex Um Cãozinho no Palácio",[B] [COLOR white]Rex Um Cãozinho no Palácio[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=moNfzTpVS2A&t=9s
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/gS4ThZatQyU&t=9s/hqdefault.jpg" group-title="Romeu O Vira Lata Atrapalhado",[B] [COLOR white]Romeu O Vira Lata Atrapalhado[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gS4ThZatQyU&t=9s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iDVSdiCSkTc/hqdefault.jpg" group-title="Suki na Savana",[B] [COLOR white]Suki na Savana[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iDVSdiCSkTc
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/w2GuD7ynWVw&t=1835s/hqdefault.jpg" group-title="Touro Ferdinando",[B] [COLOR white]Touro Ferdinando[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w2GuD7ynWVw&t=1835s
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rjT86F4Deaw&t=2987s/hqdefault.jpg" group-title="Um Panda em Apuros",[B] [COLOR white]Um Panda em Apuros[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rjT86F4Deaw&t=2987s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/F32g6D64Z0I&t=3s/hqdefault.jpg" group-title="Uma Fazenda Maluca 1",[B] [COLOR white]Uma Fazenda Maluca 1[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=F32g6D64Z0I&t=3s
