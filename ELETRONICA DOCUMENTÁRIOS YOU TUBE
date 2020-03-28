@@ -1,17 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/2Q93rB8yj8E/hqdefault.jpg" group-title="África: A Serpente Africana - RARO",[B] [COLOR white]A Serpente Africana - RARO[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2Q93rB8yj8E
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UW-Zehc_jeM/hqdefault.jpg" group-title="África: Animais assassinos da África - Gladiadores",[B] [COLOR white]África: Animais assassinos da África - Gladiadores[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UW-Zehc_jeM
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HmbiZdJzpeE&t=1072s/hqdefault.jpg" group-title="África: Animais de Kalahari",[B] [COLOR white]África: Animais de Kalahari[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HmbiZdJzpeE&t=1072s
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/h2usGY1173A/hqdefault.jpg" group-title="África: Mundo Selvagem da Namíbia ",[B] [COLOR white]África: Mundo Selvagem da Namíbia[/COLOR] [COLOR gold] (hd) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h2usGY1173A
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5VyurhZ_UzY/hqdefault.jpg" group-title="África: Predadores Africanos",[B] [COLOR white]África: Predadores Africanos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5VyurhZ_UzY
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DBC3UTgm8sc/hqdefault.jpg" group-title=África: Savana Africana",[B] [COLOR white]África: Savana Africana[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DBC3UTgm8sc
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GTPLUPOUgas/hqdefault.jpg" group-title="A Guerra da Píton",[B] [COLOR white]A Guerra da Píton[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GTPLUPOUgas
@@ -19,15 +13,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GTPLUP
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sJ9AFC8pILI/hqdefault.jpg" group-title="A Ilha dos Dragões: Dragão do Komodo",[B] [COLOR white]A Ilha dos Dragões: Dragão do Komodo[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sJ9AFC8pILI
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4BiUEXXnOFw/hqdefault.jpg" group-title="A Vida Secreta Dos Predadores",[B] [COLOR white]A Vida Secreta Dos Predadores[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4BiUEXXnOFw
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HJ7UTMcByBI&t=77s/hqdefault.jpg" group-title="África do Sul Selvagem: Documentários de Animais ",[B] [COLOR white]África do Sul Selvagem: Documentários de Animais[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HJ7UTMcByBI&t=77s
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LE45pS2UnNA/hqdefault.jpg" group-title="África do Sul Selvagem: Terra de Gigantes 1",[B] [COLOR white]África do Sul Selvagem: Terra de Gigantes[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LE45pS2UnNA
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XtiNVTJPQgk/hqdefault.jpg" group-title="Africa do Sul Selvagem: Terra de Gigantes 2",[B] [COLOR white]Africa do Sul Selvagem: Terra de Gigantes[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XtiNVTJPQgk
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XNWwrcyCC44/hqdefault.jpg" group-title="Africa Safári",[B] [COLOR white]Africa Safári[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XNWwrcyCC44
@@ -63,9 +50,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OslQ_N
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/InTcMCNFWdQ/hqdefault.jpg" group-title="América Indomável - Litorais",[B] [COLOR white]América Indomável - Litorais[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=InTcMCNFWdQ
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mPeNlL6JrcY/hqdefault.jpg" group-title="Animais Perigosos: Sensores de Caça",[B] [COLOR white]Animais Perigosos: Sensores de Caça[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mPeNlL6JrcY
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/fJbxBMEBFQc/hqdefault.jpg" group-title="Animais Selvagens da Rússia",[B] [COLOR white]Animais Selvagens da Rússia[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fJbxBMEBFQc
 
@@ -84,7 +68,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jrGjI0
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2dXPiL26eYc
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LxSVBcKO5fE/hqdefault.jpg" group-title="Brasil Secreto: Uma Odisseia no Pantanal",[B] [COLOR white]Brasil Secreto: Uma Odisseia no Pantanal[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LxSVBcKO5fE
-
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zrn6C68_PUQ/hqdefault.jpg" group-title="Brasil Selvagem: A Sombra do Gavião - Amazônia",[B] [COLOR white]Brasil Selvagem: A Sombra do Gavião - Amazônia[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zrn6C68_PUQ
@@ -108,9 +91,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HwZC9r
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/x0688ah1v8g&t=4s/hqdefault.jpg" group-title="Deserto: Sobrevivência por instinto",[B] [COLOR white]Deserto: Sobrevivência por instinto[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=x0688ah1v8g&t=4s
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YQTZxmFTW48/hqdefault.jpg" group-title="Destino Selvagem: Rio Nilo do Egito a Africa",[B] [COLOR white]Destino Selvagem: Rio Nilo do Egito a Africa[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YQTZxmFTW48
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NWptR9b79YE/hqdefault.jpg" group-title="Escola de Predadores: O jogo da caça ",[B] [COLOR white]Escola de Predadores: O jogo da caça [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NWptR9b79YE
@@ -211,12 +191,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DIgY6C
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/gt8s04d0kz8&t=1323s/hqdefault.jpg" group-title="O Predador Hábil Puma",[B] [COLOR white]O Predador Hábil Puma[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gt8s04d0kz8&t=1323s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YWC9Tcf0hjI/hqdefault.jpg" group-title="O Reino dos Oceanos: Predadores do Paraíso",[B] [COLOR white]O Reino dos Oceanos: Predadores do Paraíso[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YWC9Tcf0hjI
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lXwY4NTflYM/hqdefault.jpg" group-title="O Reino dos Primata",[B] [COLOR white]O Reino dos Primata[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lXwY4NTflYM
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bMrZhco8ftg/hqdefault.jpg" group-title="Oeste Africano - Deserto da Namíbia",[B] [COLOR white]Oeste Africano - Deserto da Namíbia[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bMrZhco8ftg
 
@@ -228,9 +202,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PohQYY
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mJ8Z8MPGasQ/hqdefault.jpg" group-title="Os incríveis Insetos",[B] [COLOR white]Os incríveis Insetos[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mJ8Z8MPGasQ
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/7sSTiXlFqJw/hqdefault.jpg" group-title="Pantanal Documentário: Animais Selvagens",[B] [COLOR white]Pantanal Documentário: Animais Selvagens[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7sSTiXlFqJw
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/L7n1m91qbJg/hqdefault.jpg" group-title="Planeta Mutante 1",[B] [COLOR white]Planeta Mutante[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L7n1m91qbJg
@@ -250,16 +221,10 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=edsmwP
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sSu_ccA_RZI&t=3s/hqdefault.jpg" group-title="Planeta Terra: Vespas Assassinas",[B] [COLOR white]Planeta Terra: Vespas Assassinas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sSu_ccA_RZI&t=3s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zH9r4JADTgs/hqdefault.jpg" group-title="Predadores Mortais: Maiores Emboscadas",[B] [COLOR white]Predadores Mortais: Maiores Emboscadas[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zH9r4JADTgs
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1irIRHfJ_gU/hqdefault.jpg" group-title="Reino dos Primatas",[B] [COLOR white]Reino dos Primatas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1irIRHfJ_gU
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CqyHXD-1wYg/hqdefault.jpg" group-title="Rio Kongo ",[B] [COLOR white]O Rio Kongo [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CqyHXD-1wYg
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kR_ObizjU0s/hqdefault.jpg" group-title="Tubarões: O Mistério na Ilha dos Tubarões",[B] [COLOR white]Tubarões: Tubarões: O Mistério na Ilha dos Tubarões[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kR_ObizjU0s/hqdefault.jpg" group-title="Tubarões: O Mistério na Ilha dos Tubarões",[B] [COLOR white]Tubarões: O Mistério na Ilha dos Tubarões[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kR_ObizjU0s
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mz5wMQzlxAs/hqdefault.jpg" group-title="Os Maiores Animais da América do norte",[B] [COLOR white]Os Maiores Animais da América do norte[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
