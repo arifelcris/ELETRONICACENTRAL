@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/89SU5yXcDvI/hqdefault.jpg" group-title="CANAL RIT",[B] [COLOR white]CANAL RIT [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=89SU5yXcDvI
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/z-XWUQ7fy5Y/hqdefault.jpg" group-title="CANAL RIT",[B] [COLOR white]CANAL RIT [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=z-XWUQ7fy5Y
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/velY5aiiQjk/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=velY5aiiQjk
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YJ9kXK53G5k/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YJ9kXK53G5k
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/b5kXDB_wlZE/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b5kXDB_wlZE
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QSPOC_MIJKM/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QSPOC_MIJKM
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Oe8Z4scQBzk/hqdefault.jpg" group-title="FISH TV",[B] [COLOR white]FISH TV[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Oe8Z4scQBzk
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8n_sx5XAyRE/hqdefault.jpg" group-title="FISH TV",[B] [COLOR white]FISH TV[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8n_sx5XAyRE
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3q6cbR-J16A/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3q6cbR-J16A
@@ -18,39 +18,32 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3q6cbR
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Q14mJkZTA9E/hqdefault.jpg" group-title="JOVEM PAN LIVE (RÁDIO) ",[B] [COLOR white]JOVEM PAN LIVE (RÁDIO) [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Q14mJkZTA9E
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1J6N_oJ-_TM/hqdefault.jpg" group-title="MEGA TV",[B] [COLOR white]MEGA TV [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1J6N_oJ-_TM
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/W6XdRWuac3U/hqdefault.jpg" group-title="MEGA TV",[B] [COLOR white]MEGA TV [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=W6XdRWuac3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/EhgNJ4XAeZ4/hqdefault.jpg" group-title="RBC REDE BRASIL",[B] [COLOR white] RBC REDE BRASIL [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EhgNJ4XAeZ4
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/pmGy3vw_jho/hqdefault.jpg" group-title="RBC REDE BRASIL",[B] [COLOR white] RBC REDE BRASIL [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pmGy3vw_jho
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kNPDfgNJfxs/hqdefault.jpg" group-title=" RECORD NEWS",[B] [COLOR white]RECORD NEWS [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kNPDfgNJfxs
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DOKZnN2C-kI/hqdefault.jpg" group-title="RECORD NEWS",[B] [COLOR white]RECORD NEWS [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DOKZnN2C-kI
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AOgaFtHCdmM/hqdefault.jpg" group-title="SANTUÁRIO DE FÁTIMA",[B] [COLOR white]SANTUÁRIO DE FÁTIMA [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AOgaFtHCdmM
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ebU7Kc2nXwk/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (DF) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ebU7Kc2nXwk
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/i4pHalUONcY/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (RJ)[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i4pHalUONcY
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/cniELnqOgno/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (RJ)[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videocniELnqOgno
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/LwcTWxegMOE/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT SCC (SC) [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LwcTWxegMOE
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Oep8HWratDk/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (RIO GRANDE) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Oep8HWratDk
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/KYZW8FrYx9c/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT (RIO GRANDE) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KYZW8FrYx9c
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/joEO-UW1cJE/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT SCC (SC) [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=joEO-UW1cJE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/fEp5qLYfWwk/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT VTV (SANTOS E CAMPINAS) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fEp5qLYfWwk
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sdC16JTg9eU/hqdefault.jpg" group-title="SBT",[B] [COLOR white]SBT VTV (SANTOS E CAMPINAS) [/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sdC16JTg9eU
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SPif2ODfepY/hqdefault.jpg" group-title="TV A CRÍTICA",[B] [COLOR white]TV A CRÍTICA [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SPif2ODfepY
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/agw1VIvK8NM/hqdefault.jpg" group-title="TV MUNDO MAIOR",[B] [COLOR white]TV MUNDO MAIOR[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=agw1VIvK8NM
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QStpuJNSLWA/hqdefault.jpg" group-title="TV A CRÍTICA",[B] [COLOR white]TV A CRÍTICA [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QStpuJNSLWA
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/6_X-dtwh4E4/hqdefault.jpg" group-title="TV SHOPTIME",[B] [COLOR white]TV SHOPTIME[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6_X-dtwh4E4
-
-
-
-
