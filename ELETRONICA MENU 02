@@ -1,8 +1,23 @@
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] TV AO VIVO [/COLOR] [COLOR lime] HD [/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] TV ABERTAS LINKs INTERNET [/COLOR] [COLOR lime] HD [/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9rgnRclKFujAAhvtKFlsxcHVHorwaW3hXwDmr_-fMcpgA4-rL</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/TV%20ABERTA%20(%20LINK%20INTERNET%20)</externallink>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9rgnRclKFujAAhvtKFlsxcHVHorwaW3hXwDmr_-fMcpgA4-rL</fanart>
+<info>
+
+
+[B][COLOR deeppink]///[/COLOR][COLOR lime] CANAIS DE TV AO VIVO [/COLOR] [COLOR deeppink]///[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR red] TV ABERTA LINKs YOU TUBE [/COLOR] [COLOR lime] HD [/COLOR][/B]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9rgnRclKFujAAhvtKFlsxcHVHorwaW3hXwDmr_-fMcpgA4-rL</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/TV%20ABERTA%20(%20LINK%20YOU%20TUBE%20)</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9rgnRclKFujAAhvtKFlsxcHVHorwaW3hXwDmr_-fMcpgA4-rL</fanart>
 <info>
 
