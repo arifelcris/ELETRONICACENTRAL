@@ -1,9 +1,23 @@
 <channels>
 <channel>
-<name>[B] TODOS OS FILMES [/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20REDE%20CANAIS</externallink>
-<fanart></fanart>
+<name>[B] FILMES ANO DE 2020 [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Ze5yGU9jOQatTYgjCLd3u1VNl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20ANO%202020</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Ze5yGU9jOQatTYgjCLd3u1VNl.jpg</fanart>
+<info>
+
+[COLOR deeppink]///[/COLOR] [COLOR lime] FILMES DUBLADOS E LEGENDADOS!!! [/COLOR] [COLOR deeppink]///[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B] FILMES DE A...B...C ///// I...J...L [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgHRznD5Zs1VAGykQ7oF7D3Rcm2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20REDE%20CANAIS%20A...L</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgHRznD5Zs1VAGykQ7oF7D3Rcm2.jpg</fanart>
 <info>
 
 [COLOR deeppink]///[/COLOR] [COLOR lime] FILMES DUBLADOS E LEGENDADOS!!! [/COLOR] [COLOR deeppink]///[/COLOR]</info>
@@ -13,10 +27,10 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[B] FILMES ANO DE 2020 [/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Ze5yGU9jOQatTYgjCLd3u1VNl.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20ANO%202020</externallink>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Ze5yGU9jOQatTYgjCLd3u1VNl.jpg</fanart>
+<name>[B] FILMES DE M...N...O ///// Y...Z...W [/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCw3pCG0cxTNfDfirsP4iR7et8j.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20REDE%20CANAIS%20M...W</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCw3pCG0cxTNfDfirsP4iR7et8j.jpg</fanart>
 <info>
 
 [COLOR deeppink]///[/COLOR] [COLOR lime] FILMES DUBLADOS E LEGENDADOS!!! [/COLOR] [COLOR deeppink]///[/COLOR]</info>
