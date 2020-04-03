@@ -1,7 +1,7 @@
 <?xml version="2.1" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.ELETRONICACENTRAL"
        name="[COLOR white][B]ELETRÔNICA CENTRAL[/B][/COLOR]"
-       version="2.0"
+       version="2.1"
        provider-name="arifelcris">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
