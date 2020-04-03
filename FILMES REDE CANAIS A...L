@@ -958,6 +958,14 @@ Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha 
 </item>
 
 <item>
+<title>[B]Anjo Negro - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/ANJNGRO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/17usk3QMG1wz115XIrUh4sj4d92.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/17usk3QMG1wz115XIrUh4sj4d92.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Heaven finalmente encontrou a nova vida que sempre sonhou com seus avós recém-descobertos. Após uma inspeção mais próxima, a beleza e a riqueza escondem segredos sinistros.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Anjos da Noite - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/ANJSDNT1.mp4?attachment=true$$lsname=[COLOR red]Anjos da Noite: Underworld[/COLOR][COLOR lime] (2003) DUBLADO FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/ANJSDNT2.mp4?attachment=true$$lsname=[COLOR red]Anjos da Noite: A Evolucao [/COLOR][COLOR lime](2006) DUBLADO FULLHD[/COLOR]</link>
