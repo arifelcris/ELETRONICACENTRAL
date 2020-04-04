@@ -756,6 +756,14 @@ Walter é o maior fã dos Muppets e viaja a Los Angeles ao lado dos amigos Gary 
 </item>
 
 <item>
+<title>[B]O Bom Gigante Amigo[COLOR deeppink](2016)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/OBMGIGNTAMG.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukb8h3UgRJttGSHEgkB1VZI0mUG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukb8h3UgRJttGSHEgkB1VZI0mUG.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Sofia é uma menina órfã que vive em um orfanato. Uma noite, em plena Hora das Bruxas, ela é raptada por um gigante orelhudo que a descobriu espiando pela janela. Mas Sofia logo descobriu que ela não precisava ter medo daquele gigante, que era amigável e tinha como função soprar sonhos nas janelas das crianças. Ao lado dele, ela bola um plano para acabar com os gigantes maus, que adoram devorar "serumanos". Um plano que envolve pesadelos terríveis e a rainha da Inglaterra.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]O Bom Sam - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/OBMSAM.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMu9BUwSOJxkCSiP0UJI87KQ2m8.jpg</thumbnail>
