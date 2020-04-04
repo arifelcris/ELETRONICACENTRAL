@@ -3288,6 +3288,20 @@ Sherlock Holmes (Robert Downey Jr.) continua desenvolvendo novos disfarces e man
 </item>
 
 <item>
+<title>[B]Stuart Little - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/OPQNSTRTLTLE.mp4?attachment=true$$lsname=[COLOR red]O Pequeno Stuart Little - [/COLOR][COLOR lime] (2000) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/OPQNSTRTLTLE2.mp4?attachment=true$$lsname=[COLOR red]O Pequeno Stuart Little 2 - [/COLOR][COLOR lime] (2002) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/OPQNSTRTLTLE3.mp4?attachment=true$$lsname=[COLOR red]O Pequeno Stuart Little 3 - [/COLOR][COLOR lime] (2005) DUBLADO FULLHD[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/539JU71suy9q4Wd5vvkKQLl5fTC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/539JU71suy9q4Wd5vvkKQLl5fTC.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Stuart era um rato abandonado que vivia num orfanato, junto com outras crianças. Até que a família Little decide adotar um irmão para seu filho George (Jonathan Lipnicki) e se apaixona pelo carisma do pequeno ratinho. Stuart é então adotado e passa a lidar com divergências com Snowbell, o gato da família, e o próprio irmão, que não o aceita.
+
+Num belo dia, ao retornar da escola, Stuart Little salva Margalo, um passarinho fêmea machucado, das garras de um falcão traiçoeiro. Stuart a leva para morar com sua família, onde Margalo se recupera rapidamente e cria uma grande amizade com o pequeno rato falante. Até que, repentinamente, Margalo desaparece junto com uma valiosa antiguidade da familia. É quando Stuart precisa reunir todas as suas forças para reencontrar Margalo e trazer de volta a antiguidade à sua casa.
+
+Faz as malas e agarra a tua tenda de campismo, está na hora de embarcares com STUART LITTLE, numa grande aventura no bosque! Neste excitante filme de animação, os Little mergulham na vida selvagem ao decidir acampar longe da cidade. Só há um detalhe para o qual não estão preparados: a enorme e malvada fera que vive no bosque. Enquanto Stuart aprende as aptidões básicas de sobrevivência com a destemida doninha Reeko, o medroso Snowbell prefere proteger-se com o expedito gato vadio Monty. A melhor aventura de Stuart![/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Stuber - A Corrida Maluca - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/STBRACRDAMLCA.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bopJPyP68dJEjO7i0gUrYMYC0Eh.jpg</thumbnail>
