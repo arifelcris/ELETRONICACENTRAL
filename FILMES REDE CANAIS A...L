@@ -107,6 +107,14 @@ Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de ving
 </item>
 
 <item>
+<title>[B]A Batalha das Correntes - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/ABTLHDSCRNTS.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXJRUdM785ogYuaOo0lXWjOCda.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXJRUdM785ogYuaOo0lXWjOCda.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Ambientado no final do século XIX, a Guerra das Correntes, que foi uma disputa entre Thomas Edison (Benedict Cumberbatch) e George Westinghouse (Michael Shannon) sobre como deveria ser feita a distribuição da eletricidade. Edison fez uma campanha pela utilização da corrente contínua para isso, enquanto Westinghouse defendia a corrente alternada.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]A Bela e a Fera - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/ABLEAFR.mp4?attachment=true$$lsname=[COLOR red]A Bela e a Fera (2017) [/COLOR][COLOR lime]DUBLADO  FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/ABLEAFRLEG.mp4?attachment=true$$lsname=[COLOR red]A Bela e a Fera (2017) [/COLOR][COLOR lime]LEGENDADO  FULLHD[/COLOR]</link>
