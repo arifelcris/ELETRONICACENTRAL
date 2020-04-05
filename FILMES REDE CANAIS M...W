@@ -122,6 +122,28 @@
 </item>
 
 <item>
+<title>[B]Máquina Mortífera - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/MQNMRTFR01.mp4?attachment=true$$lsname=[COLOR red]Maquina Mortifera - [/COLOR][COLOR lime] (1987) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/MQNMRTFR02.mp4?attachment=true$$lsname=[COLOR red]Maquina Mortifera 2 - [/COLOR][COLOR lime] (1989) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/MQNMRTFR03.mp4?attachment=true$$lsname=[COLOR red]Maquina Mortifera 3 - [/COLOR][COLOR lime] (1992) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/MQNMRTFR04.mp4?attachment=true$$lsname=[COLOR red]Maquina Mortifera 4 - [/COLOR][COLOR lime] (1998) DUBLADO FULLHD[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RdhRI1MtL6PoAONWJxuJJGvQIn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UnkF8jJWh6yTpe6sCfQFPxhtTR.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um tira ensandecido (Mel Gibson), que está sempre no seu limite, e um outro tranquilo (Danny Glover), que espera apenas a sua aposentadoria chegar, tornam-se parceiros para lutar contra uma quadrilha de traficantes de drogas, composta por ex-militares da guerra do Vietnã.
+Continuação que multiplica ainda mais a ação já intensa do primeiro filme. Mal acabam os letreiros iniciais, o espectador embarca em uma memorável sequência de 10 minutos, com uma perseguição de carros pelas ruas de Los Angeles. São os tiras Martin Riggs (Mel Gibson) e Roger Murtaugh (Danny Glover) no encalce de traficantes. Dessa vez, a dupla de policiais se encarrega de proteger um contador, detido por envolvimento em limpeza de dinheiro proveniente do narcotráfico. Descobrem que a rede criminosa é comandada por um alto funcionário diplomático da África do Sul, Arjen Rudd (Joss Ackland).
+Após provocarem a explosão de um prédio, os dois parceiros são rebaixados a guardas de rua, mas tem a chance de se recuperarem quando investigam um roubo de armas da polícia, que está sendo comandado por um ex-policial.
+A polícia de Los Angeles descobre uma quadrilha que promove a entrada de chineses nos Estados Unidos, que serão vendidos como escravos. Por trás desta operação está "Tio Benny", o chefão de uma grande quadrilha em Chinatown, com tudo isto estando ligado uma trama de falsificação da moeda chinesa em grande escala, para libertar quatro grandes criminosos.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Máquina Quase Mortífera - [COLOR deeppink](1993)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/MQNQSEMRTFRA.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIdlDgiVQ4kbgVXXIlP8LswubkN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIdlDgiVQ4kbgVXXIlP8LswubkN.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:EMILIO ESTEVEZ (The Mighty Ducks, Young Guns, Stakeout) e SAMUEL L. JACKSON (Changing Lanes, Star Wars: Episode II - Attack of the Clones) são Colt e Luger, parceiros numa Los Angeles sem lei. Jack Colt é um polícia jovem, rebelde e violento. O seu companheiro é o veterano Wes Luger, que está a poucos dias de se aposentar. Um detetive de L.A. é assassinado porque tem em sua posse um microfilme com a receita para fazer "bolinhos de cocaína". Agora é preciso encontrar e pôr fim ao inimigo antes que consigam dopar toda a nação. Luger está determinado a terminar a sua carreira com a captura do assassino do seu antigo parceiro. Mas antes do caso ser resolvido, Colt e Luger vão ter que aprender a conviver e a respeitar-se um ao outro... e concordar sobre quem vai conduzir! Uma comédia divertida e cheia de acção, com a participação de muitas estrelas do cinema.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Máquinas Mortais - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/MAQNSMRTS.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGywPK7zzVNT05Iu8Y8WMsEkthF.jpg</thumbnail>
@@ -271,6 +293,14 @@ Marley está de volta em uma nova aventura que fará todos os rabos abanarem! E 
 </item>
 
 <item>
+<title>[B]Memphis Belle: A Fortaleza Voadora - [COLOR deeppink](1991)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/MEPHSBLEAFRTLZAVOADA.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8XU1TcJelPPVT1nyjR4KQWBbE2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8XU1TcJelPPVT1nyjR4KQWBbE2.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um grupo de jovens pilotos da segunda guerra mundial, liderados por Matthew Modine e Eric Stoltz, saiu ileso de 24 missões perigosas no comando do avião B-17, também conhecido como MEMPHIS BELLE. Mas ainda falta uma última e quase suicida missão para eles voltarem como verdadeiros heróis: Bombardear a Alemanha de Hitler em plena luz do dia. É este emocionante episódio verídico que inspirou David Puttnam e Catherine Wyler a realizarem este filme, mostrando as dúvidas, incertezas e determinação de jovens que resolveram desafiar o perigo dos céus.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Mens@gem Para Você - [COLOR deeppink](1998)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/MSGPRVC.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8c82bTP1IVRj25epJZb17UHYKVv.jpg</thumbnail>
@@ -300,6 +330,16 @@ Marley está de volta em uma nova aventura que fará todos os rabos abanarem! E 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4b6Ff8N0cvMBeYFtDNDm6xvyC9.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4b6Ff8N0cvMBeYFtDNDm6xvyC9.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Anderson, Carolina do Sul, 1976, na escola secundária T. L. Hanna. Harold Jones (Ed Harris) é o treinador local de futebol americano, que fica tão envolvido em preparar o time que raramente passa algum tempo com sua filha, Mary Helen (Sarah Drew), ou sua esposa, Linda (Debra Winger). Jones conhece um jovem "lento", James Robert Kennedy (Cuba Gooding Jr.), mas Jones nem ninguém sabia o nome dele, pois ele não falava e só perambulava em volta do campo de treinamento. Jones se preocupa com o jovem quando alguns dos jogadores da equipe fazem uma "brincadeira" de péssimo gosto, que deixou James apavorado. Tentando compensar o que tinham feito com o jovem, Jones o coloca sob sua proteção, além de lhe dar uma ocupação. Como ainda não sabia o nome dele e pelo fato dele gostar de rádios, passou a se chamá-lo de Radio. Mas ninguém sabia que, pelo menos em parte, a razão da preocupação de Jones é que tentava não repetir uma omissão que cometera, quando era um garoto.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Meu Primeiro Amor - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/MEUPRMRAMR.mp4?attachment=true$$lsname=[COLOR red]Meu Primeiro Amor - [/COLOR][COLOR lime] (1991) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/MEUPRMRAMRPT2.mp4?attachment=true$$lsname=[COLOR red]Meu Primeiro Amor: Parte 2 - [/COLOR][COLOR lime] (1994) DUBLADO HD[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDSloN3r6M4zu5M5UuPsp0UVVrL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/az1k1TqM5NSkbieNAtlUvIFzIou.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Menina de 11 anos, precoce, hipocondríaca e carente de atenção vive com o pai, agente funerário viúvo. Durante o verão ela vive a experiência do primeiro namoro e do primeiro passo rumo a maturidade, no momento em que tem que enfrentar uma dolorosa perda.
+Há um feriado próximo e Vada Sultenfuss (Anna Chlumsky) convence seu pai, que lhe permite viajar para casa de seu tio Phil (Richard Masur) em Los Angeles. O professor de teatro de Vada lhe passa a tarefa de interpretar a vida de alguém que não conheceu, assim deseja pesquisar a vida de sua própria mãe. Nesta viagem de descobrimento tem como companheiro Nick Zsigmond (Austin O'Brien), o filho de Rose Zsigmond (Christine Ebersole), a namorada do seu tio.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -460,6 +500,16 @@ O que é necessário para transformar uma vida?[/B][/COLOR]</info>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWrw9sOVGQOushf1HmF1nwYgCPJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWrw9sOVGQOushf1HmF1nwYgCPJ.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Johnny Blaze (Nicolas Cage) trabalha como dublê e piloto de motocicleta. Há muito tempo ele fez um pacto com Mefisto (Peter Fonda) para proteger as duas pessoas que mais amava: seu pai, Barton (Brett Cullen), e sua namorada de adolescência, Roxanne Simpson (Eva Mendes). Em troca Johnny se transforma à noite no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer as ordens de Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Mudança de Hábito - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/MDNCDHBTO.mp4?attachment=true$$lsname=[COLOR red]Mudanca de Habito - [/COLOR][COLOR lime] (1992) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/MDNCDHBTO2.mp4?attachment=true$$lsname=[COLOR red]Mudanca De Habito 2: Mais Loucuras No Convento [/COLOR][COLOR lime] (1993) DUBLADO FULLHD[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKgzQ9xMEYdNrxdEiiYzaJq6kt7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/baXcxevCpPamAWwT2PekXmdvny3.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse: Em Reno, Nevada, Deloris Van Cartier (Whoopi Goldberg) é uma cantora que acidentalmente testemunha um brutal assassinato cometido pelo seu namorado, Vince LaRocca (Harvey Keitel), um gângster. Enquanto tentam capturar Vince, um detetive, Eddie Souther (Bill Nunn), é encarregado de protegê-la. Deloris é colocada no programa de proteção às testemunhas e é mandada para um convento em São Francisco disfarçada de freira, usando o nome de irmã Mary Clarence. Mas seu jeito extrovertido, que não é aprovado pela Madre Superiora (Maggie Smith), acaba fazendo ela dar uma nova vida ao coral, chamando a atenção das pessoas e de Vince.
+Deloris Van Cartier agora é uma cantora famosa e volta a São Francisco para ajudar as suas amigas freiras. A sua missão é dar aulas de música para adolescentes rebeldes que estudam num colégio católico problemático que corre o risco de ser fechado.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -820,6 +870,14 @@ Walter é o maior fã dos Muppets e viaja a Los Angeles ao lado dos amigos Gary 
 </item>
 
 <item>
+<title>[B]O Cerco de Jadotville - [COLOR deeppink](2016)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/OCRCDJDVLE.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ifoXOheTmTinRB3Gotwbc3zF1X.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ifoXOheTmTinRB3Gotwbc3zF1X.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:No Congo, 150 soldados da ONU defendem uma pequena cidade do ataque de três mil mercenários por dias a fio. Baseado em fatos reais.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]O Chamado - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/OCHMD.mp4?attachment=true$$lsname=[COLOR red]O Chamado [/COLOR][COLOR lime] (2003) DUBLADO FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/OCHMD2.mp4?attachment=true$$lsname=[COLOR red]O Chamado 2 [/COLOR][COLOR lime] (2005) DUBLADO FULLHD[/COLOR]</link>
@@ -1089,6 +1147,14 @@ link>AQUI$$lsname=[COLOR red]O Exterminador do Futuro: Destinho Sombrio[/COLOR][
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHAyXJFHt8cccUZDji3jruzlgv2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHAyXJFHt8cccUZDji3jruzlgv2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um fixador de carro pula da escada após demolição ilegal. Policial tenta encontrar o crime e pegar o chefe do mal.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]O Guarda-Costas em Ação - [COLOR deeppink](1994)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/OGURDCSTAEMACAO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrAqJicb9Zyz0uLmTZZWhXFGUSd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrAqJicb9Zyz0uLmTZZWhXFGUSd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Única testemunha de um crime brutal, a professora Michelle (Christy Chung) torna-se alvo de um assassino profissional. Para protegê-la, seu namorado contrata Alan Hui (Jet Li), ex-guarda-costas do mais poderoso líder da China. Frio e calculista, Alan passa a controlar todos os passos de Michelle, mas acaba traindo seus princípios de jamais envolver-se emocionalmente com seus clientes e apaixona-se pela bela professora. Enquanto Alan se vê dividido entre o amor e sua postura profissional, Michele sofre um atentado. Sentindo-se derrotado e envergonhado pela falha, Alan deixa de lado seu papel passivo e parte para uma guerra de vingança pessoal.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -1684,6 +1750,14 @@ Com Buddy Love (Eddie Murphy) enterrado em seu subconsciente há tempos, o amáv
 </item>
 
 <item>
+<title>[B]O Silêncio dos Inocentes - [COLOR deeppink](1991)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/OSLNCDSINCTS.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTL4g8A77lhFratEDZEKOiA67n2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTL4g8A77lhFratEDZEKOiA67n2.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A agente do FBI, Clarice Starling é encarregada de encontrar um assassino que arranca a pele das suas vítimas. Para entender como ele pensa, ela procura o perigoso psicopata Hannibal Lecter, preso sob a acusação de canibalismo.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]O Soldado de Cristo - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/OSLDADCSTRO.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx2Tgzrq20sMjrX5lLnpi5LZnW.jpg</thumbnail>
@@ -1827,6 +1901,14 @@ Com Buddy Love (Eddie Murphy) enterrado em seu subconsciente há tempos, o amáv
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlidNXwbyoFuZH5BaBAwS141pzF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlidNXwbyoFuZH5BaBAwS141pzF.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Oh Dae-su é preso depois de uma bebedeira. Ao sair da cadeia ele resolve ligar para casa. É aniversário de três anos de sua filha. Na cena seguinte acorda em um quarto onde há apenas uma televisão. Sem saber por quem e nem por que, Oh Dae-su fica preso durante 15 anos. Ao sair daquele lugar, procura entender o que se passou em sua vida. Mesmo afastado de tudo ele foi acusado de matar sua mulher. Oh Dae-su quer vingança. Custe o que custar. Para isso terá que viver uma história perturbadora, de fortes emoções. Vencedor do Grande Prêmio do Júri no Festival de Cannes, Oldboy tem um final mais que surpreendente.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Oliver Twist - [COLOR deeppink](2005)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/OLVRTWST.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhPdYZ3x2uanhM1SyBj4CuL6hSa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhPdYZ3x2uanhM1SyBj4CuL6hSa.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:"Oliver Twist (Barney Clark) é um órfão entre as centenas que sofrem com a fome e o trabalho escravo na Inglaterra vitoriana. Vendido para um coveiro, ele sofre com a crueldade da família deste e acaba fugindo para Londres. Lá ele é recolhido das ruas por Artful Dodger (Harry Eden), um ladrão que o leva até Fagin (Ben Kingsley), um velho que comanda um exército de prostitutas e pequenos marginais. Quando Oliver conhece um bondoso homem em quem finalmente enxerga um possível pai, Fagin teme que ele denuncie seu esquema. Para evitar isso Fagin planeja um assalto à casa do rico Sr. Brownlow (Edward Hardwicke), o pai desejado por Oliver."[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -2070,6 +2152,14 @@ Ben McGrath (Chris Klein) tinha potencial para liga principal jogando beisebol p
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HGYmH5mYcBBTIMHhbOBdT1Antl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HGYmH5mYcBBTIMHhbOBdT1Antl.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Joe Toy é um adolescente que não aguenta mais viver com o pai autoritário. Quando seu amigo Patrick também briga com os pais, os dois decidem se mudar para a floresta, junto de um garoto estranho que os segue, e viverem sozinhos, longe da presença de adultos. Logo, eles aprendem como cuidar da própria comida e como construir uma casa para os três.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Os Três Mosqueteiros - [COLOR deeppink](2011)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/OTRSMSQTRS.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPdQzx7xVaT7ooDjNiGXkKBGnJW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPdQzx7xVaT7ooDjNiGXkKBGnJW.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O jovem D'Artagnan, depois de sair da Gasconha e viajar para Paris, conhece os mosqueteiros Athos, Aramis e Porthos, e tentam impedir que o Cardeal Richelieu e sua agente Milady de Winter causem uma guerra entre a França e a Inglaterra.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -3565,6 +3655,14 @@ Dois anos após a batalha entre os Autobots e os Decepticons, Sam Witwicky (Shia
 </item>
 
 <item>
+<title>[B]Tripla Ameaça- [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/TRPLAMECA.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgZRBjU71ScQO8HyMNcGbjgIpMj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgZRBjU71ScQO8HyMNcGbjgIpMj.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A filha de um bilionário torna-se o alvo de um perigoso e eficiente cartel criminoso. O que eles não contavam, é que sua proteção passaria a ser três implacáveis mercenários - dois lutadores passando por dificuldades e um terceiro que jurou vingança contra os outros - lutando com unhas e dentes para impedir que os assassinos alcancem seu alvo.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Troco em Dobro - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/TRCOEMDBRO.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kUoCeyFAfYZKrGI27gSsnnsHN0.jpg</thumbnail>
@@ -3850,6 +3948,14 @@ Durante o Natal, a pequena Noel, de oito anos de idade, sonha em ganhar o Harris
 </item>
 
 <item>
+<title>[B]Uma Notícia Inesperada - [COLOR deeppink](2014)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/UNTCINSPRD.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo1nr5BkhBKaoeaKj1YRvtgDoPx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo1nr5BkhBKaoeaKj1YRvtgDoPx.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Donna Stern (Jenny Slate) é uma comediante de pouco sucesso. Após ser abandonada pelo namorado e despedida no emprego, ela acha que tudo está perdido, mas encontra Max (Jake Lacy), um rapaz gentil com quem passa uma noite. O resultado desse encontro é a gravidez inesperada de Donna. E agora, como contar ao homem que ela mal conhece?.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Uma Nova Chance - [COLOR deeppink](2018) [/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/UMNVCHNCE.mp4?attachment=true$$lsname=[COLOR red]Uma Nova Chance [/COLOR][COLOR lime]DUBLADO  FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/UMNVCHNCLEG.mp4?attachment=true$$lsname=[COLOR red]Uma Nova Chance [/COLOR][COLOR lime]LEGENDADO  FULLHD[/COLOR]</link>
@@ -4082,6 +4188,14 @@ Uma história épica de coragem e de paixão, pelo clássico olhar do realizador
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS4dgkK7BFWrxhbwCo6luTNyoIl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS4dgkK7BFWrxhbwCo6luTNyoIl.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após encontrarem um jogo no porão, os irmãos Walter (Josh Hutcherson) e Danny (Jonah Bobo) decidem jogá-lo. Só que não esperavam que o jogo fizesse com que sua casa fosse magicamente arrancada da Terra, ficando vagando pelo espaço.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Zé Colmeia: O Filme - [COLOR deeppink](2010)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/ZECLMEIOFLM.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLyiKs0Xeyp2yy93zRzjDBKVY4G.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLyiKs0Xeyp2yy93zRzjDBKVY4G.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:No filme, o parque Jellystone está perdendo visitantes, por isso o prefeito Brown (Andrew Daly) decide fechá-lo e vender suas terras. Isso quer dizer que as famílias não poderão mais apreciar a beleza da natureza – e pior, Zé Colmeia e seu amigo Catatau perderão a única casa que eles conhecem. Frente ao maior desafio de sua vida, Zé Colmeia terá que provar que ele realmente é “o mais esperto de todos os ursos” e com seu amigo Catatau ele irá unir forças com o Guarda Smith (Tom Cavanagh) para encontrar uma saída e salvar o parque de ser fechado para sempre.[/B][/COLOR]</info>
 </item>
 
 <item>
