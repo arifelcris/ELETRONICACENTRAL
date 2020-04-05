@@ -521,19 +521,6 @@ Deloris Van Cartier agora é uma cantora famosa e volta a São Francisco para aj
 </item>
 
 <item>
-<title>[B]Muppets - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/MUPTSOFLME.mp4?attachment=true$$lsname=[COLOR red]Muppets: O Filme [/COLOR][COLOR lime] (1979) DUBLADO FULLHD[/COLOR]</link>
-<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/OCNTDNTLDOSMPTS.mp4?attachment=true$$lsname=[COLOR red]O Conto de Natal dos Muppets [/COLOR][COLOR lime] (1992) DUBLADO FULLHD[/COLOR]</link>
-<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/OSMPTS.mp4?attachment=true$$lsname=[COLOR red]Os Muppets [/COLOR][COLOR lime] (2011) DUBLADO FULLHD[/COLOR]</link>
-<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/OSMPTS2.mp4?attachment=true$$lsname=[COLOR red] Muppets 2: Procurados e Amados [/COLOR][COLOR lime] (2014) DUBLADO FULLHD[/COLOR]</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ercHeTUZKmFjsxUcUL4pmlYfkbS.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ercHeTUZKmFjsxUcUL4pmlYfkbS.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após um encontro casual com um agente, Caco decide ir para Hollywood buscar espaço no show business. Fozzie, Gonzo e Miss Piggy juntam-se a ele, na esperança de também se tornarem grandes astros. No caminho, porém, Caco acaba nas mãos do Doutor Hopper, perigoso dono de uma rede de restaurantes.
-Na véspera de Natal, o velho avarento Ebenezer Scrooge (Michael Caine) recebe uma visita inesperada: o fantasma de Jacob Marley. O espírito avisa para Scrooge que se ele continuar com suas ações, vai enfrentar as consequências após a morte. Com as visitas dos fantasmas do passado, do presente e do futuro, ele tem a chance de transformar a sua vida. Versão dos Muppets do clássico livro "A Christmas Carol", de Charles Dickens.
-Walter é o maior fã dos Muppets e viaja a Los Angeles ao lado dos amigos Gary (Jason Segel) e Mary (Amy Adams). O trio descobre que Tex Richman (Chris Cooper) deseja destruir o Muppet Theatre, para explorar o petróleo recém descoberto no local. Para salvar o local o trio ajuda Caco a reunir mais uma vez os Muppets, para que todos realizem um grande programa de TV que possibilite a arrecadação de US$ 10 milhões.[/B][/COLOR]</info>
-</item>
-
-<item>
 <title>[B]Na Mira Do Atirador - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/NAMRDATRDR.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRbvXParI3ZdEtsFxlGOQNaQBUQ.jpg</thumbnail>
