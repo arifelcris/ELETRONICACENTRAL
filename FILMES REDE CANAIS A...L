@@ -19,6 +19,14 @@ Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de ving
 </item>
 
 <item>
+<title>[B]118 Dias - [COLOR deeppink](2014)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/118DAS.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy7e5zrQPk2CCaAiHfsluifYlvK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy7e5zrQPk2CCaAiHfsluifYlvK.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Maziar Bahari é um jornalista iraniano que trabalha para a revista americana Newsweek e vive em Londres, ao lado da esposa grávida. Ele é enviado para cobrir as eleições presidenciais no Irã em 2009, onde o atual presidente Mahmoud Ahmadinejad corre o risco de não se reeleger. Após uma vitória folgada de Ahmadinejad, rumores de que a eleição teria sido fraudada provocam diversas manifestações populares, algumas repelidas com violência pela polícia local. Bahari consegue filmar um destes ataques e veicula o material para ser divulgado mundo afora, o que o transforma em alvo do governo iraniano. Preso por tempo indeterminado, ele passa a ser torturado para que confesse que estava agindo em nome de uma conspiração ocidental para derrubar o presidente iraniano[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]3 Dias para Matar - [COLOR deeppink](2014)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/3DISPRMTR.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qX0ExfqZObOxON8ZVX2ZDWVFN0q.jpg</thumbnail>
@@ -105,6 +113,14 @@ Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de ving
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O filme “A Bela e o Monstro” é uma adaptação em imagem real do clássico de animação. Esta versão moderniza as personagens clássicas para um público contemporâneo, mantendo-se fiel à música original e atualizando a banda sonora com novas canções. “A Bela e o Monstro” é sobre a fantástica história de Bela, uma jovem brilhante, bonita e independente, que é aprisionada por um Monstro no seu castelo.Apesar dos seus receios, torna-se amiga dos empregados encantados do castelo e consegue ver par além do terrível exterior do Monstro quando começa a conhecer a alma e o coração do verdadeiro Príncipe que vive no seu interior.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]A Bússola de Ouro - [COLOR deeppink](2007)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/ABSOLADORO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRTu6vaYNZgNtMmVyKTgtVJbCrK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRTu6vaYNZgNtMmVyKTgtVJbCrK.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Lyra Belacqua (Dakota Blue Richards) é uma órfã que foi criada na Universidade Oxford. No mundo em que vive todas as pessoas têm um "daemon", ou seja, uma manifestação de sua própria alma em forma animal. Lyra leva uma vida tranqüila até ela e seu daemon, Pantalaimon, descobrirem a existência de uma substância misteriosa chamada "pó". Isto provoca um estranho efeito nas crianças, o que faz com que as autoridades religiosas se convençam de que representa o mal. Seguindo o misterioso Lorde Asriel (Daniel Craig), seu protetor, Lyra parte em busca de uma resposta. Em Londres ela descobre que diversas crianças estão desaparecendo, entre elas Roger (Ben Walker), seu melhor amigo. Com a ajuda de um instrumento ancestral, que se parece com uma bússola de ouro, ela parte numa jornada que pode alterar o mundo para sempre.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -222,6 +238,26 @@ Courtney (Shannyn Sossamon), uma jovem mãe solteira e superprotetora de dois g�
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTaxC0ZiJGPA8D1yeWxYE7JBoHG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTaxC0ZiJGPA8D1yeWxYE7JBoHG.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Desde o dia em que chegou a tranquila Mica High, em uma explosão de cor e som, Stargirl (Joey King) atrai a atenção de todos a seu redor, inclusive o coração de Leo (Charlie Plummer), que lhe é capturado apenas por um sorriso. Porém, a fascinação não durará para semrpe.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]A Família Addams - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AFMLADMS.mp4?attachment=true$$lsname=[COLOR red]A Familia Addams - [/COLOR][COLOR lime] (1991) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/AFMLADMS2.mp4?attachment=true$$lsname=[COLOR red]A Familia Addams - [/COLOR][COLOR lime] (1993) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/ORTRNDAFMLADMS.mp4?attachment=true$$lsname=[COLOR red]O Retorno da Familia Addams - [/COLOR][COLOR lime] (1998) DUBLADO SD[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1r5MKBPUlfFrtTXYrlT0vAR3Cp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xgQ62nK9CtwWuMZ2COt6p1zrN6.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Gomez e Mortícia Addams são o núcleo de uma divertida e estranha família imensamente rica. Mas não sabem do paradeiro de Fester, um irmão de Gomez há muito desaparecido. Tully Alford, o endividado advogado da família, tem então a ideia de apresentar Gordon, filho da sua principal credora, como o irmão desaparecido, na esperança de meter as mãos na fortuna da família.
+Gomez e Mortícia Addams têm mais um filho e contratam uma ama, Debbie, para ajudar a cuidar dele. Fester, no entanto, apaixona-se por ela e ambos resolvem casar. Porém, só muito mais tarde é que todos descobrem que ela é uma assassina que mata os vários maridos ricos com quem casa, a fim de ficar com as suas fortunas.
+[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]A Família Buscapé - [COLOR deeppink](1993)[/COLOR] - [COLOR lime](SD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/AFMLBSCP.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOFyt6JkuMzljUKjoTEwzhd3Z9a.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOFyt6JkuMzljUKjoTEwzhd3Z9a.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O mais Inacreditável choque de culturas acontece nesta história hilária que descreve as mudanças na vida da Família Clampett que fica rica da noite para o dia quando descobrem petróleo no pântano atrás de seu casebre em Ozark. Incentivada a se mudar para Beverly Hills, a inocente e trabalhadora família é a isca perfeita para charlatões, impostores e aproveitadores.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -403,6 +439,14 @@ Courtney (Shannyn Sossamon), uma jovem mãe solteira e superprotetora de dois g�
 </item>
 
 <item>
+<title>[B]A Mão que Balança o Berço - [COLOR deeppink](1991)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/AMAOQBLCOBRCO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ndDsEqaIFZn98KiLU76OluVBkj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ndDsEqaIFZn98KiLU76OluVBkj.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Claire e Michael Bartel pensam que encontraram em Peyton Flanders a babysitter perfeita. Elegante, educada e dedicada, toma conta do bebé como se fosse seu e logo conquista o coração da filha mais velha do casal. Mas, com o tempo, ela começa a dar sinais de ser perigosa, o que faz Claire investigar o passado dela, percebendo que a sua família corre perigo de vida.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]A Máquina De Lembranças - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/AMQNADLMBRCS.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3CUbcm17EXsO0k3Clv378hkqs.jpg</thumbnail>
@@ -432,6 +476,14 @@ Courtney (Shannyn Sossamon), uma jovem mãe solteira e superprotetora de dois g�
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcoI9Ww6dx6YV041IUlL72nYQi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcoI9Ww6dx6YV041IUlL72nYQi.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Duas jovens irmãs abrem um livro antigo que traz ao mundo uma criatura diabólica. Sua única salvação é um padre possuído que luta contra seus próprios demônios.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]A Marca do Medo - [COLOR deeppink](2014)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AMRCDMDDUB.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98KAHP8vxAX4jJiK7kd4QkA25EG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98KAHP8vxAX4jJiK7kd4QkA25EG.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Durante uma aula na universidade, um professor (Jared Harris) pergunta a seus alunos o que são fenômenos sobrenaturais e se é possível provar que eles existem. Como ninguém consegue responder, ele decide formar uma equipe com três alunos para investigar o estranho caso de Jane Harper (Olivia Cooke), garota aparentemente possuída por demônios. O experimento consiste em isolar Jane dentro de um casarão e fazer uma série de testes, na esperança que os poderes paranormais na garota se manifestem diante das câmeras.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -958,14 +1010,6 @@ Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha 
 </item>
 
 <item>
-<title>[B]Anjo Negro - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/ANJNGRO.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/17usk3QMG1wz115XIrUh4sj4d92.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/17usk3QMG1wz115XIrUh4sj4d92.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Heaven finalmente encontrou a nova vida que sempre sonhou com seus avós recém-descobertos. Após uma inspeção mais próxima, a beleza e a riqueza escondem segredos sinistros.[/B][/COLOR]</info>
-</item>
-
-<item>
 <title>[B]Anjos da Noite - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/ANJSDNT1.mp4?attachment=true$$lsname=[COLOR red]Anjos da Noite: Underworld[/COLOR][COLOR lime] (2003) DUBLADO FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/ANJSDNT2.mp4?attachment=true$$lsname=[COLOR red]Anjos da Noite: A Evolucao [/COLOR][COLOR lime](2006) DUBLADO FULLHD[/COLOR]</link>
@@ -976,6 +1020,14 @@ Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha 
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rz9oAnjaHV8Mbsneyv13xt72k2F.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Vampiros e lobos são rivais há centenas de anos. Em Anjos da Noite, eles travam uma violenta luta para resolver a desavença. Selene, uma bela vampira guerreira, é a líder de seus semelhantes que recebe a ajuda de Michael, um humano que pode ter a chave para acabar com a guerra.[/B][/COLOR]</info>
 Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampira - procura Marcus (Tony Curran), senhor dos vampiros, na esperança de negociar a sua própria vida. Mas cedo se apercebe que Marcus já não é o mesmo. Juntamente com o seu amado, Michael (Scott Speedman) um híbrido entre lobisomem e vampiro, Selene tenta desvendar a todo o custo os segredos e as mentiras que estão por detrás das origens da guerra entre as duas raças. Mas algo de terrível está prestes a ser libertado; uma nova e mortífera ameaça que irá colocar toda a humanidade em risco.
+</item>
+
+<item>
+<title>[B]Anjo Negro - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/ANJNGRO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/17usk3QMG1wz115XIrUh4sj4d92.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/17usk3QMG1wz115XIrUh4sj4d92.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Heaven finalmente encontrou a nova vida que sempre sonhou com seus avós recém-descobertos. Após uma inspeção mais próxima, a beleza e a riqueza escondem segredos sinistros.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -1276,6 +1328,14 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMZPMLFMQSdf2gfTERS0FOMS9bD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMZPMLFMQSdf2gfTERS0FOMS9bD.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Adaptação homônima de uma das mais famosas histórias protagonizadas pelo Homem-Morcego. Completamente enlouquecido, fora de controle e após fugir da prisão, o Coringa decide expandir o seu reinado de terror e transforma o Comissário Gordon e sua filha em alvos de sua onda de violência. A única chance de ambos saírem vivos é que Batman consiga capturar mais uma vez seu maior inimigo.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Battleship A Batalha dos Mares - [COLOR deeppink](2012)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/BTSHPABTHLDSMRS.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQP8WmFhPFuJipwKwa384hXUjqh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQP8WmFhPFuJipwKwa384hXUjqh.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Alex Hopper (Taylor Kitsch) é um oficial naval do navio USS John Paul Jones, comandado pelo almirante Shane (Liam Neeson). Alex é noivo de Sam (Brooklyn Decker), filha de Shane, apesar de não ser bem visto por ele. Já em alto mar, eles precisam unir forças com a tripulação do navio USS Samson, comandado pelo irmão mais velho de Alex, Stone (Alexander Skarsgaard), ao encontrar uma força alienígena desconhecida, que ameaça a existência da humanidade. Um grupo de cientistas, comandados por Cal Zapata (Hamish Linklater), e de especialistas em armas, como Cora Raikers (Rihanna), também compõem a equipe. Acompanhando tanto o lado dos humanos quanto o lado dos alienígenas, Battleship apresenta a intensa disputa pelo controle da Terra.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -1583,6 +1643,14 @@ Depois dos eventos cataclísmicos em Nova York com Os Vingadores, Steve Rogers, 
 </item>
 
 <item>
+<title>[B]Carrie, A Estranha - [COLOR deeppink](2013)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/CRIEAESTNH2013.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9LF71zqUttvZGHxEkiqWaZmT9c.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9LF71zqUttvZGHxEkiqWaZmT9c.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Carrie White (Chloë Moretz), uma adolescente tímida e recatada, sofre com o abuso dos colegas de escola. Criada com extremo rigor pela mãe (Julianne Moore) dominadora e desequilibrada, aos poucos, vai descobrindo que possui estranhas habilidades. Após uma grande humilhação e dominada pelo ódio, Carrie vinga-se daqueles que sempre a maltrataram.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Cartas para Deus - [COLOR deeppink](2010)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/CRTSPRDEUS.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVo3Bm6oGa5CgwLoPbDuBUxYtxU.jpg</thumbnail>
@@ -1621,6 +1689,14 @@ Depois dos eventos cataclísmicos em Nova York com Os Vingadores, Steve Rogers, 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1WwFPliT9jG63YlEz8E5v3fsGQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1WwFPliT9jG63YlEz8E5v3fsGQ.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um ex-paramédico fica ferido depois que ela testemunha um fogo cruzado envolvendo dois policiais corruptos. Despachado para o hospital, a mulher deve sobreviver a noite enquanto os homens a caçam. Felizmente, um policial veterano é designado para protegê-la, e ele se torna seu protetor à medida que a noite se torna mais perigosa.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Centurião - [COLOR deeppink](2010)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/CNTRAO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fe00bNe8K3B4NwkxswpLdzhzNdt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fe00bNe8K3B4NwkxswpLdzhzNdt.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Centurião se passa na Grã-Bretanha, nos primeiros anos depois de Cristo. Quintus, o único sobrevivente de um ataque selvagem aos soldados romanos, se junta à IX Legião do general Virilus em sua marcha ao norte para acabar com as terríveis tribos conhecidas como Pict. Depois de um ataque surpresa, Virilus é mantido prisioneiro. Só restam sete soldados e Quintus está disposto a enfrentar todos os perigos para resgatar Virilus e proteger seus homens. Em uma luta pela sobrevivência em campo inimigo, não vai ser nada fácil escapar da morte.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -2239,6 +2315,14 @@ Quando as crianças começam a desaparecer, um adolescente rebelde em prisão do
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HjzX9ZgCdiyTThziXjx88tAKCA.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HjzX9ZgCdiyTThziXjx88tAKCA.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um soldado, e que vive em um Egito ancestral dominado por deuses e forças ocultas. Quando o impiedoso Set (Gerard Butler), deus da escuridão, toma o trono da nação e mergulha a sociedade no caos, o jovem se unirá a outros cidadãos e com o poderoso Deus Horus (Nikolaj Coster-Waldau), para formar uma expressiva resistência.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Dezesseis Luas - [COLOR deeppink](2013)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/DZSLUAS.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bamV53LJoLvWa6FCjQIm5xSqqeL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bamV53LJoLvWa6FCjQIm5xSqqeL.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Ethan Wate (Alden Ehrenreich) é um estudante do colegial que mora em Gatlin, um pequeno vilarejo na Carolina do Sul. Ele vive isolado dos outros jovens em uma sociedade intolerante, perturbado pelos sonhos com uma garota misteriosa. Um dia, uma nova adolescente chega ao local: Lena Duchannes (Alice Englert), que também tem problemas de adaptação. Logo, os habitantes de Gatlin descobrem que ela possui poderes sobrenaturais. Ethan e Lena se apaixonam e agora devem lutar contra uma maldição se quiserem ficar juntos.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -3622,6 +3706,14 @@ Há 2 anos Jason Bourne (Matt Damon) achou que tivesse deixado para trás seu pa
 </item>
 
 <item>
+<title>[B]João e Maria: Caçadores de Bruxas - [COLOR deeppink](2013)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/JAOEMRA01.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr1ywrdMCbmwfHucuqy2HfB6iMa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr1ywrdMCbmwfHucuqy2HfB6iMa.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Os jovens João e Maria foram abandonados pelos pais na sombria floresta e acabam indo parar na casa de uma malvada bruxa. Mas o que parecia ser o fim acabou se tornando o começo de uma vida cheia de aventuras, uma vez que eles eliminaram a malvada e viraram verdadeiros exterminadores de criaturas do mal. Após o desaparecimento de várias crianças, os dois já adultos são contratados pelas autoridades locais para desvendar o mistério. Só que eles não imaginavam que essa nova missão iria colocá-los diante da terrível Bruxa Negra, pronta para destruir não só a reputação de excelentes caçadores de bruxas, mas também as suas vidas.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Jogo Bruto - [COLOR deeppink](1986)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/JGOBRTO.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGIn8GzmiatBZ8qZLAFxsD02OBm.jpg</thumbnail>
@@ -3748,6 +3840,29 @@ Em sua nova aventura, Johnny English (Rowan Atkinson) é a última salvação do
 </item>
 
 <item>
+<title>[B]Jornada nas Estrelas - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/JORNDMSESTRLS01.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas: O Filme - [/COLOR][COLOR lime] (1980) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/JORNDMSESTRLS02.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas II: A Ira de Khan - [/COLOR][COLOR lime] (1982) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/STRTRK03.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas III: A Procura de Spock - [/COLOR][COLOR lime] (1984) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/STRTRK04.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas IV: A Volta para Casa - [/COLOR][COLOR lime] (1987) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/STRTRK05.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas V: A Fronteira Final - [/COLOR][COLOR lime] (1989) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/STRTRK06.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas VI: A Terra Desconhecida - [/COLOR][COLOR lime] (1991) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/STRTRK07.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas: Generations - [/COLOR][COLOR lime] (1994) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/JORNDMSESTRLS08.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas: Primeiro Contato - [/COLOR][COLOR lime] (1997) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/JRNDNESTRLINSRC.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas: Insurreição - [/COLOR][COLOR lime] (1998) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/STRTRK10.mp4?attachment=true$$lsname=[COLOR red]Jornada nas Estrelas: Nemesis - [/COLOR][COLOR lime] (2002) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/STRTRK11.mp4?attachment=true$$lsname=[COLOR red]Star Trek - [/COLOR][COLOR lime] (2009) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/JORNDMSESTRLS12.mp4?attachment=true$$lsname=[COLOR red]Star Trek: Alem da Escuridao - [/COLOR][COLOR lime] (2013) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/STRTRK13.mp4?attachment=true$$lsname=[COLOR red]Star Trek: Sem Fronteiras - [/COLOR][COLOR lime] (2016) DUBLADO FULLHD[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHgbWah5GVryVCjI21Gpsxb8FnM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHgbWah5GVryVCjI21Gpsxb8FnM.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando uma entidade espacial destrutiva é avistada a aproximar-se da Terra, o Almirante James T. Kirk regressa à nova e transformada nave U.S.S. Enterprise para interceptar, examinar e, principalmente, deter a ameaça.
+A U.S.S. Enterprise está em manobras de treino e o Almirante James T. Kirk parece resignado com o facto de esta poder ser a sua última missão. Contudo, um incidente na Estação Espacial Regula One revela o regresso de Khan, um velho inimigo de Kirk, disposto a destruir a Terra para se vingar.
+Khan foi derrotado mas Spock morreu e McCoy parece ter herdado a sua essência viva. Kirk tenta ajudá-los, desafiando a Federação e partindo numa viagem não-autorizada, com o objectivo de devolver a vida ao seu melhor amigo. Mas os Klingons estão à espreita...
+Estamos no século XXIII, e um misterioso poder extraterrestre ameaça a Terra evaporando os oceanos e destruindo a atmosfera. Numa frenética tentativa para salvar a humanidade, Kirk e a sua tripulação terão de viajar para trás no tempo para o ano de 1986 em São Francisco, onde encontram um mundo de punks, pizza e loucas alterações que são tão extraterrestres como tudo o que encontraram ao longo das suas viagens pela galáxia.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]José e Maria - [COLOR deeppink](2016)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/JSEMRA.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttZmn9fcqDadaOs6qJhyF5dbuiR.jpg</thumbnail>
@@ -3759,7 +3874,7 @@ Em sua nova aventura, Johnny English (Rowan Atkinson) é a última salvação do
 <title>[B]Jumanji - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/JUMNJ.mp4?attachment=true$$lsname=[COLOR red]Jumanji - [/COLOR][COLOR lime] (1995) DUBLADO FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/JMNJBMVNDASLV.mp4?attachment=true$$lsname=[COLOR red]Jumanji: Bem-Vindo a Selva - [/COLOR][COLOR lime] (2017) DUBLADO FULLHD[/COLOR]</link>
-<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/JMNJPRXMFASE.mp4?attachment=true$$lsname=[COLOR red]Jumanji: Proxima Fase -  [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/JMNJPRXMFASE.mp4?attachment=true$$lsname=[COLOR red]Jumanji: Próxima Fase -  [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em 1869, dois garotos apavorados enterram um baú e, cem anos depois, o filho de um empresário descobre que dentro dele há um jogo chamado Jumanji. Quando começa a jogar com uma amiga, ele logo é penalizado a ficar na floresta até que alguém tire cinco ou oito. Como na jogada seguinte ela é atacada por morcegos, em virtude de seu posicionamento no tabuleiro, o jogo é interrompido e ele imediatamente fica preso dentro de Jumanji. Mas, vinte e seis anos depois, duas crianças começam a jogar e uma acaba libertando-o. Porém, a única forma de deixar tudo como antes é terminar a partida, mas para isto é preciso achar a participante da partida de 1969. Juntos eles enfrentam perigos, que surgem a cada jogada, e enquanto o jogo se desenrola a cidade se transforma em um caos, pois animais selvagens, plantas assassinas e até um caçador de pessoas saem do tabuleiro e vão permanecer enquanto o jogo não findar.
@@ -4038,7 +4153,7 @@ Petroleiros vão a uma ilha do Pacífico, onde descobrem um gorila gigante que a
 
 <item>
 <title>[B]Loucademia de Polícia - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c0vRKr1G50jUHxsOuVv1CX-t6pQcT2Lk/view$$lsname=Loucademia de Policia  [COLOR lime] (1984) DUBLADO FULLHD[/COLOR] </link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/LCDMDPLC01.mp4?attachment=true$$lsname=[COLOR red]Loucademia de Policia  [/COLOR] [COLOR lime] (1984) DUBLADO FULLHD[/COLOR] </link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/LCDMDPLC02.mp4?attachment=true$$lsname=[COLOR red]Loucademia de Policia 2: A Primeira Missao [/COLOR][COLOR lime] (1985) DUBLADO FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/LCDMDPLC03.mp4?attachment=true$$lsname=[COLOR red]Loucademia de Policia 3: De Volta ao Treinamento [/COLOR][COLOR lime] (1986) DUBLADO FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/LCDMDPLC04.mp4?attachment=true$$lsname=[COLOR red]Loucademia de Policia 4: O Cidadao se Defende [/COLOR][COLOR lime] (1987) DUBLADO FULLHD[/COLOR]</link>
