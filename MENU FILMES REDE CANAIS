@@ -22,9 +22,9 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B] FILMES DE [COLOR lime] 123...A...B...C [COLOR red]/////[/COLOR] I...J...L [/COLOR][/B]</name>
+<name>[B] FILMES DE [COLOR lime] 123...A...B...[COLOR red]/////[/COLOR]...C...D [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2IZcVw0tclP7UOusTVtI5J6rmx.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20REDE%20CANAIS%20A...L</externallink>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20REDE%20CANAIS%20A...D</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2IZcVw0tclP7UOusTVtI5J6rmx.jpg</fanart>
 <info>
 
@@ -45,9 +45,31 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B] FILMES DE [COLOR lime] M...N...O [COLOR red]/////[/COLOR] Y...Z...W [/COLOR][/B]</name>
+<name>[B] FILMES DE [COLOR lime] E...F...[COLOR red]/////[/COLOR]...N...O [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEsKxpvT5D2VxCIFWGZ72nxPlr2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20REDE%20CANAIS%20M...W</externallink>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20REDE%20CANAIS%20E...O</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEsKxpvT5D2VxCIFWGZ72nxPlr2.jpg</fanart>
+<info>
+
+[B][COLOR lime] FILMES DUBLADOS E LEGENDADOS!!! COM QUALIDADE HD E FULLHD
+BOA DIVERSÃO !!! [/COLOR] [COLOR red]
+
+
+ELETRÔNICA CENTRAL
+JOAÇABA S/C
+(49) 35221837  
+eletrocentral1@gmail.com
+[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B] FILMES DE [COLOR lime] P...Q...[COLOR red]/////[/COLOR]...Z...W [/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEsKxpvT5D2VxCIFWGZ72nxPlr2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20REDE%20CANAIS%20P...W</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEsKxpvT5D2VxCIFWGZ72nxPlr2.jpg</fanart>
 <info>
 
