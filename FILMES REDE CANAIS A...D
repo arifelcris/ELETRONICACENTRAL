@@ -1644,7 +1644,7 @@ O menino que sobreviveu aos ataques do serial killer, que se apossou de um brinq
 
 <item>
 <title>[B]Capitã Marvel - [COLOR deeppink](2019) [/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
-<link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/CPTMRVL.mp4?attachment=true$$lsname=[COLOR red] Capita Marvel [/COLOR][COLOR lime]DUBLADO  4K[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/CPTMRVL.mp4?attachment=true$$lsname=[COLOR red] Capita Marvel [/COLOR][COLOR lime]DUBLADO  FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/CPTMRVLLEG.mp4?attachment=true$$lsname=[COLOR red] Capita Marvel [/COLOR][COLOR lime]LEGENDADO  FULLHD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7EZZ6t9VSWEwFEf1pVAUI3o30X.jpg</fanart>
