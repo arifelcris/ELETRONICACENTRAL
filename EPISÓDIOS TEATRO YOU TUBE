@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="APRESENTAÇÕES EM TEATROS "HUMOR" ",[B] [COLOR gold]APRESENTAÇÕES EM TEATROS "HUMOR" [/COLOR] [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4Pr-IjH39Pw/hqdefault.jpg" group-title="Improváveis: Top 100 Cenas",[B] [COLOR white]Improváveis: Top 100 Cenas[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4Pr-IjH39Pw
 
