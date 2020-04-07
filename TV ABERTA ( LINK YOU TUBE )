@@ -12,8 +12,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8wYHEW
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8n_sx5XAyRE/hqdefault.jpg" group-title="FISH TV",[B] [COLOR white]FISH TV[/COLOR] [COLOR gold] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8n_sx5XAyRE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3q6cbR-J16A/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3q6cbR-J16A
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/T20hQvE4Czo/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T20hQvE4Czo
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Q14mJkZTA9E/hqdefault.jpg" group-title="JOVEM PAN LIVE (RÁDIO) ",[B] [COLOR white]JOVEM PAN LIVE (RÁDIO) [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Q14mJkZTA9E
