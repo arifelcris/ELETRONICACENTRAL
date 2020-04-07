@@ -6,11 +6,11 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXX
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BCnQfYxZRV0&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=11/hqdefault.jpg" group-title="Mande a sua cartinha 💌 para o #JornalDoMixaria 📰",[B] [COLOR red]Mande a sua cartinha 💌 para o #JornalDoMixaria 📰[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BCnQfYxZRV0&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=11
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3H_P7kq8MaU&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy/hqdefault.jpg" group-title="Jornal do Mixaria - Edição Especial Rio Grande do Sul",[B] [COLOR white]Jornal do Mixaria - Edição Especial Rio Grande do Sul[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3H_P7kq8MaU&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/TqGY72miC50&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=15/hqdefault.jpg" group-title="Jornal do Mixaria - Chamada",[B] [COLOR white]Jornal do Mixaria - Chamada[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TqGY72miC50&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=15
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3H_P7kq8MaU&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy/hqdefault.jpg" group-title="Jornal do Mixaria - Edição Especial Rio Grande do Sul",[B] [COLOR white]Jornal do Mixaria - Edição Especial Rio Grande do Sul[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3H_P7kq8MaU&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qHZqe59KnKw&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=14/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 01 (Especial de Natal)",[B] [COLOR white]Jornal do Mixaria - Edição 01 (Especial de Natal)[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qHZqe59KnKw&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=14
