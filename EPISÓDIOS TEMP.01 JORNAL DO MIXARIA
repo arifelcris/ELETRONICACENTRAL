@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="SERIADO JORNAL DO MIXARIA ",[B] [COLOR gold]SERIADO JORNAL DO MIXARIA [/COLOR] [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BCnQfYxZRV0&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=11/hqdefault.jpg" group-title="Mande a sua cartinha 💌 para o #JornalDoMixaria 📰",[B] [COLOR red]Mande a sua cartinha 💌 para o #JornalDoMixaria 📰[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BCnQfYxZRV0&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=11
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3H_P7kq8MaU&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy/hqdefault.jpg" group-title="Jornal do Mixaria - Edição Especial Rio Grande do Sul",[B] [COLOR white]Jornal do Mixaria - Edição Especial Rio Grande do Sul[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3H_P7kq8MaU&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/TqGY72miC50&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=15/hqdefault.jpg" group-title="Jornal do Mixaria - Chamada",[B] [COLOR white]Jornal do Mixaria - Chamada[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TqGY72miC50&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=15
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qHZqe59KnKw&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=14/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 01 (Especial de Natal)",[B] [COLOR white]XJornal do Mixaria - Edição 01 (Especial de Natal)[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qHZqe59KnKw&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=14
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/i4uI1_K2dzQ&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=13/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 02",[B] [COLOR white]Jornal do Mixaria - Edição 02[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i4uI1_K2dzQ&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=13
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UO_LZ9HqP_E&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=12/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 03",[B] [COLOR white]Jornal do Mixaria - Edição 03[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UO_LZ9HqP_E&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=12
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/RETBsPOyvYo&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=10/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 04",[B] [COLOR white]Jornal do Mixaria - Edição 04[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RETBsPOyvYo&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=10
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zVEwntMuQ6I&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=9/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 05",[B] [COLOR white]Jornal do Mixaria - Edição 05[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zVEwntMuQ6I&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=9
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/S9U3_krcvxc&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=8/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 06",[B] [COLOR white]Jornal do Mixaria - Edição 06[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=S9U3_krcvxc&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YW5j57xrR4U&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=7/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 07",[B] [COLOR white]Jornal do Mixaria - Edição 07[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YW5j57xrR4U&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=7
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/d1MZBC76kHg&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=6/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 08",[B] [COLOR white]Jornal do Mixaria - Edição 08[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=d1MZBC76kHg&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=6
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rLt_DzG_-sM&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=5/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 09",[B] [COLOR white]Jornal do Mixaria - Edição 09[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rLt_DzG_-sM&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=5
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lhdtPZ5jCl4&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=4/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 10",[B] [COLOR white]Jornal do Mixaria - Edição 10[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lhdtPZ5jCl4&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=4
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/JKRqYOM5n2M&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=3/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 11",[B] [COLOR white]Jornal do Mixaria - Edição 11[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JKRqYOM5n2M&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=3
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/puDdFNZAS_E&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=2/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 12",[B] [COLOR white]Jornal do Mixaria - Edição 12[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=puDdFNZAS_E&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=2
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="XXXXXXX",[B] [COLOR white]XXXXXX[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="XXXXXXX",[B] [COLOR white]XXXXXX[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="XXXXXXX",[B] [COLOR white]XXXXXX[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
