@@ -12,7 +12,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3H_P7k
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/TqGY72miC50&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=15/hqdefault.jpg" group-title="Jornal do Mixaria - Chamada",[B] [COLOR white]Jornal do Mixaria - Chamada[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TqGY72miC50&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=15
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qHZqe59KnKw&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=14/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 01 (Especial de Natal)",[B] [COLOR white]XJornal do Mixaria - Edição 01 (Especial de Natal)[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qHZqe59KnKw&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=14/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 01 (Especial de Natal)",[B] [COLOR white]Jornal do Mixaria - Edição 01 (Especial de Natal)[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qHZqe59KnKw&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=14
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/i4uI1_K2dzQ&list=PLy87FxDbcaNE0lO4fdL2a6GMjWTTj2esy&index=13/hqdefault.jpg" group-title="Jornal do Mixaria - Edição 02",[B] [COLOR white]Jornal do Mixaria - Edição 02[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
