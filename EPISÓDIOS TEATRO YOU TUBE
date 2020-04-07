@@ -24,3 +24,25 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Bm41X5
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iE1WRc9ums8&t=3361s/hqdefault.jpg" group-title="Romeu & Julieta: Hebe Camargo & Ronald Golias (Completo 2003)",[B] [COLOR white]Romeu & Julieta: Hebe Camargo & Ronald Golias [/COLOR] [COLOR gold] HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iE1WRc9ums8&t=3361s
 
+###################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="LIVEs PAULINHO MIXARIA",[B] [COLOR gold]LIVEs PAULINHO MIXARIA[/COLOR] [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4ttuUvEvH8w/hqdefault.jpg" group-title="AO VIVO DE CASA!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo em Casa[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4ttuUvEvH8w
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wPob1Q2NKe8/hqdefault.jpg" group-title="AO VIVO PROSEANDO COM VOCÊS!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo Proseando Com Vocês[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wPob1Q2NKe8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nkW-vJsKKC0/hqdefault.jpg" group-title="BATE PAPO SOBRE A VILA DO MIXARIA AO VIVO",[B] [COLOR white]Paulinho Mixaria:Bate Papo Sobre a Vila Do Mixaria ao Vivo[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nkW-vJsKKC0
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HmeXyKqJiQA/hqdefault.jpg" group-title="LIVE CORRENTE DO BEM",[B] [COLOR white]Paulinho Mixaria:Live Corrente do Bem[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HmeXyKqJiQA
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/MsHuDy8msH0/hqdefault.jpg" group-title="LIVE DA ALEGRIA!",[B] [COLOR white]Paulinho Mixaria:Live da Alegria[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MsHuDy8msH0
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jttmu3dPB_Y/hqdefault.jpg" group-title="LIVE DA ESTREIA | A Vila do Mixaria",[B] [COLOR white]Paulinho Mixaria:"LIVE DA ESTREIA | A Vila do Mixaria"[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Jttmu3dPB_Y
