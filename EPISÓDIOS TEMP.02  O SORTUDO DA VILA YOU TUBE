@@ -1,17 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nIRsOQgYesw&t=11s/hqdefault.jpg" group-title="VEM AÍ O MEU SERIADO: A VILA DO MIXARIA",[B] [COLOR white]VEM AÍ O MEU SERIADO: A VILA DO MIXARIA[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="SERIADO O FANTASMA DA VILA ",[B] [COLOR gold]SERIADO O SORTUDO DA VILA [/COLOR] [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nIRsOQgYesw&t=11s/hqdefault.jpg" group-title="Vem aí o Seriado: A Vila do Mixaria",[B] [COLOR white]Vem aí o Seriado: A Vila do Mixaria[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nIRsOQgYesw&t=11s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UB_r3HzTu30/hqdefault.jpg" group-title="O Sortudo da Vila: A Vila do Mixaria",[B] [COLOR white]O Sortudo da Vila: A Vila do Mixaria (EP01)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UB_r3HzTu30/hqdefault.jpg" group-title="O Sortudo da Vila: A Vila do Mixaria",[B] [COLOR white]O Sortudo da Vila: A Vila do Mixaria (EP01)[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UB_r3HzTu30
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ECVnajpmdF4/hqdefault.jpg" group-title="O Sortudo da Vila: A Vila do Mixaria",[B] [COLOR white]O Sortudo da Vila: A Vila do Mixaria (EP02)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ECVnajpmdF4/hqdefault.jpg" group-title="O Sortudo da Vila: A Vila do Mixaria",[B] [COLOR white]O Sortudo da Vila: A Vila do Mixaria (EP02)[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ECVnajpmdF4
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wBDE-y5x0L4/hqdefault.jpg" group-title="O Sortudo da Vila: A Vila do Mixaria",[B] [COLOR white]O Sortudo da Vila: A Vila do Mixaria (EP03)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wBDE-y5x0L4/hqdefault.jpg" group-title="O Sortudo da Vila: A Vila do Mixaria",[B] [COLOR white]O Sortudo da Vila: A Vila do Mixaria (EP03)[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wBDE-y5x0L4
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/oWuHjrMgvPc/hqdefault.jpg" group-title="O Sortudo da Vila: A Vila do Mixaria",[B] [COLOR white]O Sortudo da Vila: A Vila do Mixaria (EP04)[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/oWuHjrMgvPc/hqdefault.jpg" group-title="O Sortudo da Vila: A Vila do Mixaria",[B] [COLOR white]O Sortudo da Vila: A Vila do Mixaria (EP04)[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oWuHjrMgvPc
-
