@@ -354,6 +354,25 @@ Willy Wonka (Johnny Depp) é o excêntrico dono da maior fábrica de doces do pl
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Nesta irresistível comédia para toda a família, o "esquentado" treinador de basquete Roy McCormick (Martin Lawrence) está mais interessado nos acordos comerciais que fecha do que em ganhar jogos. E depois de um desastre na quadra, Roy está prestes a perder tudo, a menos que possa provar que pode vencer jogos sem perder a calma. E aí que entra a dificuldade ele é obrigado a treinar um inacreditável time de adolescentes que nunca ganhou um jogo. Regulamente, Roy assume o time e usa sua mágica de treinador para ensinar os garotos a importância da dedicação, do trabalho em equipe para trilharem um hilária estrada rumo ao titulo do campeonato. Roy encontra um novo amor durante esse período e redescobre seu verdadeiro primeiro amor: o basquete![/B][/COLOR]</info>
 </item>
 
+  <item>
+<title>[B]A Hora do Pesadelo - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AHRDPSDL01.mp4?attachment=true$$lsname=[COLOR red]A Hora do Pesadelo - [/COLOR][COLOR lime] (1984) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AHRDPSDL02.mp4?attachment=true$$lsname=[COLOR red]A Hora do Pesadelo 2: A Vinganca de Freddy - [/COLOR][COLOR lime] (1985) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AHRDPSDL03.mp4?attachment=true$$lsname=[COLOR red]A Hora do Pesadelo 3: Os Guerreiros dos Sonhos - [/COLOR][COLOR lime] (1987) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AHRDPSDL04.mp4?attachment=true$$lsname=[COLOR red]A Hora do Pesadelo 4: O Mestre dos Sonhos - [/COLOR][COLOR lime] (1988) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AHRDPSDL05.mp4?attachment=true$$lsname=[COLOR red]A Hora do Pesadelo 5: O Maior Horror de Freddy - [/COLOR][COLOR lime] (1989) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AHRDPSDL06.mp4?attachment=true$$lsname=[COLOR red]A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy - [/COLOR][COLOR lime] (1991) DUBLADO FULLHD[/COLOR]</link>
+<link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AHRDPSDL08.mp4?attachment=true$$lsname=[COLOR red]A Hora do Pesadelo - [/COLOR][COLOR lime] (2010) DUBLADO FULLHD[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSXP80BTB8cVproeIAIsBusc2U8.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um grupo de adolescentes tem pesadelos horríveis, onde são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger (Robert Englund), um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora Krueger pode retornar para se vingar daqueles que o mataram, através do sono.
+Uma nova família se muda para a casa em Elm Street, e logo os garotos estão tendo pesadelos com Freddy Krueger, o falecido assassino de crianças. Desta vez, ele tenta tomar o corpo de um adolescente para continuar matando no mundo real.
+Adolescentes internados em clínica psiquiátrica, atormentados por pesadelos parecidos, passam por tratamento com uma nova droga e juntam suas forças para tentar se livrar da influência nefasta de Freddy Krueger, o assassino que assombra suas noites.
+Freddy Krueger retorna em busca de mais vítimas. Depois de matar todos os sobreviventes da rua Elm, ele usa o poder de Alice para atrair outras pessoas em seus sonhos.
+Após sobreviver ao último ataque de Freddy Krueger (Robert Englund), Alice Johnson (Lisa Wilcox) tem um período de calmaria até voltar a ter sonhos com o assassino. Desta vez o alvo de Freddy não é Alice, mas o filho que ela carrega na barriga. Seu plano é usá-lo para que possa nascer outra vez.
+Na sexta parte do pesadelo Freddy Krueger continua matando crianças. Ele segue para uma nova cidade em busca de novas vítimas. Atrás dele estão a própria filha, que é psicóloga infantil, e uma equipe de jovens decididos a matá-lo de vez.[/B][/COLOR]</info>
+</item>
+  
 <item>
 <title>[B]A Incrível História de Adaline - [COLOR deeppink](2015)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AINVRVLHSTRDADLNE.mp4?attachment=true</link>
