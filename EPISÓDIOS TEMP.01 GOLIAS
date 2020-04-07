@@ -1,94 +1,97 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Y9ved_g8JvM/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E01[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="A Escolinha do Golias" ",[B] [COLOR gold]A ESCOLINHA DO GOLIAS 1ª TEMPORADA [/COLOR] [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Y9ved_g8JvM/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E01[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y9ved_g8JvM
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qISjbJkZcDE/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E02[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qISjbJkZcDE/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E02[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qISjbJkZcDE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/0VohCfT3LnY/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E03[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/0VohCfT3LnY/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E03[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0VohCfT3LnY
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ARjCv6XiLNU/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E04[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ARjCv6XiLNU/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E04[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ARjCv6XiLNU
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/v0kmE9V-S8A/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E05[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/v0kmE9V-S8A/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E05[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=v0kmE9V-S8A
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/EJZd_j8_hUU/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E06[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/EJZd_j8_hUU/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E06[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EJZd_j8_hUU
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GlPgKiYandY/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E07[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GlPgKiYandY/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E07[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GlPgKiYandY
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/vtasKC7O8sM/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E08[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/vtasKC7O8sM/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E08[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vtasKC7O8sM
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SS3MMSv3YSc/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E09[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SS3MMSv3YSc/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E09[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SS3MMSv3YSc
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZK3w3olqt00/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E10[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZK3w3olqt00/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E10[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZK3w3olqt00
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4F5khdmWfK0/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E11[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4F5khdmWfK0/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E11[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4F5khdmWfK0
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8TgD7UmU3Hw/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E12[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8TgD7UmU3Hw/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E12[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8TgD7UmU3Hw
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eeMTFZjOI2Q/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E13[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eeMTFZjOI2Q/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E13[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eeMTFZjOI2Q
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/OTe0UL12hOo/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E14[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/OTe0UL12hOo/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E14[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OTe0UL12hOo
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/6WYGqkfuDxE/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E15[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/6WYGqkfuDxE/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E15[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6WYGqkfuDxE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AUw_47eDV5o/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E16[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AUw_47eDV5o/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E16[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AUw_47eDV5o
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/61mzeuuXSOc/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E17[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/61mzeuuXSOc/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E17[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=61mzeuuXSOc
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lTqAwRCn3N8/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E18[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lTqAwRCn3N8/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E18[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lTqAwRCn3N8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/d9APsTOIsI4/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E19[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/d9APsTOIsI4/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E19[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=d9APsTOIsI4
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/cX-jyUz0RDw/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E20[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/cX-jyUz0RDw/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E20[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cX-jyUz0RDw
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VN2kHEizyYI/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E21[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VN2kHEizyYI/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E21[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VN2kHEizyYI
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/21pXBm_a-yc/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E22[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/21pXBm_a-yc/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E22[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=21pXBm_a-yc
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/OTrCoJV5d-Q/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E23[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/OTrCoJV5d-Q/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E23[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OTrCoJV5d-Q
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/h8_VG4ABOmg/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E24[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/h8_VG4ABOmg/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E24[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h8_VG4ABOmg
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UBku_3U9fGw/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E25[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UBku_3U9fGw/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E25[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UBku_3U9fGw
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DrJt6-9S2Fc/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E26[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DrJt6-9S2Fc/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E26[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DrJt6-9S2Fc
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/FArDDMDiNU0/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E27[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/FArDDMDiNU0/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E27[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FArDDMDiNU0
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1UXA1fMZqrE/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E28[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1UXA1fMZqrE/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E28[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1UXA1fMZqrE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/tEGCn6l8__Q/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E29[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/tEGCn6l8__Q/hqdefault.jpg" group-title="XA Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E29[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tEGCn6l8__Q
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jv52XxkJ0ig/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E30[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jv52XxkJ0ig/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E30[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Jv52XxkJ0ig
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GmOh0m0Wtx0/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E31[/COLOR] [COLOR gold] SD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GmOh0m0Wtx0/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E31[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GmOh0m0Wtx0
