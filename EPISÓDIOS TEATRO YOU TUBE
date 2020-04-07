@@ -3,28 +3,28 @@
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="APRESENTAÇÕES EM TEATROS "HUMOR" ",[B] [COLOR gold]APRESENTAÇÕES EM TEATROS "HUMOR" [/COLOR] [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4Pr-IjH39Pw/hqdefault.jpg" group-title="Improváveis: Top 100 Cenas",[B] [COLOR white]Improváveis: Top 100 Cenas[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4Pr-IjH39Pw/hqdefault.jpg" group-title="Improváveis: Top 100 Cenas",[B] [COLOR white]Improváveis: Top 100 Cenas[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4Pr-IjH39Pw
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/g4Nb7IvJG5I/hqdefault.jpg" group-title="Os melhores do mundo: Hermanoteu na Terra de Godah ",[B] [COLOR white]Os melhores do mundo: Hermanoteu na Terra de Godah[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/g4Nb7IvJG5I/hqdefault.jpg" group-title="Os melhores do mundo: Hermanoteu na Terra de Godah ",[B] [COLOR white]Os melhores do mundo: Hermanoteu na Terra de Godah[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=g4Nb7IvJG5I
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/EcuO3UtYGnE/hqdefault.jpg" group-title="Paulinho Mixaria & Tetéco AO VIVO no Circo Teatro Teleco",[B] [COLOR white]Paulinho Mixaria & Tetéco AO VIVO no Circo Teatro Teleco[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/EcuO3UtYGnE/hqdefault.jpg" group-title="Paulinho Mixaria & Tetéco AO VIVO no Circo Teatro Teleco",[B] [COLOR white]Paulinho Mixaria & Tetéco AO VIVO no Circo Teatro Teleco[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EcuO3UtYGnE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bJbdihFlg_k/hqdefault.jpg" group-title="Paulinho Mixaria: Show na Semana Farroupilha da Flórida Estados Unidos (2019)",[B] [COLOR white]"Paulinho Mixaria: Show na Semana Farroupilha da Flórida, Estados Unidos (2019)"[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bJbdihFlg_k/hqdefault.jpg" group-title="Paulinho Mixaria: Show na Semana Farroupilha da Flórida Estados Unidos (2019)",[B] [COLOR white]"Paulinho Mixaria: Show na Semana Farroupilha da Flórida, Estados Unidos (2019)"[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bJbdihFlg_k
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NMlBC-CQAzM/hqdefault.jpg" group-title="Paulinho Mixaria em "Óia as Cunversa" (Parte 1)",[B] [COLOR white]Paulinho Mixaria em "Óia as Cunversa" (Parte 1)[/COLOR] [COLOR gold] HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NMlBC-CQAzM/hqdefault.jpg" group-title="Paulinho Mixaria em "Óia as Cunversa" (Parte 1)",[B] [COLOR white]Paulinho Mixaria em "Óia as Cunversa" (Parte 1)[/COLOR] [COLOR lime] HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NMlBC-CQAzM
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/IIUFDZbizVU/hqdefault.jpg" group-title="Paulinho Mixaria em "Óia as Cunversa"",[B] [COLOR white]Paulinho Mixaria em "Óia as Cunversa (Parte 2) "[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/IIUFDZbizVU/hqdefault.jpg" group-title="Paulinho Mixaria em "Óia as Cunversa"",[B] [COLOR white]Paulinho Mixaria em "Óia as Cunversa (Parte 2) "[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IIUFDZbizVU
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Bm41X5A_3os&t=70s/hqdefault.jpg" group-title="Paulinho Mixaria em Curitiba ",[B] [COLOR white]Paulinho Mixaria AO VIVO em Curitiba[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Bm41X5A_3os&t=70s/hqdefault.jpg" group-title="Paulinho Mixaria em Curitiba ",[B] [COLOR white]Paulinho Mixaria AO VIVO em Curitiba[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Bm41X5A_3os&t=70s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iE1WRc9ums8&t=3361s/hqdefault.jpg" group-title="Romeu & Julieta: Hebe Camargo & Ronald Golias (Completo 2003)",[B] [COLOR white]Romeu & Julieta: Hebe Camargo & Ronald Golias [/COLOR] [COLOR gold] HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iE1WRc9ums8&t=3361s/hqdefault.jpg" group-title="Romeu & Julieta: Hebe Camargo & Ronald Golias (Completo 2003)",[B] [COLOR white]Romeu & Julieta: Hebe Camargo & Ronald Golias [/COLOR] [COLOR lime] HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iE1WRc9ums8&t=3361s
 
 ###################################################################################################################################################
@@ -32,20 +32,20 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iE1WRc
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="LIVEs PAULINHO MIXARIA",[B] [COLOR gold]LIVEs PAULINHO MIXARIA[/COLOR] [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4ttuUvEvH8w/hqdefault.jpg" group-title="AO VIVO DE CASA!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo em Casa[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4ttuUvEvH8w/hqdefault.jpg" group-title="AO VIVO DE CASA!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo em Casa[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4ttuUvEvH8w
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wPob1Q2NKe8/hqdefault.jpg" group-title="AO VIVO PROSEANDO COM VOCÊS!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo Proseando Com Vocês[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wPob1Q2NKe8/hqdefault.jpg" group-title="AO VIVO PROSEANDO COM VOCÊS!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo Proseando Com Vocês[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wPob1Q2NKe8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nkW-vJsKKC0/hqdefault.jpg" group-title="BATE PAPO SOBRE A VILA DO MIXARIA AO VIVO",[B] [COLOR white]Paulinho Mixaria:Bate Papo Sobre a Vila Do Mixaria ao Vivo[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nkW-vJsKKC0/hqdefault.jpg" group-title="BATE PAPO SOBRE A VILA DO MIXARIA AO VIVO",[B] [COLOR white]Paulinho Mixaria:Bate Papo Sobre a Vila Do Mixaria ao Vivo[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nkW-vJsKKC0
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HmeXyKqJiQA/hqdefault.jpg" group-title="LIVE CORRENTE DO BEM",[B] [COLOR white]Paulinho Mixaria:Live Corrente do Bem[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HmeXyKqJiQA/hqdefault.jpg" group-title="LIVE CORRENTE DO BEM",[B] [COLOR white]Paulinho Mixaria:Live Corrente do Bem[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HmeXyKqJiQA
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/MsHuDy8msH0/hqdefault.jpg" group-title="LIVE DA ALEGRIA!",[B] [COLOR white]Paulinho Mixaria:Live da Alegria[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/MsHuDy8msH0/hqdefault.jpg" group-title="LIVE DA ALEGRIA!",[B] [COLOR white]Paulinho Mixaria:Live da Alegria[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MsHuDy8msH0
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jttmu3dPB_Y/hqdefault.jpg" group-title="LIVE DA ESTREIA | A Vila do Mixaria",[B] [COLOR white]Paulinho Mixaria:"LIVE DA ESTREIA | A Vila do Mixaria"[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jttmu3dPB_Y/hqdefault.jpg" group-title="LIVE DA ESTREIA | A Vila do Mixaria",[B] [COLOR white]Paulinho Mixaria:"LIVE DA ESTREIA | A Vila do Mixaria"[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Jttmu3dPB_Y
