@@ -1,23 +1,23 @@
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="LIVEs PAULINHO MIXARIA",[B] [COLOR gold] TODA SEGUNDA FEIRA AS 19:00 HORAS PAULINHO MIXARIA AO VIVO NO YOU TUBE! [/COLOR] [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PTVmLsqHUUg/hqdefault.jpg" group-title="",[B] [COLOR white]Paulinho Mixaria:Live Com Participação Especial de Jorge Barttira!(07/04/20)[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PTVmLsqHUUg/hqdefault.jpg" group-title="",[B] [COLOR white]Paulinho Mixaria:Live Com Participação Especial de Jorge Barttira! (07/04/20)[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PTVmLsqHUUg
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/MsHuDy8msH0/hqdefault.jpg" group-title="LIVE DA ALEGRIA!",[B] [COLOR white]Paulinho Mixaria:Live da Alegria  (04/04/20) [/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MsHuDy8msH0
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HmeXyKqJiQA/hqdefault.jpg" group-title="LIVE CORRENTE DO BEM",[B] [COLOR white]Paulinho Mixaria:Live Corrente do Bem  (30/03/20) [/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HmeXyKqJiQA
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wPob1Q2NKe8/hqdefault.jpg" group-title="AO VIVO PROSEANDO COM VOCÊS!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo Proseando Com Vocês (21/10/19)[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wPob1Q2NKe8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jttmu3dPB_Y/hqdefault.jpg" group-title="LIVE DA ESTREIA | A Vila do Mixaria",[B] [COLOR white]Paulinho Mixaria:"Live da Estreia | A Vila do Mixaria" (01/05/19)[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Jttmu3dPB_Y
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4ttuUvEvH8w/hqdefault.jpg" group-title="AO VIVO DE CASA!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo em Casa[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4ttuUvEvH8w
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wPob1Q2NKe8/hqdefault.jpg" group-title="AO VIVO PROSEANDO COM VOCÊS!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo Proseando Com Vocês[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wPob1Q2NKe8
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nkW-vJsKKC0/hqdefault.jpg" group-title="BATE PAPO SOBRE A VILA DO MIXARIA AO VIVO",[B] [COLOR white]Paulinho Mixaria:Bate Papo Sobre a Vila Do Mixaria ao Vivo[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nkW-vJsKKC0
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HmeXyKqJiQA/hqdefault.jpg" group-title="LIVE CORRENTE DO BEM",[B] [COLOR white]Paulinho Mixaria:Live Corrente do Bem[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HmeXyKqJiQA
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/MsHuDy8msH0/hqdefault.jpg" group-title="LIVE DA ALEGRIA!",[B] [COLOR white]Paulinho Mixaria:Live da Alegria[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MsHuDy8msH0
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jttmu3dPB_Y/hqdefault.jpg" group-title="LIVE DA ESTREIA | A Vila do Mixaria",[B] [COLOR white]Paulinho Mixaria:"Live da Estreia | A Vila do Mixaria"[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Jttmu3dPB_Y
