@@ -170,6 +170,14 @@ O filme é de autoria de Duncan McMath, baseado no livro do jornalista inglês G
 </item>
 
 <item>
+<title>[B]Pequenos Monstros - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/PQNSMNSTRS.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXluEUAs53EZw2wtoyLOGAD6rVg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXluEUAs53EZw2wtoyLOGAD6rVg.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Dave (Alexander England), um músico falido, se voluntaria para acompanhar a viagem do jardim de infância de seu sobrinho, após se interessar pela professora Caroline (Lupita Nyong'o). As intenções de Dave são complicadas pela presença da personalidade de programa infantil mais famosa do mundo e, também, por outro homem que disputa a atenção de Caroline. Uma coisa que nenhum deles esperava, no entanto, era um inesperado apocalipse zumbi.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Percy Jackson e o Ladrão de Raios - [COLOR deeppink](2010)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/PERCYJCKSNEOLDRDRAIOS.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/axG4aEejImUaLeFUOhBzETuUdPb.jpg</thumbnail>
