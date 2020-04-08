@@ -32,6 +32,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iE1WRc
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="LIVEs PAULINHO MIXARIA",[B] [COLOR gold]LIVEs PAULINHO MIXARIA ! TODA SEGUNDA FEIRA AS 19:00 HORAS [/COLOR] [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PTVmLsqHUUg/hqdefault.jpg" group-title="",[B] [COLOR white]Paulinho Mixaria:Live Com Participação Especial de Jorge Barttira!(07/04/20)[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PTVmLsqHUUg
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/4ttuUvEvH8w/hqdefault.jpg" group-title="AO VIVO DE CASA!",[B] [COLOR white]Paulinho Mixaria:Ao Vivo em Casa[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4ttuUvEvH8w
 
@@ -49,6 +52,3 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MsHuDy
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Jttmu3dPB_Y/hqdefault.jpg" group-title="LIVE DA ESTREIA | A Vila do Mixaria",[B] [COLOR white]Paulinho Mixaria:"Live da Estreia | A Vila do Mixaria"[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Jttmu3dPB_Y
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/PTVmLsqHUUg/hqdefault.jpg" group-title="",[B] [COLOR white]Paulinho Mixaria:Live Com Participação Especial de Jorge Barttira![/COLOR] [COLOR lime] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PTVmLsqHUUg
