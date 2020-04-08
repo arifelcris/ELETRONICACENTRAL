@@ -140,6 +140,14 @@ Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de ving
 </item>
 
 <item>
+<title>[B]A Casa - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/ACSA.mp4?attachment=true</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/03/26/17/18/4722488.jpg</thumbnail>
+<fanart>https://br.web.img3.acsta.net/pictures/20/03/26/17/18/4722488.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em A Casa, Javier Muñoz (Javier Gutiérrez) é um executivo desempregado é forçado a vender seu apartamento. Quando ele descobrir que ainda tem as chaves, ficará obcecado pela família que agora mora lá e decidirá recuperar a vida que perdeu, a qualquer preço.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]A Casa Assombrada - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/ACSASMVRDA.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUgoy8qSCZ5Y5pBiu5ipufvS16d.jpg</thumbnail>
@@ -289,6 +297,14 @@ Willy Wonka (Johnny Depp) é o excêntrico dono da maior fábrica de doces do pl
 </item>
 
 <item>
+<title>[B]A Fortuna - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/AFTRNA.mp4?attachment=true</link>
+<thumbnail>https://redecanais.se/player3/RedeCanaisVTTS/vtts/RCFServer5/AFTRNA.jpg?1</thumbnail>
+<fanart>https://redecanais.se/player3/RedeCanaisVTTS/vtts/RCFServer5/AFTRNA.jpg?1</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:É uma noite especial para a família Buoitton. Charles e Linda, casal extremamente rico, convidam seus amigos e familiares mais próximos para jantar. Antes de o jantar ser servido, Charles levanta o copo para brindar à família e cai de cara no prato MORTO. Linda confessa que o envenenou e envenenou todos na sala para conseguir o dinheiro. Os convidados têm uma escolha: matar uma pessoa entre eles e culpar os dois assassinatos pelo antídoto ou – MORRER em uma hora. O que se segue é uma troca histérica entre os membros estressados do grupo que, na tentativa de estabelecer quem deve morrer e quem deve ser o assassino, revelam todos os esqueletos no armário em que estão escondidos há anos.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]A Freira - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/AFRA.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/laTJGiCUad1G3sHIgMdHNeJXEPN.jpg</thumbnail>
@@ -328,7 +344,13 @@ Willy Wonka (Johnny Depp) é o excêntrico dono da maior fábrica de doces do pl
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Tommy Hart (Colin Farrell) é um estudante do 2º ano de Direito que se alista no exército para lutar pelos Aliados na 2ª Guerra Mundial. Em meio a guerra ele acaba sendo capturado, sendo posteriormente enviado a um campo de concentração. Lá um soldado negro é acusado de ter assassinado um soldado branco que era racista, sendo que ambos eram prisioneiros no local. Ao invés de executá-lo, os nazistas concordam com o plano apresentado pelo coronel William McNamara (Bruce Willis), também prisioneiro no campo, que propõe que o soldado acusado tenha um julgamento realizado no local. Hart é então designado a defender o soldado acusado enquanto que McNamara usa a situação para empreender seu plano de fuga do local.[/B][/COLOR]</info>
 </item>
 
-
+<item>
+<title>[B]A Gripe - [COLOR deeppink](2013)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/AGRPE.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTupIMMSDWeaA8IxAggfO80oUJn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTupIMMSDWeaA8IxAggfO80oUJn.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O pior epidemia já vi está varrendo Bundang, o subúrbio de Seul. Depois de contrabando de imigrantes ilegais no país, Byung-woo morre de um vírus desconhecido. Logo depois, os mesmos sintomas são assola dezenas de moradores em Bundang. As pessoas são impotentes contra a doença transmitida pelo ar e aumenta o número de infectados rapidamente, espalhando o caos. À medida que o pior cenário precaução, a cidade de meio milhão de pessoas, a apenas 19 km de Seul, está prestes a ser fechadas.[/B][/COLOR]</info>
+</item>
 
 <item>
 <title>[B]A Herdeira - [COLOR deeppink](2015)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -354,7 +376,7 @@ Willy Wonka (Johnny Depp) é o excêntrico dono da maior fábrica de doces do pl
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Nesta irresistível comédia para toda a família, o "esquentado" treinador de basquete Roy McCormick (Martin Lawrence) está mais interessado nos acordos comerciais que fecha do que em ganhar jogos. E depois de um desastre na quadra, Roy está prestes a perder tudo, a menos que possa provar que pode vencer jogos sem perder a calma. E aí que entra a dificuldade ele é obrigado a treinar um inacreditável time de adolescentes que nunca ganhou um jogo. Regulamente, Roy assume o time e usa sua mágica de treinador para ensinar os garotos a importância da dedicação, do trabalho em equipe para trilharem um hilária estrada rumo ao titulo do campeonato. Roy encontra um novo amor durante esse período e redescobre seu verdadeiro primeiro amor: o basquete![/B][/COLOR]</info>
 </item>
 
-  <item>
+<item>
 <title>[B]A Hora do Pesadelo - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AHRDPSDL01.mp4?attachment=true$$lsname=[COLOR red]A Hora do Pesadelo - [/COLOR][COLOR lime] (1984) DUBLADO FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AHRDPSDL02.mp4?attachment=true$$lsname=[COLOR red]A Hora do Pesadelo 2: A Vinganca de Freddy - [/COLOR][COLOR lime] (1985) DUBLADO FULLHD[/COLOR]</link>
@@ -372,7 +394,7 @@ Freddy Krueger retorna em busca de mais vítimas. Depois de matar todos os sobre
 Após sobreviver ao último ataque de Freddy Krueger (Robert Englund), Alice Johnson (Lisa Wilcox) tem um período de calmaria até voltar a ter sonhos com o assassino. Desta vez o alvo de Freddy não é Alice, mas o filho que ela carrega na barriga. Seu plano é usá-lo para que possa nascer outra vez.
 Na sexta parte do pesadelo Freddy Krueger continua matando crianças. Ele segue para uma nova cidade em busca de novas vítimas. Atrás dele estão a própria filha, que é psicóloga infantil, e uma equipe de jovens decididos a matá-lo de vez.[/B][/COLOR]</info>
 </item>
-  
+
 <item>
 <title>[B]A Incrível História de Adaline - [COLOR deeppink](2015)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/AINVRVLHSTRDADLNE.mp4?attachment=true</link>
@@ -580,6 +602,14 @@ Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha 
 </item>
 
 <item>
+<title>[B]A Onda - [COLOR deeppink](2015)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/AONDA.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIWcH7KeFninWT5iOYU3LdyBGPH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIWcH7KeFninWT5iOYU3LdyBGPH.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Localizado na Noruega, o Fiorde de Geiranger é um dos pontos turísticos mais espetaculares da região, mas também é um local propício para cataclismas. Após anos no centro de alerta do local, o geólogo Kristian sente que alguma coisa não está normal, os substratos estão mudando. Em plena alta temporada turística, uma onda gigante atinge o local, colocando a montanha abaixo e dando apenas dez minutos para que as pessoas consigam chegar a um terreno elevado.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]A Origem - [COLOR deeppink](2010)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/AORGM.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hVXWyB1NaDu6dHCcgYEe7hyUhS.jpg</thumbnail>
@@ -668,6 +698,14 @@ Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha 
 </item>
 
 <item>
+<title>[B]À Prova de Morte - [COLOR deeppink](2007)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/APRVDMRT.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBEdIMdpTmt261OcDvuGspS2Zqz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBEdIMdpTmt261OcDvuGspS2Zqz.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Para Jungle Julia (Poitier), Shanna (Ladd) e Arlene (Ferlito), a noite oferece uma oportunidade de libertação. Mas a poucos metros, olhando-as de forma pouco inocente a partir do seu carro, está Stuntman Mike (Russell). E é no seu Dodge Charger, modificado para suportar até as mais extremas colisões, que este psicopata gosta de terminar com a vida de belas raparigas que viajam a seu lado...[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]À Queima-Roupa - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer2/ondemand/AQMARPA.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFN9c739JHBoLXr3MBjGwrsR7ys.jpg</thumbnail>
@@ -697,6 +735,14 @@ Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfdonaU5XbX4EMtLTGt7C4IhUI0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfdonaU5XbX4EMtLTGt7C4IhUI0.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um grupo de cruéis vikings vai à Grã-Bretanha com a intenção de saquear. Mas os seus planos mudam quando enfrentam uma tempestade que os deixa náufragos na costa escocesa. Encalhados, aventuram-se até chegar a Danelaw, o distante acampamento viking.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]A Salvação - [COLOR deeppink](2014)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/ASLVCAO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fppAGacAeugdRARmP802I8XwCVw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fppAGacAeugdRARmP802I8XwCVw.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na América de 1870, um pacífico colono americano mata o culpado por assassinar sua família, o que desperta a fúria do líder de uma famosa gangue local. Os covardes moradores da cidade traem sua confiança e delatam sua localização e plano para o bandido. Sozinho, ele é forçado a caçar a gangue com as próprias mãos.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -769,6 +815,14 @@ Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHO4wOw7u6B9yIzLuKf0UBO7GmO.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHO4wOw7u6B9yIzLuKf0UBO7GmO.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Centenas de crianças refugiadas na Suécia, que fugiram com suas famílias de traumas extremos, foram afetadas pelo 'uppgivenhetssyndrom', ou síndrome de resignação. Enfrentando a deportação, eles se retiram do mundo em estado de coma, como se estivessem congelados, por meses ou mesmo anos.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]A Verdade Em Segredo - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/AVRDEMSGRDO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA9RhCG7O0eDjFPsTr5OphL6mP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA9RhCG7O0eDjFPsTr5OphL6mP.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Libby Lamm é uma antiga assessora de segurança nacional, quando trabalhava com Rachel Burke, uma veterana política, assinou uma ação militar controversa que deveria acabar com a guerra contra o terrorismo. O problema: milhares morreram sob falsos pretextos. Assombrada por seu passado, Libby decide contar a verdade, arriscando sua própria vida para expor um encobrimento que se estende até os mais altos níveis de governo.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -1376,7 +1430,7 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTKl7J5OWnsZSTRiKPIvPx4ngBG.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Armando é um assassino de sangue frio com uma natureza cruel e provocadora. Ele está comprometido com o trabalho do cartel e é enviado por sua mãe para matar Mike (Smith). Nuñez assumirá o papel de Rita, psicóloga criminal durona e engraçada que é recém-nomeada chefe da AMMO e é ex-namorada de Mike.[/B][/COLOR]</info>
 </item>
-  
+
 <item>
 <title>[B]Bata Antes de Entrar - [COLOR deeppink](2015)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/BTANSTDENTR.mp4?attachment=true</link>
@@ -2150,6 +2204,14 @@ Ação, aventura e fantasia esperam por você neste novo capítulo da saga “Co
 </item>
 
 <item>
+<title>[B]Correndo Por Um Sonho - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/CORNDPRUMSNHO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L31gDii1TybJKveiaMhnnVaXZG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L31gDii1TybJKveiaMhnnVaXZG.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Crescendo com um pai ausente em um pequeno rancho no interior da cidade, os irmãos Zach (Tanner Stine) e Dave (Evan Hofer) perceberam desde a infância que os esportes são o caminho mais realista a ser seguido para que eles consigam mudar de vida. Quando um deles ganha uma chance de ouro no time da escola, a força da amizade entre os dois precisa ser mais forte do que nunca.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]Corrida Mortal - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/CRDAMRTL.mp4?attachment=true$$lsname=[COLOR red]Corrida Mortal [/COLOR][COLOR lime] (2008) DUBLADO HD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/CRDAMRTL2.mp4?attachment=true$$lsname=[COLOR red]Corrida Mortal 2 [/COLOR][COLOR lime] (2010) DUBLADO HD[/COLOR]</link>
@@ -2223,6 +2285,14 @@ Sequência do sucesso "Crepúsculo", que traz de volta o jovem vampiro Edward. D
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xiqmm4cUZQwmZfGfhzZ34Z2OAs.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:
 Quando as crianças começam a desaparecer, um adolescente rebelde em prisão domiciliar começa a suspeitar que um mal lendário, um bicho-papão conhecido como Cucuy, pode ser o responsável.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]Curiosa - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download.vendedordesucesso.com.br/c/RCFServer5/ondemand/CURSA.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/217eCKJQBzk4FIcqWgP1sT3Gzxt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/217eCKJQBzk4FIcqWgP1sT3Gzxt.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Pierre Louÿs (Niels Schneider) é um poeta parisiense que decide fugir para a Argélia ao descobrir que o amor de sua vida, Marie de Regnier (Noémie Merlant), se casa com o seu melhor amigo, Henri De Régnier, em busca de melhor posição social. Lá, ele conhece Zohar (Camélia Jordana), com quem ele compartilha uma paixão pela fotografia erótica. Ao voltar para Paris com Zohar ele reencontra Marie, que confessa que ainda o ama. Eles iniciam um caso que tem como pano de fundo a fotografia erótica de Paris, em um jogo de gato e rato com as pessoas que envolvem suas vidas e quebrando os códigos estabelecidos pela sociedade.[/B][/COLOR]</info>
 </item>
 
 <item>
