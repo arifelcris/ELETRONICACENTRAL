@@ -1,4 +1,12 @@
 <item>
+<title>[B]1917 - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://www609.o0-2.com/token=6mRpjgAybE8Ew1kqyv_oTA/1586505149/187.45.0.0/113/9/cf/513b8cbb9317f245809809c9d44f7cf9-1080p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6lDTyJl7SEbv4jZkftVBPndZH2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6lDTyJl7SEbv4jZkftVBPndZH2.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse: Em um dos momentos críticos da Primeira Guerra Mundial, dois soldados britânicos, Schofield e Blake, recebem uma missão aparentemente impossível. Em uma luta contra o tempo, os soldados devem cruzar território inimigo e entregar uma mensagem que cessará o ataque brutal de milhares - entre eles, o irmão de Blake.[/B][/COLOR]</info>
+</item>
+
+<item>
 <title>[B]300 - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/300.mp4?attachment=true$$lsname=[COLOR red]300  DUBLADO 2007[/COLOR] [COLOR lime] FULLHD[/COLOR]</link>
 <link>http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/300AASCSDIMPRO.mp4?attachment=true$$lsname=[COLOR red]300 2  DUBLADO 2014[/COLOR] [COLOR lime] FULLHD[/COLOR]</link>
