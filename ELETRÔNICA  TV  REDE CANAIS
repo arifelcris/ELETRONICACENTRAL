@@ -1,3 +1,4 @@
+
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR lime]CANAIS ABERTOS[/COLOR][/B]</title>
 <link>here</link>
@@ -72,8 +73,7 @@ item>
 <link>https://stream.canais.info/s/a/hls/animalplanet.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/AnimalPlanet.jpg</thumbnail>
 </item>
-https://stream.canais.info/s/a/hls/animalplanet.m3u8
-https://stream.canais.info/s/a/hls/animalplanet.m3u8?expires=1586509780&token=aa6ae4c3a4f6c574365124f0af6f2287
+
 <item>
 <title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/discovery.m3u8</link>
@@ -238,7 +238,7 @@ item>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/premiereclubes.jpg</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] SPORTV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/sportv1.m3u8?expires=1586510265&token=4821e234f6b78b38ddd645f631c140c1</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/SporTV1.jpg</thumbnail>
@@ -556,7 +556,7 @@ item>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/Arte1.jpg</thumbnail>
 </item>
 
-<item>
+item> 
 <title>[B][COLOR white] BIS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/bis.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/bis.jpg</thumbnail>
@@ -566,6 +566,12 @@ item>
 <title>[B][COLOR white] CANAL OFF [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/off.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/off.jpg</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white] VIVA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://stream.canais.info/s/a/hls/canalbrasil.m3u8</link>
+<thumbnail>https://canaisgratis.eu/imgs-videos/Canais/canalbrasil.jpg</thumbnail>
 </item>
 
 <item>
@@ -652,7 +658,7 @@ item>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/tlc.jpg</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] VIVA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/viva.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/viva.jpg</thumbnail>
