@@ -54,7 +54,7 @@
 </item>
 
 ########################
-item>
+<item>
 <title>[B][COLOR white] SBT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link></link>
 <thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
@@ -86,7 +86,7 @@ item>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/discoverycivilization.jpg</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] DISCOVERY HOME & HEALTH [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/discoveryhomeihealth.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/discoveryhomeihealth.jpg</thumbnail>
@@ -104,7 +104,7 @@ item>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/discoverytheater.jpg</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] DISCOVERY TURBO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/discoveryturbo.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/discoveryturbo.jpg</thumbnail>
@@ -238,7 +238,7 @@ item>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/premiereclubes.jpg</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] SPORTV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/sportv1.m3u8?expires=1586510265&token=4821e234f6b78b38ddd645f631c140c1</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/SporTV1.jpg</thumbnail>
@@ -276,7 +276,7 @@ item>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/amc.jpg</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] AXN [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/axn.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/AXN.jpg</thumbnail>
@@ -470,7 +470,7 @@ item>
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] BOOMERANG [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/boomerang.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/Boomerang.jpg</thumbnail>
@@ -562,16 +562,16 @@ item>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/bis.jpg</thumbnail>
 </item>
 
+item>
+<title>[B][COLOR white] CANAL BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://stream.canais.info/s/a/hls/canalbrasil.m3u8</link>
+<thumbnail>https://canaisgratis.eu/imgs-videos/Canais/canalbrasil.jpg</thumbnail>
+</item>
+
 <item>
 <title>[B][COLOR white] CANAL OFF [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/off.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/off.jpg</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white] VIVA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://stream.canais.info/s/a/hls/canalbrasil.m3u8</link>
-<thumbnail>https://canaisgratis.eu/imgs-videos/Canais/canalbrasil.jpg</thumbnail>
 </item>
 
 <item>
@@ -658,7 +658,7 @@ item>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/tlc.jpg</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] VIVA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
 <link>https://stream.canais.info/s/a/hls/viva.m3u8</link>
 <thumbnail>https://canaisgratis.eu/imgs-videos/Canais/viva.jpg</thumbnail>
