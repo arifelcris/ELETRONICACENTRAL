@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="APRESENTAÇÕES ANTIGAS DO RONALD GOLIAS ",[B] [COLOR gold]APRESENTAÇÕES ANTIGAS DO RONALD GOLIAS [/COLOR] [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hyU8OT185L8/hqdefault.jpg" group-title="Bronco - Episódio 01: Piloto (completo) ",[B] [COLOR gold]BRONCO - Episódio 01: Piloto (completo)[/COLOR] [COLOR lime] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hyU8OT185L8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zAS4J5Zg4Wk/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Episódio 02: A Múmia (completo)[/COLOR] [COLOR lime] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zAS4J5Zg4Wk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/fDfOLs-2m0I/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO - Cadê a Rolha  (completo)[/COLOR] [COLOR lime] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fDfOLs-2m0I
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/t7OkvY7w220/hqdefault.jpg" group-title="BRONCO",[B] [COLOR white]BRONCO- Episódio: A Eleição do Síndico[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=t7OkvY7w220
 
