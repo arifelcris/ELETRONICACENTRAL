@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title=""Meu Cunhado" foi uma série humorística de TV que foi produzida e exibida no SBT a partir de 14 de abril de 2004 até 26 de março de 2006 às quartas-feiras e aos domingos. Protagonizada pelos grandes amigos Ronald Golias e Moacyr Franco,foi o último trabalho de Golias no SBT, onde ressuscitou seu personagem mais famoso,o "Bronco"." ",[B] [COLOR gold]MEU CUNHADO[/COLOR] [/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR gold]MEU CUNHADO[/COLOR] [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jPVqLbWj4Pg&t=1991s/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Início ((EP01))[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
