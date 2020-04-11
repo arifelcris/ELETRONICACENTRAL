@@ -1,0 +1,163 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title=""Meu Cunhado" foi uma série humorística de TV que foi produzida e exibida no SBT a partir de 14 de abril de 2004 até 26 de março de 2006 às quartas-feiras e aos domingos. Protagonizada pelos grandes amigos Ronald Golias e Moacyr Franco,foi o último trabalho de Golias no SBT, onde ressuscitou seu personagem mais famoso,o "Bronco"." ",[B] [COLOR gold]MEU CUNHADO[/COLOR] [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jPVqLbWj4Pg&t=1991s/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Início ((EP01))[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jPVqLbWj4Pg&t=1991s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/C-IQ5K8NgI8/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:CPI no Vermelho (EP02)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=C-IQ5K8NgI8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/EM1Eh45iW64/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:O Papa (EP03)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EM1Eh45iW64
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/7OARuQ2Ux2U/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:A Eleição (EP04)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7OARuQ2Ux2U
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/uTs5eyAix70/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Judia de Mim (EP05)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uTs5eyAix70
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/dd_JvwwWfdM/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Tô Mal (EP06)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dd_JvwwWfdM
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP07)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP08)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP09)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP10)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DYTQNBgD6zQ&t=5s/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Chicago Chicago (EP11)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DYTQNBgD6zQ&t=5s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rrlYCuqSYR8/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Deu Bode nas Bodas (EP12)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rrlYCuqSYR8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/sJa3-MbswHA/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Sonho de uma Noite de Verão (EP13)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sJa3-MbswHA
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/l2o0WIww1z4/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Doação de Graças (EP14)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=l2o0WIww1z4
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SEYIKGbP3Ew/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Cartas na Mesa (EP15)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SEYIKGbP3Ew
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/J4_rsthiNrs/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Quarto Crescente (EP16)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=J4_rsthiNrs
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/qntbY19Nhyo/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Aniversario da Lili (EP17)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qntbY19Nhyo
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/l1Uhpde-g4M/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Terra a Vista (EP18)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=l1Uhpde-g4M
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/bPTCN8icAIc/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Vai Ser Melhor Para Todos (EP19)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bPTCN8icAIc
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/L47E8cy-ocI/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Cobras e Lagartos (EP20)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L47E8cy-ocI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WAFw4N5UM2M/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Economia Informal (EP21)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WAFw4N5UM2M
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP22)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/VWaChlUlLuQ/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Meus Direitos (EP23)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VWaChlUlLuQ
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hmZjwdoibp4/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Carlo Bronclone (EP24)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hmZjwdoibp4
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/INOzKK-RcUQ/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Sambari Móveis (EP25)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=INOzKK-RcUQ
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP26)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AuEroAe9C9o/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Boas Festas (EP27)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AuEroAe9C9o
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8lc5gZvs3EI/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Cara Nova (EP28)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8lc5gZvs3EI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BtVAFvGjVJs/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Terapia de Grupo (EP29)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BtVAFvGjVJs
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/6B0rM43tnoI/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Um dia Emprestavel (EP30)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6B0rM43tnoI
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/u6DBflMvK5E/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Dia Sim Dia Não (EP31)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u6DBflMvK5E
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UTHP2YhDEF8/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Dia da Sedução (EP32)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UTHP2YhDEF8
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP33)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP34)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/_dDENGuxDuo/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Canta Pedra e os 40 Ladrões (EP35)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_dDENGuxDuo
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/NgiSgJ9j3X4/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Dia de Surpresa (EP36)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NgiSgJ9j3X4
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP37)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP38)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/vqQ8cscps2c/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:A Separação (EP39)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vqQ8cscps2c
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/nOrwfbeeyGQ/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Paixão de Montão (EP40)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nOrwfbeeyGQ
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP41)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP42)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/FtfzmtOfShU/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Reciclagem (EP43)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FtfzmtOfShU
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP44)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rjnX1UXf0ws/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Eu se Mato (EP45)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rjnX1UXf0ws
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/h397nJLFt1o/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Túmulo da Consciência (EP46)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h397nJLFt1o
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YOz_GTWs1tU/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:G, L ou S (EP47)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YOz_GTWs1tU
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/w20yWFhhiIo/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Greve Geral (EP48)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w20yWFhhiIo
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/R4JTFf__FAw/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Famíglia Cantapedra (EP49)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R4JTFf__FAw
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP50)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EP51)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/6tfUHcmrrVg/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado:Bronco Connection (EP52)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6tfUHcmrrVg
+
+EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="Meu Cunhado",[B] [COLOR white]Meu Cunhado: (EPX)[/COLOR] [COLOR gold] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
