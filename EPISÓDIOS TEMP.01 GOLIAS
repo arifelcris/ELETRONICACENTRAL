@@ -95,3 +95,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Jv52Xx
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GmOh0m0Wtx0/hqdefault.jpg" group-title="A Escolinha Do Golias",[B] [COLOR white]A Escolinha Do Golias - T01E31[/COLOR] [COLOR lime] SD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GmOh0m0Wtx0
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/atHY6leliWI&list=RDatHY6leliWI&start_radio=1/hqdefault.jpg" group-title="Mix - A Escolinha do Golias (completo) 14/07/18",[B] [COLOR white]Mix - A Escolinha do Golias (completo) 14/07/18[/COLOR] [COLOR lime] SD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=atHY6leliWI&list=RDatHY6leliWI&start_radio=1
