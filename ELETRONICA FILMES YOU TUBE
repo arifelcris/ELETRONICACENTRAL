@@ -1,156 +1,156 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SVibxQOt_Ow/hqdefault.jpg" group-title="A Justiceira ",[B] [COLOR white]A Justiceira [/COLOR] [COLOR gold] (2019) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/SVibxQOt_Ow/hqdefault.jpg" group-title="A Justiceira ",[B] [COLOR white]A Justiceira [/COLOR] [COLOR lime] (2019) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SVibxQOt_Ow
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GHHJiRVRuVE/hqdefault.jpg" group-title="A Lenda Do Cavalo Prateado",[B] [COLOR white]A Lenda Do Cavalo Prateado[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/GHHJiRVRuVE/hqdefault.jpg" group-title="A Lenda Do Cavalo Prateado",[B] [COLOR white]A Lenda Do Cavalo Prateado[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GHHJiRVRuVE
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/G47nUSfFfWY/hqdefault.jpg" group-title="A Última Bala",[B] [COLOR white]A Última Bala[/COLOR] [COLOR gold](2012) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wtH9VTbVh58
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Lh3EotqWJDE/hqdefault.jpg" group-title="Absolutamente Impossível ",[B] [COLOR white]Absolutamente Impossível [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Lh3EotqWJDE/hqdefault.jpg" group-title="Absolutamente Impossível ",[B] [COLOR white]Absolutamente Impossível [/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Lh3EotqWJDE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iW6mEGhSMY8/hqdefault.jpg" group-title="Amor Pra Cachorro",[B] [COLOR white]Amor Pra Cachorro[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iW6mEGhSMY8/hqdefault.jpg" group-title="Amor Pra Cachorro",[B] [COLOR white]Amor Pra Cachorro[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iW6mEGhSMY8
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hfxr9iCE1u4/hqdefault.jpg" group-title="As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (1/2)",[B] [COLOR white]As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (1/2)[/COLOR] [COLOR gold] HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hfxr9iCE1u4
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mfOABydlS6k/hqdefault.jpg" group-title="As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (2/2)",[B] [COLOR white]As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (2/2) [/COLOR] [COLOR gold] HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/mfOABydlS6k/hqdefault.jpg" group-title="As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (2/2)",[B] [COLOR white]As Aventuras de Paulinho Mixaria: No Rincão dos ‘Loco Sorto’ Parte (2/2) [/COLOR] [COLOR lime] HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mfOABydlS6k
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5pUaRiyeozM/hqdefault.jpg" group-title="Aventura Perigosa ",[B] [COLOR white]Aventura Perigosa [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5pUaRiyeozM/hqdefault.jpg" group-title="Aventura Perigosa ",[B] [COLOR white]Aventura Perigosa [/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5pUaRiyeozM
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5rnqV-uAVxk/hqdefault.jpg" group-title="Contatos Alienígenas",[B] [COLOR white]Contatos Alienígenas[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5rnqV-uAVxk/hqdefault.jpg" group-title="Contatos Alienígenas",[B] [COLOR white]Contatos Alienígenas[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5rnqV-uAVxk
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Ru3cG4qcfK8/hqdefault.jpg" group-title="Cúmplices de um Segredo",[B] [COLOR white]Cúmplices de um Segredo[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Ru3cG4qcfK8/hqdefault.jpg" group-title="Cúmplices de um Segredo",[B] [COLOR white]Cúmplices de um Segredo[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ru3cG4qcfK8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5JgHi6yyXtc/hqdefault.jpg" group-title="Dark World: Equilibrium",[B] [COLOR white]Dark World: Equilibrium[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5JgHi6yyXtc/hqdefault.jpg" group-title="Dark World: Equilibrium",[B] [COLOR white]Dark World: Equilibrium[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5JgHi6yyXtc
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1tqSJOj5JHE/hqdefault.jpg" group-title="Death Stranding",[B] [COLOR white]Death Stranding[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/1tqSJOj5JHE/hqdefault.jpg" group-title="Death Stranding",[B] [COLOR white]Death Stranding[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1tqSJOj5JHE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BOa-Qp4PEdg/hqdefault.jpg" group-title="Divino Processo",[B] [COLOR white]Divino Processo[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BOa-Qp4PEdg/hqdefault.jpg" group-title="Divino Processo",[B] [COLOR white]Divino Processo[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BOa-Qp4PEdg
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/JNfATr5muPs/hqdefault.jpg" group-title="Encontro Marcado",[B] [COLOR white]Encontro Marcado[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/JNfATr5muPs/hqdefault.jpg" group-title="Encontro Marcado",[B] [COLOR white]Encontro Marcado[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JNfATr5muPs
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZMrUwHR_cf4/hqdefault.jpg" group-title="Entre A Vingança E O Perdão",[B] [COLOR white]Entre A Vingança E O Perdão[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZMrUwHR_cf4/hqdefault.jpg" group-title="Entre A Vingança E O Perdão",[B] [COLOR white]Entre A Vingança E O Perdão[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZMrUwHR_cf4
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BlciqkZuC5E/hqdefault.jpg" group-title="Esquadrão de Elite",[B] [COLOR white]Esquadrão de Elite[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BlciqkZuC5E/hqdefault.jpg" group-title="Esquadrão de Elite",[B] [COLOR white]Esquadrão de Elite[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BlciqkZuC5E
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/z4FGPZ2q4eE/hqdefault.jpg" group-title="Exorcismo no Vaticano",[B] [COLOR white]Exorcismo no Vaticano[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/z4FGPZ2q4eE/hqdefault.jpg" group-title="Exorcismo no Vaticano",[B] [COLOR white]Exorcismo no Vaticano[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=z4FGPZ2q4eE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/o2Q4BtJfmdg/hqdefault.jpg" group-title="Fechando Negócio",[B] [COLOR white]Fechando Negócio[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/o2Q4BtJfmdg/hqdefault.jpg" group-title="Fechando Negócio",[B] [COLOR white]Fechando Negócio[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=o2Q4BtJfmdg
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/O0M5nAczjjA/hqdefault.jpg" group-title="For Honor",[B] [COLOR white]For Honor[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/O0M5nAczjjA/hqdefault.jpg" group-title="For Honor",[B] [COLOR white]For Honor[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O0M5nAczjjA
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WtYUFBuOXa8/hqdefault.jpg" group-title="God of War - O Filme",[B] [COLOR white]God of War - O Filme[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WtYUFBuOXa8/hqdefault.jpg" group-title="God of War - O Filme",[B] [COLOR white]God of War - O Filme[/COLOR] [COLOR lime] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WtYUFBuOXa8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Fw3kTgFo7c0/hqdefault.jpg" group-title="Guardiões do Céu",[B] [COLOR white]Guardiões do Céu[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Fw3kTgFo7c0/hqdefault.jpg" group-title="Guardiões do Céu",[B] [COLOR white]Guardiões do Céu[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Fw3kTgFo7c0
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BX0V3EcatEk/hqdefault.jpg" group-title="Invasão Zumbi",[B] [COLOR white]Invasão Zumbi[/COLOR] [COLOR gold] (2016) FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BX0V3EcatEk/hqdefault.jpg" group-title="Invasão Zumbi",[B] [COLOR white]Invasão Zumbi[/COLOR] [COLOR lime] (2016) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BX0V3EcatEk
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/uBB4-wsPwjg/hqdefault.jpg" group-title="Krampus",[B] [COLOR white]Krampus[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/uBB4-wsPwjg/hqdefault.jpg" group-title="Krampus",[B] [COLOR white]Krampus[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uBB4-wsPwjg
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/INP4iFY9SN0/hqdefault.jpg" group-title="Lapso do Tempo",[B] [COLOR white]Lapso do Tempo[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/INP4iFY9SN0/hqdefault.jpg" group-title="Lapso do Tempo",[B] [COLOR white]Lapso do Tempo[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=INP4iFY9SN0
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3CAibUXctcU/hqdefault.jpg" group-title="Mr Bean: Ano Novo",[B] [COLOR white]Mr Bean: Ano Novo[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3CAibUXctcU/hqdefault.jpg" group-title="Mr Bean: Ano Novo",[B] [COLOR white]Mr Bean: Ano Novo[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3CAibUXctcU
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/pTWAgVmyjJo/hqdefault.jpg" group-title="Mr Bean: Barbeiro",[B] [COLOR white]Mr Bean: Barbeiro[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/pTWAgVmyjJo/hqdefault.jpg" group-title="Mr Bean: Barbeiro",[B] [COLOR white]Mr Bean: Barbeiro[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pTWAgVmyjJo
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zM8XVqeKJvQ&t=2s/hqdefault.jpg" group-title="Mr Bean: Merry Christmas",[B] [COLOR white]Mr Bean: Merry Christmas[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zM8XVqeKJvQ&t=2s/hqdefault.jpg" group-title="Mr Bean: Merry Christmas",[B] [COLOR white]Mr Bean: Merry Christmas[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zM8XVqeKJvQ&t=2s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Sf08GSRnpHE/hqdefault.jpg" group-title="Na Máfia Por Acaso",[B] [COLOR white]Na Máfia Por Acaso[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Sf08GSRnpHE/hqdefault.jpg" group-title="Na Máfia Por Acaso",[B] [COLOR white]Na Máfia Por Acaso[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Sf08GSRnpHE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kNPQs1gg_YI/hqdefault.jpg" group-title="Noé",[B] [COLOR white]Noé[/COLOR] [COLOR gold] (2014) FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/kNPQs1gg_YI/hqdefault.jpg" group-title="Noé",[B] [COLOR white]Noé[/COLOR] [COLOR lime] (2014) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kNPQs1gg_YI
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HNXtggoTiUU/hqdefault.jpg" group-title="O 30º Dia ",[B] [COLOR white]O 30º Dia [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HNXtggoTiUU/hqdefault.jpg" group-title="O 30º Dia ",[B] [COLOR white]O 30º Dia [/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HNXtggoTiUU
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AYBx1XE7v_I/hqdefault.jpg" group-title="O Acordo",[B] [COLOR white]O Acordo[/COLOR] [COLOR gold] (2013) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AYBx1XE7v_I/hqdefault.jpg" group-title="O Acordo",[B] [COLOR white]O Acordo[/COLOR] [COLOR lime] (2013) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AYBx1XE7v_I
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/m-zqW2Xt-c4/hqdefault.jpg" group-title="O Atirador",[B] [COLOR white]O Atirador[/COLOR] [COLOR gold] (1993) FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/m-zqW2Xt-c4/hqdefault.jpg" group-title="O Atirador",[B] [COLOR white]O Atirador[/COLOR] [COLOR lime] (1993) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=m-zqW2Xt-c4
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/upUel0mF0Hg/hqdefault.jpg" group-title="O Corpo ",[B] [COLOR white]O Corpo [/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/upUel0mF0Hg/hqdefault.jpg" group-title="O Corpo ",[B] [COLOR white]O Corpo [/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=upUel0mF0Hg
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zBduCVyICMQ/hqdefault.jpg" group-title="O Guerreiro",[B] [COLOR white]O Guerreiro[/COLOR] [COLOR gold](2017) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zBduCVyICMQ
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/vn9QuT8msW4/hqdefault.jpg" group-title="O Guerreiro do Amanhã",[B] [COLOR white]O Guerreiro do Amanhã[/COLOR] [COLOR gold] (2014) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/vn9QuT8msW4/hqdefault.jpg" group-title="O Guerreiro do Amanhã",[B] [COLOR white]O Guerreiro do Amanhã[/COLOR] [COLOR lime] (2014) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vn9QuT8msW4
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XuDrrzC1Ys0/hqdefault.jpg" group-title="O Vingador",[B] [COLOR white]O Vingador[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XuDrrzC1Ys0/hqdefault.jpg" group-title="O Vingador",[B] [COLOR white]O Vingador[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XuDrrzC1Ys0
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DozaZ35kRCQ/hqdefault.jpg" group-title="Os Irmaos",[B] [COLOR white]Os Irmaos[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DozaZ35kRCQ/hqdefault.jpg" group-title="Os Irmaos",[B] [COLOR white]Os Irmaos[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DozaZ35kRCQ
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Xg05NcK916I/hqdefault.jpg" group-title="Ouija - Exorcismo",[B] [COLOR white]Ouija - Exorcismo[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Xg05NcK916I/hqdefault.jpg" group-title="Ouija - Exorcismo",[B] [COLOR white]Ouija - Exorcismo[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Xg05NcK916I
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5edQJsNmtb0/hqdefault.jpg" group-title="Paisagem de Natal ",[B] [COLOR white]Paisagem de Natal [/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/5edQJsNmtb0/hqdefault.jpg" group-title="Paisagem de Natal ",[B] [COLOR white]Paisagem de Natal [/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5edQJsNmtb0
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Lncr0Iw3Rk8/hqdefault.jpg" group-title="Parker",[B] [COLOR white]Parker[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Lncr0Iw3Rk8/hqdefault.jpg" group-title="Parker",[B] [COLOR white]Parker[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Lncr0Iw3Rk8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZG0fSLt4NtU&t=2825s/hqdefault.jpg" group-title="Paulinho Mixaria: Morando Com a Sogra",[B] [COLOR white]Paulinho Mixaria: Morando Com a Sogra[/COLOR] [COLOR gold] HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZG0fSLt4NtU&t=2825s/hqdefault.jpg" group-title="Paulinho Mixaria: Morando Com a Sogra",[B] [COLOR white]Paulinho Mixaria: Morando Com a Sogra[/COLOR] [COLOR lime] HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZG0fSLt4NtU&t=2825s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Npk3aKpBsG8/hqdefault.jpg" group-title="Perseguição",[B] [COLOR white]Perseguição[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Npk3aKpBsG8/hqdefault.jpg" group-title="Perseguição",[B] [COLOR white]Perseguição[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Npk3aKpBsG8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZA1bV3Jqffc/hqdefault.jpg" group-title="Pompeia",[B] [COLOR white]Pompeia[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ZA1bV3Jqffc/hqdefault.jpg" group-title="Pompeia",[B] [COLOR white]Pompeia[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZA1bV3Jqffc
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/68cTcvL_MOc/hqdefault.jpg" group-title="Quando te Conheci ",[B] [COLOR white]Quando te Conheci [/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/68cTcvL_MOc/hqdefault.jpg" group-title="Quando te Conheci ",[B] [COLOR white]Quando te Conheci [/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=68cTcvL_MOc
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zU3fLkKIDy4/hqdefault.jpg" group-title="Rolli e a Jornada Mágica",[B] [COLOR white]Rolli e a Jornada Mágica[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/zU3fLkKIDy4/hqdefault.jpg" group-title="Rolli e a Jornada Mágica",[B] [COLOR white]Rolli e a Jornada Mágica[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zU3fLkKIDy4
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/e0PfGMYq5pE/hqdefault.jpg" group-title="Roubo sem Saída",[B] [COLOR white]Roubo sem Saída[/COLOR] [COLOR gold] (2016) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/e0PfGMYq5pE/hqdefault.jpg" group-title="Roubo sem Saída",[B] [COLOR white]Roubo sem Saída[/COLOR] [COLOR lime] (2016) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e0PfGMYq5pE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8EpltdVI9CM/hqdefault.jpg" group-title="Santos ou Soldados",[B] [COLOR white]Santos ou Soldados[/COLOR] [COLOR gold] (2003) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8EpltdVI9CM/hqdefault.jpg" group-title="Santos ou Soldados",[B] [COLOR white]Santos ou Soldados[/COLOR] [COLOR lime] (2003) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8EpltdVI9CM
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AVi3JKGduo8/hqdefault.jpg" group-title="Splice",[B] [COLOR white]Splice[/COLOR] [COLOR gold] (HD) [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AVi3JKGduo8/hqdefault.jpg" group-title="Splice",[B] [COLOR white]Splice[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AVi3JKGduo8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DLSMu1mpe-s/hqdefault.jpg" group-title="Stratton Forças Especiais",[B] [COLOR white]Stratton Forças Especiais[/COLOR] [COLOR gold] (2017) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DLSMu1mpe-s/hqdefault.jpg" group-title="Stratton Forças Especiais",[B] [COLOR white]Stratton Forças Especiais[/COLOR] [COLOR lime] (2017) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DLSMu1mpe-s
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QQu0p-0kRxg/hqdefault.jpg" group-title="Uma Razão para Recomeçar",[B] [COLOR white]Uma Razão para Recomeçar [/COLOR] [COLOR gold] (2018) HD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QQu0p-0kRxg/hqdefault.jpg" group-title="Uma Razão para Recomeçar",[B] [COLOR white]Uma Razão para Recomeçar [/COLOR] [COLOR lime] (2018) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QQu0p-0kRxg
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Y_emJe5V1O8/hqdefault.jpg" group-title="Uma História de Vingança",[B] [COLOR white]Uma História de Vingança[/COLOR] [COLOR gold] (2017) FULLHD [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Y_emJe5V1O8/hqdefault.jpg" group-title="Uma História de Vingança",[B] [COLOR white]Uma História de Vingança[/COLOR] [COLOR lime] (2017) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y_emJe5V1O8
 
 
