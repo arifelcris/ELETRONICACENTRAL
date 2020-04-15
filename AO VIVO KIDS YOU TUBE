@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/h3hnx0j1PXo&feature=emb_logo/hqdefault.jpg" group-title="ChuChu TV ",[B] [COLOR white]ChuChu TV  [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/h3hnx0j1PXo&feature=emb_logo/hqdefault.jpg" group-title="ChuChu TV ",[B] [COLOR white]ChuChu TV  [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=h3hnx0j1PXo&feature=emb_logo
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/TfsTgIrC0sk&feature=emb_logo/hqdefault.jpg" group-title="DC Kids Brasil",[B] [COLOR white]DC Kids Brasil[/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/TfsTgIrC0sk&feature=emb_logo/hqdefault.jpg" group-title="DC Kids Brasil",[B] [COLOR white]DC Kids Brasil[/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TfsTgIrC0sk&feature=emb_logo
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/V_irwlmdii4&feature=emb_logo/hqdefault.jpg" group-title="DC Super Hero Girls Brasil",[B] [COLOR white]DC Super Hero Girls Brasil [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/V_irwlmdii4&feature=emb_logo/hqdefault.jpg" group-title="DC Super Hero Girls Brasil",[B] [COLOR white]DC Super Hero Girls Brasil [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=V_irwlmdii4&feature=emb_logo
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BRkQ-ZGiNbc&feature=emb_logo/hqdefault.jpg" group-title="WB KIDS",[B] [COLOR white]WB KIDS [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BRkQ-ZGiNbc&feature=emb_logo/hqdefault.jpg" group-title="WB KIDS",[B] [COLOR white]WB KIDS [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BRkQ-ZGiNbc&feature=emb_logo
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QO55pZxTiio&feature=emb_logo/hqdefault.jpg" group-title="WB Kids Brasil",[B] [COLOR white]WB Kids Brasil [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QO55pZxTiio&feature=emb_logo/hqdefault.jpg" group-title="WB Kids Brasil",[B] [COLOR white]WB Kids Brasil [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QO55pZxTiio&feature=emb_logo
 
 
