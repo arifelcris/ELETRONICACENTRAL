@@ -53,6 +53,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Kj6cWG
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hAiI3lRP0HM&t=1s/hqdefault.jpg" group-title="Larva: Spider Man Larva",[B] [COLOR white]Larva: Spider Man Larva[/COLOR] [COLOR gold] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hAiI3lRP0HM&t=1s
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/6-fkuQZNa2A/hqdefault.jpg" group-title="Madagascar",[B] [COLOR white]Madagascar 1[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6-fkuQZNa2A
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/s3Wh5hlEF2c/hqdefault.jpg" group-title="Madagascar",[B] [COLOR white]Madagascar 2[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=s3Wh5hlEF2c
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eevmggUZLdc/hqdefault.jpg" group-title="Madagascar",[B] [COLOR white]Madagascar 3[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eevmggUZLdc
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/imoDsJSLaLg/hqdefault.jpg" group-title="Masha e o Urso: As Cores do Outono",[B] [COLOR white]Masha e o Urso: As Cores do Outono[/COLOR] [COLOR gold] FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=imoDsJSLaLg
