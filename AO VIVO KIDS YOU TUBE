@@ -9,6 +9,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TfsTgI
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/V_irwlmdii4&feature=emb_logo/hqdefault.jpg" group-title="DC Super Hero Girls Brasil",[B] [COLOR white]DC Super Hero Girls Brasil [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=V_irwlmdii4&feature=emb_logo
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/TfsTgIrC0sk/hqdefault.jpg" group-title="Live! Teen Titans Go! em Português 🇧🇷",[B] [COLOR white]Teen Titans Go! em Português 🇧🇷 [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TfsTgIrC0sk
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QO55pZxTiio/hqdefault.jpg" group-title="Melhores momentos de Tom & Jerry 🇧🇷",[B] [COLOR white]Melhores momentos de Tom & Jerry 🇧🇷 [/COLOR] [COLOR gold] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QO55pZxTiio
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BRkQ-ZGiNbc&feature=emb_logo/hqdefault.jpg" group-title="WB KIDS",[B] [COLOR white]WB KIDS [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BRkQ-ZGiNbc&feature=emb_logo
 
