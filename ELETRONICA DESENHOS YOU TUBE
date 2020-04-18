@@ -15,6 +15,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3cyiEC
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/_4KcnJRXADM&t=1963s/hqdefault.jpg" group-title="Bunyan e Baby",[B] [COLOR white]Bunyan e Baby[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_4KcnJRXADM&t=1963s
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/vSNYG5GsK9I/hqdefault.jpg" group-title="De Volta ao Fundo do Mar",[B] [COLOR white]De Volta ao Fundo do Mar[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vSNYG5GsK9I
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/A9y_oVQtQjs&t=11s/hqdefault.jpg" group-title="Frozen Uma Aventura Congelante",[B] [COLOR white]Frozen Uma Aventura Congelante[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=A9y_oVQtQjs&t=11s
 
