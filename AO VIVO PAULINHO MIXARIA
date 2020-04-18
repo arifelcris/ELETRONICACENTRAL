@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="LIVEs PAULINHO MIXARIA",[B] [COLOR gold] TODA SEGUNDA FEIRA AS 19:00 HORAS PAULINHO MIXARIA AO VIVO NO YOU TUBE! [/COLOR] [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXXX
 
-EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/xxxxxxx/hqdefault.jpg" group-title="DESAFIO DE PIADAS AO VIVO",[B] [COLOR white]Paulinho Mixaria:DESAFIO DE PIADAS (16/04/20) [/COLOR] [COLOR lime] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xxxxxxx
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/7rjUoF7wWmw/hqdefault.jpg" group-title="DESAFIO DE PIADAS AO VIVO",[B] [COLOR white]Paulinho Mixaria:DESAFIO DE PIADAS (16/04/20) [/COLOR] [COLOR lime] (HD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7rjUoF7wWmw
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/hqTSXW9YEMk/hqdefault.jpg" group-title="PIADAS AO VIVO",[B] [COLOR white]Paulinho Mixaria:LIVE RODA DE PIADAS (13/04/20) [/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hqTSXW9YEMk
