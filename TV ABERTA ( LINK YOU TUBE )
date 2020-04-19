@@ -27,10 +27,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CRuxVJ
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8n_sx5XAyRE/hqdefault.jpg" group-title="FISH TV",[B] [COLOR white]FISH TV[/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8n_sx5XAyRE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Vje4gayxxfo/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE (1)[/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Vje4gayxxfo
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CvIxAGctmCY/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE (2)[/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CvIxAGctmCY/hqdefault.jpg" group-title="JOVEM PAN LIVE",[B] [COLOR white]JOVEM PAN LIVE [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CvIxAGctmCY
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/dA-AC_VMOqM/hqdefault.jpg" group-title="RBC REDE BRASIL",[B] [COLOR white] RBC REDE BRASIL [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
