@@ -1,16 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rUiZfnr7WBQ/hqdefault.jpg" group-title="AgrobrasilL",[B] [COLOR white]Agrobrasil[/COLOR] [COLOR lime] SD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rUiZfnr7WBQ
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rUiZfnr7WBQ/hqdefault.jpg" group-title="AGRO CANAL",[B] [COLOR white] AGRO CANAL [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rUiZfnr7WBQ
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8sEKzh3rHGs/hqdefault.jpg" group-title="TV APARECIDA",[B] [COLOR white] APARECIDA [/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8sEKzh3rHGs
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YJ9kXK53G5k/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YJ9kXK53G5k
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/B_PFwZxTDgA/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV[/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/B_PFwZxTDgA/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV (1)[/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=B_PFwZxTDgA
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UTzKUSaU_Yg/hqdefault.jpg" group-title="CNN BRASIL",[B] [COLOR white]CNN BRASIL[/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UTzKUSaU_Yg
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wQRJ_41O2iE/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV (2)[/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wQRJ_41O2iE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/CRuxVJBC6HQ/hqdefault.jpg" group-title="CNN BRASIL",[B] [COLOR white]CNN BRASIL[/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CRuxVJBC6HQ
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8n_sx5XAyRE/hqdefault.jpg" group-title="FISH TV",[B] [COLOR white]FISH TV[/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8n_sx5XAyRE
