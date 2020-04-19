@@ -9,8 +9,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rUiZfn
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8sEKzh3rHGs/hqdefault.jpg" group-title="TV APARECIDA",[B] [COLOR white] APARECIDA [/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8sEKzh3rHGs
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YJ9kXK53G5k/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YJ9kXK53G5k
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/gfRGQy2yr9c/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gfRGQy2yr9c
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wQRJ_41O2iE/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wQRJ_41O2iE
