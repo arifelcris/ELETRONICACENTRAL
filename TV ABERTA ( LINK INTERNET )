@@ -1,336 +1,341 @@
 <item>
-<title>[B][COLOR white] ALL TV [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white] ALL TV [/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w148964618.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNpcBkZAclR7gOm6RYMTvrIHCQlCcDLZcoNCNj-Jrybv-hY1DY</thumbnail>
 </item>
 
 item>
-<title>[B][COLOR white] BAND [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] BAND [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://evpp.mm.uol.com.br/geob_band/brasilurgente/chunklist_w303942231.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzdDhbMqf8HurmuYU2skxVrJ4GRLfEHC61lD-odZmkpDGvkrAw</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] CANAL 10 (SP) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] CANAL 10 (SP) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>http://wowza.acessaradios.com.br:1935/canaldez/canaldez/chunklist_w1125158668.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoGVToyWgpPlgsPh4Gh83pWjz5-SATbpfePbeqNCKtFwFtKzli</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] CANAL DO BOI [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] CANAL DO BOI [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w350558341.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] CANAL CARIOCA [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] CANAL CARIOCA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w1030994637.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-t71A1yZhLw0/XcTsT2mNzMI/AAAAAAAAAHE/4bvVdcG7yyI9Bj-f6bH2k-w2Ki-mcEwEgCLcBGAsYHQ/s1600/TV-Carioca.jpg</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] Canal FCV [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] Canal FCV [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w384300515.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSaMTjn--SfWR96vYlC84e9ZnYSyguJv18RlHISe0AgexklZKw&usqp=CAU</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] CANAL RICOS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] CANAL RICOS [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://video01.kshost.com.br/canalricos548/canalricos548/chunklist_w215257170.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCMDY1N6SGkX_wSz1MIdxLiaw2WDmX639SRL1odW68eZIiqdHO</thumbnail>
 </item>
 
 item>
-<title>[B][COLOR white] CARIRI TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] CARIRI TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/chunklist_w336141932.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSLD-H4-Z3AJYqdh0uG3K6qd2YqrSMjQV1igYp_fb7bXBEFYc_</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] CREAT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] CREAT [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://stmv3.srvstm.com/ceak/ceak/playlist.m3u8|Referer=http://www.cxtv.com.br/tv-ao-vivo/ceak-tv</link>
 <thumbnail>data:image/jpeg;base64,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</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] CULTURA [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] CULTURA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
 </item>
 
 item>
-<title>[B][COLOR white] JORNAL RECORD [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] JORNAL RECORD [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://r7live15-lh.akamaihd.net/i/pgm15_1@833327/index_480_av-p.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNorw4WgGOgFPTWJO4DQWoW2r4c7OP9ly44kTk-PhPoXTidb7g</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] MKK WEB TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] MKK WEB TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/mkkweb/_definst_/mkkweb/chunklist_w1992776570.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOiGhJbhyQljXynA3_4BVk-ja8AWuf3albkZRo0_V4OMOMPfsz</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] PREMIERE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<item>
+<title>[B][COLOR white] PREMIERE TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://18.228.14.226/hls/primertv360/index.m3u8</link>
-<thumbnail>data:image/png;base64,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</thumbnail>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/4a5e9c9d0cb42ba42262b6aa9edba2de.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] REDE BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE BRASIL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w703130515.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjreX0RysCVRq6pRi6bN9EcPQUd1RLERs7qDnC79GHHCdT7f4N</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] REDE CNT (PR) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE CNT (PR) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://d27n9vd7t86mc7.cloudfront.net/out/v1/9b3f2905c9c3423991dc4ffbf8cd2e12/index_2.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdnpW5Zhp8g8QjVnBiw4S-jxXF3_GT_uny2ErhOS8ghWMBzpk3</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] REDE FAMÍLIA (CAMPINAS) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE FAMÍLIA (CAMPINAS) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w292704972_b1396000.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuvo8nW5xStrXwJpaRaKWIr-iAJ3GWtpm_7pqufM5FQEPPoEns</thumbnail>
 </item> 
 
 <item>
-<title>[B][COLOR white] REDE GOSPEL [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE GOSPEL [/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0Jg8FXAAUj-AfwWwkZRaHxDA96XKdcc2APiZr0UNNP3lk2O42</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] REDE SÉCULO 21 (SP) [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE MINAS [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1875968.m3u8?sts=st=1587316216~exp=1587322816~acl=/*~hmac=c52cb58139ea8b3edce3c1c5cc864417ff4197bcc743a16adae67aa2cdc34996</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/17007d69e234910da3da1ac85e3d49b9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] REDE SÉCULO 21 (SP) [/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index_6.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7d9brG1RQIWjLhoJvLMjjJyo3GtHZonuX78A8oc8h49ueUGfM</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] REDE SUPER (SP) [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>https://playback2.akamaized.net/streams/10205943_3429501_lsi8w560wmmvqjd36hj_1/master.m3u8</link>
+<item>
+<title>[B][COLOR white] REDE SUPER (SP) [/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
+<link>https://playback2.akamaized.net/streams/10205943_3429501_lsi7tw76bhms93xv1g1_1/exp=1587405398~acl=%2f*~data=hdntl~hmac=1da6c698b9f82e17b49b75dc55e41883dd93dcdd0d5f214d958e0d61d18820e9/media/10205943_3429501_lsi7tw76bhms93xv1g1_1@446000p.m3u8?dw=14400&ts=1587315600</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHYHC0pR48hikkq5tPfwyE245a-4x6OW9j19MQr8O2ztR3excS</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] REDE TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w665158316.m3u8</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4o5yFlPsr19N7vIIoVFZSH3chn9cswlPWTg3gdFr3pg8Cg3xX</thumbnail>
+<item>
+<title>[B][COLOR white] REDE TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1841685535.m3u8</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] REDE TV [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE TV [/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
 <link>http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w360677441.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4o5yFlPsr19N7vIIoVFZSH3chn9cswlPWTg3gdFr3pg8Cg3xX</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] REDE TVT [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://stream-04.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G5_jx2mnM46iBcV3L55mJCo)/dm/3/x6ph7x7/s/live-0.m3u8</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9qdSUPB_A43ZiA2n8SxRbjZE9z-bjautMZVCNoYATBFELxVGS</thumbnail>
+<item>
+<title>[B][COLOR white] REDE TVT [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3E-CeDAjYO9pPBU0JXqhnI)/dm/3/x6ph7x7/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/28f489228e6418a37dc3f3e9fb87650b.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] REDE UNIÃO BRASIL (CE) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE UNIÃO BRASIL (CE) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_M_H15GrCjalGroSjF_4nuyEt_ClrBYv5YVbx3ZvJM6tS8Un4</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] REDE VIDA [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] REDE VIDA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] SBT [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w342679154_b216000_sleng.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white] TV ALLSPORTS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w791214514.m3u8</link>
-<thumbnail>data:image/png;base64,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</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white] TV ARAUTOS [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://player-arautos-demo.s3-website-us-east-1.amazonaws.com/fc9fe6de-28ce-4112-ba3b-a5816f3360f7</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ43aVjX93RzbRlDUtCGrxEF0sO3D58x8ZNvzfN3GlUB6e95Mdm</thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white] TV ABERTA SP [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://v8.ciclano.io:1935/canalpaulo/canalpaulo/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<item>
+<title>[B][COLOR lime] TELEBäRN (Suíça) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://klive.kaltura.com/s/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/6000/t/TREcJqwL0O6xaJkbvg7F5w/index-s32.m3u8?__hdnea__=st=1587316282~exp=1587402682~acl=/s/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/6000/t/TREcJqwL0O6xaJkbvg7F5w/index-s32.m3u8*~hmac=e673b5ce89581b2a41fdc4318c215010f8703855c9b3aef637b65a4d1db9e5e0</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV A CAMINHO DA LUZ [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV8 [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2596000.m3u8</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV A CRÍTICA (Record AM) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://live-ak.vimeocdn.com/exp=1587320047~acl=%2Fbc50ec1e-f893-4faa-8032-64ff05dd10c9%2F%2A~hmac=601c78ed2d42212fc14de135da2c1be768876fef98a228d47cdfae4fdccc94dc/bc50ec1e-f893-4faa-8032-64ff05dd10c9/chunklist_b3256000.m3u8?max_segments=10</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/069153afeabc056a84104f0902ae19e1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV ABERTA SP [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://v8.ciclano.io:1935/canalpaulo/canalpaulo/chunklist_w681406244.m3u8</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/1ae8c4979f2cb848a2f112d8afd097cb.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] TV A CAMINHO DA LUZ [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>http://wse01.logicahost.com.br:1935/tvacaminhodaluz/_definst_/tvacaminhodaluz/chunklist_w395126121.m3u8</link>
 <thumbnail>http://www.perdaoamorcaridade.com.br/images/testatv.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV APARECIDA (SP) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV APARECIDA (SP) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkzNwMUHA0ks1YOvH9E6fOMq8AyDz4vt0Gjp3CBbQy1D5rcQ5i</thumbnail>
 </item>
 
+item>
+<title>[B][COLOR white] TV ARAUTOS [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://player-arautos-demo.s3-website-us-east-1.amazonaws.com/fc9fe6de-28ce-4112-ba3b-a5816f3360f7</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ43aVjX93RzbRlDUtCGrxEF0sO3D58x8ZNvzfN3GlUB6e95Mdm</thumbnail>
+</item>
+
 <item>
-<title>[B][COLOR white] TV BRASIL 2 [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV BRASIL 2 [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8</link>
 <thumbnail>https://i0.wp.com/cinecinemania.com.br/wp-content/uploads/2018/02/17218980-b57d-409f-aaa8-06cbd31b3974-10285-000007c2a03e44df.jpg?fit=1920%2C1275&ssl=1</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] TV CIDADE 10 (RS) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUYG_oIHDU_HCINpuSVKyo8w4Qq_2EE9do4ww5vVO4C82p2oOH</thumbnail>
+<item>
+<title>[B][COLOR white] TV CIDADE 10 (RS) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://r6---sn-bg07dney.c.2mdn.net/videoplayback/id/6e412e66b346e542/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3730714996/sparams/acao,ctier,expire,hcs,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,shardbypass,smhost,source/signature/415A3D627FDBAEFDF2A74CD9E0914999B784FD7D.74FF69F6C42CBB647BA3E38AB473D92C625CA89D/key/cms1/cms_redirect/yes/hcs/yes/mh/Rc/mip/187.45.109.157/mm/42/mn/sn-bg07dney/ms/onc/mt/1587319581/mv/m/mvi/5/pl/24/shardbypass/yes/smhost/r4---sn-bg07dnsl.c.2mdn.net/file/file.mp4</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/e82f0d2593874e1e31bc5a7cdf607848.jpg</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV CLIC BRASIL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV CLIC BRASIL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8</link>
 <thumbnail>http://tvclicbrasil.com/wp-content/uploads/2019/08/logo-da-tv.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV DO POVO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV DO POVO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/tvdopovo1/_definst_/tvdopovo1/chunklist_w203244674.m3u8</link>
 <thumbnail>https://portal.tvdopovo.com/wp-content/uploads/2019/02/tv1.png</thumbnail>
 </item>
 
 item>
-<title>[B][COLOR white] TV ESPÍRITA DO PARANÁ [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://stmv1.srvstm.com/rodney1666/rodney1666/playlist.m3u8|Referer=http://www.cxtv.com.br/tv-ao-vivo/tv-espirita-do-parana</link>
-<thumbnail>http://www.reparana.com/admin/assets/img/logo.png</thumbnail>
+<title>[B][COLOR white] TV ESPÍRITA DO PARANÁ [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://tv01.painelwebtv.com.br/rodney9380/rodney9380/playlist.m3u8?wowzasessionid=1881599599</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/3273e6ac3e1898fe443ef9182133054a.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV EVANGELIZAR [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV EVANGELIZAR [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w14376953.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l79ZA8bYeL95uc67JnPavJ_wTHp9ag2BH5qr2Q=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] TV INTERLAGOS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/chunklist_w676170349.m3u8</link>
+<item>
+<title>[B][COLOR white] TV INTERLAGOS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/chunklist_w1810132336.m3u8</link>
 <thumbnail>http://www.tvinterlagos.tv.br/LOGO/loga_aracatuba.png</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] TV ITARARÉ (PB) [/COLOR] [COLOR gold]SD[/COLOR][/B]</title>
-<link>http://stream.tvitarare.com.br/hls/site/site_low/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/97/Logotipo_da_TV_Itarar%C3%A9.png</thumbnail>
-</item>
-
 <item>
-<title>[B][COLOR white] TV MACEIÓ (AL) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV MACEIÓ (AL) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://59f1cbe63db89.streamlock.net:1443/toptv/_definst_/toptv/chunklist_w1764954402.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbTEh5ApumVuWbeIa_LFqO7E-e40Z2ofzef8M88PTL-RSKAov4</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] TV MASTER [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://serv1.videovox.pw/tvmaster/tvmaster/playlist.m3u8</link>
-<thumbnail>data:image/png;base64,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</thumbnail>
+<item>
+<title>[B][COLOR white] TV MASTER [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://209.126.127.101:1935/tvmaster/_definst_/tvmaster/chunklist_w2060826672.m3u8</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/d30f30e883e21db065fd78647a5cd16b.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV NOVO TEMPO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV NOVO TEMPO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaSCGbKKGVW3ZP1DHfeZ9KqMPry1sf_51w_PlAzVrR3M-d-o0o</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV OMINDARÉ [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV OMINDARÉ [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist_w1091724257.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1055095388594683904/nE1aTa0q_400x400.jpg</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV OSASCO (SP) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV OSASCO (SP) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://stmv3.srvstm.com/luisantonio1763/luisantonio1763/playlist.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbQu4QHNTAYlD5htp16J8s0AnfngckBnVI_aww14Lopr6vcZnc</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV PAI ETERNO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV PAI ETERNO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1664507018.m3u8</link>
 <thumbnail>https://www.paieterno.com.br/wp-content/uploads/2019/05/tv_pai_eterno_.jpg</thumbnail>
 </item>
 
-item>
-<title>[B][COLOR white] TV PAMPA [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
-<link>https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist_w382710863.m3u8</link>
+<item>
+<title>[B][COLOR white] TV PAMPA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8?wowzasessionid=307823040</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV SOTEROPOLITANA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV SOTEROPOLITANA [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy5Lc-_xVdyi8-yHDxqGRSFEJbXWBzGfBoI-rTCJHRmVHKdAhX</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV TERRA VIVA [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV TERRA VIVA [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w577174238.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/2000px-Terra_Viva_logo.svg.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TV WEB FRUTAL [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV WEB FRUTAL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://flash1.hospedemax.com.br:8012/tvwebfrutal/live_mid/index.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-a0C7yQHFgFo/XEx43kSUcbI/AAAAAAAAAjM/l9buBSE5Tgonpq3bvVaiCnwatD8plIDbQCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-01-26-12-20-50.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TVC (RJ) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TVC (RJ) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://stmv3.srvstm.com/tvc16/tvc16/playlist.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEtgI22IhkmIA6OyarnTZmkZNsrpM674tKr6qXGGAHAOeeZqaG</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] TVE (BH) [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] TVE (BH) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4kZIKsZMPtNLchoQPZvzzAatCf8TLPRi3RQ5N5zGbFZjXhEcB</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]  TVE (PR) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white]  TVE (PR) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>http://200.189.113.201/hls/tve.m3u8</link>
 <thumbnail>https://i1.wp.com/angelorigon.com.br/wp-content/uploads/2018/05/e-parana.jpg?fit=567%2C231&ssl=1</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]  TVE (RS) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white]  TVE (RS) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1769320766.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBfbKC3DnJDcfPWnfA_Ty9nNLT7myhtDXjUIEqun9XNgL7AtZq</thumbnail>
 </item>
 
 item>
-<title>[B][COLOR white]  TVN AO VIVO [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white]  TVN AO VIVO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/chunklist_w546880552.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZS3-1kNuS2CNPZvLg6z6gfDC64g2Xl91uAvfmK32quSyHuyX7</thumbnail>
 </item>
 
 item>
-<title>[B][COLOR white] SESC TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-item>
-<title>[B][COLOR white] UNIT TV (PORTO ALEGRE) [/COLOR] [COLOR gold]FULLHD[/COLOR][/B]</title>
-<link>http://www.unitv.tv.br/aovivo.html</link>
+<title>[B][COLOR white] UNIT TV (PORTO ALEGRE) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>http://unitvaovivo.ufrgs.br:8080/live.ogg</link>
 <thumbnail>http://cdn-radiotime-logos.tunein.com/s85137g.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white] WEB TV [/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] VIA MORENA [/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
+<link>https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w1708782609.m3u8</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] WEB TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w467132841.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSA-VYqs1UH5xG8KrHsx6Ctse-pbV3C0y8Y5h4Tieh0wvcsSWSU</thumbnail>
 </item>
-
