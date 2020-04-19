@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rUiZfnr7WBQ/hqdefault.jpg" group-title="AgrobrasilL",[B] [COLOR white]Agrobrasil[/COLOR] [COLOR lime] SD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rUiZfnr7WBQ/hqdefault.jpg" group-title="AgrobrasilL",[B] [COLOR white]AGROBRASIL[/COLOR] [COLOR lime] SD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rUiZfnr7WBQ
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/rUiZfnr7WBQ/hqdefault.jpg" group-title="AGRO CANAL",[B] [COLOR white] AGRO CANAL [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
@@ -11,9 +11,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8sEKzh
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YJ9kXK53G5k/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YJ9kXK53G5k
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/052IQC3WW_8/hqdefault.jpg" group-title="CHAVES",[B] [COLOR white]CHAVES [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=052IQC3WW_8
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/wQRJ_41O2iE/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wQRJ_41O2iE
