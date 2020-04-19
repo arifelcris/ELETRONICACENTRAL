@@ -12,6 +12,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8sEKzh
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/YJ9kXK53G5k/hqdefault.jpg" group-title="CANÇÃO NOVA",[B] [COLOR white]CANÇÃO NOVA[/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YJ9kXK53G5k
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/052IQC3WW_8/hqdefault.jpg" group-title="CHAVES",[B] [COLOR white]CHAVES [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=052IQC3WW_8
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/B_PFwZxTDgA/hqdefault.jpg" group-title="CHEF TV",[B] [COLOR white]CHEF TV (1)[/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=B_PFwZxTDgA
 
@@ -32,6 +35,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CvIxAG
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/dA-AC_VMOqM/hqdefault.jpg" group-title="RBC REDE BRASIL",[B] [COLOR white] RBC REDE BRASIL [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dA-AC_VMOqM
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DOKZnN2C-kI/hqdefault.jpg" group-title="RECORD",[B] [COLOR white] RECORD [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DOKZnN2C-kI
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/DOKZnN2C-kI/hqdefault.jpg" group-title="RECORD NEWS",[B] [COLOR white]RECORD NEWS [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DOKZnN2C-kI
