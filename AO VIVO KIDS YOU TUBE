@@ -12,6 +12,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TfsTgI
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/AVVRV1O6WKk/hqdefault.jpg" group-title="DC Super Hero Girls Brasil",[B] [COLOR white] DC Super Hero Girls Brasil [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AVVRV1O6WKk
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ERmLau8z3PE/hqdefault.jpg" group-title="Heróis Submersos! Bob Esponja",[B] [COLOR white]Heróis Submersos! Bob Esponja [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ERmLau8z3PE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/djYqB3q-v44/hqdefault.jpg" group-title="OS SIMPSONS - AO VIVO - 24 HORAS",[B] [COLOR white]OS SIMPSONS - AO VIVO - 24 HORAS [/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=djYqB3q-v44
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QO55pZxTiio/hqdefault.jpg" group-title="Melhores momentos de Tom & Jerry 🇧🇷",[B] [COLOR white] Tom & Jerry (LINK1)  [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QO55pZxTiio
 
@@ -21,7 +27,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BRkQ-Z
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QO55pZxTiio&feature=emb_logo/hqdefault.jpg" group-title="WB Kids Brasil",[B] [COLOR white] Tom & Jerry (LINK3) [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QO55pZxTiio&feature=emb_logo
 
-XTINF:-1 tvg-logo="http://i.ytimg.com/vi/Ue0xaq1Q-B4/hqdefault.jpg" group-title="Best of Bean | Live Stream | Mr Bean Official",[B] [COLOR gold]Best of Bean | Live Stream | Mr Bean Official [/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/Ue0xaq1Q-B4/hqdefault.jpg" group-title="Best of Bean | Live Stream | Mr Bean Official",[B] [COLOR gold]Best of Bean | Live Stream | Mr Bean Official [/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ue0xaq1Q-B4
 
 
