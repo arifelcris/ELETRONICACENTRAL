@@ -102,11 +102,20 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Fw3kTg
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/BX0V3EcatEk/hqdefault.jpg" group-title="Invasão Zumbi",[B] [COLOR white]Invasão Zumbi[/COLOR] [COLOR lime] (2016) FULLHD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BX0V3EcatEk
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/UBcivqMXd2s/hqdefault.jpg" group-title="(Filme baseado na vida real)",[B] [COLOR white]Jogada de Rei[/COLOR] [COLOR lime] HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UBcivqMXd2s
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/uBB4-wsPwjg/hqdefault.jpg" group-title="Krampus",[B] [COLOR white]Krampus[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uBB4-wsPwjg
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/INP4iFY9SN0/hqdefault.jpg" group-title="Lapso do Tempo",[B] [COLOR white]Lapso do Tempo[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=INP4iFY9SN0
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/IdapEnq65Zo/hqdefault.jpg" group-title="Baseado em Fatos Reais",[B] [COLOR white]Minha Vida na Outra Vida (Link1)[/COLOR] [COLOR lime] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IdapEnq65Zo
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/xF4DlziJzfE&list=PLX_-5404Ar4FPz2JU3BbxjGWqtSzvx-iT/hqdefault.jpg" group-title="Baseado em Fatos Reais",[B] [COLOR white]Minha Vida na Outra Vida (Link2)[/COLOR] [COLOR lime] (SD) [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xF4DlziJzfE&list=PLX_-5404Ar4FPz2JU3BbxjGWqtSzvx-iT
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/3CAibUXctcU/hqdefault.jpg" group-title="Mr Bean: Ano Novo",[B] [COLOR white]Mr Bean: Ano Novo[/COLOR] [COLOR lime] (FULLHD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3CAibUXctcU
