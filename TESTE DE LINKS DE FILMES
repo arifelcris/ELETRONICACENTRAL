@@ -86,8 +86,7 @@
 </item>
 
 <item>
-<itens>
-<title>[B][COLOR white]Artico-[/COLOR]  [COLOR lime] (HD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR white]Artico e war-[/COLOR]  [COLOR lime] (HD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]ARTCO.mp4$doregex[BP2]$$lsname=Artico 2019 </link>
 <link>$doregex[BP1]WARCRFT.mp4$doregex[BP2]$$lsname=Warcrft 2015 </link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -98,4 +97,4 @@
 <fanart>xxx</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:xxx[/B][/COLOR]</info>
 </item>
-</itens>
+
