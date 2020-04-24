@@ -87,9 +87,9 @@
 
 <item>
 <itens>
-<title>[B][COLOR white]Artico-[/COLOR] [COLOR deeppink] (2010) [/COLOR] - [COLOR lime] (HD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ARTCO.mp4$$lsname=Artico 2019 $doregex[BP2]</link>
-<link>$doregex[BP1]WARCRFT.mp4$$lsname=Warcrft 2015 $doregex[BP2]</link>
+<title>[B][COLOR white]Artico-[/COLOR]  [COLOR lime] (HD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]ARTCO.mp4$doregex[BP2]$$lsname=Artico 2019 </link>
+<link>$doregex[BP1]WARCRFT.mp4$doregex[BP2]$$lsname=Warcrft 2015 </link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
