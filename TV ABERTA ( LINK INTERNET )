@@ -357,3 +357,15 @@ item>
 <link>https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w467132841.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSA-VYqs1UH5xG8KrHsx6Ctse-pbV3C0y8Y5h4Tieh0wvcsSWSU</thumbnail>
 </item>
+
+<item>
+<title>[B][COLOR white]Yesterday - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]YESRTDY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fYka5CQt9nrb6LOtKicysUf9NA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fYka5CQt9nrb6LOtKicysUf9NA.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após sofrer um acidente, um cantor-compositor (Himesh Patel) acorda numa estranha realidade, onde ele é a única pessoa que lembra dos Beatles. Com as músicas de seus ídolos, o protagonista se torna um sucesso gigante, mas a fama tem seu preço.[/B][/COLOR]</info>
+</item>
