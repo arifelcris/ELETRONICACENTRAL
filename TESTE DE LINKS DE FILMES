@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR white]Divaldo - O Mensageiro da Paz - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR white]Divaldo - O Mensageiro da Paz -[/COLOR] [COLOR deeppink] (2019) [/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]DVLDOMSGRODPZ.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Madagascar -[/COLOR][COLOR lime] - (2005) DUBLADO HD[/COLOR]</link>
+<title>[B][COLOR white]Madagascar -[/COLOR] [COLOR deeppink] (2005) [/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]MDGSCR01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rchd</page></regex>
@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Madagascar - A Grande Escapada -[/COLOR][COLOR lime] - (2008) DUBLADO HD[/COLOR]</link>
+<title>[B][COLOR white]Madagascar - A Grande Escapada -[/COLOR] [COLOR deeppink] (2008) [/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]MDGSCR02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rchd</page></regex>
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Madagascar - Os Procurados -[/COLOR][COLOR lime] - (2012) DUBLADO HD[/COLOR]</link>
+<title>[B][COLOR white]Madagascar - Os Procurados --[/COLOR] [COLOR deeppink] (2010) [/COLOR] - [COLOR lime] (HD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]MDGSCR03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rchd</page></regex>
