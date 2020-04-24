@@ -1,0 +1,47 @@
+<item>
+<title>[B][COLOR white]Yesterday - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]YESRTDY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fYka5CQt9nrb6LOtKicysUf9NA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fYka5CQt9nrb6LOtKicysUf9NA.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após sofrer um acidente, um cantor-compositor (Himesh Patel) acorda numa estranha realidade, onde ele é a única pessoa que lembra dos Beatles. Com as músicas de seus ídolos, o protagonista se torna um sucesso gigante, mas a fama tem seu preço.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Madagascar -[/COLOR][COLOR lime] - (2005) DUBLADO HD[/COLOR]</link>
+<link>$doregex[BP1]MDGSCR01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rchd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rchd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O leão Alex é a grande atracção do Jardim Zoológico do Central Park, em Nova Iorque, até que acaba envolvido (contra a própria vontade) no plano mirabolante do amigo, a zebra Marty, para fugir rumo a África e a uma vida em liberdade. Juntamente com ele, seguem viagem Gloria, uma hipopótamo, e ainda Melman, uma girafa hipocondríaca. Quando tudo corre mal, dão por si próprios na selvagem ilha de Madagáscar.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Madagascar: A Grande Escapada -[/COLOR][COLOR lime] - (2008) DUBLADO HD[/COLOR]</link>
+<link>$doregex[BP1]MDGSCR02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O leão Alex é a grande atracção do Jardim Zoológico do Central Park, em Nova Iorque, até que acaba envolvido (contra a própria vontade) no plano mirabolante do amigo, a zebra Marty, para fugir rumo a África e a uma vida em liberdade. Juntamente com ele, seguem viagem Gloria, uma hipopótamo, e ainda Melman, uma girafa hipocondríaca. Quando tudo corre mal, dão por si próprios na selvagem ilha de Madagáscar.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Madagascar: Os Procurados -[/COLOR][COLOR lime] - (2012) DUBLADO HD[/COLOR]</link>
+<link>$doregex[BP1]MDGSCR03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O leão Alex é a grande atracção do Jardim Zoológico do Central Park, em Nova Iorque, até que acaba envolvido (contra a própria vontade) no plano mirabolante do amigo, a zebra Marty, para fugir rumo a África e a uma vida em liberdade. Juntamente com ele, seguem viagem Gloria, uma hipopótamo, e ainda Melman, uma girafa hipocondríaca. Quando tudo corre mal, dão por si próprios na selvagem ilha de Madagáscar.[/B][/COLOR]</info>
+</item>
