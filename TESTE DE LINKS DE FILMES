@@ -23,11 +23,11 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Madagascar: A Grande Escapada -[/COLOR][COLOR lime] - (2008) DUBLADO HD[/COLOR]</link>
+<title>[B][COLOR white]Madagascar - A Grande Escapada -[/COLOR][COLOR lime] - (2008) DUBLADO HD[/COLOR]</link>
 <link>$doregex[BP1]MDGSCR02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rchd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rchd</page></regex>
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</fanart>
@@ -35,11 +35,11 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Madagascar: Os Procurados -[/COLOR][COLOR lime] - (2012) DUBLADO HD[/COLOR]</link>
+<title>[B][COLOR white]Madagascar - Os Procurados -[/COLOR][COLOR lime] - (2012) DUBLADO HD[/COLOR]</link>
 <link>$doregex[BP1]MDGSCR03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rchd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rchd</page></regex>
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</fanart>
