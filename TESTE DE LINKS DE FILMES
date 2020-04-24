@@ -1,13 +1,13 @@
 <item>
-<title>[B][COLOR white]Yesterday - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]YESRTDY.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]Divaldo - O Mensageiro da Paz - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]DVLDOMSGRODPZ.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fYka5CQt9nrb6LOtKicysUf9NA.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fYka5CQt9nrb6LOtKicysUf9NA.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após sofrer um acidente, um cantor-compositor (Himesh Patel) acorda numa estranha realidade, onde ele é a única pessoa que lembra dos Beatles. Com as músicas de seus ídolos, o protagonista se torna um sucesso gigante, mas a fama tem seu preço.[/B][/COLOR]</info>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e3NKIn5CEL9Z7ornm7D74jknnc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e3NKIn5CEL9Z7ornm7D74jknnc.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Nascido na pequena cidade de Feira de Santana, no interior da Bahia, Divaldo vive com a mediunidade desde os 4 anos de idade. Perturbado pelo que vê, rejeitado por outras crianças e reprimido pelo pai, o menino não tem uma infância fácil. Aos 17 anos, ele está convencido de que é inútil tentar negar seu presente. Com o apoio de sua mãe, ele entra em contato com o espiritismo e se muda para Salvador para estudar a doutrina. Sob a orientação de seu guia espiritual, Joanna de Ângelis, o jovem supera a saudade e a solidão da cidade grande e abraça sua missão. Alguns anos depois, aquele garoto estranho de Feira de Santana se torna um dos médiuns mais importantes de todos os tempos e desiste de sua vida pessoal para se dedicar à caridade.[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -45,3 +45,16 @@
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSivCB0xducAklZ7mhs5wLgnQMD.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O leão Alex é a grande atracção do Jardim Zoológico do Central Park, em Nova Iorque, até que acaba envolvido (contra a própria vontade) no plano mirabolante do amigo, a zebra Marty, para fugir rumo a África e a uma vida em liberdade. Juntamente com ele, seguem viagem Gloria, uma hipopótamo, e ainda Melman, uma girafa hipocondríaca. Quando tudo corre mal, dão por si próprios na selvagem ilha de Madagáscar.[/B][/COLOR]</info>
 </item>
+
+<item>
+<title>[B][COLOR white]Yesterday - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]YESRTDY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fYka5CQt9nrb6LOtKicysUf9NA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fYka5CQt9nrb6LOtKicysUf9NA.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após sofrer um acidente, um cantor-compositor (Himesh Patel) acorda numa estranha realidade, onde ele é a única pessoa que lembra dos Beatles. Com as músicas de seus ídolos, o protagonista se torna um sucesso gigante, mas a fama tem seu preço.[/B][/COLOR]</info>
+</item>
+
