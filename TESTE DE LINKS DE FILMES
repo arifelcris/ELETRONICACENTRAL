@@ -58,3 +58,15 @@
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após sofrer um acidente, um cantor-compositor (Himesh Patel) acorda numa estranha realidade, onde ele é a única pessoa que lembra dos Beatles. Com as músicas de seus ídolos, o protagonista se torna um sucesso gigante, mas a fama tem seu preço.[/B][/COLOR]</info>
 </item>
 
+<item>
+<title>[B][COLOR white]Artico-[/COLOR] [COLOR deeppink] (2010) [/COLOR] - [COLOR lime] (HD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]ARTCO.mp4$$lsname=$doregex[BP2]</link>
+<link>$doregex[BP1]WARCRFT.mp4$$lsname=$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>xxx</thumbnail>
+<fanart>xxx</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:xxx[/B][/COLOR]</info>
+</item>
