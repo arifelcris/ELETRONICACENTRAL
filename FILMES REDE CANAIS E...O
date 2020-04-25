@@ -4097,8 +4097,8 @@ link>AQUI$$lsname=[COLOR red]O Exterminador do Futuro: Destinho Sombrio[/COLOR][
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngSqYEINb1VSgsZY3jwdj1A8K4j.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngSqYEINb1VSgsZY3jwdj1A8K4j.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3l7Ytd4Ks5bNdlTvGl8f00mTXIO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3l7Ytd4Ks5bNdlTvGl8f00mTXIO.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um garoto de 14 anos, Jason Shephard (Frankie Muniz), sempre mente. Por conta disso, um dia recebe o castigo de escrever um texto de mil palavras em apenas três horas. Usando sua imaginação fértil, ele escreve a redação, mas ao ir para a escola sua bicicleta bate na limusine de Marty Wolf (Paul Giamatti), um produtor de cinema que lhe dá uma carona. Na pressa ao sair do carro, Jason esquece a redação, que acaba transformada em filme pelo produtor. Quando descobre o roubo, o garoto pega suas economias e vai com Kaylee (Amanda Bynes), sua melhor amiga, para Los Angeles cobrar explicações.[/B][/COLOR]</info>
 </item>
 <item>
