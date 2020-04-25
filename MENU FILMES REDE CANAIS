@@ -1,5 +1,5 @@
-channels>
-channel>
+<channels>
+<channel>
 <name>[B] FILMES ANO DE  [COLOR lime] 2020 [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Ze5yGU9jOQatTYgjCLd3u1VNl.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/FILMES%20ANO%202020</externallink>
