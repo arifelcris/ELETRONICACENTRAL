@@ -4551,6 +4551,7 @@ Após iniciar sua jornada ao lado de um grupo de anões e de Gandalf (Ian McKell
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Durante um apocalipse zumbi que começou a devastar o mundo, um homem (Mark Dacascos) toma atitudes extremas para conseguir proteger a sua família de todo o caos.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]O Nevoeiro - [COLOR deeppink](2007)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]ONVOERO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
