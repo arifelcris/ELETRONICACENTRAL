@@ -1,10 +1,10 @@
-item>
+<item>
 <title>[B]1917 - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]MDGSCR02.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]1917.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcfX"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6lDTyJl7SEbv4jZkftVBPndZH2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6lDTyJl7SEbv4jZkftVBPndZH2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse: Em um dos momentos críticos da Primeira Guerra Mundial, dois soldados britânicos, Schofield e Blake, recebem uma missão aparentemente impossível. Em uma luta contra o tempo, os soldados devem cruzar território inimigo e entregar uma mensagem que cessará o ataque brutal de milhares - entre eles, o irmão de Blake.[/B][/COLOR]</info>
@@ -1080,6 +1080,17 @@ Na sexta parte do pesadelo Freddy Krueger continua matando crianças. Ele segue 
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma sereia malvada se apaixona por Roman, noivo de Marina, e tenta mantê-lo longe dela em seu Reino submerso. Marina terá apenas uma semana para superar o medo do oceano, lutar com monstros e se manter viva e na forma humana.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]]A Terra e o Sangue - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]ATRAEOSNG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Terra%20e%20o%20Sangue.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Terra%20e%20o%20Sangue.jpg</fanart>
+<info>O dono de uma serraria e sua filha adolescente se envolvem em uma disputa perigosa quando um traficante esconde cocaína roubada em sua propriedade.</info>
+<item>
+<item>
 <title>[B]A Trincheira Infinita - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]ATRNCRINFTA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1359,6 +1370,28 @@ Na sexta parte do pesadelo Freddy Krueger continua matando crianças. Ele segue 
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Asher (Ron Perlman) é um ex-agente que trabalhava como assassino de aluguel. Ao aproximar-se do fim de sua carreira, ele conhece uma mulher e quebra um juramento que fez na juventude. Para ter o amor da sua vida, ele terá que deixar todo seu passado para trás.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Agentes Duplos - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]AGNTSDPLS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjzzXoOWTHkCLZG7V6XJLXHy1P4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjzzXoOWTHkCLZG7V6XJLXHy1P4.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:"Bent" segue Danny Gallagher, um detetive desacreditado de narcóticos que, após sua libertação da prisão, faz planos de se vingar do acusador que o matou e matou seu parceiro. Através de sua missão, Gallagher é forçado a enfrentar um agente do governo implacável e sedutor, que pode ou não estar do seu lado e seu mentor, um policial aposentado que lutou contra a corrupção por toda a sua carreira.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Ajuste de Contas - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]AJSTDCNTS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/azlbmSi6K8pVY2jGZmfCZxxlSQb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/azlbmSi6K8pVY2jGZmfCZxxlSQb.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Frank passou 19 anos na prisão por ter assumido a culpa por um homicídio que o chefe do seu gangue cometera. Em troca, Frank passaria apenas 5 anos na prisão, receberia meio milhão de dólares e enquanto cumpria pena na prisão, tomariam conta do seu filho, Joey. Uma pena que lhe asseguraram ser de 5 anos foi na verdade uma sentença de prisão perpétua e a promessa de tomarem conta do seu filho não é cumprida. Frank é libertado e jura um ajuste de contas.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Aladdin - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
 <link>$doregex[BP1]ALDN.mp4$doregex[BP2]$$lsname=[COLOR red]Aladdin [/COLOR][COLOR lime]DUBLADO  FULLHD[/COLOR]</link>
 <link>$doregex[BP1]ALDNLEG.mp4$doregex[BP2]$$lsname=[COLOR red]Aladdin [/COLOR][COLOR lime]LEGENDADO  FULLHD[/COLOR]</link>
@@ -1450,6 +1483,17 @@ Na sexta parte do pesadelo Freddy Krueger continua matando crianças. Ele segue 
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Gretchen Blair, uma experiente agente do FBI, nunca imaginou que passaria por momentos de tanta tensão quando pegou o avião para Washington. O homem sentado ao seu lado, de uma forma estranha, fez uma oferta curiosa: ele avisa que o avião está prestes a ser sequestrado, e promete pagar mais de 70 milhões de dólares se ela conseguir fazer a aeronave pousar em segurança. Quando a gangue toma o avião e ela persegue que tudo é verdade, Gretchen se vê em uma enrascada.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Altos Negócios - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]ALTSNGCS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dlqxqHgopBSL2fJX2RQbOlwssw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dlqxqHgopBSL2fJX2RQbOlwssw.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um jovem disposto a tudo para enriquecer e o seu amigo de moral duvidosa tomam de assalto o mercado imobiliário berlinense, mas não há festa que dure para sempre.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Amaldiçoado - [COLOR deeppink](2015)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]AMLSCADO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1470,6 +1514,17 @@ Na sexta parte do pesadelo Freddy Krueger continua matando crianças. Ele segue 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPbNkbhHkanB7onb1PGJgtkOZON.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPbNkbhHkanB7onb1PGJgtkOZON.jpgAmaldiçoados </fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Três jovens têm suas vidas modificadas após serem atacados por um lobisomem, que está perdido em Los Angeles. A situação deles se complica ainda mais após saberem que, para se livrar da maldição passada pela mordida, precisam matar a criatura que os atacou.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Ameaça Profunda - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]AMCAPRFNDA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QVsMxpZX6qyYE0yRptbyiR9YOl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QVsMxpZX6qyYE0yRptbyiR9YOl.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um grupo de pesquisadores se encontra num laboratório subaquático a onze mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver. No entanto, conforme se deslocam pelo fundo do mar, descobrem a presença de uma criatura mortal de origem desconhecida.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Amigos Para Sempre - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -1954,7 +2009,7 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 </item>
 <item>
 <title>[B]Avatar - [COLOR deeppink](2009)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]AVTR.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AVTR.mp4.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1973,6 +2028,17 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0SXj7rrafZgW1ODGIqKcNlAofP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0SXj7rrafZgW1ODGIqKcNlAofP.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Hollywood, anos 1950. Edward Mannix (Josh Brolin) é o responsável por proteger as estrelas do estúdio Capitol Pictures de escândalos e polêmicas e vive um dia intenso quando Baird Whitlock (George Clooney), astro da superprodução Hail, Caesar!, é sequestrado no meio das filmagens por uma organização chamada "Futuro".[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Aventuras no Fundo do Mar  - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]AVNTNFNDOMAR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/muzldVHxJo0qcjjrIjvolIbYiUR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/muzldVHxJo0qcjjrIjvolIbYiUR.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em "Dolphin Reef", a Disneynature mergulha no mar para brincar com alguns dos animais mais envolventes do planeta: os golfinhos. Echo é um jovem golfinho que não consegue decidir se é hora de crescer e assumir novas responsabilidades - ou ceder ao seu lado bobo e apenas se divertir. A sociedade dos golfinhos é complicada, e o recife de corais que Echo e sua família chamam de lar depende de todos os habitantes para mantê-lo saudável. Mas com baleias jubarte, orcas, tartarugas marinhas e chocos aparentemente implorando por sua atenção, Echo tem dificuldade em resistir a tudo que o oceano tem a oferecer.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR deeppink](2020) [/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
@@ -2151,6 +2217,17 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lGKEaL315JTlusiQDRobBA84ES.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lGKEaL315JTlusiQDRobBA84ES.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um motorista particular com problemas na vida amorosa consegue dois clientes e acaba envolvido numa misteriosa aventura pelas ruas de Barcelona.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Bombshell - O Escândalo - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]OESCDLO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7DTu2TAOzIcunFtFyqzyYoICiy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7DTu2TAOzIcunFtFyqzyYoICiy.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Baseado na história verídica das três mulheres que uniram forças para derrubar o ex-presidente da Fox News, então acusado de assédio sexual pelas colegas de trabalho.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Bons Meninos - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -2377,6 +2454,17 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uA5dYNZPPQH3DP4WO35xppRQiws.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uA5dYNZPPQH3DP4WO35xppRQiws.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Nesta saga épica musical sobre ousar aventurar-se na Floresta, personagens famosos como Cinderela, Chapeuzinho Vermelho, João e o Pé de Feijão e Rapunzel encontram seus destinos entrelaçados com o de um padeiro humilde e sua mulher, cujo desejo de ter um filho os envia em uma missão para reverter um feitiço da Bruxa.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Caminhos De Sangue - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]CMNHSDSNGE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/62edhdYzdUNKDLL0GUlKbTOwbA7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/62edhdYzdUNKDLL0GUlKbTOwbA7.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A trama de Caminhos de Sangue acompanha um motorista de aplicativo chamado Cam (Jim Gaffigan), que se envolve por acaso em um esquema de tráfico de drogas depois de servir de chofer para o criminoso Mazz. Por estar afundado em dívidas, ele decide sequestrar o filho do traficante e lucrar com o resgate.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Campo do Medo - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -3600,7 +3688,7 @@ Olivia (Josie Bissett) e Mick (Jack Wagner) ajudam um casal a montar o casamento
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Pronto para levar os filhos para a escola, Karl recebe uma ligação anônima anunciando que tem uma bomba sob o assento do carro e agora ele tem apenas algumas horas para levantar uma grande quantia de dinheiro. Se falhar, a bomba explodirá.[/B][/COLOR]</info>
 </item>
 <item>
-<title>[B][COLOR white]Divaldo - O Mensageiro da Paz - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B]Divaldo - O Mensageiro da Paz - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]DVLDOMSGRODPZ.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -3708,6 +3796,17 @@ Olivia (Josie Bissett) e Mick (Jack Wagner) ajudam um casal a montar o casamento
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3c5vSQWbOCBZ0x4P2JfKmbK2WIO.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3c5vSQWbOCBZ0x4P2JfKmbK2WIO.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O mundo corre o risco de desaparecer. Tudo por causa de Bartleby (Ben Affleck) e Loki (Matt Damon), dois anjos expulsos do céu e que querem retornar a qualquer custo. Para tanto, eles têm um plano: cruzar o portal de uma igreja em Nova Jersey para, absolvidos de seus pecados, poderem retornar ao paraíso. Só que tal ato provaria que Deus é falível e, como consequência, a realidade se desmancharia. Para evitar que a tragédia ocorra montada uma equipe de combate aos anjos, formada pela última descendente de Jesus Cristo (Linda Fiorentino), um 13º apóstolo negro (Chris Rock), dois profetas (Jason Mewes e Kevin Smith) e uma Musa Inspiradora (Salma Hayek).[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Dois Irmãos: Uma Jornada Fantástica - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]DOSIRMSUMJRNDFNTSCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Num mundo de fantasia urbano, dois irmãos elfos adolescentes, Ian e Barley Lightfoot, embarcam numa aventura para descobrir se ainda resta um pouco de magia para passar um último dia com o pai que morreu quando eles eram muito novos.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]DolceRoma - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
