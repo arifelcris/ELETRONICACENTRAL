@@ -1715,8 +1715,8 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpgBaseado no videojogo da Sega, sucesso à escala global, Sonic: O Filme conta a história do ouriço mais rápido do mundo a partir do momento em que este chega à sua nova casa – o planeta Terra. Nesta comédia e aventura live-action, Sonic e o seu novo melhor amigo Tom juntam-se para defender o planeta do génio do mal, o Dr. Robotnik, e dos seus planos para domínio do mundo.</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</info>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Baseado no videojogo da Sega, sucesso à escala global, Sonic: O Filme conta a história do ouriço mais rápido do mundo a partir do momento em que este chega à sua nova casa – o planeta Terra. Nesta comédia e aventura live-action, Sonic e o seu novo melhor amigo Tom juntam-se para defender o planeta do génio do mal, o Dr. Robotnik, e dos seus planos para domínio do mundo.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Sonic: O Filme - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
@@ -1727,7 +1727,7 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Kt9iFdTu5TbAm7tNfc876mrWU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Kt9iFdTu5TbAm7tNfc876mrWU.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de descobrir um ouriço pequeno, azul e rápido, um policial de uma pequena cidade deve ajudá-lo a derrotar um gênio do mal que deseja fazer experiências com ele.[/B][/COLOR]</info>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Baseado no videojogo da Sega, sucesso à escala global, Sonic: O Filme conta a história do ouriço mais rápido do mundo a partir do momento em que este chega à sua nova casa – o planeta Terra. Nesta comédia e aventura live-action, Sonic e o seu novo melhor amigo Tom juntam-se para defender o planeta do génio do mal, o Dr. Robotnik, e dos seus planos para domínio do mundo.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Soldado Anônimo: Lei do Retorno - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
