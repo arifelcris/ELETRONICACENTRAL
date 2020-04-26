@@ -321,6 +321,17 @@ O filme é de autoria de Duncan McMath, baseado no livro do jornalista inglês G
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Ainda vivendo o luto pela perda traumática de seu irmão, uma adolescente começa a enfrentar outros problemas. Durante o sono, ela tem pesadelos assustadores que são praticamente indistinguíveis da realidade. Procurando soluções, a menina recorre a um instituto de sonologia que promete livrá-la desse problema. Acompanhada de outros pacientes, a garota é induzida a um sono lúcido coletivo que se torna pior do que qualquer pesadelo que ela já teve.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Pinguins: Vida ao Extremo - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]PNGNSVDAOEXTRM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjb7NPFy7kbygajO0sv1cC7tRwl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjb7NPFy7kbygajO0sv1cC7tRwl.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma história de amadurecimento sobre um pinguim de Adélie chamado Steve, que se junta a milhões de homens na primavera gelada da Antártica, em uma missão de construir um ninho adequado, encontrar um parceiro para a vida e começar uma família.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Piratas do Caribe - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]PRTSDCRB01.mp4$doregex[BP2]$$lsname=[COLOR red]Piratas do Caribe: A Maldicao do Perola Negra [/COLOR][COLOR lime] (2003) DUBLADO FULLHD[/COLOR]</link>
 <link>$doregex[BP1]PRTSDCRB02.mp4$doregex[BP2]$$lsname=[COLOR red]Piratas do Caribe: O Bau da Morte [/COLOR][COLOR lime] (2006) DUBLADO FULLHD[/COLOR]</link>
@@ -930,6 +941,17 @@ Patrick Bateman, o "Psicopata Americano", pode estar morto, mas sua herança mal
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/umsDLWVq27dROFHDLVK7y4WhLSz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/umsDLWVq27dROFHDLVK7y4WhLSz.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A cerimônia de casamento de um casal de amigos é interrompida pelo apocalipse e eles são obrigados a examinar a vida, o amor e a fé, enquanto devem escolher entre a redenção e a sobrevivência.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Resgate - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]RSGTE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Resgate, Tyler Rake (Chris Hemsworth) um agente especial recebe a difícil missão de libertar um garoto indiano que é mantido refém na cidade de Dhaka. Apesar de estar preparado fisicamente, ele precisa lidar com crises de identidade e com seu emocional fragilizado por problemas do passado para que consiga designar sua tarefa da melhor maneira possível.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Resgate no Oeste - [COLOR deeppink](2016)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -1543,6 +1565,17 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O filme conta a história real de Chris Kyle (Bradley Cooper), atirador de elite das forças especiais da marinha americana. Durante cerca de dez anos ele matou mais de 150 pessoas, tendo recebido diversas condecorações por sua atuação na Guerra do Iraque.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Sniper: Operações Especiais - [COLOR deeppink](2016)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]SNPROPRCESPC.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdzK6VzX0NYDvYvMw5Gy8ojHtgB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdzK6VzX0NYDvYvMw5Gy8ojHtgB.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um veterano Sniper, o Sargento Jake Chandler (Steven Seagal) foi enviado para uma pequena vila Afegã para resgatar um homem do congresso americano que foi sequestrado pelo Talibã. O resgate é um sucesso , mas Jake, ainda precisa salvar seus soldados feridos durante a missão, então vai contra todas as ordens e volta ao vilarejo para trazer seus homens de volta.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Sob a Pele do Lobo - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]SOBAPLEDOLBO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1609,6 +1642,17 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Duas irmãs se reúnem para passar o Natal com suas famílias na casa de campo de pais recém-falecidos, com consequências hilárias e caóticas, enquanto as antigas rivalidades entre irmãos se acendem novamente para sabotar a época esperada de boa vontade.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Socias em Guerra - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]SOCSEMGURA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW2X68aFZKFzBylgVHXNn5bD8Eo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW2X68aFZKFzBylgVHXNn5bD8Eo.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:As melhores amigas Mia e Mel estão a viver um grande momento nas suas vidas enquanto gerem uma empresa de cosmética, que construíram a partir do nada. Infelizmente, atravessam alguns problemas financeiros e a perspetiva de receberem uma proposta de compra do maior titã da indústria de cosmética, Claire Luna, é demasiado tentadora para deixar passar ao lado, e coloca em risco esta amizade de uma vida. Um negócio de beleza que está prestes a tornar-se feio.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Sol da Meia-Noite - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]SOLDMEIANTE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1664,6 +1708,17 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em 1752 Joshua (Ivan Kaye) e Naomi Collins (Susanna Cappellaro) deixam a cidade inglesa de Liverpool juntamente com o filho, Barnabás, rumo aos Estados Unidos. A intenção deles era escapar de uma terrível maldição que atingiu a família. Vinte anos depois, Barnabás (Johnny Depp) é um playboy inveterado que tem a cidade de Collinsport aos seus pés. Após seduzir e partir o coração de Angelique Bouchard (Eva Green), sem saber que era uma bruxa, ele é transformado em vampiro e preso numa tumba por dois séculos. Quando enfim desperta, dois séculos depois, encontra sua propriedade em ruínas e os poucos familiares ainda vivos escondem segredos uns dos outros. Em meio a um mundo desconhecido, Barnabás se interessa por Victoria Winters (Bella Heathcote), a tutora do jovem David (Gulliver McGrath).[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Sonic: O Filme - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]SONCOFLM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpgBaseado no videojogo da Sega, sucesso à escala global, Sonic: O Filme conta a história do ouriço mais rápido do mundo a partir do momento em que este chega à sua nova casa – o planeta Terra. Nesta comédia e aventura live-action, Sonic e o seu novo melhor amigo Tom juntam-se para defender o planeta do génio do mal, o Dr. Robotnik, e dos seus planos para domínio do mundo.</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Sonic: O Filme - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
 <link>$doregex[BP1]SONCOFLMLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1675,15 +1730,15 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de descobrir um ouriço pequeno, azul e rápido, um policial de uma pequena cidade deve ajudá-lo a derrotar um gênio do mal que deseja fazer experiências com ele.[/B][/COLOR]</info>
 </item>
 <item>
-<title>[B]Sniper: Operações Especiais - [COLOR deeppink](2016)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]SNPROPRCESPC.mp4$doregex[BP2]</link>
+<title>[B]Soldado Anônimo: Lei do Retorno - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]SLDSANONMOSALEIDRTRNO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdzK6VzX0NYDvYvMw5Gy8ojHtgB.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdzK6VzX0NYDvYvMw5Gy8ojHtgB.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um veterano Sniper, o Sargento Jake Chandler (Steven Seagal) foi enviado para uma pequena vila Afegã para resgatar um homem do congresso americano que foi sequestrado pelo Talibã. O resgate é um sucesso , mas Jake, ainda precisa salvar seus soldados feridos durante a missão, então vai contra todas as ordens e volta ao vilarejo para trazer seus homens de volta.[/B][/COLOR]</info>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUxk6HPoxmSDkTG9d4y6q8VaReW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUxk6HPoxmSDkTG9d4y6q8VaReW.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um grupo de fuzileiros navais devem proteger uma embaixada dos EUA no Oriente Médio quando, de repente, foram atacados por forças inimigas.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Spinning Man: Em Busca da Verdade - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -1965,6 +2020,17 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Jack Dawson (Leonardo DiCaprio) é um jovem aventureiro que, na mesa de jogo, ganha uma passagem para a primeira viagem do transatlântico Titanic. Trata-se de um luxuoso e imponente navio, anunciado na época como inafundável, que parte para os Estados Unidos. Nele está também Rose DeWitt Bukater (Kate Winslet), a jovem noiva de Caledon Hockley (Billy Zane). Rose está descontente com sua vida, já que sente-se sufocada pelos costumes da elite e não ama Caledon. Entretanto, ela precisa se casar com ele para manter o bom nome da família, que está falida. Um dia, desesperada, Rose ameaça se atirar do Titanic, mas Jack consegue demovê-la da ideia. Pelo ato ele é convidado a jantar na primeira classe, onde começa a se tornar mais próximo de Rose. Logo eles se apaixonam, despertando a fúria de Caledon. A situação fica ainda mais complicada quando o Titanic se choca com um iceberg, provocando algo que ninguém imaginava ser possível: o naufrágio do navio.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]The Kill Team - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]THKLTEM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9soEywk0vZFGJKJvAewY8LMwi7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9soEywk0vZFGJKJvAewY8LMwi7.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Adaptação para o cinema do premiado documentário do mesmo nome. Baseado em fatos reais a história gira em torno de um jovem soldado (Wolff) que luta contra a sua consciência ao testemunhar um ato monstruoso no campo de batalha por parte de seu comandante (Skarsgard) e alguns outros soldados de seu grupo.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]The Mustang - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]THMSTNG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1998,6 +2064,16 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Kat Graham (Meryl Streep) é a dona do The Washington Post, um jornal local que está prestes a lançar suas ações na Bolsa de Valores de forma a se capitalizar e, consequentemente, ganhar fôlego financeiro. Ben Bradlee (Tom Hanks) é o editor-chefe do jornal, ávido por alguma grande notícia que possa fazer com que o jornal suba de patamar no sempre acirrado mercado jornalístico. Quando o New York Times inicia uma série de matérias denunciando que vários governos norte-americanos mentiram acerca da atuação do país na Guerra do Vietnã, com base em documentos sigilosos do Pentágono, o presidente Richard Nixon decide processar o jornal com base na Lei de Espionagem, de forma que nada mais seja divulgado. A proibição é concedida por um juiz, o que faz com que os documentos cheguem às mãos de Bradlee e sua equipe, que precisa agora convencer Kat e os demais responsáveis pelo The Post sobre a importância da publicação de forma a defender a liberdade de imprensa.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]The Quarry - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]THEQARY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW6ZP8LqvEF1PG9pY6trAX1XHi0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW6ZP8LqvEF1PG9pY6trAX1XHi0.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um homem fugindo de seus próprios pecados se encontra em uma pequena cidade, se disfarçando de reverendo. A cidade é rapidamente atraída pelos sermões pouco ortodoxos dele, mas também atrai um chefe de polícia.[/B][/COLOR]</info>
+</item>
 <item>
 <title>[B]Thor - [COLOR deeppink](2011)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]THOR.mp4$doregex[BP2]</link>
@@ -2111,6 +2187,17 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6aodY7SrvlTRiUFkxClaNAIQT.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Lara Croft é filha de Lord Henshingly Croft, um célebre arqueólogo que desapareceu em 15 de maio de 1985. Lara trabalha como fotojornalista e foi criada na aristocracia britânica, até que um dia ouve o som de um relógio na sua mansão e o localiza em um compartimento secreto. Na verdade este relógio é "O Olho Que Tudo Vê", que começou a funcionar sozinho na primeira fase do alinhamento dos planetas, algo que só acontece a cada cinco mil anos. Este "relógio" anda regressivamente e é a chave para se encontrar os dois pedaços do "Triângulo da Luz", que em virtude do seu imenso poder foram escondidos em partes bem distintas do mundo (uma parte está no Camboja e a outra está na Islândia). Se estes dois pedaços se unirem na hora do realinhamento, dará ao seu dono poder para controlar ou destruir o planeta e um grupo chamado de "Illuminati" quer ter este poder, custe o que custar. Manfred Powell é o principal interessado, assim Lara decide enfrentar esta sociedade secreta.[/B][/COLOR]</info>
 A arqueóloga Lara Croft precisa encontrar a Caixa de Pandora, famosa por conter em seu interior todos os males do mundo. O objeto está escondido em um local conhecido como Origem da Vida, localizado no continente africano. Porém em sua jornada, Croft terá que enfrentar o Dr. Jonathan Reiss, um cientista ganhador do Prêmio Nobel que também está atrás do objeto.
+</item>
+<item>
+<title>[B]Torturado por Cristo - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]TRTRDOPRCSTO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjsOC9eSuZiM9Maio7tLxPL8ICB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjsOC9eSuZiM9Maio7tLxPL8ICB.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma recontagem cinematográfica do testemunho do fundador da ‘Voz dos Mártires’, Pastor Richard Wurmbrand, conforme escrito em seu best-seller internacional homônimo.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Traição para Iniciantes - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -2306,6 +2393,17 @@ Os quatro cavaleiros (Jesse Eisenberg, Woody Harrelson, Dave Franco, Lizzy Capla
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDQ1iuu3zFrTRUdZjzMt72nHclU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDQ1iuu3zFrTRUdZjzMt72nHclU.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após se aposentar da pequena liga de beisebol da qual fazia parte, um jogador decide voltar para sua cidade natal. Lá, ele tenta evitar reviver todos os traumas passados, mas acaba se deparando com o mais intenso: a mulher que sempre amou, mas deixou ir embora.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Um Amor, Mil Casamentos - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]UMAMRMLCSMNTS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn7feouGPU8sELez4qvpp0EtgeQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn7feouGPU8sELez4qvpp0EtgeQ.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um Amor, Mil Casamentos apresenta diferentes versões de um mesmo dia que se repetem para Jack (Sam Claflin). Ele terá de lidar com diversas confusões com uma ex-namorada, seu melhor amigo, um convidado com um segredo e um romance em potencial na festa de casamento de sua irmã.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Um Bom Partido - [COLOR deeppink](2012)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -2595,6 +2693,17 @@ Durante o Natal, a pequena Noel, de oito anos de idade, sonha em ganhar o Harris
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Du1J0KlvlICPOlAlWvPWbKbGHR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Du1J0KlvlICPOlAlWvPWbKbGHR.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:John Nash (Russell Crowe) é um gênio da matemática que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega até mesmo a ser diagnosticado como esquizofrênico pelos médicos que o tratam. Porém, após anos de luta para se recuperar, ele consegue retornar à sociedade e acaba sendo premiado com o Nobel.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Uma Noite Infernal - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]UMANTINFRNL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkU2kK5jezjhhPiCnRLHqR4eV40.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkU2kK5jezjhhPiCnRLHqR4eV40.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Melinda é solitária e instável, que está cansada de ser ofuscada por Sheila, sua colega de trabalho mais confiante e extrovertida. Quando o posto de gasolina é mantido sob a mira de uma arma por Billy, um homem desesperado que precisa de dinheiro rápido, Melinda encontra uma oportunidade de fazer uma conexão com o ladrão, independentemente de quem se machuque.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Uma Notícia Inesperada - [COLOR deeppink](2014)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
