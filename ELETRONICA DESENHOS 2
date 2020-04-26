@@ -698,15 +698,13 @@ A primeira transmissão da série foi em 27 de outubro de 2008, em Toon Disney, 
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3r4IXWsSCgNrONPn9RV99SpDsZP.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Todos conhecem o personagem que surge mesmo no final dos contos para resgatar a princesa em apuros, mas nunca ninguém se preocupou em ouvir a sua versão. Príncipe Bué Encantado conta a história do Príncipe Filipe, amaldiçoado com um charme irresistível que conquista o coração de todas as donzelas do reino, e da sua jornada para quebrar o feitiço. Para salvar o reino ele embarca numa grande aventura, na companhia de um desconhecido desonesto chamado Lenny. Acontece que Lenny, sem que o Príncipe Bué Encantado saiba, é na verdade Leonor uma fora-da-lei aventureira e a única mulher imune à maldição. Juntos serão capazes de rescrever a estória?[/B][/COLOR]</info>
 </item>
-
-item>
+<item>
 <title>[B]Enrolados - [COLOR deeppink](2010)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link></link>
-<link>$doregex[BP1]MDGSCR02.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ENRLDS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcfX"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uIrH5VFs4Zd1yD5mhoGho2L3sQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uIrH5VFs4Zd1yD5mhoGho2L3sQ.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Flynn Ryder (Zachary Levi/Luciano Huck) é o bandido mais procurado e sedutor do reino. Um dia, em plena fuga, ele se esconde em uma torre. Lá conhece Rapunzel (Mandy Moore), uma jovem prestes a completar 18 anos que tem um enorme cabelo dourado, de 21 metros de comprimento. Rapunzel deseja deixar seu confinamento na torre para ver as luzes que sempre surgem no dia de seu aniversário. Para tanto, faz um acordo com Flynn. Ele a ajuda a fugir e ela lhe devolve a valiosa tiara que tinha roubado. Só que a mamãe Gothel (Donna Murphy), que manteve Rapunzel na torre durante toda a sua vida, não quer que ela deixe o local de jeito nenhum.[/B][/COLOR]</info>
