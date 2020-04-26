@@ -65,7 +65,7 @@
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Duas jovens irmãs abrem um livro antigo que traz ao mundo uma criatura diabólica. Sua única salvação é um padre possuído que luta contra seus próprios demônios.[/B][/COLOR]</info>
 </item>
 <item>
-<title>[B]]A Terra e o Sangue - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B]A Terra e o Sangue - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]ATRAEOSNG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
