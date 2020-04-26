@@ -676,6 +676,17 @@ A primeira transmissão da série foi em 27 de outubro de 2008, em Toon Disney, 
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Riley é uma menina de 11 anos que terá que dizer adeus a uma vida feliz no estado americano do Minnesota e começar uma nova vida, bastante do seu desagrado, em São Francisco. Numa viagem ao interior do seu cérebro, percebe-se como se formam as memórias e como da ação conjunta de cinco emoções – alegria, nojo, raiva, tristeza e medo – se definem experiências fundamentais, como fazer novos amigos.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Dois Irmãos: Uma Jornada Fantástica - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]DOSIRMSUMJRNDFNTSCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Num mundo de fantasia urbano, dois irmãos elfos adolescentes, Ian e Barley Lightfoot, embarcam numa aventura para descobrir se ainda resta um pouco de magia para passar um último dia com o pai que morreu quando eles eram muito novos.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Encantado - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
 <link>$doregex[BP1]ENCTDO.mp4$doregex[BP2]$$lsname=[COLOR red]Encantado (2018)[/COLOR][COLOR lime]DUBLADO  FULLHD[/COLOR]</link>
 <link>$doregex[BP1]ENCTDOLEG.mp4$doregex[BP2]$$lsname=[COLOR red]Encantado (2018) [/COLOR][COLOR lime]LEGENDADO  FULLHD[/COLOR]</link>
