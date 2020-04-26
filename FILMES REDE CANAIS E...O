@@ -21,9 +21,19 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjFM9vd9g4YhL4UB7OwEjcU9RcG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5N5ZBjh7CEHNyuvrlbDswUwUeZ.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Sam Reide (Chris Carmack) possui o dom de viajar no tempo, ajudando a polícia a desvendar vários crimes. Ele segue à risca a regra de não intervir no que vê ao viajar para o passado, mas a quebra ao ajudar Elizabeth Brown (Sarah Habel), uma mulher de sua infância. Ao retornar ao presente Sam descobre que sua modificação no passado resultou no surgimento de um serial killer. Para capturá-lo ele precisa agora viajar várias vezes no tempo, até descobrir sua identidade.[/B][/COLOR]</info>
-
 Nick Larson (Eric Lively) está feliz da vida: a empresa em que trabalha vai muito bem e seu namoro com Julie (Erica Durance) parece perfeito. Porém tudo muda quando ele recebe um telefonema de seu supervisor, que exige sua presença exatamente no dia do aniversário de Julie. Devido a isto uma série de eventos acontece, resultando na morte de 3 pessoas, entre elas Julie. Um ano mais tarde Nick passa a ter estranhos surtos epilépticos, onde mantém a consciência mas tem a impressão de estar viajando no tempo. É quando ele resolve mudar o ocorrido em sua vida, evitando que a morte de Julie aconteça.
 Sam Reide (Chris Carmack) possui o dom de viajar no tempo, ajudando a polícia a desvendar vários crimes. Ele segue à risca a regra de não intervir no que vê ao viajar para o passado, mas a quebra ao ajudar Elizabeth Brown (Sarah Habel), uma mulher de sua infância. Ao retornar ao presente Sam descobre que sua modificação no passado resultou no surgimento de um serial killer. Para capturá-lo ele precisa agora viajar várias vezes no tempo, até descobrir sua identidade.
+</item>
+<item>
+<title>[B]Efeito Pigmaleão - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]EFTOPGMLAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y63hJ4VcZCBYgN3xcTUinbTjgzB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y63hJ4VcZCBYgN3xcTUinbTjgzB.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um ano no coração de uma escola. Samia chega em sua terra natal, Ardèche, em um colégio considerado difícil na cidade de Saint-Denis. Ela descobre os problemas recorrentes de disciplina, a realidade social que pesa no bairro, mas também a incrível vitalidade e humor dos estudantes e supervisores. Samia se adapta e logo tem prazer em canalizar a paixão dos mais disruptivos. Sua complicada situação pessoal naturalmente a aproxima de Yanis, uma adolescente inteligente, de muito potencial. Mesmo que Yanis pareça desistir de toda a ambição, se escondendo atrás de sua insolência, Samia investirá toda a sua energia para um futuro melhor.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Ela É o Diabo - [COLOR deeppink](1989)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
@@ -1617,6 +1627,17 @@ O reputado casal de investigadores de fenómenos paranormais formado por Ed e Lo
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Jerry Maguire (Tom Cruise) é um agente esportivo bem-sucedido no ramo, mas numa noite escreve uma declaração de 25 páginas que sugere que os agentes tenham menos clientes e passem a usar um tratamento mais humano para com eles. Este fato provoca sua demissão em um curto espaço de tempo e ele começa a perder de uma só vez todos os seus clientes, sendo obrigado a concentrar toda a sua energia e potencial em seu único cliente, um temperamental jogador negro de futebol americano (Cuba Gooding Jr.).[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Jexi: Um Celular Sem Filtro  - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]JXIUMCLSMFLTRO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oblpkyUURPp096Epwtwk05FGL5V.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oblpkyUURPp096Epwtwk05FGL5V.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Phil (Adam Devine) não tem amigos e, muito menos, vida amorosa, mas tem um grande problema: é dependente do seu telemóvel! Um dia o que ele pensava ser uma simples atualização de software, transforma a sua vida: Jexi (voz de Rose Byrne), um software de inteligência artificial, que também é life coach e assistente virtual, entra na vida de Phil para o ajudar a encontrar o caminho do sucesso. Mas, a cada dia que passa, Jexi torna-se cada vez mais controladora e obsessiva… Como conseguirá Phil sair desta ‘relação doentia’?[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]João e Maria: Caçadores de Bruxas - [COLOR deeppink](2013)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]MJAOEMRA01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -2134,6 +2155,17 @@ Petroleiros vão a uma ilha do Pacífico, onde descobrem um gorila gigante que a
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um grupo formado pelo professor de Jack, pela professora indiana Ashmita e pela assistente Kyra, partem em uma grande missão no Tibete: localizar o tesouro de Magadha, escondido em uma profunda caverna de gelo tibetana. Presos no local por um descendente de um capitão do exército real, Randall. Com inúmeras reviravoltas e mistérios surgindo sobre o tesouro, eles vão ter que lutar para fugir e descobrir toda a verdade.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]La Casa de Papel: O Fenômeno - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]LCSDPLOFNMO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E7gI52iwkXV9BEo5IfTKj36Lw7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E7gI52iwkXV9BEo5IfTKj36Lw7.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um documentário sobre os motivos de "La casa de papel" ter provocado uma onda de entusiasmo por todo o mundo em relação a um adorável grupo de ladrões e ao seu professor.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Lady Macbeth - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]LADYMCBTH.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -2154,6 +2186,17 @@ Petroleiros vão a uma ilha do Pacífico, onde descobrem um gorila gigante que a
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKa40tTGwIzZofhHjhAylrzmfTc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKa40tTGwIzZofhHjhAylrzmfTc.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando Jane, uma fotógrafa, sofre de perda de memória depois um traumático acidente de carro, estranhas pistas expostas em suas fotas sugerem que ela pode ser a responsável pela morte da família que ela nunca soube que teve.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Legado nos Ossos - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]LGDONSOSOS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtldsr6Soiu1RzIG15Or4HiUnxv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtldsr6Soiu1RzIG15Or4HiUnxv.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um ano depois de desvendar uma série de homicídios, a inspetora Amaia vê-se diante de um novo mistério no vale de Baztán.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Lembranças Perdidas - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -2830,6 +2873,17 @@ Marley está de volta em uma nova aventura que fará todos os rabos abanarem! E 
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após bater a cabeça, uma arquiteta com horror a sentimentalidades vê sua vida se transformar em uma comédia romântica cafona e cheia de clichês. [/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Meio Irmão - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]MEIOIRMAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ynz4yPvqrStwcBTQAY0QAKTnPj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ynz4yPvqrStwcBTQAY0QAKTnPj.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Sandra, uma adolescente de 16 anos, passa por um momento difícil. Sua mãe está desaparecida há dias e, por isso, a garota passa as tardes varando a cidade de bicicleta, procurando seu paradeiro. Quando a jovem começa a perder as esperanças, ela decide pedir ajuda para seu meio irmão, com quem cultiva uma relação distante. Ele, que também se encontra em uma situação pessoal delicada, não sabe como pode colaborar.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Memórias de um Crime - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]MEMRIADUMCRME.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -3264,6 +3318,17 @@ Deloris Van Cartier agora é uma cantora famosa e volta a São Francisco para aj
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDoQAJCZuXGv6d9hygUjm93C0OK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDoQAJCZuXGv6d9hygUjm93C0OK.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Jackson Maine (Bradley Cooper) é um cantor no auge da fama. Um dia, após deixar uma apresentação, ele para em um bar para beber algo. É quando conhece Ally (Lady Gaga), uma insegura cantora que ganha a vida trabalhando em um restaurante. Jackson se encanta pela mulher e seu talento, decidindo acolhê-la debaixo de suas asas. Ao mesmo tempo em que Ally ascende ao estrelato, Jackson vive uma crise pessoal e profissional devido aos problemas com o álcool.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Natal Sangrento - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]NTLSNGRTO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGKI0beu1B7eLEkMAMT5nNToKFZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGKI0beu1B7eLEkMAMT5nNToKFZ.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em “Natal Sangrento”, (Black Christmas), mesmo a tempo das férias natalícias, chega uma oportuna abordagem a um clássico de terror, onde um assassino enfrenta um formidável grupo de amigas de uma irmandade.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Náufrago - [COLOR deeppink](2000)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -4573,6 +4638,17 @@ Após iniciar sua jornada ao lado de um grupo de anões e de Gandalf (Ian McKell
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Repentinamente a Terra parou de realizar seu movimento de rotação, devido a uma força ainda desconhecida que está agindo sobre o planeta. A paralisação traz consequências desastrosas para o planeta, já que proporciona a deterioração do magnetismo da Terra e, consequentemente, também de sua atmosfera. Para tentar descobrir o que está havendo e resolver a crise o geofísico Josh Keyes (Aaron Eckhart) escala uma equipe com alguns dos mais brilhantes cientistas do planeta, que tem por missão ir até o núcleo da Terra para reativar a rotação do planeta.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]O Oficial e o Espião - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]OOFCLEOESPIAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/62U5xODn11soKOnXj0s0zc3iTlJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/62U5xODn11soKOnXj0s0zc3iTlJ.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Paris, final do século 19. O capitão francês Alfred Dreyfus (Louis Garrel) é um dos poucos judeus que faz parte do exército. No dia 22 de dezembro de 1884, seus inimigos alcançam seu objetivo: conseguem fazer com que Dreyfus seja acusado de alta traição. Pelo crime, julgado à portas fechadas, o capitão é sentenciado à prisão perpétua no exílio. Intrigado com a evolução do caso, o investigador Picquart (Jean Dujardin) decide seguir as pistas para desvendar o mistério por trás da condenação de Dreyfus.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]O Outro - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]OOTRO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -4952,6 +5028,17 @@ Com Buddy Love (Eddie Murphy) enterrado em seu subconsciente há tempos, o amáv
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r2N5zNenKThuYUWNTNHPDp4uuV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r2N5zNenKThuYUWNTNHPDp4uuV.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em 1809, na França, o Capitão Neuville (Jean Dujardin) vai para a guerra, deixando sua noiva Pauline arrasada. Para aliviar o sofrimento da irmã, Elisabeth (Mélanie Laurent) escreve cartas endereçadas à ela em nome do soldado. Tudo se complica quando, três anos depois, Neuville reaparece cheio de histórias para contar.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]O Ritmo da Vingança - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]ORTMDVNGCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bapgA36fiK1OKbmU9baAUWkSb7C.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bapgA36fiK1OKbmU9baAUWkSb7C.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Stephanie Patrick vê a sua família morta num acidente de avião e, subitamente, a sua vida segue o caminho da auto-destruição. No entanto, a protagonista descobre que o sucedido não se tratou de um acidente, mas sim de algo premeditado, começando uma jornada em busca, não só de vingança, mas também da sua própria redenção.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Segredo de Nora - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
