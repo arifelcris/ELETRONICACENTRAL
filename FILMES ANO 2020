@@ -321,17 +321,6 @@ Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma a
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na Califórnia do início da década de 1980, o engenheiro automotivo John DeLorean (Lee Pace) constrói um império com sua icônica DeLorean Motor Company. Quando seu amigo ex presidiário, Jim Hoffman (Jason Sudeikis), se torna informante para o FBI, um grande escândalo envolvendo drogas é descoberto e pode acabar o levando ao declínio.[/B][/COLOR]</info>
 </item>
 <item>
-<title>[B]Dois Irmãos: Uma Jornada Fantástica - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]DOSIRMSUMJRNDFNTSCA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Num mundo de fantasia urbano, dois irmãos elfos adolescentes, Ian e Barley Lightfoot, embarcam numa aventura para descobrir se ainda resta um pouco de magia para passar um último dia com o pai que morreu quando eles eram muito novos.[/B][/COLOR]</info>
-</item>
-<item>
 <title>[B]Don't Let Go - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]DNTLTGO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
