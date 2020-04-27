@@ -2708,7 +2708,7 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Tiffany consegue resgatar os restos de Chucky que estavam sendo guardados como evidência policial, e com agulha, linha e uma caixa cheia de pedaços de bonecas velhas consegue refazê-lo. Através de um ritual vudu, ela faz com que a alma do seu ex-namorado volte para o boneco. Porém, o casal se desentende e Chucky acaba trancado em uma pequena jaula com uma boneca vestida de noiva. [/B][/COLOR]</info>
 </item>
 <item>
-<title>[B]O Culto de Chucky - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B]Chucky: O Culto de Chucky - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]OCLTDCHCK.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2719,7 +2719,7 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Confinada em um hospício para criminosos insanos pelos últimos quatro anos, Nica Pierce (Fiona Dourif) é erroneamente convencida de que ela, e não Chucky, matou sua família inteira. Porém, quando seu terapeuta começa a usar um boneco Good Guy para as sessões, uma série de assassinatos começa a acontecer e Nica percebe que ela pode não ser tão louca assim. [/B][/COLOR]</info>
 </item>
 <item>
-<title>[B]O Culto de Chucky - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
+<title>[B]Chucky: O Culto de Chucky - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
 <link>$doregex[BP1]OCLTDCHCKLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
