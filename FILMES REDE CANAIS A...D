@@ -2064,9 +2064,9 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Desenvolvido exclusivamente pelo governo para fins secretos, A.X.L é um cão robótico dotado de extrema rapidez e força acima da média. Porém, quando ele conhece o jovem Miles, surge um inesperado sentimento recíproco de amor e carinho que faz com o robô faça qualquer coisa para proteger seu novo dono, que agora se torna foragido por roubar um protótipo governamental.[/B][/COLOR]</info>
 </item>
 <item>
-<title>[B]Bad Boys para Sempre - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B]Bad Boys para Sempre 3 - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]BDBYSPRSMPR.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page><page><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
