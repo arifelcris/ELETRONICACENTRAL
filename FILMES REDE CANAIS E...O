@@ -1356,6 +1356,17 @@ Malcolm (Marlon Wayans) está tentando reiniciar a vida ao lado de outra mulher,
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Ao investigar um assassinato, o detetive Nick Curran (Michael Douglas) se vê diante de um mistério: a principal suspeita é a namorada da vítima. Catherine Tramell (Sharon Stone), uma escritora de sucesso, descreve em seu último livro uma cena exatamente igual à do crime. A situação se complica porque Nick se vê envolvido com a insinuante escritora, numa trama de intrigas e sexo que pode acabar com a sua carreira e mesmo com a sua vida.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Inteligência Artificial  - [COLOR deeppink](2001)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]AINTLGNCARTFCL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQasyc5byDqjCZYXQDK215Jo7RD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQasyc5byDqjCZYXQDK215Jo7RD.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O primeiro menino-robô programado para amar, David, é adotado por um funcionário da Cybertronics e sua esposa. Apesar de aos poucos ele ir se tornando o filho do casal, uma série de circunstâncias inesperadas dificulta a vida de David. Sem a total aceitação dos humanos ou das máquinas, o menino-robô embarca em uma jornada para descobrir seu verdadeiro mundo.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Into the Dark: Crush - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]INTRDCRSH.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
