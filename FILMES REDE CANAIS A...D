@@ -2042,8 +2042,8 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 </item>
 <item>
 <title>[B]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR deeppink](2020) [/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
-<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSA.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa[/COLOR][COLOR lime]DUBLADO FULLHD[/COLOR]</link>
-<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSALEG.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa [/COLOR][COLOR lime]LEGENDADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSA.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipacao Fantabulosa[/COLOR][COLOR lime]DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSALEG.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipacao Fantabulosa [/COLOR][COLOR lime]LEGENDADO FULLHD[/COLOR]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2055,7 +2055,7 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <item>
 <title>[B]Axl: O Cão Robô - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]AXLOCAORBO.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page><page><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
@@ -2077,7 +2077,7 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <item>
 <title>[B]Bata Antes de Entrar - [COLOR deeppink](2015)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
 <link>$doregex[BP1]BTANSTDENTR.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page><page><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
