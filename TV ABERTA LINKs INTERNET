@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND FHD H265         
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]arifelcris[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND FHD H265         
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND SPORTS FHD H265         
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]arifelcris[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60631
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND SP HD         
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND  SP HD         
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]arifelcris[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60637
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND HD         
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]arifelcris[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60632
