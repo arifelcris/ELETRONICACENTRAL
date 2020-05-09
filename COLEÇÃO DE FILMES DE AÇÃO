@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
+<name>[COLOR blue][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR][/B]</name>
 <thumbnail>http://bit.do/iconesubcat-acao</thumbnail>
 <fanart>http://bit.do/subcatfanart-acao</fanart>
 <externallink>NOLINK</externallink>
@@ -11,7 +11,7 @@ SEGURE-SE NA POLTRONA AQUI É PANCADARAIA E TIROTEIO</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]MAD MAX[/COLOR]</name>
+<name>[B][COLOR white]MAD MAX[/COLOR][/B]</name>
 <thumbnail>https://uploaddeimagens.com.br/images/002/415/331/full/mad_max.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-faPCKFFJM54/VjKrXCvIsAI/AAAAAAAAAFg/cau5KQMlpXw/s1600/maxresdefault%2B%25281%2529.jpg</fanart>
 <info>
@@ -19,7 +19,7 @@ COLEÇÃO MAD MAX COMPLETA</info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR white]MAD MAX 1 - O GUERREIRO DA ESTRADA - 1979 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]MAD MAX 1 - O GUERREIRO DA ESTRADA - 1979 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://78.media.tumblr.com/d263b842093818231d0c7f5f9b90a071/tumblr_nmaq7zI4Rv1sndzdgo1_1280.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/oXiq82Op3XxM1qzW7OAFjyreONa.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1AA7pia4LcjK-HhmyKy4IYn-9cVsQ0Pb8/view</link>
 </item>
 
 <item>
-<title>[COLOR white]MAD MAX 2 - A CAÇADA CONTINUA - 1981 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]MAD MAX 2 - A CAÇADA CONTINUA - 1981 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>http://image.tmdb.org/t/p/original/oVFnieTErZJAZQoDcBipMTOX0Ba.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hNGNuwlB8gZFKgSqm5JvA7zStu8.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -39,7 +39,7 @@ https://drive.google.com/file/d/1Csc8T73dFJMC5udjh64PMNZ-39oofuqw/view</link>
 </item>
 
 <item>
-<title>[COLOR white]MAD MAX 3 - ALÉM DA CÚPULA DO TROVÃO - 1985 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]MAD MAX 3 - ALÉM DA CÚPULA DO TROVÃO - 1985 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/HKqfUTeBOpPOKb6ltdFwHDZjXj.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/r3MhvwPC8zFBAv8HL5WBtl3F8cn.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1w0sn4XMlPdd4oUMJIc5Nu3-iCCCyCLBe/view</link>
 </item>
 
 <item>
-<title>[COLOR white]MAD MAX 4 - A A ESTRADA DA FÚRIA - 2015 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]MAD MAX 4 - A A ESTRADA DA FÚRIA - 2015 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/chMOGs0qNQyIeJnz7ZN9MJOA18T.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/phszHPFVhPHhMZgo0fWTKBDQsJA.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -60,7 +60,7 @@ https://drive.google.com/file/d/1Fr9Ij0qN6sriAVAjJQR-toe5VMwsOZ6j/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]RAMBO[/COLOR]</name>
+<name>[B][COLOR white]RAMBO[/COLOR][/B]</name>
 <thumbnail>https://http2.mlstatic.com/coleco-rambo-1234-dublado-legendado-4-dvds-frete-gratis-D_NQ_NP_705221-MLB20741363566_052016-F.jpg</thumbnail>
 <fanart>https://uploaddeimagens.com.br/images/002/415/358/full/RAMBO_COLE.jpg</fanart>
 <info>
@@ -68,7 +68,7 @@ COLEÇÃO RAMBO COMPLETA</info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR white]RAMBO 1 - Programado para Matar - 1982 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]RAMBO 1 - Programado para Matar - 1982 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/z1ozGXFLFJSZs6tjhOPpX63th5d.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tCelzh9WmcTK4zw4YFzxIQq6pNL.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -78,7 +78,7 @@ https://drive.google.com/file/d/1nwPdB2Yp1pbp8OXMPkkdrJ2y4hCDzaHJ/view</link>
 </item>
 
 <item>
-<title>[COLOR white]RAMBO 2 - A Missão - 1985 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]RAMBO 2 - A Missão - 1985 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/eyrMnwnrUU04eY707TMnxmiVGvg.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tqrN6ZVA2lXeyqSi58kWvNdnzzA.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -88,7 +88,7 @@ https://drive.google.com/file/d/1CDka_S4CnLfU7iReL7GFWh_MVQ6rEr-R/view</link>
 </item>
 
 <item>
-<title>[COLOR white]RAMBO 3 - 1988 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]RAMBO 3 - 1988 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/qQIVJhYzYiUgz1Jknu1ZTSAUwiz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/h2aHgL2PAc6iBICZo9oN2UDp9B4.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -98,7 +98,7 @@ https://drive.google.com/file/d/1rgbQJmkOIEh4Hz4DXz-AKOS1rkSVKFrz/view</link>
 </item>
 
 <item>
-<title>[COLOR white]RAMBO 4 - 2008 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]RAMBO 4 - 2008 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcmxK6Zx9PjINDPDKWI8b5H2L1T.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/73QE77hOalLxUiheYJrk9XwHL4h.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -108,7 +108,7 @@ https://drive.google.com/file/d/1Op-LJ3d3DLTLeFlZmSTXWBsgIha8gS_l/view</link>
 </item>
 
 <item>
-<title>[COLOR white]RAMBO 5 - Até o Fim  - 2019 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<title>[B][COLOR white]RAMBO 5 - Até o Fim  - 2019 - SD 720 1080 - DUB LEG[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/5bWCuGWsvQPdcrW2TpdY99npN7Q.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -119,7 +119,7 @@ https://drive.google.com/file/d/15SgSPGTVsBRznJkqSnRoZdSXYEikD7Wx/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]DURO DE MATAR[/COLOR]</name>
+<name>[B][COLOR white]DURO DE MATAR[/COLOR][/B]</name>
 <thumbnail>https://pics.videospace.fi/md-release-15168-1550040103-290.jpeg</thumbnail>
 <fanart>https://uploaddeimagens.com.br/images/002/432/844/full/DIEHARD.png</fanart>
 <info>
@@ -127,7 +127,7 @@ COLEÇÃO DURO DE MATAR COMPLETA</info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR white]DURO DE MATAR 1 - 1988 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]DURO DE MATAR 1 - 1988 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/kaWgd90pFHRZAFvHzxxlw13sG01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -137,7 +137,7 @@ https://drive.google.com/file/d/1hZBIqu2RNVa3phgNfG_X2A85duWJuWdy/view</link>
 </item>
 
 <item>
-<title>[COLOR white]DURO DE MATAR 2 - 1990 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]DURO DE MATAR 2 - 1990 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vHKly0sePRowvOGZbQL5PuhwHn.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fgkgab4Rel0nOI3B3scHeNB4Mn6.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -147,7 +147,7 @@ https://drive.google.com/file/d/1Iw-xdz2HyCLWEWviYNnu9LPeUXOO-Dl8/view</link>
 </item>
 
 <item>
-<title>[COLOR white]DURO DE MATAR 3 - A VINGANÇA - 1995 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]DURO DE MATAR 3 - A VINGANÇA - 1995 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Gdu7UEMLDnobLTKybARFVOvDh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yM2naHQb6hEljY2cOKOxgsOtIQb.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -157,7 +157,7 @@ https://drive.google.com/file/d/1lYYXDbll2LM5_Q4SEJhmON94UM0Cuw6r/view</link>
 </item>
 
 <item>
-<title>[COLOR white]DURO DE MATAR 4.0 - 2007 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]DURO DE MATAR 4.0 - 2007 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9plIJeON2Zfwp6dLrqsD738KC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vaq4xeF9rglgcNmRwvYpmFb1Osi.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -167,7 +167,7 @@ https://drive.google.com/file/d/1Tsz64M9ljS6jCwVYcVvPI3VP9zbzpDEz/view</link>
 </item>
 
 <item>
-<title>[COLOR white]DURO DE MATAR 5 - UM BOM DIA PARA MORRER - 2013 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]DURO DE MATAR 5 - UM BOM DIA PARA MORRER - 2013 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6vVXC80o2mXRuRnQvuuwZdpnWJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xizM09IAYfm8W8U4NIdlqzRjHck.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -177,7 +177,7 @@ https://drive.google.com/file/d/1sA9RU4a0nD-3glieRDSNLr29hdY2Rf6w/view</link>
 </item>
 
 <item>
-<title>[COLOR white]DURO DE MATAR 5 - 2013 - 720 - DUB[/COLOR]</title>
+<title>[B][COLOR white]DURO DE MATAR 5 - 2013 - 720 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6vVXC80o2mXRuRnQvuuwZdpnWJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/17zArExB7ztm6fjUXZwQWgGMC9f.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -188,7 +188,7 @@ https://drive.google.com/file/d/1t5tHcLF6_ae0S2RXtIAEqugQjN5Yl6NJ/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]BOURNE[/COLOR] </name>
+<name>[B][COLOR white]BOURNE[/COLOR][/B] </name>
 <thumbnail>https://uploaddeimagens.com.br/images/002/463/237/full/BOURNE-ICON.jpg</thumbnail>
 <fanart>https://uploaddeimagens.com.br/images/002/463/219/full/bourne.png</fanart>
 <info>
@@ -196,7 +196,7 @@ O LADO SUJO DA ESPIONAGEM SE REVELA </info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR white]BOURNE 1 - IDENTIDADE - 2002 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]BOURNE 1 - IDENTIDADE - 2002 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2q17OHj5coMCq1cwWQ3V7AQhMF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2Fr1vqBiDn8xRJM9elcplzHctTN.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -207,7 +207,7 @@ https://drive.google.com/file/d/1Bmk6fmMwG5dxorJGYUvltKJaTwV-w3Kg/view</link>
 <item>
 
 <item>
-<title>[COLOR white]BOURNE 2 - SUPREMACIA - 2004 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]BOURNE 2 - SUPREMACIA - 2004 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYK3Yy5iHfFVPipcRgQl2oG8C0v.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/e1svWjxTXMOmdgkVLSPHSfWv90R.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -218,7 +218,7 @@ https://drive.google.com/file/d/1cbWYwZ0Hk9u25EnAFhBHZGTgkBxDfKl-/view</link>
 <item>
 
 <item>
-<title>[COLOR white]BOURNE 3 - ULTIMATO - DATA - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]BOURNE 3 - ULTIMATO - DATA - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFQCaO4G9YgnSUGX99jJsuJkG9n.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uEXJJAjdFPsraigbvDTRdEE1ACO.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -229,7 +229,7 @@ https://drive.google.com/file/d/1__IQu69nb5HjJS1Hx5E-Oie2isEaT50I/view</link>
 <item>
 
 <item>
-<title>[COLOR white]BOURNE 4 - LEGADO - 2012 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]BOURNE 4 - LEGADO - 2012 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqBTpfRicEi0J9Xs4NWy0k8fQiI.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xjhkJbdD3WsmeBxTYaV2pdFsW68.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -240,7 +240,7 @@ https://drive.google.com/file/d/17lmH2est0Moz_chamojhM-msB83Pq_9U/view</link>
 <item>
 
 <item>
-<title>[COLOR white]BOURNE 5 - JASON BOURNE - 2016 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]BOURNE 5 - JASON BOURNE - 2016 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmhV13v9kgUNBtH5VFFobZLBQD2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mSpdkxYV85qbJqGkY3ztxHdOk3N.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -252,7 +252,7 @@ https://drive.google.com/file/d/14yh2uMasCFlnak3wZL7qQE8XMe8bVdHN/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]O PROTETOR[/COLOR]</name>
+<name>[B][COLOR white]O PROTETOR[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/xg0nV1J/oprotetoricon.jpg</thumbnail>
 <fanart>https://i.ibb.co/BnTckNH/oprotetorfan.jpg</fanart>
 <info>
@@ -260,7 +260,7 @@ COLEÇÃO O PROTETOR COMPLETA</info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR white]O PROTETOR I - 2014 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]O PROTETOR I - 2014 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyjSa7awezBP6ezAmGSlNyhmDg1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vbl4ZVqelrrzJ16fdDOq9siWbpi.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -271,7 +271,7 @@ https://drive.google.com/file/d/17MHPDGfVOEnEbo7aU1fTmNsZcyHbzhm1/view</link>
 <item>
 
 <item>
-<title>[COLOR white]O PROTETOR II - 2018 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]O PROTETOR II - 2018 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3arTw3WKvPAiaIq9gWORJjYFTC5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/z6KLDE72SxE1A8JcJTmmnWArOvR.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -283,7 +283,7 @@ https://drive.google.com/file/d/1ud4Iv-eCA3zHennFfrnz_vZh-pNZNvGQ/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]MISSÃO IMPOSSÍVEL[/COLOR]</name>
+<name>[B][COLOR white]MISSÃO IMPOSSÍVEL[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/dcCFF80/miicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/yRrCQxk/mifan.jpg</fanart>
 <info>
@@ -291,7 +291,7 @@ COLEÇÃO MISSÃO IMPOSSÍVEL COMPLETA</info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR white]MISSÃO IMPOSSÍVEL I - 1996 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]MISSÃO IMPOSSÍVEL I - 1996 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mA3ltuXiYKYaFco8GX1BETUcs5y.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/y0Q0oEQqVMikaHjeSoJBQyOTylH.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -302,7 +302,7 @@ https://drive.google.com/file/d/1uA_wEFuVbS1mQK5G5lEzScvyUWDgkJlX/view</link>
 <item>
 
 <item>
-<title>[COLOR white]MISSÃO IMPOSSÍVEL II - 2000 - 1080 - DUB [/COLOR]</title>
+<title>[B][COLOR white]MISSÃO IMPOSSÍVEL II - 2000 - 1080 - DUB [/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuNrqvaPuAWTlVfBnqTKzM2uc3S.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bDdVZNvxb670EMlZqeIy6RdyJ4V.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -313,7 +313,7 @@ https://drive.google.com/file/d/1GpFib5lHNIuPt5Iw5oIXCqnd2hr7_Imo/view</link>
 <item>
 
 <item>
-<title>[COLOR white]MISSÃO IMPOSSÍVEL III - 2006 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]MISSÃO IMPOSSÍVEL III - 2006 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjy8ABAbWooV4jLG6UjzDHlv4RB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7WYQeukoea4b0Dv43rODYyWjgGh.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -324,7 +324,7 @@ https://drive.google.com/file/d/1CJQtm4v7YkL7iPM50gjR4fsR1oPnyLcG/view</link>
 <item>
 
 <item>
-<title>[COLOR white]MISSÃO IMPOSSÍVEL IV - PROTOCOLO FANTASMA - 2011 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]MISSÃO IMPOSSÍVEL IV - PROTOCOLO FANTASMA - 2011 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiZ14UTGGlrVy2D4HPfMV25FBMc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pc7a2qrIkIxzqWGqcexd3mHzIxy.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -335,7 +335,7 @@ https://drive.google.com/file/d/1sDYBbqm3GjWrf2U7S2QBp2aI68wGKd2I/view</link>
 <item>
 
 <item>
-<title>[COLOR white]MISSÃO IMPOSSÍVEL V - NAÇÃO SECRETA - 2015 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]MISSÃO IMPOSSÍVEL V - NAÇÃO SECRETA - 2015 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/6hWJRWeV1TyrkSZEXYJTLwjGxbB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/82P2EFsSRtuyYmSVYIUp8fS9ivB.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -346,7 +346,7 @@ https://drive.google.com/file/d/1EV5iFoeeZlKFDXIC_nw6mTdnbqXYReFD/view</link>
 <item>
 
 <item>
-<title>[COLOR white]MISSÃO IMPOSSÍVEL VI - EFEITO FALLOUT- 2018 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]MISSÃO IMPOSSÍVEL VI - EFEITO FALLOUT- 2018 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/fV1lm9el5zX8vb4xsptHZsLXrad.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/beMWAyK6qc67KtnKnOFo3cq9juC.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -359,7 +359,7 @@ https://drive.google.com/file/d/1vkt-T_0ZVBFwezitoYyMBDNsgurQfJab/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]SICARIO[/COLOR]</name>
+<name>[B][COLOR white]SICARIO[/COLOR][/B]</name>
 <thumbnail>ICON</thumbnail>
 <fanart>FAN</fanart>
 <info>
@@ -367,7 +367,7 @@ COLEÇÃO SICARIO COMPLETA</info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR white]SICARIO I - TERRA DE NINGUÉM - 2015 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]SICARIO I - TERRA DE NINGUÉM - 2015 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8KcZSbUzMFNpQ5uyjO2FFcEjIK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bnCIf8TNN8X2d5UTLV1HkkBkBvF.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -378,7 +378,7 @@ https://drive.google.com/file/d/1UR_v-z2UicvsDE9TSUHLU0cOUOCEwxpg/view</link>
 <item>
 
 <item>
-<title>[COLOR white]SICARIO II - DIA DO SOLDADO - 2018 - 1080 - DUB[/COLOR]</title>
+<title>[B][COLOR white]SICARIO II - DIA DO SOLDADO - 2018 - 1080 - DUB[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV9q6XPA4R19dzhwEmj5W20fhY5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/urMfgRUk0Kmf5p0KEJopAlqcyXm.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -390,16 +390,7 @@ https://drive.google.com/file/d/1oNy9D-xDvjJc0KAidKLrx4RXkeu4xkUt/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]PIRATAS DO CARIBE[/COLOR]</name>
-<thumbnail>ICON</thumbnail>
-<fanart>FAN</fanart>
-<info>
-COLEÇÃO  COMPLETA</info>
-<genre>AÇÃO</genre>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]PIRATAS DO CARIBE[/COLOR]</name>
+<name>[B][COLOR white]PIRATAS DO CARIBE[/COLOR][/B]</name>
 <thumbnail>https://uploaddeimagens.com.br/images/002/413/956/full/46697351.jpg</thumbnail>
 <fanart>https://uploaddeimagens.com.br/images/002/413/915/full/screen-0.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:COLEÇÃO PIRATAS DO CARIBE COMPLETA[/B] [/COLOR] </info>
@@ -442,16 +433,7 @@ COLEÇÃO  COMPLETA</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]INDIANA JONES[/COLOR]</name>
-<thumbnail>ICON</thumbnail>
-<fanart>FAN</fanart>
-<info>
-COLEÇÃO  COMPLETA</info>
-<genre>AÇÃO</genre>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]INDIANA JONES [/COLOR]</name>
+<name>[B][COLOR white]INDIANA JONES [/COLOR][/B]</name>
 <thumbnail>https://1.bp.blogspot.com/-iSQCqWbO7vo/WaMG5xE2t-I/AAAAAAAANbk/mPLzvjy2Xo0pCzbyADUl7SQoKTj_vfEZgCLcBGAs/s1600/Indiana%2BJones%2BCollection%2B2017.jpg</thumbnail>
 <fanart>https://f001.backblazeb2.com/file/papocine/2016/01/20160126-saga-indiana-jones-papo-de-cinema.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse: COLEÇÃO INDIANA JONES COMPLETA [/B][/COLOR]</info>
@@ -487,16 +469,7 @@ COLEÇÃO  COMPLETA</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]CONAN O BÁRBARO[/COLOR]</name>
-<thumbnail>ICON</thumbnail>
-<fanart>FAN</fanart>
-<info>
-COLEÇÃO  COMPLETA</info>
-<genre>AÇÃO</genre>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]CONAN[/COLOR]</name>
+<name>[B][COLOR white]CONAN[/COLOR][/B]</name>
 <thumbnail>https://uploaddeimagens.com.br/images/002/415/745/full/CONAN.jpg?1570928902</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yjgKV4B3GZwvCemPGYWcowuRXbp.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse: COLEÇÃO CONAN COMPLETA [/B][/COLOR]</info>
@@ -525,17 +498,7 @@ COLEÇÃO  COMPLETA</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]A MÚMIA[/COLOR]</name>
-<thumbnail>ICON</thumbnail>
-<fanart>FAN</fanart>
-<info>
-COLEÇÃO  COMPLETA</info>
-<genre>AÇÃO</genre>
-
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]A MÚMIA[/COLOR]</name>
+<name>[B][COLOR white]A MÚMIA[/COLOR][/B]</name>
 <thumbnail>https://uploaddeimagens.com.br/images/002/439/269/full/a_mumiaicon.jpg</thumbnail>
 <fanart>https://uploaddeimagens.com.br/images/002/439/371/full/amumiafan.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse: COLEÇÃO A MÚMIA COMPLETA [/B][/COLOR]</info>
@@ -564,7 +527,7 @@ COLEÇÃO  COMPLETA</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]CONAN[/COLOR]</name>
+<name>[B][COLOR white]CONAN[/COLOR][/B]</name>
 <thumbnail>https://uploaddeimagens.com.br/images/002/415/745/full/CONAN.jpg?1570928902</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yjgKV4B3GZwvCemPGYWcowuRXbp.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse: COLEÇÃO CONAN COMPLETA [/B][/COLOR]</info>
@@ -594,16 +557,7 @@ COLEÇÃO  COMPLETA</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]300[/COLOR]</name>
-<thumbnail>ICON</thumbnail>
-<fanart>FAN</fanart>
-<info>
-COLEÇÃO  COMPLETA</info>
-<genre>AÇÃO</genre>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]ESPARTA [/COLOR]</name>
+<name>[B][COLOR white]ESPARTA [/COLOR][/B]</name>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5Rqhw4e5pRsfWaQBgUlvpWyn1w4.jpg</fanart>
 <info><info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:COLEÇÃO 300 COMPLETA[/B][/COLOR]</info>
@@ -631,16 +585,7 @@ COLEÇÃO  COMPLETA</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR white]FÚRIA DE TITÃS[/COLOR]</name>
-<thumbnail>ICON</thumbnail>
-<fanart>FAN</fanart>
-<info>
-COLEÇÃO  COMPLETA</info>
-<genre>AÇÃO</genre>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]FÚRIA DE TITÂS[/COLOR]</name>
+<name>[B][COLOR white]FÚRIA DE TITÂS[/COLOR][/B]</name>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>https://i.ytimg.com/vi/yoFY4i13RDI/maxresdefault.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:COLEÇÃO FÚRIA DE TITÂS COMPLETA[/B][/COLOR]</info>
