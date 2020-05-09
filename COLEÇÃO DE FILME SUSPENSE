@@ -1,0 +1,89 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]COLEÇÕES DE FILMES DE SUSPENSE E TERROR[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
+<fanart>http://bit.do/fanartsubcat-gialo</fanart>
+<externallink>NOLINK</externallink>
+<info>
+PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR white]SHERLOCK HOLMES[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/435/511/full/SHICON.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/435/514/full/SH.jpg</fanart>
+<info>
+COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+<genre>SUSPENSE E TERROR</genre>
+
+<item>
+<title>[COLOR white]SHERLOCK HOLMES 1- 2009 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/T2OCCBIwfUMAaYYQLWGVBOIdEe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/r8V954pQMDFzYFdBh2WC1Y3pnN3.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/129kxL1n2KUG7VFqI3-HGhR5__qUYbi7C/view</link>
+<info>O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.</info>
+<genre>SUSPENSE</genre>
+</item>
+
+<item>
+<title>[COLOR white]SHERLOCK HOLMES 2 -O JOGO DAS SOMBRAS- 2011 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR3T5aOuKOm1z2gVwEgwNe8jvWw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mtNiSFSjhzHqOcGiRJ9eXukK2xY.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/18ptWNU2IEB3-cD5Ijk5hXVPwhL00CZuU/view</link>
+<info>Há um novo mentor criminoso em geral (Professor Moriarty) e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.</info>
+<genre>SUSPENSE</genre>
+</item>
+
+
+<channels></channels>
+<channel>
+<name>[COLOR white]TUBARÃO[/COLOR]</name>
+<thumbnail>https://i.ibb.co/mvsXdLq/tubar-ocolicon.jpg</thumbnail>
+<fanart>https://i.ibb.co/VMdJm0S/tubar-ocolfan.jpg</fanart>
+<info>
+COLEÇÃO TUBARÃO</info>
+<genre>SUSPENSE</genre>
+
+<item>
+<title>[COLOR white]TUBARÃO I - 1975 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/8gGScKWwYeZ6aWbYG5MygeHpLM6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/36ZQ1TbR1wptQgz7PaSWFWpUtPV.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1WPdu-78dSw1qW3Ss-DS7VZC0HHH-mQT2/view</link>
+<info>Um terrível ataque a banhistas é o sinal de que a praia da pequena cidade de Amity virou refeitório de um gigantesco tubarão branco, que começa a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da mídia, o xerife local (Roy Scheider) pede ajuda a um ictiologista (Richard Dreyfuss) e a um pescador veterano (Robert Shaw) para caçar o animal. Mas a missão vai ser mais complicada do que eles imaginavam.</info>
+<genre>SUSPENSE</genre>
+</item>
+
+<item>
+<title>[COLOR white]TUBARÃO II - 1978 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/lMrXhNuFAROHAcWJmNWKi5KwqbS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/srp8a3DHstIm75gWIjGyovnOHfz.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1G3i95CcnEL6zxLaJX6FOcpvwIlVlG6fL/view</link>
+<info>Passaram-se quatro anos desde que o tubarão branco apavorou a população da, até então, pacífica praia de Amity. Quando tudo parecia mais calmo, uma nova criatura aparece para aterrorizar a região, agora alvo de uma intensa especulação imobiliária. O chefe de polícia Martin Brody (Roy Scheider) vai lutar contra o tempo para salvar toda a população das garras desse animal.</info>
+<genre>SUSPENSE</genre>
+</item>
+
+<item>
+<title>[COLOR white]TUBARÃO III - 1983 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/cPKfQE2ZV0ksu2ZxWw8MFr1tY7d.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/e6xFzaEzjSF4OnJ4f65ovMJE3vu.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1jovKUqMGArzozU9FiZq5LS7Snjd6mYh-/view</link>
+<info>A fera assassina dos mares está de volta, desta vez atacando funcionários e frequentadores de um parque aquático da Flórida.</info>
+<genre>SUSPENSE</genre>
+</item>
+
+<item>
+<title>[COLOR white]TUBARÃO IV - 1987- 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/sE89h0JcODjqCbXmeLhQq4sSUlx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ySH9Jusrh4zKeQf05Ue0W4lqx3U.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1bTqWBj_DS9DhfUsZmaDgViOwwq2Mw00t/view</link>
+<info>Ellen, viúva do chefe policial Martin Brody (papel que pertenceu a Roy Scheider), já está farta de viver sob constante tensão no balneário de Amity. Pensando em descansar e passar o natal com os filhos, noras e netos, arruma as malas e vai para o Caribe. Mas acredite: o grande e temível tubarão branco também está lá, mas não é de férias. Ele está lá em busca de vingança!Considerado por vários críticos de cinema com um dos piores filmes de todos os tempos.</info>
+<genre>SUSPENSE</genre>
+</item>
