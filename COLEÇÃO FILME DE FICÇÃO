@@ -11,6 +11,39 @@ EXPLORE OUTROS MUNDOS E DIMENSÕES</info>
 
 <channels></channels>
 <channel>
+<name>[B][COLOR white]DE VOLTA PARA O FUTURO[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i996T0lI1fGtFEowiH3V6eZthL0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i996T0lI1fGtFEowiH3V6eZthL0.jpg</fanart>
+<info>DE VOLTA PARA O FUTURO</info>
+<genre>FICÇÃO</genre>
+
+<item>
+<title>[B]De Volta para o Futuro - [COLOR deeppink](1985)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ngc_kZETxQ78vuEUHDdyxf7gaBcuG_6I/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i996T0lI1fGtFEowiH3V6eZthL0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i996T0lI1fGtFEowiH3V6eZthL0.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Marty Mcfly, um típico jovem americano dos anos 80, acciona acidentalmente uma máquina do tempo construída num Delorean pelo seu excêntrico cientista Doc e regressa ao ano de 1955. Preso no passado e sem saber como voltar, conhece a sua futura mãe - antes do casamento com o seu pai - que fica apaixonada por ele, colocando assim em risco a sua própria existência. Agora Marty terá de fazer tudo para que os jovens que um dia virão a ser os seus pais se conheçam e se apaixonem, e convencer o desconfiado Doc a enviá-lo de regresso ao futuro...[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]De Volta para o Futuro 2 - [COLOR deeppink](1989)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VTgnbkrjg_jF6SmUWme1K3wFvc75qQYY/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAAnK6EUBDUpM9H5EBfYV3GmtC1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAAnK6EUBDUpM9H5EBfYV3GmtC1.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Marty e Doc viajam até ao ano 2015 para resolver, aparentemente, alguns problemas com a futura família McFly. Mas quando regressam a casa, depressa se apercebem de que alguém andou a «brincar» com o tempo e produziu enormes estragos na pacata Hill Valley, em 1985. Agora a única esperança é regressar a 1955 para conseguirem salvar o futuro![/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[B]De Volta para o Futuro 3 - [COLOR deeppink](1990)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17GVrDWpPOKCDWvAOnEVkjIW8w0Un6cJW/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FSf6KTBa765KxmocOFjg8cnQpx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FSf6KTBa765KxmocOFjg8cnQpx.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após de receber uma carta de Doc datada de 1885, Marty McFly decide ir para o Velho Oeste a fim de o resgatar. Lá, descobre que o doutor está a esconder-se de um grupo de bandidos e se apaixonou por uma professora.[/B][/COLOR]</info>
+</item>
+
+
+<channels></channels>
+<channel>
 <name>[B][COLOR white]PREDADOR[/COLOR][/B]</name>
 <thumbnail>https://uploaddeimagens.com.br/images/002/419/220/full/prede.jpg</thumbnail>
 <fanart>https://uploaddeimagens.com.br/images/002/419/224/full/predator-1.jpg</fanart>
