@@ -24,6 +24,17 @@ Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de ving
 [/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]1918: A Batalha de Kruty - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]1918ABTLHDKRT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Enquanto um exército bolchevique de cerca de 4.000 homens, comandado pelo general Muravyov, avança em direção a Kiev, com o objetivo de capturar a cidade, uma pequena unidade ucraniana de 400 soldados está resistindo perto da estação ferroviária de Kruty. O conflito entre as forças opostas, e desiguais, fica cada vez mais violento, com uma brutalidade terrível. Os jovens, como soldados espartanos, se sacrificam na luta contra os agressores. [/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]20 Anos Mais Jovem - [COLOR deeppink](2013)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]20ANSMSJVNS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -33,6 +44,17 @@ Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de ving
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oe8AmZCnHRjFRaMd3EtOJbF36RJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oe8AmZCnHRjFRaMd3EtOJbF36RJ.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Alice tem 38 anos. Ela é linda, ambiciosa e demonstra dedicação impecável a ponto de esquecer sua vida privada. Em suma, tem tudo para se tornar a próxima editora da revista "Rebelde", exceto a imagem de uma mulher presa. Mas quando Balthazar, um jovem encantador de apenas 20 anos, cruza o caminho de Alice, o olhar de seus colegas inexplicavelmente muda. Percebendo que ela encontrou a chave para a sua promoção.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]2 Campeões de Shaolin - [COLOR deeppink](1980)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]2CMPEOSDSHAOLN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPMAJR7fKYT1B605lAv9JZsMbEi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPMAJR7fKYT1B605lAv9JZsMbEi.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Durante o esplendor da desonrada dinastia Ming, dois jovens guerreiros que pertencem ao clã de rebeldes do Templo de Shaolin estão numa missão secreta mortal, que poderá causar a derrubada do império. Os temidos guerreiros Wutang, que estão do lado do governo, procuram impedi-los a todo custo. Assim, explode uma violenta rivalidade ente os dois clãs, que marcará com sangue a fantástica batalha pela liberdade polí­tica e social, onde os guerreiros de Wutang lutam contra os guerreiros do Templo de Shaolin. O confronto entre vários estilos das artes marciais é o ponto alto dessa história de vingança e traição. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]118 Dias - [COLOR deeppink](2014)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -1449,6 +1471,18 @@ Na sexta parte do pesadelo Freddy Krueger continua matando crianças. Ele segue 
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em uma missão para eliminar um embaixador nazista em Casablanca, no Marrocos, os espiões Max Vatan (Brad Pitt) e Marianne Beausejour (Marion Cotillard) se apaixonam perdidamente e decidem se casar. Os problemas começam anos depois, com suspeitas sobre uma conexão entre Marianne e os alemães. Intrigado, Max decide investigar o passado da companheira e os dias de felicidade do casal vão por água abaixo.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Alien Outbreak - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
+<link>$doregex[BP1]ALIENOUTBRKLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/VmUwzEQTfO09c9CHcNoAUUWQxU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/VmUwzEQTfO09c9CHcNoAUUWQxU.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na América do Norte pós-apocalíptica, uma família luta pela sobrevivência nessa viagem científica de proporções épicas em um mundo de pesadelo sem gasolina, eletricidade ou humanidade.
+Uma pequena comunidade rural fica em quarentena por uma presença alienígena. Os policiais locais Zoe e Patrick lutam a noite toda para assumir o controle, à medida que são afastados do mundo exterior. Os moradores começam a se comportar de maneira estranha e o pânico em massa se espalha por toda parte. Com a ajuda de outros, Zoe e Patrick começam a desvendar o mistério e logo descobrem que não é tudo o que parece. Eles podem salvar sua comunidade antes que seja tarde demais? [/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Alita: Anjo de Combate - [COLOR deeppink](2019) [/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
 <link>$doregex[BP1]ALITANGDCMBT.mp4$doregex[BP2]$$lsname=[COLOR red]Alita: Anjo de Combate [/COLOR][COLOR lime]DUBLADO  FULLHD[/COLOR]</link>
 <link>$doregex[BP1]ALITANGDCMBTLEG.mp4$doregex[BP2]$$lsname=[COLOR red]Alita: Anjo de Combate [/COLOR][COLOR lime]LEGENDADO  FULLHD[/COLOR]</link>
@@ -2055,7 +2089,7 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <item>
 <title>[B]Axl: O Cão Robô - [COLOR deeppink](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]AXLOCAORBO.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page><page><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
@@ -2064,9 +2098,9 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Desenvolvido exclusivamente pelo governo para fins secretos, A.X.L é um cão robótico dotado de extrema rapidez e força acima da média. Porém, quando ele conhece o jovem Miles, surge um inesperado sentimento recíproco de amor e carinho que faz com o robô faça qualquer coisa para proteger seu novo dono, que agora se torna foragido por roubar um protótipo governamental.[/B][/COLOR]</info>
 </item>
 <item>
-<title>[B]Bad Boys para Sempre 3 - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B]Bad Boys para Sempre - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]BDBYSPRSMPR.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page><page><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
@@ -2077,7 +2111,7 @@ Perseguida pelos seus, Selene (Kate Beckinsale) - a bela e fatal guerreira vampi
 <item>
 <title>[B]Bata Antes de Entrar - [COLOR deeppink](2015)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
 <link>$doregex[BP1]BTANSTDENTR.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page><page><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
@@ -3655,6 +3689,17 @@ Olivia (Josie Bissett) e Mick (Jack Wagner) ajudam um casal a montar o casamento
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Numa clínica geriátrica, Duke, um dos internos que relativamente está bem, lê para uma interna a história de Allie Hamilton e Noah Calhoun, dois jovens apaixonados que em 1940 se conheceram num parque de diversões. Eles foram separados pelos pais dela, que nunca aprovaram o namoro. Para evitar qualquer aproximação, os pais de Alie a mandam para longe. Por um ano Noah escreveu para Allie todos os dias mas não obteve resposta, pois a mãe dela interceptava as suas cartas. Crendo que Allie não estava mais interessada nele, Noah escreveu uma carta de despedida e tentou se conformar. Alie esperava notícias de Noah, mas após 7 anos desistiu de esperar ao conhecer um charmoso oficial, Lon Hammond Jr.. Ele pede a mão de Allie, que aceita, mas o destino a faria se reencontrar com Noah. Como seu amor por ele ainda existia e era recíproco, ela precisa escolher entre o noivo e seu primeiro amor.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Dias Sem Fim  - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]DIASMFM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/spMoofhPZfSOMJpbsDfltvWkU9p.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/spMoofhPZfSOMJpbsDfltvWkU9p.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um jovem (Ashton Sanders) passa seus primeiros dias na cadeia refletindo sobre os motivos, pistas e sinais que o levariam a ser um criminoso, desde sua vida adulta até os primórdios de sua juventude. A sinopse oficial ainda não foi divulgada. [/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Diga Quem Sou - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]DGAQMSOUEU.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -3818,6 +3863,17 @@ Olivia (Josie Bissett) e Mick (Jack Wagner) ajudam um casal a montar o casamento
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K8S7mVFgDmdMy59UADNy5aOM0n.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K8S7mVFgDmdMy59UADNy5aOM0n.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Andrea Serrano é um escritor aspirante que é forçado a trabalhar em um necrotério à espera da grande ocasião de sua vida. Isso finalmente chega. Um grande produtor de cinema, Oscar Martello, decidiu levar seu romance para a telona. Mas as capitais disponíveis são modestas, o diretor é incompetente e o resultado é desastroso.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Dolittle - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]ASAVNTRSDODRDLTLE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de perder sua mulher sete anos atrás, o excêntrico Dr. John Dolittle (Downey), famoso veterinário da Inglaterra da Rainha Victória, se isola nas paredes da mansão Dolittle, com apenas sua coleção de animais como companhia. Mas quando a jovem rainha (Jessie Buckley, Chernobyl) adoece gravemente, um relutante Dolittle é forçado a embarcar em uma aventura para uma ilha mística à procura de uma cura, reconquistando sua esperteza e coragem, encontrando velhos adversários e descobrindo incríveis criaturas. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Dominação - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
