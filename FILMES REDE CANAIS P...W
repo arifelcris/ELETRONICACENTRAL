@@ -1719,15 +1719,15 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Baseado no videojogo da Sega, sucesso à escala global, Sonic: O Filme conta a história do ouriço mais rápido do mundo a partir do momento em que este chega à sua nova casa – o planeta Terra. Nesta comédia e aventura live-action, Sonic e o seu novo melhor amigo Tom juntam-se para defender o planeta do génio do mal, o Dr. Robotnik, e dos seus planos para domínio do mundo.[/B][/COLOR]</info>
 </item>
 <item>
-<title>[B]Sonic: O Filme - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
-<link>$doregex[BP1]SONCOFLMLEG.mp4$doregex[BP2]</link>
+<title>[B]Sonic: O Filme - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]SONCOFLM.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Kt9iFdTu5TbAm7tNfc876mrWU.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Kt9iFdTu5TbAm7tNfc876mrWU.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Baseado no videojogo da Sega, sucesso à escala global, Sonic: O Filme conta a história do ouriço mais rápido do mundo a partir do momento em que este chega à sua nova casa – o planeta Terra. Nesta comédia e aventura live-action, Sonic e o seu novo melhor amigo Tom juntam-se para defender o planeta do génio do mal, o Dr. Robotnik, e dos seus planos para domínio do mundo.[/B][/COLOR]</info>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Sonic, o porco-espinho azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Soldado Anônimo: Lei do Retorno - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -2073,6 +2073,18 @@ Rocky acompanha Apollo Creed para um combate contra o gigantesco pugilista russo
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW6ZP8LqvEF1PG9pY6trAX1XHi0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW6ZP8LqvEF1PG9pY6trAX1XHi0.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um homem fugindo de seus próprios pecados se encontra em uma pequena cidade, se disfarçando de reverendo. A cidade é rapidamente atraída pelos sermões pouco ortodoxos dele, mas também atrai um chefe de polícia.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]The Souvenir - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]THESUVNR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zHJpxzyfRqBmTbYEicjPZxD1Ny.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zHJpxzyfRqBmTbYEicjPZxD1Ny.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:
+Início dos anos 1980. Uma jovem estudante de cinema (Honor Swinton Byrne) acaba se apaixonando e se encolvendo um homem complicado e não muito confiável (Tom Burke) enquanto tenta encontrar sua voz na carreira. Pouco a pouco, ela vai cedendo a esse jogo amoroso perigoso, que ameaça a concretização de seus sonhos como artista. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Thor - [COLOR deeppink](2011)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -2739,6 +2751,16 @@ Durante o Natal, a pequena Noel, de oito anos de idade, sonha em ganhar o Harris
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lf2X2jNWdoneJtBdmg0erkIMX5L.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:John e Alexa Taylor são um casal quase perfeito, a ponto de dar inveja a seus vizinhos. Seu filho Beau é a estrela de futebol da escola e sua filha Ravyn é a estudante número um. Entretanto, uma série de desventuras em suas vidas vai colocar em risco não somente sua reputação, mas também a própria alegria da casa. Eles vão precisar de forças para se restabelecer, procurando principalmente apoio em sua fé em Deus.[/B][/COLOR]</info>
 </item>
+<title>[B]Uma Vida Oculta - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]UMAVDOCLTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Uma Vida Oculta, Franz Jägerstätter (August Diehl) é um fazendeiro austríaco que se torna herói em circunstâncias um tanto quanto inusitadas. Quando ele é convocado a lutar junto ao exército alemão durante a Segunda Guerra Mundial, ele se recusa e acaba, com apenas 36 anos de idade, condenado à pena de morte por traição à pátria. [/B][/COLOR]</info>
+</item>
 <item>
 <title>[B]Ursos Polares: Uma Odisséia no Verão - [COLOR deeppink](2012)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]URSPOLRS.mp4$doregex[BP2]</link>
@@ -2967,6 +2989,17 @@ Don fez sua fortuna vendendo barcos para líderes mundiais, bilionários e estre
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3e96jkT1YB6bvxoFEK59Y3gx90.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3e96jkT1YB6bvxoFEK59Y3gx90.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um pastor encontra por acaso um mendigo, que prega a palavra de Deus pelas ruas, e decide colocar a sua fé em ação, ajudando diversas pessoas. Logo, a vida de uma dezena de indivíduos se cruza, fazendo com que todos descubram o poder da cruz de Cristo - mesmo aqueles que não acreditam nele.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Você Nem Imagina - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]VCNEMIMGNA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/64C3sc6sv2cYzY8g3tv1thW3iWL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/64C3sc6sv2cYzY8g3tv1thW3iWL.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Você Nem Imagina, Ellie Chu (Leah Lewis) é a típica aluna deslocada que possui o hábito de fazer a lição de casa de seus colegas por dinheiro para contribuir com as contas em casa. Secretamente, ela possui uma paixão pela bela Aster Flores (Alexxis Lemire). Quando Paul, um jogador de futebol, se aproxima de Ellie para pedir ajuda para escrever uma carta de amor para sua amada, ela entra em conflito. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca - [COLOR deeppink](2004)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
