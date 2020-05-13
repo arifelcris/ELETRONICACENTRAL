@@ -109,6 +109,18 @@
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:As irmãs Jo (Saoirse Ronan), Beth (Eliza Scanlen), Meg (Emma Watson) e Amy (Florence Pugh) amadurecem na virada da adolescência para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Alien Outbreak - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
+<link>$doregex[BP1]ALIENOUTBRKLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/VmUwzEQTfO09c9CHcNoAUUWQxU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/VmUwzEQTfO09c9CHcNoAUUWQxU.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na América do Norte pós-apocalíptica, uma família luta pela sobrevivência nessa viagem científica de proporções épicas em um mundo de pesadelo sem gasolina, eletricidade ou humanidade.
+Uma pequena comunidade rural fica em quarentena por uma presença alienígena. Os policiais locais Zoe e Patrick lutam a noite toda para assumir o controle, à medida que são afastados do mundo exterior. Os moradores começam a se comportar de maneira estranha e o pânico em massa se espalha por toda parte. Com a ajuda de outros, Zoe e Patrick começam a desvendar o mistério e logo descobrem que não é tudo o que parece. Eles podem salvar sua comunidade antes que seja tarde demais? [/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Altos Negócios - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]ALTSNGCS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -187,8 +199,8 @@
 </item>
 <item>
 <title>[B]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR deeppink](2020) [/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
-<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSA.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipacao Fantabulosa[/COLOR][COLOR lime]DUBLADO FULLHD[/COLOR]</link>
-<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSALEG.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipacao Fantabulosa [/COLOR][COLOR lime]LEGENDADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSA.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa[/COLOR][COLOR lime]DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSALEG.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa [/COLOR][COLOR lime]LEGENDADO FULLHD[/COLOR]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -319,6 +331,39 @@ Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma a
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na Califórnia do início da década de 1980, o engenheiro automotivo John DeLorean (Lee Pace) constrói um império com sua icônica DeLorean Motor Company. Quando seu amigo ex presidiário, Jim Hoffman (Jason Sudeikis), se torna informante para o FBI, um grande escândalo envolvendo drogas é descoberto e pode acabar o levando ao declínio.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Dias Sem Fim  - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]DIASMFM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/spMoofhPZfSOMJpbsDfltvWkU9p.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/spMoofhPZfSOMJpbsDfltvWkU9p.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um jovem (Ashton Sanders) passa seus primeiros dias na cadeia refletindo sobre os motivos, pistas e sinais que o levariam a ser um criminoso, desde sua vida adulta até os primórdios de sua juventude. A sinopse oficial ainda não foi divulgada. [/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Dois Irmãos: Uma Jornada Fantástica - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]DOSIRMSUMJRNDFNTSCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Num mundo de fantasia urbano, dois irmãos elfos adolescentes, Ian e Barley Lightfoot, embarcam numa aventura para descobrir se ainda resta um pouco de magia para passar um último dia com o pai que morreu quando eles eram muito novos.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Dolittle - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]ASAVNTRSDODRDLTLE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de perder sua mulher sete anos atrás, o excêntrico Dr. John Dolittle (Downey), famoso veterinário da Inglaterra da Rainha Victória, se isola nas paredes da mansão Dolittle, com apenas sua coleção de animais como companhia. Mas quando a jovem rainha (Jessie Buckley, Chernobyl) adoece gravemente, um relutante Dolittle é forçado a embarcar em uma aventura para uma ilha mística à procura de uma cura, reconquistando sua esperteza e coragem, encontrando velhos adversários e descobrindo incríveis criaturas. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Don't Let Go - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -510,6 +555,17 @@ Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma a
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um filme antológico na forma de longa-metragem de horror. Estes segmentos assustadores são recheados de personagens conhecidos como mitos, tradições e contos populares. Criadas para dar lógica aos medos mais sombrios da humanidade, essas histórias lançaram as bases para o que hoje conhecemos como gênero de terror.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Mentiras Perigosas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]MNTRSPRGSAS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Mentiras Perigosas, Katie (Camila Mendes) e Adam são um jovem casal batalhando há anos para conquistar uma vida de sucesso para si. Quando Katie abandona seus sonhos de uma carreira médica para apoiar as ambições de seu marido, os dois enfim parecem se encontrar na hora certa e no lugar certo para sua vida funcionar. Porém, tudo se complica quando eles se encontram no meio de uma investigação criminal. [/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Não Olhe Para o Berço - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]NOLHEPROBRCO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -541,6 +597,17 @@ Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma a
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/koGknmSPrlDxzb5hvqn7CT5Uqt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/koGknmSPrlDxzb5hvqn7CT5Uqt.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A história real de Richard Jewell (Paul Walter Hauser), segurança que se tornou um dos principais suspeitos de bombardear as Olimpíadas de Atlanta, no ano de 1996. Na realidade, ele foi o responsável por ajudar inocentes a fugirem do local e avisar da existência de um dos explosivos.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]O Chamado da Floresta - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]OCHMDODFLRSTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de anos vivendo como um cachorro de estimação na casa de uma família na Califórnia, Buck precisa entrar em contato com os seus instintos mais selvagens para conseguir sobreviver em um ambiente hostil como o Alaska. Com o tempo, seu lado feroz se desenvolve e ele se torna o grande líder de sua matilha. Baseado no livro homônimo de Jack London, lançado em 1903. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Declínio - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -830,7 +897,7 @@ Os americanos correm o risco de perder os dois jogos, o jogo de xadrez e o de do
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Baseado no videojogo da Sega, sucesso à escala global, Sonic: O Filme conta a história do ouriço mais rápido do mundo a partir do momento em que este chega à sua nova casa – o planeta Terra. Nesta comédia e aventura live-action, Sonic e o seu novo melhor amigo Tom juntam-se para defender o planeta do génio do mal, o Dr. Robotnik, e dos seus planos para domínio do mundo.[/B][/COLOR]</info>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Sonic, o porco-espinho azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Sonic: O Filme - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
@@ -963,6 +1030,17 @@ Os americanos correm o risco de perder os dois jogos, o jogo de xadrez e o de do
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWzNua8aR3ZE84ueV8pDy0ZlMow.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWzNua8aR3ZE84ueV8pDy0ZlMow.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Jarvis Dolan é o principal jornalista do bem-sucedido programa de rádio noturno de Londres The Grim Reality. Uma noite, dois homens armados entram no estúdio e tomam o controle do show, com a missão de revelar um escândalo que poderia significar o fim da carreira de Jarvis. Forçado a continuar com o programa ao vivo, seguindo o roteiro dos agressores, a noite dele se torna um pesadelo.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Você Nem Imagina - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]VCNEMIMGNA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/64C3sc6sv2cYzY8g3tv1thW3iWL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/64C3sc6sv2cYzY8g3tv1thW3iWL.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Você Nem Imagina, Ellie Chu (Leah Lewis) é a típica aluna deslocada que possui o hábito de fazer a lição de casa de seus colegas por dinheiro para contribuir com as contas em casa. Secretamente, ela possui uma paixão pela bela Aster Flores (Alexxis Lemire). Quando Paul, um jogador de futebol, se aproxima de Ellie para pedir ajuda para escrever uma carta de amor para sua amada, ela entra em conflito. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Z-O-M-B-I-E-S - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
