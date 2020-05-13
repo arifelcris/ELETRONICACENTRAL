@@ -2939,6 +2939,17 @@ Marley está de volta em uma nova aventura que fará todos os rabos abanarem! E 
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um filme antológico na forma de longa-metragem de horror. Estes segmentos assustadores são recheados de personagens conhecidos como mitos, tradições e contos populares. Criadas para dar lógica aos medos mais sombrios da humanidade, essas histórias lançaram as bases para o que hoje conhecemos como gênero de terror.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Mentiras Perigosas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]MNTRSPRGSAS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Mentiras Perigosas, Katie (Camila Mendes) e Adam são um jovem casal batalhando há anos para conquistar uma vida de sucesso para si. Quando Katie abandona seus sonhos de uma carreira médica para apoiar as ambições de seu marido, os dois enfim parecem se encontrar na hora certa e no lugar certo para sua vida funcionar. Porém, tudo se complica quando eles se encontram no meio de uma investigação criminal. [/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Meu Amigo Enzo[COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]MEUAMGENZO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -3786,6 +3797,17 @@ Deloris Van Cartier agora é uma cantora famosa e volta a São Francisco para aj
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma jovem começa a ficar preocupada com o namorado quando ele decide explorar a subcultura que envolve uma misteriosa cassete de vídeo, dizendo-se que quem a vê, morre sete dias depois. Ela sacrifica-se para salvar o namorado e, ao fazê-lo, descobre algo terrível: existe "um filme dentro do filme" que ninguém viu antes.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]O Chamado da Floresta - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]OCHMDODFLRSTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de anos vivendo como um cachorro de estimação na casa de uma família na Califórnia, Buck precisa entrar em contato com os seus instintos mais selvagens para conseguir sobreviver em um ambiente hostil como o Alaska. Com o tempo, seu lado feroz se desenvolve e ele se torna o grande líder de sua matilha. Baseado no livro homônimo de Jack London, lançado em 1903. [/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]O Círculo - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]OCRCLO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -4110,6 +4132,17 @@ link>AQUI$$lsname=[COLOR red]O Exterminador do Futuro: Destinho Sombrio[/COLOR][
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDNPB2D9tLxzJRnHnT5aJhffojw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDNPB2D9tLxzJRnHnT5aJhffojw.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:As dificuldades do fotógrafo catalão Francesc Boix, preso no campo de concentração de Mauthausen no inverno de 1942, quando ele tinha 22 anos, ao lado de seu pai e 1.500 republicanos espanhóis, foram aprisionados pelo exército alemão durante seu exílio na França depois A Guerra Civil Espanhola.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]O Furioso - [COLOR deeppink](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]OFRSO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjjIGfaKaVdZR8SsNenYOLyqp6h.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjjIGfaKaVdZR8SsNenYOLyqp6h.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O Furioso conta a história de uma batalha lendária em que dezessete guerreiros defendem suas terras de um exército de milhares de soldados. Os guerreiros mongóis do século 13 e seu líder, Batu Khan, controlam a maior parte do mundo conhecido. Conforme os mongóis se movem à Europa, eles invadem o último principado russo em seu caminho sem saber que seus planos estão prestes a ser arruinados por um grupo de homens liderados por um misterioso guerreiro. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Garoto - [COLOR deeppink](1921)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -5638,6 +5671,17 @@ Ben McGrath (Chris Klein) tinha potencial para liga principal jogando beisebol p
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS82u5O8nNrvBtH4qb4anlVbJlu.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS82u5O8nNrvBtH4qb4anlVbJlu.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Barney Ross (Sylvester Stallone) é o líder de um grupo de mercenários, que realiza qualquer missão desde que ela seja bem paga. Entre seus companheiros usuais estão o especialista em facas Lee Christmas (Jason Statham), Bao Thao (Jet Li) e Gunnar Jensen (Dolph Lundgren), que têm demonstrado instabilidade emocional durante as missões. Um dia, Barney e sua trupe são contratados para derrubar o general Garza (David Zayas), ditador da ilha de Vilena. Barney e Lee vão ao local e encontram Sandra (Gisele Itiê), que deseja derrubar o governo. Só que logo eles são atacados pelas forças de Garza e de Monroe (Eric Roberts), um empresário americano que financia o governo local. Barney e Lee deixam Vilena e abandonam a missão, mas a persistência de Sandra, que deseja ficar para lutar pela liberdade, mexe com os até então inexistentes princípios de Barney.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Os Miseráveis - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>$doregex[BP1]OSMSRVS2020.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aHucf8P3yhuAt3CJYGEJtSIvZw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aHucf8P3yhuAt3CJYGEJtSIvZw.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Stéphane (Damien Bonnard) é um jovem que acaba de se mudar para Montfermeil e se junta ao esquadrão anti-crime da comuna. Colocado no mesmo time de Chris (Alexis Manenti) e Gwada (Djibril Zonga), dois homens de métodos pouco convencionais, ele logo se vê envolvido na tensão entre as diferentes gangues do local. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Os Mortos Não Morrem - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
