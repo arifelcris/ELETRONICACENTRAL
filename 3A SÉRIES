@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] CHAVES ( 5 HORAS DE CHAVES )[/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] CHAVES ( 5 HORAS DE CHAVES )[/COLOR] [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg</fanart>
 <info>
@@ -25,7 +25,7 @@ eletrocentral1@gmail.com
 
 
 <item>
-<title>[B][COLOR gold]CHAVES ( 5 HORAS DE CHAVES ) [/COLOR][COLOR deeppink] (1972) [/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO [/B]</title>
+<title>[B][COLOR lime]CHAVES ( 5 HORAS DE CHAVES ) [/COLOR][COLOR deeppink] (1972) [/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IZFA5AsXLkha4ETvFVsv_PZlsPwGZH8x/view?usp=sharing</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg</fanart>
