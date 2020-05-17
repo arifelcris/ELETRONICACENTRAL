@@ -1,11 +1,3 @@
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]FILMES DE FAROESTE[/B][/COLOR] </name>
-<thumbnail>http://bit.do/iconesubcat-western</thumbnail>
-<fanart>http://bit.do/fanartsubcat-western</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:OS MELHORES FILMES DE FAROESTE ESTÃO AQUI[/B][/COLOR]</info>
-<genre>FAROESTE</genre>
-<item>
 <title>[B]100 Rifles - [COLOR deeppink](1969)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Vt68-ssatg21BuOiaUnJfBcFxeox30uK/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/36FO7mjwHOFahC6bXeola2PgreP.jpg</thumbnail>
@@ -105,11 +97,25 @@
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Integrante de uma gangue é libertado da prisão junto com seu companheiro para se transformar num soldado com o objetivo de perseguir o restante da quadrilha, que foi localizada numa cidade de fronteira.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Cahill: O Xerife Do Oeste - [COLOR deeppink](1973)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g-8x3etVM6Qdj5j_HmN_7UJ8zK1epX99/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnXFWKcfElbC3PwPXOmeQZ6vSef.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnXFWKcfElbC3PwPXOmeQZ6vSef.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um agente federal obstinado, pai de dois rapazes adolescentes, é obrigado a deixar sua cidade para perseguir um grupo de bandidos. Ao voltar para casa, descobre que o banco local foi assaltado, o xerife foi assassinado e que dois dos criminosos envolvidos são seus filhos, incluindo o mais velho, que são aliciados por um notório fora-da-lei. Ele se vê forçado a lidar com a situação da melhor forma possível, ao mesmo tempo que tenta prender o pistoleiro que desencaminhou os garotos. Um grande faroeste, indispensável ao fãs de John Wayne.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Califórnia Adeus - [COLOR deeppink](1977)[/COLOR] - [COLOR lime](SD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1--RCqFXCjR-mJB3p9u4rqxQ3PHOkFrBo/view</link>
 <thumbnail>https://cps-static.rovicorp.com/2/Open/FanTV_2555/Program/18784966/_derived_jpg_q90_500x500_m0/jYaVDxFBByNrGJl6ABapxGNDz8c.jpg</thumbnail>
 <fanart>https://s1.dmcdn.net/v/KAE8w1P40cFtVl92E/x1080</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A sangrenta Guerra de Secessão Americana finalmente chega a seu final. Enquanto os soldados do norte comemoram a vitória, as tropas do sul caminham lentamente de volta a seus lares. Porém, muitos deles enfrentam uma nova, inesperada e dramática realidade: a readaptação à vida civil. Discriminados pelos vencedores, eles têm que enfrentar caçadores de recompensas que agora matam os soldados que tenha cometido pequenos delitos durante a guerra. Califórnia (Giuliano Gemma), vê seus sonhos desmoronarem quando pistoleiros raptam a única mulher capas de oferecer um novo significado à sua vida. Esta é sua história...[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Caminhos Ásperos: Hondo - [COLOR deeppink](1953)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BC3_2AX7_6E79ODxcdcGcuwn3kGrIOcP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iFUN1MFMpiGtcol0kwa4dD7P87.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iFUN1MFMpiGtcol0kwa4dD7P87.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Vivendo em meio a hostil território Apache, Angie Lowe (Geraldine Page) insiste em não deixar a propriedade antes da volta de seu esposo Ed (Leo Gordon). Hondo Lane (John Wayne), um frio caubói de passagem, acaba capturado pelo líder indígena Vittorio (Michael Pate) e para escapar da morte passa-se pelo desaparecido marido. Sua missão agora é proteger a mulher e o filho dela, Johnny (Lee Aaker).[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Canhões Para Córdoba - [COLOR deeppink](1970)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -147,6 +153,14 @@
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O herói lendário espanhol Rodrigo Diaz (El Cid) supera uma vingança familiar e intrigas da corte para defender Espanha cristã contra os mouros.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]El Dorado - [COLOR deeppink](1967)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VpoPPwZ-ioict4qcWd0PwRXhgM9S-7Tr/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38E1rTs9FZSSBIvnMgCMPC4OSmy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38E1rTs9FZSSBIvnMgCMPC4OSmy.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na cidade de El Dorado, xerife bêbado e sem dignidade é ajudado por um pistoleiro, um jovem que prefere facas a revólveres e um veterano combatente da guerra contra os índios, a se recuperar na luta contra um fazendeiro inescrupuloso.
+El Dorado é o segundo filme da trilogia do diretor Howard Hawks que enfoca xerifes enfrentando situações de grande perigo. Os outros são Rio Bravo (1959) e Rio Lobo (1970), todos estrelados por John Wayne.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Enterrem Meu Coração na Curva do Rio - [COLOR deeppink](2007)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S5DEoMLnE1sc8TAdsZAnnWbLkF2hNqOL/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSeodiuDkm37ljKbjviD2ceWYUB.jpg</thumbnail>
@@ -166,6 +180,21 @@
 <thumbnail>https://cdn.iset.io/assets/40625/produtos/321/capas-fuga-heroica.jpg</thumbnail>
 <fanart>http://rarefilm.net/wp-content/uploads/2016/06/Smoke-Signal-1955-1.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:No Território do Novo México, em 1852, um pequeno destacamento de tropas da cavalaria caminha até seu novo posto acima do Rio Colorado e o encontra sendo atacado por índios de Ute. Apenas nove deles conseguem sobreviver, incluindo a filha do oficial comandante morto, Laura Evans, o novo comandante, o arrogante Tenente Wayne Ford, e o prisioneiro Brett Halliday, um soldado renegado que abandonou o seu comando a dois anos para se juntar a tribo Ute, que ele achava que estavam sendo maltratados. O Capitão Harper, sabendo que a Ute vai voltar a atacar, quer escapar por terra, mas Halliday sabe dos costumes índios, e aconselha-os a tomar balsas pelo rio.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Hatari! - [COLOR deeppink](1962)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bDXFXLDvk4MzSBqvnfvGOXllu0dkFN-T/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FAIj6rsHoDjmOzXUb7Gt0Pe4tq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FAIj6rsHoDjmOzXUb7Gt0Pe4tq.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Sean Mercer lidera um grupo internacional de caçadores que se encontra na África no período de três meses em que essa prática está liberada. Sua intenção é capturar um grande número de animais selvagens para atender encomendas de zoológicos do mundo todo. Além do risco que corre, Sean fica contrariado quando chega uma mulher no acampamento contratada pelo zoológico de Los Angeles para documentar a captura dos animais. Dallas se mostra à vontade no lugar, e se torna conhecida dos nativos por "Momma Tembo" (Mãe dos Elefantes), por acolher alguns filhotes elefantes órfãos, que tumultam ainda mais a vida no acampamento.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Maclintok! Quando um Homem É Homem - [COLOR deeppink](1963)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10jV5C01EStzKNls6pTDfu6ry3DFe5R3J/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMg4BMP60VLqdlcXAOc8jNl6s19.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMg4BMP60VLqdlcXAOc8jNl6s19.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:
+O velho fazendeiro George Washington McLintock, um rico homem feito por si mesmo, é forçado a lidar com inúmeros problemas pessoais e profissionais. Aparentemente, todo mundo quer um pedaço de sua enorme fazenda, incluindo homens do alto escalão do governo, filhos de McLintock e nativos americanos próximos. Enquanto McLintock tenta fazer malabarismos com seus vários adversários, sua esposa, que o deixou dois anos antes, retorna repentinamente. Mas ela não está interessada no marido - ela quer a custódia da filha deles.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Marcados Pela Vingança - [COLOR deeppink](1972)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -242,6 +271,20 @@ a não ser a morte.[/B][/COLOR]</info>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A história verdadeira de um policial recentemente viúvo que faz amizade com um garoto morrendo de tuberculose e uma senhora do bordel local enquanto sua cidade está sendo politicamente e violentamente ultrapassada por uma gangue de pecadores imprudentes do Texas.[/B][/COLOR]</info>
 </item>
 <item>
+<title>[B]Os Chacais Do Oeste - [COLOR deeppink](1973)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DxHdY7VEPYLC-7GcYcH0JVc9DLnrWo1z/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NZG4ChLLYBSTGywry9wCedEvXK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NZG4ChLLYBSTGywry9wCedEvXK.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Três veteranos da guerra civil americana se unem a uma viúva ladra de trens para reaver meio milhão de dólares em ouro escondido. A viúva (Ann Margret), é o tipo de pessoa que quer tudo no lugar certo, deseja limpar o nome de seu marido. Os três amigos ( John Waine, Rod Taylor e Ben Johnson) querem ajudá-la e receber uma recompensa de US$ 50 mil. Mas os ex-parceiros do falecido querem apenas o ouro - e matarão por ele. Esse filme é um incrível conto do escritor/diretor Burt Kennedy, um especialista em faroestes com toques cômicos. Aqui, ele estabelece um clima de amigável aventura em meio a personagens interessantíssimos, um pouco diferente dos faroestes normalmente estrelados por John Waine.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Os Comancheros - [COLOR deeppink](1961)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CBS86XfOk5O0TotAKCMQHchKsv8psZtk/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVCgftEgz0FNAcAv7E6q6SqKcdr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVCgftEgz0FNAcAv7E6q6SqKcdr.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O Capitão Cutter (John Wayne) é um Texas Ranger determinado a encontrar e destruir um grupo de bandidos que vende armas para os índios e são chamados de Comancheros. Aprisiona um jogador de pôquer Paul Regret (Stuart Whitman) que acaba se transformando em seu aliado. e 14.[/B][/COLOR]</info>
+</item>
+<item>
 <title>[B]Os Indomáveis - [COLOR deeppink](2007)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OdzMA26pKEFyEhqXcxiKoww75vcMARY1/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVcsyFEd5dbFf2t4K4lxCNrUp80.jpg</thumbnail>
@@ -304,6 +347,13 @@ Eastwood e Morgan Freeman desempenham os papéis de dois pistoleiros reformados,
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWehgkBFAeXdtKI8DWST8CnTekU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWehgkBFAeXdtKI8DWST8CnTekU.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:No início da Revolução Mexicana em 1913, o bandido mexicano Juan Miranda e o idealista irlandês John H. Mallory, especialista em explosivos, se encontram com um grupo de revolucionários que estão planejando roubar um banco nacional. Quando se descobre que o governo vem usando o banco como esconderijo para presos políticos ilegalmente detidos, que são liberados pela explosão. Miranda se torna um herói revolucionário contra a sua vontade.[/B][/COLOR]</info>
+</item>
+<item>
+<title>[B]Rastros de Ódio - [COLOR deeppink](1956)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tpVxKZFAWH7Kr72ZpzlmRDYiEcja64DQ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O veterano da Guerra Civil Ethan Edwards (John Wayne) chega ao Texas em 1868 e encontra o seu irmão e a família dele. Entretanto, no dia seguinte, comanches invadem o rancho e matam o seu irmão e Martha (Dorothy Jordan), a esposa dele. Além disso, raptam as duas filhas do casal. Ethan parte então em uma busca vingativa pelas meninas junto com o companheiro Martin (Jeffrey Hunter), um mestiço que logo percebe que Ethan está obcecado por matar os índios e cheio de ódio racista. Eles encontram o corpo da mais velha, e saem em busca da caçula, que procuram por mais 5 anos no deserto.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Sangue De Pistoleiro - [COLOR deeppink](1958)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
@@ -369,70 +419,3 @@ Eastwood e Morgan Freeman desempenham os papéis de dois pistoleiros reformados,
 <fanart>https://musicart.xboxlive.com/7/380f5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O Jovem Billy the Kid e seu bando partem em direção à fronteira com o México para fugir da mira da justiça. Eles são perseguidos por homens-da-lei que querem capturá-los a qualquer custo, mas contam com a esperteza e a habilidade no gatilho para escapar de forma espetacular a cada vez que se encontram ameaçados. Seqüência de "Os Jovens Pistoleiros".[/B][/COLOR]</info>
 </item>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]COLEÇÃO JOHN WAYNE[/COLOR][/B]</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/480/505/full/jonhwayneicon.jpg</thumbnail>
-<fanart>https://uploaddeimagens.com.br/images/002/480/500/full/jonhwayne.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:FAROESTE [/B][/COLOR] 
-
-<item>
-<title>[B]Cahill: O Xerife Do Oeste - [COLOR deeppink](1973)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g-8x3etVM6Qdj5j_HmN_7UJ8zK1epX99/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnXFWKcfElbC3PwPXOmeQZ6vSef.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnXFWKcfElbC3PwPXOmeQZ6vSef.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um agente federal obstinado, pai de dois rapazes adolescentes, é obrigado a deixar sua cidade para perseguir um grupo de bandidos. Ao voltar para casa, descobre que o banco local foi assaltado, o xerife foi assassinado e que dois dos criminosos envolvidos são seus filhos, incluindo o mais velho, que são aliciados por um notório fora-da-lei. Ele se vê forçado a lidar com a situação da melhor forma possível, ao mesmo tempo que tenta prender o pistoleiro que desencaminhou os garotos. Um grande faroeste, indispensável ao fãs de John Wayne.[/B][/COLOR]</info>
-</item>
-<item>
-<title>[B]Caminhos ÁSPEROS: Hondo - [COLOR deeppink](1953)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BC3_2AX7_6E79ODxcdcGcuwn3kGrIOcP/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iFUN1MFMpiGtcol0kwa4dD7P87.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iFUN1MFMpiGtcol0kwa4dD7P87.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Vivendo em meio a hostil território Apache, Angie Lowe (Geraldine Page) insiste em não deixar a propriedade antes da volta de seu esposo Ed (Leo Gordon). Hondo Lane (John Wayne), um frio caubói de passagem, acaba capturado pelo líder indígena Vittorio (Michael Pate) e para escapar da morte passa-se pelo desaparecido marido. Sua missão agora é proteger a mulher e o filho dela, Johnny (Lee Aaker).[/B][/COLOR]</info>
-</item>
-<item>
-<title>[B]El Dorado - [COLOR deeppink](1967)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VpoPPwZ-ioict4qcWd0PwRXhgM9S-7Tr/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38E1rTs9FZSSBIvnMgCMPC4OSmy.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38E1rTs9FZSSBIvnMgCMPC4OSmy.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na cidade de El Dorado, xerife bêbado e sem dignidade é ajudado por um pistoleiro, um jovem que prefere facas a revólveres e um veterano combatente da guerra contra os índios, a se recuperar na luta contra um fazendeiro inescrupuloso.
-El Dorado é o segundo filme da trilogia do diretor Howard Hawks que enfoca xerifes enfrentando situações de grande perigo. Os outros são Rio Bravo (1959) e Rio Lobo (1970), todos estrelados por John Wayne.[/B][/COLOR]</info>
-</item>
-<item>
-<title>[B]Hatari! - [COLOR deeppink](1962)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bDXFXLDvk4MzSBqvnfvGOXllu0dkFN-T/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FAIj6rsHoDjmOzXUb7Gt0Pe4tq.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FAIj6rsHoDjmOzXUb7Gt0Pe4tq.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Sean Mercer lidera um grupo internacional de caçadores que se encontra na África no período de três meses em que essa prática está liberada. Sua intenção é capturar um grande número de animais selvagens para atender encomendas de zoológicos do mundo todo. Além do risco que corre, Sean fica contrariado quando chega uma mulher no acampamento contratada pelo zoológico de Los Angeles para documentar a captura dos animais. Dallas se mostra à vontade no lugar, e se torna conhecida dos nativos por "Momma Tembo" (Mãe dos Elefantes), por acolher alguns filhotes elefantes órfãos, que tumultam ainda mais a vida no acampamento.[/B][/COLOR]</info>
-</item>
-<item>
-<title>[B]Maclintok! Quando um Homem É Homem - [COLOR deeppink](1963)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10jV5C01EStzKNls6pTDfu6ry3DFe5R3J/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMg4BMP60VLqdlcXAOc8jNl6s19.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMg4BMP60VLqdlcXAOc8jNl6s19.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:
-O velho fazendeiro George Washington McLintock, um rico homem feito por si mesmo, é forçado a lidar com inúmeros problemas pessoais e profissionais. Aparentemente, todo mundo quer um pedaço de sua enorme fazenda, incluindo homens do alto escalão do governo, filhos de McLintock e nativos americanos próximos. Enquanto McLintock tenta fazer malabarismos com seus vários adversários, sua esposa, que o deixou dois anos antes, retorna repentinamente. Mas ela não está interessada no marido - ela quer a custódia da filha deles.[/B][/COLOR]</info>
-</item>
-<item>
-<title>[B]Os Comancheros - [COLOR deeppink](1961)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CBS86XfOk5O0TotAKCMQHchKsv8psZtk/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVCgftEgz0FNAcAv7E6q6SqKcdr.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVCgftEgz0FNAcAv7E6q6SqKcdr.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O Capitão Cutter (John Wayne) é um Texas Ranger determinado a encontrar e destruir um grupo de bandidos que vende armas para os índios e são chamados de Comancheros. Aprisiona um jogador de pôquer Paul Regret (Stuart Whitman) que acaba se transformando em seu aliado. e 14.[/B][/COLOR]</info>
-</item>
-<item>
-<title>[B]Os Chacais Do Oeste - [COLOR deeppink](1973)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DxHdY7VEPYLC-7GcYcH0JVc9DLnrWo1z/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NZG4ChLLYBSTGywry9wCedEvXK.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NZG4ChLLYBSTGywry9wCedEvXK.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Três veteranos da guerra civil americana se unem a uma viúva ladra de trens para reaver meio milhão de dólares em ouro escondido. A viúva (Ann Margret), é o tipo de pessoa que quer tudo no lugar certo, deseja limpar o nome de seu marido. Os três amigos ( John Waine, Rod Taylor e Ben Johnson) querem ajudá-la e receber uma recompensa de US$ 50 mil. Mas os ex-parceiros do falecido querem apenas o ouro - e matarão por ele. Esse filme é um incrível conto do escritor/diretor Burt Kennedy, um especialista em faroestes com toques cômicos. Aqui, ele estabelece um clima de amigável aventura em meio a personagens interessantíssimos, um pouco diferente dos faroestes normalmente estrelados por John Waine.[/B][/COLOR]</info>
-</item>
-<item>
-<title>[B]Rastros de Ódio - [COLOR deeppink](1956)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tpVxKZFAWH7Kr72ZpzlmRDYiEcja64DQ/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O veterano da Guerra Civil Ethan Edwards (John Wayne) chega ao Texas em 1868 e encontra o seu irmão e a família dele. Entretanto, no dia seguinte, comanches invadem o rancho e matam o seu irmão e Martha (Dorothy Jordan), a esposa dele. Além disso, raptam as duas filhas do casal. Ethan parte então em uma busca vingativa pelas meninas junto com o companheiro Martin (Jeffrey Hunter), um mestiço que logo percebe que Ethan está obcecado por matar os índios e cheio de ódio racista. Eles encontram o corpo da mais velha, e saem em busca da caçula, que procuram por mais 5 anos no deserto.[/B][/COLOR]</info>
-</item>
-
