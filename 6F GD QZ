@@ -1297,7 +1297,7 @@ item>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após 10 anos de uma viagem cinematográfica sem precedentes e que abrange todo o universo cinematográfico Marvel, "Vingadores: Guerra do Infinito" traz ao grande ecrã o maior confronto de todos os tempos. Os Vingadores e os seus aliados Super-Heróis devem estar dispostos a sacrificar tudo para tentarem derrotar o poderoso Thanos antes que o seu ataque de devastação e ruína acabe com o universo.[/B][/COLOR]</info>
-<item>
+</item>
 <item>
 <title>[B]Vingadores: Ultimato - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y2bNI1g3QS1ExXwB5HBwmCdqVmYbMeH3/view$$lsname=Vingadores: Ultimato [COLOR lime]FULLHD[/COLOR] - LINK 1</link>
@@ -1307,6 +1307,7 @@ item>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois dos eventos devastadores de “Guerra do Infinito”, o universo está em ruínas. Com a ajuda dos aliados que restam, os Vingadores juntam-se mais uma vez para tentar desfazer as ações de Thanos e restaurar a ordem ao universo.[/B][/COLOR]</info>
 </item>
+<item>
 <title>[B]Vingança à Sangue Frio - [COLOR deeppink](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FJHbk-sGa0-IbEyWH3nh-3E5HQ94Wi-S/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOCg1AURsjnZWlUBm282y3zvjzn.jpg</thumbnail>
