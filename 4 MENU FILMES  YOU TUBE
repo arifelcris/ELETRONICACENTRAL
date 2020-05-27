@@ -1,32 +1,16 @@
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES YOU TUBE [/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES YOU TUBE 1 [/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/5%20FILMES%20%20YOU%20TUBE</externallink>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5ow4p_zPCtLAZQmZ4QufWjktTzvB2an_971CuYBbpROv0XE1p</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5ow4p_zPCtLAZQmZ4QufWjktTzvB2an_971CuYBbpROv0XE1p</fanart>
 <info>
 
-<item>
-<title>[COLOR whithe] FILMES ANTIGOS [/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLF0wMHu45oTE1W8QR-SFSUFXBVCukxPPH/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/NM9iHhP.jpg</thumbnail>
-<fanart>https://i.imgur.com/NM9iHhP.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR withe] Filmes Anos 90 [/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLCcWr6nZW_pUUAjmEKignky_pxw1M1SCv/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/0i3UelO.jpg</thumbnail>
-<fanart>https://i.imgur.com/0i3UelO.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR withe] Filmes Diversos 1 [/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcqMr0wdqEghtXvMA7EhFCU5duD_nqYrO/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/qAaM89b.jpg</thumbnail>
-<fanart>https://i.imgur.com/qAaM89b.jpg</fanart>
-</item>
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES YOU TUBE 2 [/COLOR] [/B]</name>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/5%20FILMES%20YOU%20TUBE%202</externallink>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5ow4p_zPCtLAZQmZ4QufWjktTzvB2an_971CuYBbpROv0XE1p</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5ow4p_zPCtLAZQmZ4QufWjktTzvB2an_971CuYBbpROv0XE1p</fanart>
+<info>
 
