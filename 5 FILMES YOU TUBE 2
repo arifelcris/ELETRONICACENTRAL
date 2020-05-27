@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR whithe] FILMES ANTIGOS [/COLOR]</title>
+<title>[COLOR lime]●[/COLOR] FILMES ANTIGOS [/COLOR] [/B]</name>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLF0wMHu45oTE1W8QR-SFSUFXBVCukxPPH/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/NM9iHhP.jpg</thumbnail>
@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[COLOR withe] Filmes Anos 90 [/COLOR]</title>
+<title>[COLOR lime]●[/COLOR] FILMES ANOS 90 [/COLOR] [/B]</name>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLCcWr6nZW_pUUAjmEKignky_pxw1M1SCv/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/0i3UelO.jpg</thumbnail>
@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[COLOR withe] Filmes Diversos 1 [/COLOR]</title>
+<title>[COLOR lime]●[/COLOR] FILMES DIVERSOS [/COLOR] [/B]</name>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLcqMr0wdqEghtXvMA7EhFCU5duD_nqYrO/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/qAaM89b.jpg</thumbnail>
