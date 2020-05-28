@@ -280,7 +280,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&str
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1845
 #EXTINF:-1 tvg-ID="GAZ" tvg-name="Gazeta HD" tvg-logo="http://img.miptv.ws/Gazeta_HD.png" group-title="TV Aberta",Gazeta HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/400
-#EXTINF:-1 tvg-ID="GLB" tvg-name="Globo BrasÃ­lia" tvg-logo="http://img.miptv.ws/Globo_Brasilia.png" group-title="TV Aberta",Globo Lixo BrasÃ­lia
+#EXTINF:-1 tvg-ID="GLB" tvg-name="Globo BrasÃ­lia" tvg-logo="http://img.miptv.ws/Globo_Brasilia.png" group-title="TV Aberta",Globo Lixo Brasilia
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/831
 #EXTINF:-1 tvg-ID="GLB" tvg-name="Globo Brasilia HD" tvg-logo="http://img.miptv.ws/Globo_Brasilia.png" group-title="TV Aberta",Globo Lixo Brasilia HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5315
@@ -332,7 +332,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&str
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1847
 #EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo NSC TV Florianopolis
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5421
-#EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",GloboLixo  NSC TV Florianopolis HD
+#EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo  NSC TV Florianopolis HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5420
 #EXTINF:-1 tvg-ID="TPH" tvg-name="Globo Curitiba" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo Curitiba
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5128
@@ -346,9 +346,9 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&str
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5095
 #EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta VitÃ³ria" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo TV Gazeta VitÃ³ria
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12077
-#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta VitÃ³ria Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo  TV Gazeta VitÃ³ria Full HD
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta VitÃ³ria Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo  TV Gazeta Vitória Full HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12078
-#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta VitÃ³ria HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo TV Gazeta VitÃ³ria HD
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta VitÃ³ria HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo TV Gazeta Vitória HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12079
 #EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta SUL ES Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo TV Gazeta SUL ES Full HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12080
@@ -360,7 +360,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&str
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5528
 #EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Anhaguera Goiania" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo Anhaguera Goiania
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5074
-#EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Goias - TV Anhanguera HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Goias Lixo - TV Anhanguera HD
+#EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Goias - TV Anhanguera HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo Goias - TV Anhanguera HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5072
 #EXTINF:-1 tvg-ID="TVT" tvg-name="Globo TV Tribuna Santos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Lixo TV Tribuna Santos
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]arifelcris[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5126
