@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B][COLOR gold]APENAS UM SHOW[/COLOR][/B]</name>
+<name>[B][COLOR gold]APENAS UM SHOW (HD) [/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/5%20S%C3%89RIES%20GD%20DESENHOS%20APENAS%20UM%20SHOW</externallink>
 <thumbnail>https://i.imgur.com/o44et2H.jpg</thumbnail>
 <fanart>https://i.imgur.com/dj7xN6l.jpg</fanart>
@@ -11,7 +11,7 @@ desgosto para seu patrão Benson.</info>
 
 <channels>
 <channel>
-<name>[B][COLOR gold]CORAGEM O CÃO COVARDE (1996)[/COLOR][/B]</name>
+<name>[B][COLOR gold]CORAGEM O CÃO COVARDE (1996) (SD)[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/5%20S%C3%89RIES%20GD%20DESENHOS%20O%20C%C3%83O%20COVARDE</externallink>
 <thumbnail>https://i.imgur.com/VoIdER7.png</thumbnail>
 <fanart>https://i.imgur.com/VoIdER7.png</fanart>
@@ -23,10 +23,21 @@ Coragem desconhece o mundo exterior. As tramas, muitas vezes absurdas, tentam re
 
 <channels>
 <channel>
-<name>[B][COLOR gold]DOUG FUNNY[/COLOR][/B]</name>
+<name>[B][COLOR gold]DOUG FUNNY (HD)[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/FncGGkY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/5%20S%C3%89RIES%20GD%20DESENHOS%20DOUG%20FUNNY</externallink>
 <fanart>https://i.imgur.com/e0ANvRn.jpg</fanart>
 <info>Sinopse: Conheça as provações e os apuros de Doug, um menino de onze anos e meio que, quando não está brincando com seus amigos, gosta de escrever em seu diário e fantasiar que é um super-herói.</info>
+</channels>
+<</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR gold]Tom & Jerry: Classic (1940) (SD)[/COLOR] [/B]</name>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/5%20S%C3%89RIES%20GD%20DESENHOS%20TOM%20E%20JERRY</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w1280/pVKOQsWbLEhwiCroIC1HZCVdh5Y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/y6LnE2qJIZ52V5wkS0VY3NFTM92.jpg</fanart>
+<info>[B][COLOR firebrick]l[/COLOR][/B] Tom e Jerry é um desenhos animados teatrais criados por William Hanna e Joseph Barbera para a Metro-Goldwyn-Mayer, centrando-se uma rivalidade sem fim entre um gato (Tom) e um rato (Jerry), cuja  
+perseguições e batalhas, muitas vezes envolvidos violência em quadrinhos (apesar disso eles às vezes se tornam aliados para derrotar um "maior inimigo", tais como Spike o cachorro) [B][COLOR firebrick]l[/COLOR][/B]</info>
 </channels>
 <</channel>
