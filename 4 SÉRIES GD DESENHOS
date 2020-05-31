@@ -569,7 +569,7 @@
 ############################################################################################################
 </channels>
 <channel>
-<name>[B][COLOR gold]Coragem o Cão Covarde (1996)[/COLOR][/B]</name>
+<name>[B][COLOR gold]CORAGEM O CÃO COVARDE (1996)[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/VoIdER7.png</thumbnail>
 <fanart>https://i.imgur.com/VoIdER7.png</fanart>
 <info>[B]O desenho retrata o mundo como visto através dos olhos de um pequeno cachorro, chamado Coragem, com seu ponto de vista. Seus donos são um casal de idosos: Muriel Bagge, uma típica senhora  
@@ -578,8 +578,8 @@ Coragem desconhece o mundo exterior. As tramas, muitas vezes absurdas, tentam re
 
 
 <channels>
-</channels><channel>
-<name>1ª Temporada</name>
+<channel>
+<name>[B] 1ª Temporada [/B]</name>
 
 <item>
 <title>Episódio 01</title>
@@ -793,7 +793,7 @@ Coragem desconhece o mundo exterior. As tramas, muitas vezes absurdas, tentam re
 
 <channels>
 </channels><channel>
-<name>2ª Temporada</name>
+<name>[B] 2ª Temporada [/B]</name>
 
 <item>
 <title>Episódio 01</title>
@@ -996,6 +996,8 @@ Coragem desconhece o mundo exterior. As tramas, muitas vezes absurdas, tentam re
 <genre>Ficção Científica, Animação, Mistério, Comédia</genre>
 </item>
 
+
+</channels><channel>
 ########################################################################################################
 
 
