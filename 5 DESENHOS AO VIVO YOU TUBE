@@ -18,9 +18,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AVVRV1
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ERmLau8z3PE/hqdefault.jpg" group-title="Heróis Submersos! Bob Esponja",[B] [COLOR white]Heróis Submersos! Bob Esponja [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ERmLau8z3PE
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/djYqB3q-v44/hqdefault.jpg" group-title="Os Simpsons - Ao Vivo - 24 Horas",[B] [COLOR white]Os Simpsons - Ao Vivo - 24 Horas [/COLOR] [COLOR lime] FULLHD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=djYqB3q-v44
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/QO55pZxTiio/hqdefault.jpg" group-title="Melhores momentos de Tom & Jerry 🇧🇷",[B] [COLOR white] Tom & Jerry (LINK1)  [/COLOR] [COLOR lime] HD [/COLOR] [COLOR red] YOU TUBE [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QO55pZxTiio
 
