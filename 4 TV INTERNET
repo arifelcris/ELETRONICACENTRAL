@@ -215,6 +215,13 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR white] TV SHOPTIME[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=play_video&videoid=6_X-dtwh4E4</link>
+<thumbnail>http://i.ytimg.com/vi/6_X-dtwh4E4/hqdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/6_X-dtwh4E4/hqdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR white] TV SOTEROPOLITANA [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy5Lc-_xVdyi8-yHDxqGRSFEJbXWBzGfBoI-rTCJHRmVHKdAhX</thumbnail>
