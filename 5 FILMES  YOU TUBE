@@ -216,6 +216,15 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e0PfGM
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8EpltdVI9CM/hqdefault.jpg" group-title="Santos ou Soldados",[B] [COLOR white]Santos ou Soldados[/COLOR] [COLOR lime] (2003) HD [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8EpltdVI9CM
 
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/9yowmjM-J4s/hqdefault.jpg" group-title="Scanners 1981",[B] [COLOR white]Scanners 1981[/COLOR] [COLOR lime] (1981) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9yowmjM-J4s
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8SXk7q57huE/hqdefault.jpg" group-title="Scanners 1991",[B] [COLOR white]Scanners 1991[/COLOR] [COLOR lime] (1991) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8SXk7q57huE
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/oaW2f_EsK8w/hqdefault.jpg" group-title="Scanners 1992",[B] [COLOR white]Scanners 1992[/COLOR] [COLOR lime] (1992) HD [/COLOR][/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oaW2f_EsK8w
+
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/KMIo-UBfqts/hqdefault.jpg" group-title="Showgirls 2",[B] [COLOR white]Showgirls 2[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KMIo-UBfqts
 
