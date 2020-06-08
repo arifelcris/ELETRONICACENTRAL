@@ -115,7 +115,7 @@
 <info>[COLOR deeppink]///[/COLOR] [COLOR lime] DESENHOS DE: BOB ESPONJA / PANTERA COR DE ROSA / PICA PAU / TOM & JERRY [/COLOR] [COLOR deeppink]///[/COLOR]</info>
 
 <item>
-<title>[COLOR gold]BOB ESPONJA[/COLOR]</title>
+<title>[B][COLOR gold]BOB ESPONJA[/COLOR][/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLoQ2lJzy0SnwRbLVgP19EIqSIBlYCk3tH/?page=0</jsonrpc>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDuKxQkG8EemvLdBn43ChdM0MJL.jpg</thumbnail>
@@ -123,7 +123,7 @@
 </item>
 
 <item>
-<title>[COLOR gold]PANTERA COR DE ROSA[/COLOR]</title>
+<title>[B][COLOR gold]PANTERA COR DE ROSA[/COLOR][/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLmksXcitdKc1oNvhQS9BW9LkobPRl8oBP/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/Pantera_Cor_de_Rosa.png/220px-Pantera_Cor_de_Rosa.png</thumbnail>
@@ -131,7 +131,7 @@
 </item>
 
 <item>
-<title>[COLOR gold]PICA PAU[/COLOR]</title>
+<title>[B][COLOR gold]PICA PAU[/COLOR][/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLmksXcitdKc2HRvWK1D2m6C-VOTp_cyyg/?page=0</jsonrpc>
 <thumbnail>https://4.bp.blogspot.com/-Ne-KHti1gGM/V-Y1IGKqpTI/AAAAAAAAHS8/DwVvUXm9D0cRUXAMR3PMmVGG8y5d4scZwCLcB/s1600/pica%2Bpau.jpg</thumbnail>
@@ -139,7 +139,7 @@
 </item>
 
 <item>
-<title>[COLOR gold]TOM & JERRY[/COLOR]</title>
+<title>[B][COLOR gold]TOM & JERRY[/COLOR][/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLmksXcitdKc3NpqfKgXlPAJ335iWhkKyi/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png</thumbnail>
