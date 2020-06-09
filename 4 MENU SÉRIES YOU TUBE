@@ -11,6 +11,7 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>[B] A VILA DO MIXARIA  [/B]</name>
@@ -52,6 +53,7 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>[B] JORNAL DO MIXARIA  [/B]</name>
@@ -65,6 +67,7 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>[B] LIVEs PAULINHO MIXARIA  [/B]</name>
@@ -78,6 +81,7 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>[B] MASTER CHEF  [/B]</name>
@@ -88,11 +92,30 @@
 </info>
 
 <item>
-<title>[COLOR gold]MASTER CHEF[/COLOR]</title>
+<title>[B][COLOR white] MASTER CHEF [/COLOR][/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UC2EWGw-KBjEReUbXMJEiaCA/?page=0</jsonrpc>
 <thumbnail>https://pbs.twimg.com/profile_images/969251202105036802/DOCRA8gK_400x400.jpg</thumbnail>
 <fanart>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/03/nova-temporada-do-masterchef-brasil.jpg</fanart>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B] MASTER TRASH - PÂNICO NA TV  [/B]</name>
+<thumbnail>https://oplanetatv.clickgratis.com.br/_upload/galleries/2014/03/29/panico-na-band-5336d3f2c89f7.jpg</thumbnail>
+<fanart>https://staticr1.blastingcdn.com/media/photogallery/2017/10/24/660x290/b_1200x680/programa-estreou-na-redetv-em-2003_1650637.jpg</fanart>
+<info>
+[COLOR deeppink]///[/COLOR] [COLOR lime] MASTER TRASH - PÂNICO NA TV   [/COLOR] [COLOR deeppink]///[/COLOR]
+</info>
+
+<item>
+<title>[B][COLOR white]MASTER TRASH - PÂNICO NA TV [/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmksXcitdKc2KBb1Y5uWu-VFggUURSLSq/?page=0</jsonrpc>
+<thumbnail>https://oplanetatv.clickgratis.com.br/_upload/galleries/2014/03/29/panico-na-band-5336d3f2c89f7.jpg</thumbnail>
+<fanart>https://staticr1.blastingcdn.com/media/photogallery/2017/10/24/660x290/b_1200x680/programa-estreou-na-redetv-em-2003_1650637.jpg</fanart>
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
