@@ -1,11 +1,13 @@
-<item>
-<title>[B][COLOR gold]  SMALLVILLE - PRIMEIRA TEMPORADA - [/COLOR][COLOR lime](FULLHD) - DUBLADO [/COLOR][/B]</title>
+<channels></channels>
+<channel>
+<name>[B][COLOR gold]  SMALLVILLE - PRIMEIRA TEMPORADA - [/COLOR][COLOR lime](FULLHD) - DUBLADO [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/kjm6GqVqwhOUM1N3ZE0SzX4pr77.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kjm6GqVqwhOUM1N3ZE0SzX4pr77.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A 1ª temporada de Smallville: As Aventuras do Superboy começou a ser exibida em 16 de outubro de 2001.
 
 A temporada narra as primeiras aventuras do jovem Clark Kent a partir do momento em que seu planeta natal, Krypton, é destruido e ele cai em uma nave na cidade de Smallville (Pequenópolis, no Brasil), onde é adotado por Martha e Jonathan Kent.[/B][/COLOR]</info>
-</item>
+
+<item>
 
 plugin://plugin.video.gdrive?mode=streamURL&url=https://drive.google.com/file/d/1oaQlu2lY1h4yHSQ2Ig5QjXxfVfQd8t8d/view 
 http://noticias.fphosting.com.br/series/serie-d/smallville/thumbnail.jpg
@@ -74,8 +76,9 @@ http://noticias.fphosting.com.br/series/serie-d/smallville/fanart.jpg
 
 ####################################################################################################################
 
-<item>
-<title>[B][COLOR gold]  SMALLVILLE - SEGUNDA TEMPORADA - [/COLOR][COLOR lime](FULLHD) - DUBLADO [/COLOR][/B]</title>
+<channels></channels>
+<channel>
+<name>[B][COLOR gold]  SMALLVILLE - SEGUNDA TEMPORADA - [/COLOR][COLOR lime](FULLHD) - DUBLADO [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/wbkPBngnq90ml1X2iZyQYEdWW3P.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wbkPBngnq90ml1X2iZyQYEdWW3P.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A 2ª temporada de Smallville: As Aventuras do Superboy começou a ser exibida em 24 de setembro de 2002.
@@ -155,8 +158,9 @@ http://noticias.fphosting.com.br/series/serie-d/smallville/fanart.jpg
 
 ####################################################################################################################
 
-<item>
-<title>[B][COLOR gold]  SMALLVILLE - TERCEIRA TEMPORADA - [/COLOR][COLOR lime](FULLHD) - DUBLADO [/COLOR][/B]</title>
+<channels></channels>
+<channel>
+<name>[B][COLOR gold]  SMALLVILLE - TERCEIRA TEMPORADA - [/COLOR][COLOR lime](FULLHD) - DUBLADO [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/e75HthWpe3bAFbPMOq8XLg7iyG3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/e75HthWpe3bAFbPMOq8XLg7iyG3.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A 3ª temporada de Smallville: As Aventuras do Superboy começou a ser exibida em 30 de setembro de 2003.
