@@ -60,7 +60,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CQI5b3
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i4nAxr3kd8k
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/HlRUz2PHqDY/hqdefault.jpg" group-title="Batalha pelo Acasalamento Animal",[B] [COLOR white]Batalha pelo Acasalamento Animal[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HlRUz2PHqDY
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O-R40PNo7HM
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/jrGjI0MHwrQ&t=6s/hqdefault.jpg" group-title="Brasil Secreto: Pantanal Selvagem 1",[B] [COLOR white]Brasil Secreto: Pantanal Selvagem[/COLOR] [COLOR lime] (HD) [/COLOR][/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jrGjI0MHwrQ&t=6s
