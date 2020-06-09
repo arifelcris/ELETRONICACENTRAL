@@ -81,7 +81,6 @@
 <channels>
 <channel>
 <name>[B] MASTER CHEF  [/B]</name>
-<link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UC2EWGw-KBjEReUbXMJEiaCA/?page=0</jsonrpc>
 <thumbnail>https://pbs.twimg.com/profile_images/969251202105036802/DOCRA8gK_400x400.jpg</thumbnail>
 <fanart>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/03/nova-temporada-do-masterchef-brasil.jpg</fanart>
