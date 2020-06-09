@@ -59,8 +59,6 @@ eletrocentral1@gmail.com
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white] MUNDO DESCONHECIDO YOU TUBE [/COLOR] [/B]</name>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UChsb03kH_dNRh2-wE8GkeaA/?page=0</jsonrpc>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7-JSWXAKpq9bjTQ0VkCqgaeyhK-fy6bg0Yyeg=s48-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://lh3.googleusercontent.com/proxy/SnVeYr4usch_mXBOXMIHZ3kqLPVFYaIA5uL6DKYtyYWfHliUteb3ybF7G87D4f__iPTFLMDyQbqDF1UX1Kqx47pR9K5ukKzpEwaLiGWV6Oktncu7UfmehAOVhYIG5TlblkEqyg</fanart>
 
@@ -80,16 +78,20 @@ CEP 89600-000
 (49) 35221837  
 eletrocentral1@gmail.com
 [/COLOR][/B]</info>
-</channel>
-</channels>
+
+<item>
+<title>[COLOR lime][B]MUNDO DESCONHECIDO - Brasil[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UChsb03kH_dNRh2-wE8GkeaA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7-JSWXAKpq9bjTQ0VkCqgaeyhK-fy6bg0Yyeg=s48-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<fanart>https://lh3.googleusercontent.com/proxy/SnVeYr4usch_mXBOXMIHZ3kqLPVFYaIA5uL6DKYtyYWfHliUteb3ybF7G87D4f__iPTFLMDyQbqDF1UX1Kqx47pR9K5ukKzpEwaLiGWV6Oktncu7UfmehAOVhYIG5TlblkEqyg</fanart>
+</item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
+</channels>
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white] THE HISTORY CHANNEL YOU TUBE [/COLOR] [/B]</name>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCRP5p2RfxJgnKyWgve5pJ-Q/?page=0</jsonrpc>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7-8sX_-LEg0EejHhjueyB69ntrn97Adcn8qog=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://lh3.googleusercontent.com/proxy/SnVeYr4usch_mXBOXMIHZ3kqLPVFYaIA5uL6DKYtyYWfHliUteb3ybF7G87D4f__iPTFLMDyQbqDF1UX1Kqx47pR9K5ukKzpEwaLiGWV6Oktncu7UfmehAOVhYIG5TlblkEqyg</fanart>
 
@@ -109,7 +111,13 @@ CEP 89600-000
 (49) 35221837  
 eletrocentral1@gmail.com
 [/COLOR][/B]</info>
-</channel>
-</channels>
+
+<item>
+<title>[COLOR lime][B]THE HISTORY CHANNEL - Brasil[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCRP5p2RfxJgnKyWgve5pJ-Q/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7-8sX_-LEg0EejHhjueyB69ntrn97Adcn8qog=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<fanart>https://lh3.googleusercontent.com/proxy/SnVeYr4usch_mXBOXMIHZ3kqLPVFYaIA5uL6DKYtyYWfHliUteb3ybF7G87D4f__iPTFLMDyQbqDF1UX1Kqx47pR9K5ukKzpEwaLiGWV6Oktncu7UfmehAOVhYIG5TlblkEqyg</fanart>
+</item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
