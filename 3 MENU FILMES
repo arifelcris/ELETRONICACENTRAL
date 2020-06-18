@@ -90,7 +90,7 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES (REDE CANAIS)[/COLOR] [/B]</name>
+<name>[B][COLOR red]●[/COLOR] [COLOR white] FILMES (REDE CANAIS)[/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20MENU%20FILMES%20RC%20ANO</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k61tfQQmLA9ATHbxJzoonaSkXBs.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k61tfQQmLA9ATHbxJzoonaSkXBs.jpg</fanart>
@@ -117,7 +117,7 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES (BRAZUCA PLAY)[/COLOR] [/B]</name>
+<name>[B][COLOR red]●[/COLOR] [COLOR white] FILMES (BRAZUCA PLAY)[/COLOR] [/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/Menu%20-%20Categoria.xml</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg</fanart>
