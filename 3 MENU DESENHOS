@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold] DESENHOS GOOGLE DRIVE [/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] DESENHOS (GDRIVE) [/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20MENU%20GD%20DESENHOS</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBDs1y1fK921HrhdRMqlloUqp5Z.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBDs1y1fK921HrhdRMqlloUqp5Z.jpg</fanart>
@@ -29,7 +29,7 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold] ESPECIAL SCOOBY DOO [/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] ESPECIAL SCOOBY DOO (GDRIVE) [/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20%20DESENHOS%20SCOOBY%20DOO</externallink>
 externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1H1-ESPECIAL%20SCOOBY%20DOO%20MOVIES</externallink>
 <thumbnail>https://uploaddeimagens.com.br/images/002/420/768/full/SCOOB-ESPECIAL.jpg</thumbnail>
@@ -86,7 +86,36 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS YOU TUBE [/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS AO VIVO (YOU TUBE) [/COLOR] [/B]</name>
+<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/5%20DESENHOS%20AO%20VIVO%20YOU%20TUBE</externallink>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5ow4p_zPCtLAZQmZ4QufWjktTzvB2an_971CuYBbpROv0XE1p</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7lkGeeZ6KetTGESOHcY60jJ8Q8.jpg</fanart>
+<info>
+
+
+[B][COLOR lime] TOM & JERRY ////// OS JOVENS TITÃS //// CONFIRAM !!! [/COLOR] [COLOR red]
+
+
+
+
+
+
+
+
+ELETRÔNICA CENTRAL
+JOAÇABA S/C  
+CEP 89600-000
+(49) 35221837  
+eletrocentral1@gmail.com
+[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS 1  (YOU TUBE) [/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20DESENHOS%20YOU%20TUBE</externallink>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5ow4p_zPCtLAZQmZ4QufWjktTzvB2an_971CuYBbpROv0XE1p</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrQR5b3Qqfl5tZ6zTheAP2nXVuR9V34-bkzJOmLAHRn-oZE6QQ</fanart>
@@ -116,29 +145,42 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS AO VIVO YOU TUBE [/COLOR] [/B]</name>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/5%20DESENHOS%20AO%20VIVO%20YOU%20TUBE</externallink>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5ow4p_zPCtLAZQmZ4QufWjktTzvB2an_971CuYBbpROv0XE1p</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7lkGeeZ6KetTGESOHcY60jJ8Q8.jpg</fanart>
-<info>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS 2  (YOU TUBE) [/COLOR] [/B]</name>
+<thumbnail>http://negociosecarreiras.com.br/wp-content/uploads/2019/04/desenhos-animados-motivadores.jpeg</thumbnail>
+<fanart>http://negociosecarreiras.com.br/wp-content/uploads/2019/04/desenhos-animados-motivadores.jpeg</fanart>
+<info>[COLOR deeppink]///[/COLOR] [COLOR lime] DESENHOS DE: BOB ESPONJA / PANTERA COR DE ROSA / PICA PAU / TOM & JERRY [/COLOR] [COLOR deeppink]///[/COLOR]</info>
 
 
-[B][COLOR lime] TOM & JERRY ////// OS JOVENS TITÃS //// CONFIRAM !!! [/COLOR] [COLOR red]
-
-
-
-
-
-
-
-
-ELETRÔNICA CENTRAL
-JOAÇABA S/C  
-CEP 89600-000
-(49) 35221837  
-eletrocentral1@gmail.com
-[/COLOR][/B]</info>
-</channel>
-</channels>
+<item>
+<title>[B][COLOR gold]BOB ESPONJA[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLoQ2lJzy0SnwRbLVgP19EIqSIBlYCk3tH/?page=0</jsonrpc>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDuKxQkG8EemvLdBn43ChdM0MJL.jpg</thumbnail>
+<fanart>http://negociosecarreiras.com.br/wp-content/uploads/2019/04/desenhos-animados-motivadores.jpeg</fanart>
+</item>
+<item>
+<title>[B][COLOR gold]PANTERA COR DE ROSA[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmksXcitdKc1oNvhQS9BW9LkobPRl8oBP/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/Pantera_Cor_de_Rosa.png/220px-Pantera_Cor_de_Rosa.png</thumbnail>
+<fanart>http://negociosecarreiras.com.br/wp-content/uploads/2019/04/desenhos-animados-motivadores.jpeg</fanart>
+</item>
+<item>
+<title>[B][COLOR gold]PICA PAU[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmksXcitdKc2HRvWK1D2m6C-VOTp_cyyg/?page=0</jsonrpc>
+<thumbnail>https://4.bp.blogspot.com/-Ne-KHti1gGM/V-Y1IGKqpTI/AAAAAAAAHS8/DwVvUXm9D0cRUXAMR3PMmVGG8y5d4scZwCLcB/s1600/pica%2Bpau.jpg</thumbnail>
+<fanart>http://negociosecarreiras.com.br/wp-content/uploads/2019/04/desenhos-animados-motivadores.jpeg</fanart>
+</item>
+<item>
+<title>[B][COLOR gold]TOM & JERRY[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmksXcitdKc3NpqfKgXlPAJ335iWhkKyi/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png</thumbnail>
+<fanart>http://negociosecarreiras.com.br/wp-content/uploads/2019/04/desenhos-animados-motivadores.jpeg</fanart>
+</item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
