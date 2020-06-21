@@ -12,7 +12,7 @@ item>
 
 <item>
 <title>[B][COLOR white] CANAL DO BOI [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w350558341.m3u8</link>
+<link>https://equipea.com.br/player/?canal=canaldoboi</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png</thumbnail>
 </item>
 
@@ -76,7 +76,7 @@ item>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjreX0RysCVRq6pRi6bN9EcPQUd1RLERs7qDnC79GHHCdT7f4N</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] REDE CNT (PR) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://d27n9vd7t86mc7.cloudfront.net/out/v1/9b3f2905c9c3423991dc4ffbf8cd2e12/index_2.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdnpW5Zhp8g8QjVnBiw4S-jxXF3_GT_uny2ErhOS8ghWMBzpk3</thumbnail>
@@ -92,6 +92,41 @@ item>
 <title>[B][COLOR white] REDE VIDA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white] SBT (BRASILIA) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=41UVFKHChJM</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white] SBT (RIO DE JANEIRO) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nuS0ezaSmaE</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white] SBT (RIO GRANDE) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ogxezl_NqxQ</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white] SBT (SANTOS) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OMini1-dhec</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white] SBT (SCC) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7arGFxv1d9Q</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</fanart>
 </item>
 
 <item>
@@ -131,6 +166,13 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR white] TV CANÇÃO NOVA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NNpjug2nf24</link>
+<thumbnail>https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png</thumbnail>
+<fanart>https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png</fanart>
+</item>
+
+<item>
 <title>[B][COLOR white] TV CLIC BRASIL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8</link>
 <thumbnail>http://tvclicbrasil.com/wp-content/uploads/2019/08/logo-da-tv.png</thumbnail>
@@ -143,14 +185,14 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white] TV DO POVO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://59f2354c05961.streamlock.net:1443/tvdopovo1/_definst_/tvdopovo1/chunklist_w203244674.m3u8</link>
+<title>[B][COLOR white] TV O POVO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://srv3.zoeweb.tv:1935/z01-live/stream/chunklist_w4555524.m3u8</link>
 <thumbnail>https://portal.tvdopovo.com/wp-content/uploads/2019/02/tv1.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white] TV ESPÍRITA DO PARANÁ [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://tv01.painelwebtv.com.br/rodney9380/rodney9380/playlist.m3u8?wowzasessionid=1881599599</link>
+<link>https://tv01.painelwebtv.com.br/rodney9380/rodney9380/playlist.m3u8?wowzasessionid=1066001408</link>
 <thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/3273e6ac3e1898fe443ef9182133054a.png</thumbnail>
 </item>
 
@@ -178,7 +220,7 @@ item>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbTEh5ApumVuWbeIa_LFqO7E-e40Z2ofzef8M88PTL-RSKAov4</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] TV MASTER [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://209.126.127.101:1935/tvmaster/_definst_/tvmaster/chunklist_w2060826672.m3u8</link>
 <thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/d30f30e883e21db065fd78647a5cd16b.png</thumbnail>
@@ -196,7 +238,7 @@ item>
 <thumbnail>https://pbs.twimg.com/profile_images/1055095388594683904/nE1aTa0q_400x400.jpg</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] TV OSASCO (SP) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://stmv3.srvstm.com/luisantonio1763/luisantonio1763/playlist.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbQu4QHNTAYlD5htp16J8s0AnfngckBnVI_aww14Lopr6vcZnc</thumbnail>
@@ -229,7 +271,7 @@ item>
 
 <item>
 <title>[B][COLOR white] TV TERRA VIVA [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w577174238.m3u8</link>
+<link>https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1192445072.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/2000px-Terra_Viva_logo.svg.png</thumbnail>
 </item>
 
@@ -263,9 +305,9 @@ item>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBfbKC3DnJDcfPWnfA_Ty9nNLT7myhtDXjUIEqun9XNgL7AtZq</thumbnail>
 </item>
 
-item>
+<item>
 <title>[B][COLOR white]  TVN AO VIVO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/chunklist_w546880552.m3u8</link>
+<link>http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/chunklist_w379724938.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZS3-1kNuS2CNPZvLg6z6gfDC64g2Xl91uAvfmK32quSyHuyX7</thumbnail>
 </item>
 
