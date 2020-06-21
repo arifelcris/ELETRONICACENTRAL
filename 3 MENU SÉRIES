@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIES DE DESENHOS (GOOGLE DRIVE)[/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIES DE DESENHOS (GDRIVE)[/COLOR] [/B]</name>
 <thumbnail>https://i.imgur.com/o44et2H.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20MENU%20S%C3%89RIES%20DE%20DESENHOS</externallink>
 <fanart>https://i.imgur.com/o44et2H.jpg</fanart>
@@ -27,7 +27,19 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: CHICAGO FIRE (GOOGLE DRIVE)[/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: SÉRIES DO ADDON BXL (GDRIVE)[/COLOR] [/B]</name>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SERIESCATEGORIAS</externallink>
+<thumbnail>https://ia801506.us.archive.org/2/items/lancamentos_20200228/series.png</thumbnail>
+<fanart>https://ia801506.us.archive.org/2/items/lancamentos_20200228/series.png</fanart>
+<info>[B][COLOR lime] VÁRIAS SÉRIES !!!!  CONFIRAM !!![/COLOR] [COLOR red]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: CHICAGO FIRE (GDRIVE)[/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20S%C3%89RIE%20GD%20CHICAGO%20FIRE</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9aoiYLbE3IrDiMms5fU4lv6BR4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gdIFeiJGsywKt6scyILMZI1tMl4.jpg</fanart>
@@ -54,7 +66,7 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: CHICAGO MED  (GOOGLE DRIVE)[/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: CHICAGO MED  (GDRIVE)[/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20S%C3%89RIE%20GD%20CHICAGO%20MED</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/zulhCioyfCpXaDPxMSMpPgbStrh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sWkBKCZ4FrzllsLjMQpiFxZWwM.jpg</fanart>
@@ -81,7 +93,7 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: CHICAGO P.D.  (GOOGLE DRIVE)[/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: CHICAGO P.D.  (GDRIVE)[/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20S%C3%89RIE%20GD%20CHICAGO%20P.D.</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYpstkuLMEWfIt9Lp69w4DAb6M4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aa9dZhOxDAKm9mp9zfivIvDeSfb.jpg</fanart>
@@ -109,7 +121,7 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: IRMÃOS DE GUERRA  (GOOGLE DRIVE)[/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: IRMÃOS DE GUERRA  (GDRIVE)[/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20S%C3%89RIE%20GD%20IRM%C3%83OS%20DE%20GUERRA</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGzV187ogXzgJrvPRy2YPi29ofH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGzV187ogXzgJrvPRy2YPi29ofH.jpg</fanart>
@@ -136,7 +148,7 @@ eletrocentral1@gmail.com
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: O PACÍFICO  (GOOGLE DRIVE)[/COLOR] [/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold] SÉRIE: O PACÍFICO  (GDRIVE)[/COLOR] [/B]</name>
 <externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/4%20S%C3%89RIE%20GD%20O%20PAC%C3%8DFICO</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg</fanart>
