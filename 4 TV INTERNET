@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR white] AGUA BOA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<title>[B][COLOR white] ÁGUA BOA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1606081356.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-85yToGesSc8/XZVVTRDVJfI/AAAAAAAACDs/8gVh_qQB0T005QjJrsIBF0LTZiQ9iml1ACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-10-02-22-55-09.png</thumbnail>
 </item>
@@ -131,6 +131,12 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR white] RECORD NEWS [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=cI6gbkteAlo&feature=emb_logo</link>
+<thumbnail>https://lh3.googleusercontent.com/proxy/tAJs4fleaz54N9UgkzO7hS7MBRRYEpprK9MPTIP4Koyjk5UtjXzjahh5Bu7bQoyKeod9cVia2OSB1A_u8Wmt9uD2e_iXno1zd5umgtXpNygFlGfeUrwU</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] REDE BRASIL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w703130515.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjreX0RysCVRq6pRi6bN9EcPQUd1RLERs7qDnC79GHHCdT7f4N</thumbnail>
@@ -155,9 +161,16 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR white] REDE TV [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w4763438.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] REDE VIDA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png</thumbnail>
+<link>plugin://plugin.video.youtube/play/?video_id=tqzbEsxOe1A&feature=emb_logo</link>
+<thumbnail>https://iscarvasi.files.wordpress.com/2013/05/rede_vida_de_televisc3a3o_2.jpg</thumbnail>
+<fanart>https://iscarvasi.files.wordpress.com/2013/05/rede_vida_de_televisc3a3o_2.jpg</fanart>
 </item>
 
 <item>
@@ -230,7 +243,7 @@ item>
 
 <item>
 <title>[B][COLOR white] TV CANÇÃO NOVA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=NNpjug2nf24</link>
+<link>plugin://plugin.video.youtube/play/?video_id=7umVXrwwAig</link>
 <thumbnail>https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png</thumbnail>
 <fanart>https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png</fanart>
 </item>
@@ -247,7 +260,7 @@ item>
 <thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/9910c09c5a205cc3e6cee0b3b97ac6c6.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[B][COLOR white] TV O POVO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://srv3.zoeweb.tv:1935/z01-live/stream/chunklist_w4555524.m3u8</link>
 <thumbnail>https://portal.tvdopovo.com/wp-content/uploads/2019/02/tv1.png</thumbnail>
@@ -299,6 +312,13 @@ item>
 <title>[B][COLOR white] TV MASTER [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://209.126.127.101:1935/tvmaster/_definst_/tvmaster/chunklist_w2060826672.m3u8</link>
 <thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/d30f30e883e21db065fd78647a5cd16b.png</thumbnail>
+</item>
+
+item>
+<title>[B][COLOR white] TV MUNDO MAIOR [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nzUGVDPz1W8</link>
+<thumbnail>https://lh3.googleusercontent.com/proxy/-c8pS7V3qs4VcfW62j1QhAaubz_2hUGqxVrxqq2jGnIZYAzFbIE1BCefXw6RqoD37Sc-HBDPE8lJUIBta9fW8hsiAWLMNj_k4SQVNvekGaONRQrijJijann17toi3zsiDb3qkFL7vgfF</thumbnail>
+<fanart>https://lh3.googleusercontent.com/proxy/-c8pS7V3qs4VcfW62j1QhAaubz_2hUGqxVrxqq2jGnIZYAzFbIE1BCefXw6RqoD37Sc-HBDPE8lJUIBta9fW8hsiAWLMNj_k4SQVNvekGaONRQrijJijann17toi3zsiDb3qkFL7vgfF</fanart>
 </item>
 
 <item>
@@ -405,13 +425,13 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR white]  TVE (PR) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] TVE (PR) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>http://200.189.113.201/hls/tve.m3u8</link>
 <thumbnail>https://i1.wp.com/angelorigon.com.br/wp-content/uploads/2018/05/e-parana.jpg?fit=567%2C231&ssl=1</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]  TVE (RS) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] TVE (RS) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1769320766.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBfbKC3DnJDcfPWnfA_Ty9nNLT7myhtDXjUIEqun9XNgL7AtZq</thumbnail>
 </item>
