@@ -1,120 +1,142 @@
 <item>
 <title>[B]A Casa - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ACSA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://br.web.img3.acsta.net/pictures/20/03/26/17/18/4722488.jpg</thumbnail>
 <fanart>https://br.web.img3.acsta.net/pictures/20/03/26/17/18/4722488.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em A Casa, Javier Muñoz (Javier Gutiérrez) é um executivo desempregado é forçado a vender seu apartamento. Quando ele descobrir que ainda tem as chaves, ficará obcecado pela família que agora mora lá e decidirá recuperar a vida que perdeu, a qualquer preço.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]A Extraordinária Garota Chamada Estrela - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]AEXTRODRGRTCHMDAESTRLA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTaxC0ZiJGPA8D1yeWxYE7JBoHG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTaxC0ZiJGPA8D1yeWxYE7JBoHG.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Desde o dia em que chegou a tranquila Mica High, em uma explosão de cor e som, Stargirl (Joey King) atrai a atenção de todos a seu redor, inclusive o coração de Leo (Charlie Plummer), que lhe é capturado apenas por um sorriso. Porém, a fascinação não durará para semrpe.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]A Hora da Sua Morte - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]AHRDESUAMRT.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM3CutrtmlTtLCqOShzto6ECgBX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM3CutrtmlTtLCqOShzto6ECgBX.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma jovem enfermeira baixa um aplicativo que promete prever o momento e a data da morte das pessoas. Quando o aplicativo indica que ela tem três dias de vida restantes, a enfermeira luta por sua sobrevivência ao mesmo tempo em que enfrenta uma misteriosa criatura que a assombra.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]A Irmã Perturbada - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]AIRMPRTBDA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnz42GhrSfXRl8SpyS5Vrnii4SV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnz42GhrSfXRl8SpyS5Vrnii4SV.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Chloe tem sua vida virada de cabeça para baixo quando sua irmã mais nova, Sadie, chega em casa após um inexplicável tempo fora. Embora Sadie pareça querer retomar contato com Chloe e sua filha Nicole, ela é uma jovem profundamente perturbada.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]A Lenda da Befana - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ALNDDBFNA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWr6Cs4Bzolo0scGOoRThKuD084.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWr6Cs4Bzolo0scGOoRThKuD084.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Paola é uma professora amada na escola onde trabalha, e que esconde um grande segredo: à noite ela é a Befana, a bruxa natalina que entrega os presentes às boas crianças. Quando ela é capturada por um misterioso vilão, seis de seus alunos suspeitam de sua verdadeira identidade e saem em busca de salvar sua professora e o natal.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]A Marca do Demônio - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]AMRCDEMO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcoI9Ww6dx6YV041IUlL72nYQi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcoI9Ww6dx6YV041IUlL72nYQi.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Duas jovens irmãs abrem um livro antigo que traz ao mundo uma criatura diabólica. Sua única salvação é um padre possuído que luta contra seus próprios demônios.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]A Terra e o Sangue - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ATRAEOSNG.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Terra%20e%20o%20Sangue.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/A%20Terra%20e%20o%20Sangue.jpg</fanart>
 <info>O dono de uma serraria e sua filha adolescente se envolvem em uma disputa perigosa quando um traficante esconde cocaína roubada em sua propriedade.</info>
 <item>
 <item>
 <title>[B]A Trincheira Infinita - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ATRNCRINFTA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l28g28lT2yv1eIX0XNqNP4osPw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l28g28lT2yv1eIX0XNqNP4osPw.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Espanha, 1936. Higinio e Rosa estão casados á alguns meses quando começa a Guerra Civil. Higinio, temendo ser perseguido pelos rebeldes, decide usar um buraco escavado na sua própria casa como refúgio temporário…[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]A Última Coisa que Ele Queria - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]AULTMCSAQELEQRIA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wulTQYc4Ac970mwf5F5ewhNSBtE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wulTQYc4Ac970mwf5F5ewhNSBtE.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Adaptação cinematográfica do romance homônimo que narra a história de uma jornalista que abandona a cobertura de uma campanha presidencial para ir a uma ilha ajudar o pai em um acordo de negócios que se releva cada vez mais sórdido e perigoso conforme seu envolvimento cresce.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Adoráveis Mulheres - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ADRVSMLHRS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bES2QdQTGEYmLcmmYXrrLdn6QIn.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bES2QdQTGEYmLcmmYXrrLdn6QIn.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:As irmãs Jo (Saoirse Ronan), Beth (Eliza Scanlen), Meg (Emma Watson) e Amy (Florence Pugh) amadurecem na virada da adolescência para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Alien Outbreak - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
-<link>$doregex[BP1]ALIENOUTBRKLEG.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/VmUwzEQTfO09c9CHcNoAUUWQxU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/VmUwzEQTfO09c9CHcNoAUUWQxU.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na América do Norte pós-apocalíptica, uma família luta pela sobrevivência nessa viagem científica de proporções épicas em um mundo de pesadelo sem gasolina, eletricidade ou humanidade.
@@ -122,167 +144,190 @@ Uma pequena comunidade rural fica em quarentena por uma presença alienígena. O
 </item>
 <item>
 <title>[B]Altos Negócios - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ALTSNGCS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dlqxqHgopBSL2fJX2RQbOlwssw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dlqxqHgopBSL2fJX2RQbOlwssw.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um jovem disposto a tudo para enriquecer e o seu amigo de moral duvidosa tomam de assalto o mercado imobiliário berlinense, mas não há festa que dure para sempre.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Ameaça Profunda - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]AMCAPRFNDA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QVsMxpZX6qyYE0yRptbyiR9YOl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QVsMxpZX6qyYE0yRptbyiR9YOl.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um grupo de pesquisadores se encontra num laboratório subaquático a onze mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver. No entanto, conforme se deslocam pelo fundo do mar, descobrem a presença de uma criatura mortal de origem desconhecida.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Ano Novo Morte Nova - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ANNVOMRTNVA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcx3O2vSXUInpPuOe1EvYXIWS4a.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcx3O2vSXUInpPuOe1EvYXIWS4a.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Durante a véspera de ano novo, sete amigos e um mochileiro se unem para sobreviver à crueldade de três assassinos mascarados que invadem o alojamento onde eles esperariam pela chegada da meia-noite. Um por um, eles são perseguidos e assassinados das formas mais chocantes e violentas. Conseguirá alguém sobreviver à fúria dos três matadores e começar o novo ano vivo? Não será fácil, pois eles chegaram para matar, e não vão parar até que o banho de sangue termine.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Aranha na Teia - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ARNHNTEIA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKTJfnTwkUlJwdgGooxrpLyry0e.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKTJfnTwkUlJwdgGooxrpLyry0e.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A história segue um agente secreto, uma vez elogiado, mas muito velho, Adereth (Ben Kingsley), que é considerado passado por seus superiores. As estrelas de Itay Tiran (“Líbano”), uma jovem operadora enviada para rastrear o personagem enigmático de Adereth e Bellucci, encobre as linhas, como quem está caçando, quem se torna a questão em um mundo de intriga e decepção.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Ártico - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ARTCO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuhXR5rYiHf5soWL8jZSw6AqGr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuhXR5rYiHf5soWL8jZSw6AqGr.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um homem fica perdido no Ártico e está prestes a ser socorrido. Contudo, um acidente trágico faz com que ele perca sua aguardada oportunidade de resgate. É aí que ele precisa decidir entre ficar relativamente seguro em seu acampamento ou seguir numa jornada incerta para escapar.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]As Aventuras de Timmy Failure - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]AVNTRSDTMYFLRE.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GPUVwqAEYXtbWwZz7ocYZO5MRm.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GPUVwqAEYXtbWwZz7ocYZO5MRm.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Timmy "Fiasco" Failure é um garoto de 11 anos que acredita ser o melhor detetive da cidade. Ele comanda a grande agência de investigação Fiasco Total, ao lado de um urso polar (imaginário) de meia tonelada. Outro parceiro importante é Rollo Tookus, o amigo que chama atenção para todas as pistas que o distraído Timmy deixa passar.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]As Estrelas Brilham na Cidade - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ASESTRLSBRLHMMNCDAD.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw0m1Bf7CyKSp72brr9jGpDSgL2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw0m1Bf7CyKSp72brr9jGpDSgL2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Início dos anos 20. Louise, de espírito livre e aspirante a dançarina, está emparelhada com Norma como sua acompanhante para a cidade de Nova York, em uma esperançosa jornada para o estrelato. À medida que as duas mulheres descobrem um desejo mútuo de autodescoberta, uma nova amizade começa a florescer.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - [COLOR deeppink](2020) [/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO E LEGENDADO[/B]</title>
-<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSA.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa[/COLOR][COLOR lime]DUBLADO FULLHD[/COLOR]</link>
-<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSALEG.mp4$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa [/COLOR][COLOR lime]LEGENDADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa[/COLOR][COLOR lime]DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa [/COLOR][COLOR lime]LEGENDADO FULLHD[/COLOR]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Arlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Bad Boys para Sempre - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]BDBYSPRSMPR.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTKl7J5OWnsZSTRiKPIvPx4ngBG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTKl7J5OWnsZSTRiKPIvPx4ngBG.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Armando é um assassino de sangue frio com uma natureza cruel e provocadora. Ele está comprometido com o trabalho do cartel e é enviado por sua mãe para matar Mike (Smith). Nuñez assumirá o papel de Rita, psicóloga criminal durona e engraçada que é recém-nomeada chefe da AMMO e é ex-namorada de Mike.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Big Kill: A Cidade do Medo - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]BIGKILACDADMDO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNJjVkLXgMi5sk3gVMV9oiHrVKq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNJjVkLXgMi5sk3gVMV9oiHrVKq.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O destino leva um almofadinha da Filadélfia, dois jogadores desajustados em fuga e um religioso assassino a uma cidade em franca expansão chamada Big Kill. Após a morte de sua esposa, Jim, o contador, veio do Leste para se juntar a seu irmão nos negócios. Jake e Travis, dois bandidos desajustados com um pé de cada lado da lei, vieram do Sul depois de serem expulsos do México sob uma chuva de tiros. O que eles encontram no Oeste é uma jornada selvagem, uma luta pela sobrevivência que levará a um momento de decisão que os mudará para sempre.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Black '47 - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]BLCK47.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que tem lutado pelo exército britânico no exterior, decide abandonar seu posto para se reunir com a família. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruição que a fome causou no seu país, gerando certa brutalização das pessoas e até da própria família.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Bloodshot - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]BLODHT.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Bloodshot é um ex-soldado com poderes especiais: o de regeneração e a capacidade de se metamorfosear. Assassinado ao lado da esposa, ele é ressuscitado e aprimorado com nanotecnologia, desenvolvendo tais habilidades. Ao apagarem sua memória várias vezes, ele finalmente descobre quem realmente é e parte em um busca de vingança daqueles que mataram sua família.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Bons Meninos - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]BNSMNOS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo9hEe3yBjJYOxL3suygTuVxWmn.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo9hEe3yBjJYOxL3suygTuVxWmn.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Três meninos ainda inocentes, mas que estão prestes a atingirem a adolescência, matam aula em San Fernando Valley, na Califórinia, para conseguir consertar um drone quebrado antes que seus pais cheguem em casa. O que prometia ser um dia comum transforma-se em uma grande aventura repleta de perigos cômicos.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Caçadores das Almas Perdidas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]CACDRSDALMSPRDS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2kLfDWIC0SiakBppsITYkwxlpo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2kLfDWIC0SiakBppsITYkwxlpo.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma equipe de investigadores paranormais de um reality show vai à casa mais assombrada do México em busca de melhorar a audiência do programa. No entanto, quando os verdadeiros segredos da mansão começam a se revelar, os apresentadores descobrem rapidamente que esta casa não é uma farsa. Com nenhuma habilidade de caça aos fantasmas (ou outras habilidades), a equipe precisa descobrir como prender os fantasmas e escapar.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Com a Cor e a Coragem - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
-<link>$doregex[BP1]COMACREACRGM.mp4$doregex[BP2]$$lsname=[COLOR red]Com a Cor e a Coragem - [/COLOR][COLOR lime] (2002) DUBLADO FULLHD[/COLOR]</link>
-<link>$doregex[BP1]COMACREACRGM2.mp4$doregex[BP2]$$lsname=[COLOR red]Com a Cor e a Coragem 2 - [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]Com a Cor e a Coragem - [/COLOR][COLOR lime] (2002) DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]Com a Cor e a Coragem 2 - [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNxNpXrOYJSHRKQ9M0yJkXKK2ed.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBU28W7OWFxhKluBQDHsKLFyL5p.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Anton Jackson se parece com muitos outros homens, mas, na verdade, ele é um impagável agente supersecreto de uma organização mais secreta ainda. Sua organização defende os direitos dos negros no mundo. Porém, Anton parece ter saído diretamente de um velho seriado de TV dos anos 70. Suas roupas, sua atitude e seu exagerado penteado afro são uma divertida mistura de Mod Squad e As Panteras, com pitadas de Starsky & Hutch.
@@ -290,210 +335,229 @@ Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma a
 </item>
 <item>
 <title>[B]Cores da Justiça - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]CRSDJSTCA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDfox8VEBqz0SL7lulWR9gDqDrJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDfox8VEBqz0SL7lulWR9gDqDrJ.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após presenciar e filmar o assassinato de um jovem traficante por policiais corruptos, a oficial novata Alicia West (Naomie Harris) se une a Mouse (Tyrese Gibson), que está disposto a ajudá-la a escapar dos criminosos que querem vingança e da polícia que deseja destruir a gravação incriminadora.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Crip Camp: Revolução pela Inclusão - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]CRPCMPRVLCPLINCLSAO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iALSypN3MhC6kBVwc9VpuJUlm1j.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iALSypN3MhC6kBVwc9VpuJUlm1j.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:No enredo de Crip Camp, ninguém no acampamento Jened poderia imaginar que aqueles verões juntos na floresta seriam o começo de uma revolução. No final da estrada de Woodstock, o Camp Jened era um acampamento para adolescentes deficientes. Esse grupo de campistas transformados em ativistas moldaram o futuro do movimento dos direitos das pessoas com deficiência e mudaram a legislação de acessibilidade para todos.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]De Quem É a Culpa? - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]DQMEACLPA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOXYA00nvxL7QGggB0zJtrKpBB3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOXYA00nvxL7QGggB0zJtrKpBB3.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um bonitão da faculdade é acusado de estupro por uma aluna nada popular. A namorada dele procura a verdade em várias versões da história.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]DeLorean: Do Motor ao Crime - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]DLRNDMTRAOCRME.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na Califórnia do início da década de 1980, o engenheiro automotivo John DeLorean (Lee Pace) constrói um império com sua icônica DeLorean Motor Company. Quando seu amigo ex presidiário, Jim Hoffman (Jason Sudeikis), se torna informante para o FBI, um grande escândalo envolvendo drogas é descoberto e pode acabar o levando ao declínio.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Dias Sem Fim  - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]DIASMFM.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/spMoofhPZfSOMJpbsDfltvWkU9p.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/spMoofhPZfSOMJpbsDfltvWkU9p.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um jovem (Ashton Sanders) passa seus primeiros dias na cadeia refletindo sobre os motivos, pistas e sinais que o levariam a ser um criminoso, desde sua vida adulta até os primórdios de sua juventude. A sinopse oficial ainda não foi divulgada. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Dois Irmãos: Uma Jornada Fantástica - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]DOSIRMSUMJRNDFNTSCA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw7yXwpdSXJB6GWC19zryMxa1US.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Num mundo de fantasia urbano, dois irmãos elfos adolescentes, Ian e Barley Lightfoot, embarcam numa aventura para descobrir se ainda resta um pouco de magia para passar um último dia com o pai que morreu quando eles eram muito novos.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Dolittle - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ASAVNTRSDODRDLTLE.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de perder sua mulher sete anos atrás, o excêntrico Dr. John Dolittle (Downey), famoso veterinário da Inglaterra da Rainha Victória, se isola nas paredes da mansão Dolittle, com apenas sua coleção de animais como companhia. Mas quando a jovem rainha (Jessie Buckley, Chernobyl) adoece gravemente, um relutante Dolittle é forçado a embarcar em uma aventura para uma ilha mística à procura de uma cura, reconquistando sua esperteza e coragem, encontrando velhos adversários e descobrindo incríveis criaturas. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Don't Let Go - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]DNTLTGO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahETZlOXCPIUVhp1HBW4X7KefiS.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahETZlOXCPIUVhp1HBW4X7KefiS.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Anos depois de ter toda sua família morta de maneira brutal em um aparente assassinato, um homem recebe uma estranha ligação de uma das falecidas. Convencido plenamente de que está ficando louco, seus limites são testados quando ele começa a se questionar se há alguma espécie de conspiração por trás de tudo ou se finalmente sua sanidade está indo embora.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Doom: Aniquilação - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]DOMANQLCAO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD1WqQ0dYktu5xDTJ8IxCkCOUWt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD1WqQ0dYktu5xDTJ8IxCkCOUWt.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um grupo de fuzileiros espaciais responde a um pedido de socorro de uma base em uma lua marciana, apenas para descobrir que foi invadida por criaturas demoníacas que ameaçam criar o inferno na Terra.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]E Agora? A Mamãe Saiu de Férias! - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]EAGRAMAMSAUDFRS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w6IVR7Yu9WbeJYuz3HeM3EftXM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w6IVR7Yu9WbeJYuz3HeM3EftXM.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Giulia (Valentina Lodovini) é uma mãe que abandonou a carreira para se dedicar aos seus três filhos. Carlo (Fabio De Luigi) é marido de Giulia mas, diferente dela, não tem tempo para a família e passa mais tempo no trabalho do que em casa. Tudo muda quando Giulia, cansada da monotonia de sua vida, decide sair de férias por dez dias, deixando Carlo sozinho com as crianças.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Entre Realidades - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ENTRRALDS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/avg1yyBcliKER3xV80A1qbv3KPC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/avg1yyBcliKER3xV80A1qbv3KPC.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma mulher socialmente estranha com um gosto por artes, cavalos e programas de crimes sobrenaturais encontra seus sonhos cada vez mais lúcidos escorrendo em sua vida de vigília.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Era Uma Vez: Anastasia - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ERUMVZANSTSIA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Fb674EYB3PqrcSKLC1e8e9Oulm.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Fb674EYB3PqrcSKLC1e8e9Oulm.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O filme conta a história de Anastasia Romanov e começa em 1917, quando a filha mais nova de Tsar Nicholas II foge das tropas de Lênin através de um portal de tempo, emergindo em 1988, quando ela faz amizade com uma jovem americana.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Gravidez Monstruosa - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]GRVDZMNSTRSA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PcCffhPbHqPjCQOYJCB5bnHRTV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PcCffhPbHqPjCQOYJCB5bnHRTV.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:O último ano vai ser demais! Graças ao seu relacionamento com Skyler, um bonitão ingênuo, Sara está amiguíssima das garotas mais legais. Mal sabe ela que Skyler contraiu um vírus alienígena durante suas férias de verão. Depois de uma noite juntos, Sara descobre que está Grávida... De Nove... Meses. Desesperada para manter isso em segredo, ela recorre à única pessoa em que pode confiar: sua ex-melhor amiga nerd, Hayley. As garotas logo percebem que esse problema alienígena é só o começo. É melhor os alienígenas tomarem cuidado nessa comédia hilária, repleta de ação e ironia adolescente.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Into the Dark: Crush - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]INTRDCRSH.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1I7jSc6Ds7q1rAsAaIhWqENDzFE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1I7jSc6Ds7q1rAsAaIhWqENDzFE.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma estrela do pop tem suas músicas e identidade artística roubada por seu ex-namorado/empresário e descaradamente investidas em sua nova namorada e pupila. Quando o destino reúne os três em uma pequena casa de show, o trio precisam confrontar os abusos emocionais de seus passados... até que as coisas tomam um rumo violento.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Isi e Ossi - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ISIEOSI.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3xfnQxc99gdmlCtWl07HkVvy0K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3xfnQxc99gdmlCtWl07HkVvy0K.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Para convencer os pais a deixá-la realizar seu sonho de estudar culinária em Nova York, a filha de um bilionário finge estar namorando um boxeador pobre.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Joias Brutas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]JOSBRTS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Howard Ratner (Adam Sandler) é um joalheiro carismático de Nova York que está sempre tentando ganhar mais dinheiro. Depois que faz uma série de apostas arriscadas, parece que o futuro vai sorrir para ele. Mas, em sua busca pela bolada final, Howard precisará de uma atuação perfeita para equilibrar negócios, família e os inimigos que estão cada vez mais próximos.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Jojo Rabbit - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
-<link>$doregex[BP1]JOJRBTLEG.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Alemanha, durante a Segunda Guerra Mundial. Jojo (Roman Griffin Davis) é um jovem nazista de 10 anos, que trata Adolf Hitler (Taika Waititi) como um amigo próximo, em sua imaginação. Seu maior sonho é participar da Juventude Hitlerista, um grupo pró-nazista composto por outras pessoas que concordam com os seus ideais. Um dia, Jojo descobre que sua mãe (Scarlett Johansson) está escondendo uma judia (Thomasin McKenzie) no sótão de casa. Depois de várias tentativas frustradas para expulsá-la, o jovem rebelde começa a desenvolver empatia pela nova hóspede.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Jumanji - [COLOR deeppink](1995)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]JUMNJ.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p67m5dzwyxWd46a6of2c9IVfQz7.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p67m5dzwyxWd46a6of2c9IVfQz7.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando duas crianças encontram e jogam um jogo de tabuleiro mágico, elas soltam um homem preso por décadas - e uma série de perigos que só podem ser detidos ao terminar o jogo. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Jumanji - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]JMNJBMVNDASLV.mp4$doregex[BP2]$$lsname=[COLOR red]Jumanji: Bem-Vindo a Selva - [/COLOR][COLOR lime] (2017) DUBLADO FULLHD[/COLOR]</link>
-<link>$doregex[BP1]JMNJPRXMFASE.mp4$doregex[BP2]$$lsname=[COLOR red]Jumanji: Próxima Fase -  [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]Jumanji: Bem-Vindo a Selva - [/COLOR][COLOR lime] (2017) DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]Jumanji: Próxima Fase -  [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PYOC9q5DIjrrMJqZ9hSPsdzvuv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRvTmfalcNtvFi3a2WaqjWlUXPp.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:1-Quatro estudantes da escola secundária descobrem uma antiga consola de jogos de vídeo, da qual nunca tinham ouvido falar – Jumanji – e são de imediato transportados para o ambiente de selva do jogo, transformando-se, literalmente, nos seus próprios avatares: Spencer, um viciado em gaming, transforma-se num aventureiro cerebral; a estrela do futebol, Fridge, perde (e são estas as suas palavras) "o primeiro meio metro do seu corpo", transformando-se em Einstein; Bethany, uma das miúdas populares, transforma-se num professor de meia idade; e a tímida Martha transforma-se numa guerreira destemida. O que eles descobrem é que não se podem limitar a jogar Jumanji – eles têm de sobreviver ao jogo… E para sobreviver e regressar ao mundo real terão de passar pela mais perigosa aventura das suas vidas, descobrir o que Alan Parrish deixou há 20 anos e mudar a sua visão deles próprios – ou ficarão presos para sempre no jogo…
@@ -501,199 +565,217 @@ Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma a
 </item>
 <item>
 <title>[B]Kart Nervoso - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]KRTNRVSO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwAwRMJH9F0kgvrT0ddIJajcFog.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwAwRMJH9F0kgvrT0ddIJajcFog.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um adolescente destemido se arrisca nas corridas de kart com o apoio dos amigos e de um ex-piloto durão, que vira seu treinador.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]La Casa de Papel: O Fenômeno - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]LCSDPLOFNMO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E7gI52iwkXV9BEo5IfTKj36Lw7.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E7gI52iwkXV9BEo5IfTKj36Lw7.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um documentário sobre os motivos de "La casa de papel" ter provocado uma onda de entusiasmo por todo o mundo em relação a um adorável grupo de ladrões e ao seu professor.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Lost Girls: Os Crimes de Long Island  - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]LSTGIRLSOSCRMSDLNGISLND.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na noite em que Shannan Gilbert, 24, desaparece misteriosamente, sua mãe Mari embarca em uma jornada sombria. A experiência a coloca cara a cara com revelações duras sobre a filha, si mesma e preconceito policial. Determinada a encontrar Shannan a todo custo, Mari Gilbert retraça os últimos passos dela. A investigação a leva a uma comunidade fechada próxima às desoladas encostas de Long Island. Graças a seus achados, as autoridades descobrem mais de 12 casos não solucionados de assassinatos de prostitutas – vidas que Mari não deixará o mundo esquecer.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Luta por Justiça - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]LTAPRJSTCA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Ze5yGU9jOQatTYgjCLd3u1VNl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Ze5yGU9jOQatTYgjCLd3u1VNl.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Bryan Stevenson (Michael B. Jordan) é um advogado recém-formado em Harvard que abre mão de uma carreira lucrativa em escritórios renomados da costa leste americana para se mudar para o Alabama e se dedicar a prisioneiros condenados à morte que jamais receberam assistência legal justa. Ao chegar lá, Bryan se depara com o caso de Walter McMillian (Jamie Foxx), um homem negro falsamente acusado de um assassinato, mas que nunca teve uma defesa apropriada por conta do preconceito racial na região.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Mentes Malignas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]MNTSMLGNS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7fdRqRW6e2pMADJiI9wh0nqCvh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7fdRqRW6e2pMADJiI9wh0nqCvh.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um filme antológico na forma de longa-metragem de horror. Estes segmentos assustadores são recheados de personagens conhecidos como mitos, tradições e contos populares. Criadas para dar lógica aos medos mais sombrios da humanidade, essas histórias lançaram as bases para o que hoje conhecemos como gênero de terror.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Mentiras Perigosas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]MNTRSPRGSAS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Mentiras Perigosas, Katie (Camila Mendes) e Adam são um jovem casal batalhando há anos para conquistar uma vida de sucesso para si. Quando Katie abandona seus sonhos de uma carreira médica para apoiar as ambições de seu marido, os dois enfim parecem se encontrar na hora certa e no lugar certo para sua vida funcionar. Porém, tudo se complica quando eles se encontram no meio de uma investigação criminal. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Não Olhe Para o Berço - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]NOLHEPROBRCO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTeSaWKMnsLybsvw2L3W5q4CBDT.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTeSaWKMnsLybsvw2L3W5q4CBDT.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A estudante Renae aceita trabalhar como babá e, em um sábado à noite, vai tomar conta do filho de um misterioso casal. O início da noite é calmo, e o bebê dorme. Porém, não demora até que misteriosas circunstâncias comecem a assombrar Renae, que fica em pânico. Os amigos dela aparecem para lhe fazer companhia, mas isso não impede que o horror cresça e eles percebam que não terão paz. Fenômenos indescritivelmente aterrorizantes tomam conta da casa e os quatro amigos terão que lutar por suas vidas. Conseguirão eles desvendar o grande mistério envolvendo o bebê? Prepare-se para muitos sustos e horror sem limites! E, se quiser sobreviver, NÃO OLHE PARA O BERÇO![/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Notas de Rebeldia - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]NTSDRBLD.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNB6DoHiAr1epeDlqIh3onfjv8M.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNB6DoHiAr1epeDlqIh3onfjv8M.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Notas de Rebeldia, Elijah (Mamoudou Athie) encontra-se dividido entre seu sonho de se tornar um mestre do vinho ou seguir com as expectativas de seu pai e continuar com os negócios da família em Memphis.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Caso de Richard Jewell  - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OCSODRCHRDJWEL.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/koGknmSPrlDxzb5hvqn7CT5Uqt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/koGknmSPrlDxzb5hvqn7CT5Uqt.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A história real de Richard Jewell (Paul Walter Hauser), segurança que se tornou um dos principais suspeitos de bombardear as Olimpíadas de Atlanta, no ano de 1996. Na realidade, ele foi o responsável por ajudar inocentes a fugirem do local e avisar da existência de um dos explosivos.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Chamado da Floresta - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OCHMDODFLRSTA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de anos vivendo como um cachorro de estimação na casa de uma família na Califórnia, Buck precisa entrar em contato com os seus instintos mais selvagens para conseguir sobreviver em um ambiente hostil como o Alaska. Com o tempo, seu lado feroz se desenvolve e ele se torna o grande líder de sua matilha. Baseado no livro homônimo de Jack London, lançado em 1903. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Declínio - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ODCLNIO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/99Chy9sKuDqbav6rcjecCQI4Mzq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/99Chy9sKuDqbav6rcjecCQI4Mzq.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um acidente cria um racha entre os participantes de um campo de treinamento para sobrevivência. Agora, é preciso lutar para continuar vivo.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Estranho Noivo de Maya - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OESTNHNVODMYA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dm8uhn6aKiJir6Q6F3Ple5icVwx.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dm8uhn6aKiJir6Q6F3Ple5icVwx.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Maya, tem ambições artísticas – seu pai Ed quer: uma filha obediente para dirigir a loja da família. Levando sua independência um passo adiante, Maya decide viajar para a África para a inspiração e retorna com um noivo.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Farol - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OFROL.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IHMR9l5VLs8IlU5yH83L7me1hY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IHMR9l5VLs8IlU5yH83L7me1hY.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Início do século XX. Thomas Wake (Willem Dafoe), responsável pelo farol de uma ilha isolada, contrata o jovem Ephraim Winslow (Robert Pattinson) para substituir o ajudante anterior e colaborar nas tarefas diárias. No entanto, o acesso ao farol é mantido fechado ao novato, que se torna cada vez mais curioso com este espaço privado. Enquanto os dois homens se conhecem e se provocam, Ephraim fica obcecado em descobrir o que acontece naquele espaço fechado, ao mesmo tempo em que fenômenos estranhos começam a acontecer ao seu redor.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Herdeiro das Drogas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OHRDRDSDRGS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdI8mVnAMt2V8xUmsFxfMVYfCEe.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdI8mVnAMt2V8xUmsFxfMVYfCEe.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Os irmãos Kip (Josh Hartnett), Josie (Margarita Levieva) e Boots tentam escapar de uma espiral de violência que os mantém cativos desde a morte do pai, morando em uma região prejudicada pela economia, onde a venda de drogas tornou-se o seu meio de sobrevivência.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Limite da Traição - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OLMTDTRCAO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/armaOeyiXjlBg94O5oGvB9BO0Ao.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/armaOeyiXjlBg94O5oGvB9BO0Ao.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma cidadã exemplar é acusada de assassinar o marido, e sua advogada logo desconfia de uma conspiração.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Mistério do Farol - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ODSPRCMNTO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPgC3fcNUViQ8TTAG7ALSphErrL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPgC3fcNUViQ8TTAG7ALSphErrL.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em uma ilha desabitada, a 20 milhas da costa escocesa, três guardas de faróis chegam para um turno de seis semanas. À medida que Thomas (Scot Peter Mullan), James (Gerard Butler) e Donald (Connor Swindells) se instalam em suas rotinas habituais e solitárias, algo inesperado acontece: eles tropeçam em algo que não é seu e que não sabem de onde veio. Com a presença desse objeto vem o início de uma luta pela sobrevivência. Aos poucos, os três homens são conduzidos à destruição por meio da ganância pessoal aliada ao isolamento e à paranoia.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Motorista - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OMTRSTA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J0WBmUoHNRReX5NhYCxytQu5RT.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J0WBmUoHNRReX5NhYCxytQu5RT.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Durante um apocalipse zumbi que começou a devastar o mundo, um homem (Mark Dacascos) toma atitudes extremas para conseguir proteger a sua família de todo o caos.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Plano Perfeito - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
-<link>$doregex[BP1]OPLNOPRFTO.mp4$doregex[BP2]$$lsname=[COLOR red]O Plano Perfeito - [/COLOR][COLOR lime] (2006) DUBLADO FULLHD[/COLOR]</link>
-<link>$doregex[BP1]OPLNOPRFTO2.mp4$doregex[BP2]$$lsname=[COLOR red]O Plano Perfeito 2 - [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]O Plano Perfeito - [/COLOR][COLOR lime] (2006) DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]O Plano Perfeito 2 - [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQg74asUFsfANQwlSKzxSg2YrZJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f66DygexFZ3LsLk7aCLq13rLlG.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Quatro pessoas vestidas com uniformes de pintor entram no movimentado banco Manhattan Trust. Em poucos minutos elas controlam o local, para a realização de um assalto planejado em detalhes. Após a notícia do assalto ser divulgada chegam ao local os detetives Keith Frazier (Denzel Washington) e Bill Mitchell (Chiwetel Ejiofor), que têm a missão de fazer contato com o líder dos bandidos, Dalton Russell (Clive Owen). Os detetives trabalham com o auxílio do capitão John Darius (Willem Dafoe) e esperam que a situação seja resolvida rapidamente. Porém eles não contavam com a frieza e inteligência de Russell, que parece estar sempre um passo à frente das ações da polícia. Quando a capacidade de Frazier começa a ser posta em dúvida surge Madeline White (Jodie Foster), uma poderosa jogadora que solicita um encontro particular com Russell.
@@ -701,99 +783,108 @@ Um negociador de reféns da NYPD se junta a um agente federal para resgatar deze
 </item>
 <item>
 <title>[B]O Quarto dos Desejos [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OQRTDSDSJS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HzK757cMoFxbRGxn8xo3gBUJcu.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HzK757cMoFxbRGxn8xo3gBUJcu.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Matt e Kate são um jovem casal que decide mudar de vida e deixar a grande cidade de Nova Iorque. Na nova casa que compraram descobrem um quarto secreto que lhes concede todos os desejos materiais. Matt e Kate pedem tudo o que toda a vida sonharam, até que um dia pedem o que desejavam mais… Um filho. O que no início parece um sonho, depressa se transforma num pesadelo: o que O Quarto dos Desejos cria não pode sair da casa.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Reino das Espadas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ORNODSESPDS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBsyQAu72hSik6QkhRAt88n94ko.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBsyQAu72hSik6QkhRAt88n94ko.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Nos tempos das cruzadas e da Horda Dourada, um poder surgiu na Europa Central, uma força tão grande que não pode ser ignorada. O príncipe Roman, o Grande, uniu as terras vizinhas. Os cavaleiros teutônicos chamavam o reino de Principado da Rutênia. No auge de seu domínio, Roman foi morto em uma emboscada. Os Boyars aproveitaram essa oportunidade para dividir o poder entre si. Yefrosinia, esposa do príncipe Roman, filha do imperador de Constantinopla, usou sua influência para salvar seus filhos. As terras rutenas se afogaram no derramamento de sangue da guerra, até que os filhos do príncipe, Danylo e Vasylko, deram um passo à frente e recuperaram o legado de seu pai.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Ritmo da Vingança - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]ORTMDVNGCA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bapgA36fiK1OKbmU9baAUWkSb7C.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bapgA36fiK1OKbmU9baAUWkSb7C.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Stephanie Patrick vê a sua família morta num acidente de avião e, subitamente, a sua vida segue o caminho da auto-destruição. No entanto, a protagonista descobre que o sucedido não se tratou de um acidente, mas sim de algo premeditado, começando uma jornada em busca, não só de vingança, mas também da sua própria redenção.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Silêncio da Cidade Branca - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OSLNCDCDABRNCA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1w6r8ynCu0VDwyuGZyZ27xJJsh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1w6r8ynCu0VDwyuGZyZ27xJJsh.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um detetive volta à ativa para investigar dois assassinatos que imitam crimes supostamente cometidos por um homem que está prestes a sair da prisão.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]O Último Viking - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]OULTMVKNG.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mimDKzVJFGtCP9ZWLt0hwoi9Ijh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mimDKzVJFGtCP9ZWLt0hwoi9Ijh.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um jovem viking chamado Vitharr chega à Bretanha com sonhos de conquista e aventura, mas, quando sua família e seu clã são emboscados e mortos, ele deve sobreviver sozinho nesta nova e estranha terra perigosa, enquanto procura o local em que seu tio se instalou e agora está vivendo.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Páginas da Morte - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]PGNSDMRTE.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUUP3rKim1myvIlv2vmTlRQl8qL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUUP3rKim1myvIlv2vmTlRQl8qL.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:No meio da noite, uma jovem desperta e subitamente, sem esboçar qualquer sentimento, mata cada membro de sua família, inclusive o cachorro dela. O psiquiatra encarregado do caso descobre que a garota mantinha um diário e resolve investigar. Depois de encontrar o objeto e a ler seu conteúdo, o médico passa a entender a razão de sua primeira página conter um aviso – “quem ler este diário será amaldiçoado”. Gradualmente, o psiquiatra passa ter pesadelos violentos recorrentes e a sofrer de insônia, o que o deixa à beira da loucura.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Pais Muito Loucos - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]PAISMTLCS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lNbaZwY4W3Hdz3oC28c9WKB0jM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lNbaZwY4W3Hdz3oC28c9WKB0jM.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na história, o casal acaba de se despedir da filha que foi para a universidade, e sai para beber e comemorar a liberdade após 18 anos. O resultado é uma sequência de decisões ruins, incluindo um sequestro e um caso de identidade trocada.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Para Todos os Garotos: P.S. Ainda Amo Você - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]PRTDSOSGRTSPSANDAMOVC.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuEnmqQkp6lKkbMi4AAr0Yu3XOI.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuEnmqQkp6lKkbMi4AAr0Yu3XOI.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Agora é oficial: Lara Jean e Peter estão namorando. Era tudo o que ela queria, certo? Só que as coisas se complicam quando uma paixão antiga entra novamente em cena.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Partida Fria - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]PARTDFRA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YRO2Jamqb6ck5vJqrwWgMFWuPW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YRO2Jamqb6ck5vJqrwWgMFWuPW.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Outubro de 1962, no auge da crise cubana. CIA e agentes forçam Joshua Mansky (Bill Pullman), um gênio da matemática, ex-professor de Princeton com um problema com a bebida e um ex-prodígio aposentado do xadrez, a substituir o gravemente doente candidato dos Estados Unidos em um torneio de xadrez contra o campeão soviético Gavrylow, em Varsóvia.
@@ -802,254 +893,277 @@ Os americanos correm o risco de perder os dois jogos, o jogo de xadrez e o de do
 </item>
 <item>
 <title>[B]Pinguins: Vida ao Extremo - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]PNGNSVDAOEXTRM.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjb7NPFy7kbygajO0sv1cC7tRwl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjb7NPFy7kbygajO0sv1cC7tRwl.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma história de amadurecimento sobre um pinguim de Adélie chamado Steve, que se junta a milhões de homens na primavera gelada da Antártica, em uma missão de construir um ninho adequado, encontrar um parceiro para a vida e começar uma família.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Por Lugares Incríveis - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]PRLGRSINCRVS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhQ3s1kdq1rVzq3xQNcOzvhwzTG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhQ3s1kdq1rVzq3xQNcOzvhwzTG.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Dois adolescentes que estão passando por momentos difíceis criam um forte laço quando embarcam em uma jornada transformadora para visitar as maravilhas de Indiana.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Próxima Fase: Fugindo de Rancala - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]PRXMFSEFGNDODRNCLA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdObTCfFyoVipOxCGRTL90eqfRo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdObTCfFyoVipOxCGRTL90eqfRo.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando um gerente de arcade percebe que seu irmão foi transportado para um videogame perigoso, ela e seus dois melhores amigos o seguem para o mundo virtual, lutando contra criaturas perigosas e um senhor da guerra que não pára por nada para mantê-los no jogo e fazê-los parte do seu exército.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Quatro Histórias de Fantasmas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]QTROHSTRDFNTSMS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXtqWsjs4kiClTD6zLJlijFdDBY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXtqWsjs4kiClTD6zLJlijFdDBY.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Quatro histórias de terror dirigidas por Karan Johar, Dibakar Banerjee, Zoya Akhtar e Anurag Kashyap. Os mesmos diretores de Quatro Histórias de Desejo, indicado ao Emmy.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Quem com Ferro Fere - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]QMCMFERFRE.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRIA3Pug05jrfFZ7CvuiS7U7hx.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRIA3Pug05jrfFZ7CvuiS7U7hx.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Após a morte de seu irmão Sergio, o enfermeiro de asilo Mario (Luis Tosar) se prepara para um novo capítulo da sua vida com a chegada de seu primeiro filho. Mas, quando um chefe de cartel é enviado ao asilo para os cuidados de Mario, ele começa a questionar se seu dever é mais importante que as vidas que este homem destruiu.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Resgate - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]RSGTE.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Resgate, Tyler Rake (Chris Hemsworth) um agente especial recebe a difícil missão de libertar um garoto indiano que é mantido refém na cidade de Dhaka. Apesar de estar preparado fisicamente, ele precisa lidar com crises de identidade e com seu emocional fragilizado por problemas do passado para que consiga designar sua tarefa da melhor maneira possível.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Salyut-7: Missão Espacial - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]SLYT7MSAOESPCL.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QUCXRBAlF2AUYRqeQRPMvezxBO.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QUCXRBAlF2AUYRqeQRPMvezxBO.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Salyut 7 é um filme de drama histórico russo lançado em 2017 e dirigido por Klim Shipenko. A história é baseada na missão Soyuz T-13 de 1985, parte do programa Salyut soviético. Foi a primeira vez na história em que uma estação espacial "morta" foi acoplada, e trazida de volta ao serviço.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Socias em Guerra - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]SOCSEMGURA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW2X68aFZKFzBylgVHXNn5bD8Eo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW2X68aFZKFzBylgVHXNn5bD8Eo.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:As melhores amigas Mia e Mel estão a viver um grande momento nas suas vidas enquanto gerem uma empresa de cosmética, que construíram a partir do nada. Infelizmente, atravessam alguns problemas financeiros e a perspetiva de receberem uma proposta de compra do maior titã da indústria de cosmética, Claire Luna, é demasiado tentadora para deixar passar ao lado, e coloca em risco esta amizade de uma vida. Um negócio de beleza que está prestes a tornar-se feio.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Sonic: O Filme - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]SONCOFLM.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Sonic, o porco-espinho azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Sonic: O Filme - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - LEGENDADO[/B]</title>
-<link>$doregex[BP1]SONCOFLMLEG.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Kt9iFdTu5TbAm7tNfc876mrWU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Kt9iFdTu5TbAm7tNfc876mrWU.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Baseado no videojogo da Sega, sucesso à escala global, Sonic: O Filme conta a história do ouriço mais rápido do mundo a partir do momento em que este chega à sua nova casa – o planeta Terra. Nesta comédia e aventura live-action, Sonic e o seu novo melhor amigo Tom juntam-se para defender o planeta do génio do mal, o Dr. Robotnik, e dos seus planos para domínio do mundo.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Surdo - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]SRDO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x14J1zwAKpjng61bGlqz5egS3Yg.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x14J1zwAKpjng61bGlqz5egS3Yg.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Norte de Espanha, Outubro de 1944. Vários grupos de guerrilheiros, antigos soldados republicanos exilados em França após o fim da guerra civil espanhola, infiltram-se no país para provocar uma revolta popular contra a ditadura do General Franco…[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]The Quarry - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]THEQARY.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW6ZP8LqvEF1PG9pY6trAX1XHi0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW6ZP8LqvEF1PG9pY6trAX1XHi0.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um homem fugindo de seus próprios pecados se encontra em uma pequena cidade, se disfarçando de reverendo. A cidade é rapidamente atraída pelos sermões pouco ortodoxos dele, mas também atrai um chefe de polícia.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Togo -[COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]TGO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WuN3gnXUT6VlP51wfo4RGaG0RW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WuN3gnXUT6VlP51wfo4RGaG0RW.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A história de um homem e sua equipe de cães puxadores de trenó liderados pela cadela Togo, que transportaram remédios para a população do Alasca a fim de combater uma epidemia durante a década de 20. Togo, que liderou a Grande Corrida da Misericórdia ou Corrida do Soro de 1925, era considerada pela maioria das pessoas como pequena e fraca demais para liderar uma corrida tão difícil.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Troco em Dobro - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]TRCOEMDBRO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kUoCeyFAfYZKrGI27gSsnnsHN0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kUoCeyFAfYZKrGI27gSsnnsHN0.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Spenser, um ex-policial e ex-presidiário, e o aspirante a lutador Hawk se unem para investigar uma conspiração ligada a morte de dois oficiais de Boston.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Tropa Zero - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]TRPAZRO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4TLFNVqGq62ULC7xf0g4IZ5hoi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4TLFNVqGq62ULC7xf0g4IZ5hoi.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Na Geórgia rural de 1977, uma menina fora dos padrões sonha com a vida no espaço. Quando uma competição nacional oferece a ela a chance de realizar seu sonho e gravar sua voz no Golden Record da NASA, ela recruta uma tropa improvisada de Escoteiras Birdie, construindo amizades para a vida inteira.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Um Amor de Filhote - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]UMAMRDFLHT.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kL07g2jfYdiHgJDZKaHiInh0nuC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kL07g2jfYdiHgJDZKaHiInh0nuC.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um bandido chamado Mercer está envolvido em uma briga ilegal de cães. Seu pastor alemão é mordido enquanto luta e consegue fugir. A jovem Paige Crowley encontra o cachorro remexendo no lixo e gosta dele, então, ela o leva para casa, mas o esconde de seu pai Travis. A família de Paige é pequena, mas todos têm problemas: o pai dela é um homem ausente e frustrado, que deposita no futuro de seu filho Decklin, estrela do esporte da escola, a esperança de conquistar algo que ele mesmo não conseguiu. Paige perdeu a mãe cedo, então sua avó, Hazel, faz o papel materno na casa. A chegada de Mercer traz nova alegria a todos, mesmo que alguns demorem para perceber isso.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Um Amor, Mil Casamentos - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]UMAMRMLCSMNTS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn7feouGPU8sELez4qvpp0EtgeQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn7feouGPU8sELez4qvpp0EtgeQ.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um Amor, Mil Casamentos apresenta diferentes versões de um mesmo dia que se repetem para Jack (Sam Claflin). Ele terá de lidar com diversas confusões com uma ex-namorada, seu melhor amigo, um convidado com um segredo e um romance em potencial na festa de casamento de sua irmã.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Um Lindo Dia na Vizinhança - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]UMLNDDINVZNHCA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Fred Rogers (Tom Hanks) foi o criador de Mister Rogers' Neighborhood, um programa infantil de TV muito popular na década de 1960. Em 1998, Tom Junod (Matthew Rhys), até então um cínico jornalista, aceitou escrever o perfil de Rogers para a revista Esquire. Durante as entrevistas para a materia, Junod mudou não só sua visão em relação ao seu entrevistado como também sua visão de mundo, iniciando uma inspiradora amizade com o apresentador.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Um Romance Nas Entrelinhas - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]UMRMNCNSENTRLNHS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzHj5QGYvMYymW4zY6aWFlZCWrZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzHj5QGYvMYymW4zY6aWFlZCWrZ.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A história não contada do fascinante envolvimento amoroso entre a lendária escritora Virginia Woolf (Elizabeth Debicki) e a socialite e autora popular Vita Sackville-West (Gemma Arterton). Seleção do Festival de Toronto 2018.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Uma Noite Infernal - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]UMANTINFRNL.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkU2kK5jezjhhPiCnRLHqR4eV40.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkU2kK5jezjhhPiCnRLHqR4eV40.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Melinda é solitária e instável, que está cansada de ser ofuscada por Sheila, sua colega de trabalho mais confiante e extrovertida. Quando o posto de gasolina é mantido sob a mira de uma arma por Billy, um homem desesperado que precisa de dinheiro rápido, Melinda encontra uma oportunidade de fazer uma conexão com o ladrão, independentemente de quem se machuque.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Vingança FM - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]VNGNCFM.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWzNua8aR3ZE84ueV8pDy0ZlMow.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWzNua8aR3ZE84ueV8pDy0ZlMow.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Jarvis Dolan é o principal jornalista do bem-sucedido programa de rádio noturno de Londres The Grim Reality. Uma noite, dois homens armados entram no estúdio e tomam o controle do show, com a missão de revelar um escândalo que poderia significar o fim da carreira de Jarvis. Forçado a continuar com o programa ao vivo, seguindo o roteiro dos agressores, a noite dele se torna um pesadelo.[/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Você Nem Imagina - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
-<link>$doregex[BP1]VCNEMIMGNA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/64C3sc6sv2cYzY8g3tv1thW3iWL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/64C3sc6sv2cYzY8g3tv1thW3iWL.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Em Você Nem Imagina, Ellie Chu (Leah Lewis) é a típica aluna deslocada que possui o hábito de fazer a lição de casa de seus colegas por dinheiro para contribuir com as contas em casa. Secretamente, ela possui uma paixão pela bela Aster Flores (Alexxis Lemire). Quando Paul, um jogador de futebol, se aproxima de Ellie para pedir ajuda para escrever uma carta de amor para sua amada, ela entra em conflito. [/B][/COLOR]</info>
 </item>
 <item>
 <title>[B]Z-O-M-B-I-E-S - [COLOR lime](FULLHD)[/COLOR] - DUBLADO [/B]</title>
-<link>$doregex[BP1]ZMBS2018.mp4$doregex[BP2]$$lsname=[COLOR red]Z-O-M-B-I-E-S - [/COLOR][COLOR lime] (2018) DUBLADO FULLHD[/COLOR]</link>
-<link>$doregex[BP1]ZMBS20202.mp4$doregex[BP2]$$lsname=[COLOR red]Z-O-M-B-I-E-S 2 - [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]Z-O-M-B-I-E-S - [/COLOR][COLOR lime] (2018) DUBLADO FULLHD[/COLOR]</link>
+<link>$doregex[BP1]$doregex[BP2]$$lsname=[COLOR red]Z-O-M-B-I-E-S 2 - [/COLOR][COLOR lime] (2020) DUBLADO FULLHD[/COLOR]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/frTwEqSMWQ27oQeuiBO5PT0ZNqq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:50 anos depois de passar por um apocalipse zumbi, Seabrook é uma cidade alegre e cheia de conformismo. Os zumbis não são mais uma ameaça, mas são obrigados a viver em Zombietown, uma parte isolada da cidade. Quando os alunos de Zombietown são transferidos para a escola secundária de Seabrook, o zumbi Zed (Milo Manheim) está determinado a jogar Futebol americano, enquanto a humana Addison (Meg Donnelly), sonha em ser líder de torcida. Os dois decidem trabalhar juntos para mostrar a o que podem ganhar aceitando suas diferenças.
