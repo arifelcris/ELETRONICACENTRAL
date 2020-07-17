@@ -195,8 +195,7 @@ Uma pequena comunidade rural fica em quarentena por uma presença alienígena. O
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A história segue um agente secreto, uma vez elogiado, mas muito velho, Adereth (Ben Kingsley), que é considerado passado por seus superiores. As estrelas de Itay Tiran (“Líbano”), uma jovem operadora enviada para rastrear o personagem enigmático de Adereth e Bellucci, encobre as linhas, como quem está caçando, quem se torna a questão em um mundo de intriga e decepção.[/B][/COLOR]</info>
 </item>
 <item>
-<title>[B][COLOR white]ÁRTICO[/COLOR][/B]</title>
-title>[B]Ártico - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B]Ártico - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
