@@ -195,17 +195,18 @@ Uma pequena comunidade rural fica em quarentena por uma presença alienígena. O
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:A história segue um agente secreto, uma vez elogiado, mas muito velho, Adereth (Ben Kingsley), que é considerado passado por seus superiores. As estrelas de Itay Tiran (“Líbano”), uma jovem operadora enviada para rastrear o personagem enigmático de Adereth e Bellucci, encobre as linhas, como quem está caçando, quem se torna a questão em um mundo de intriga e decepção.[/B][/COLOR]</info>
 </item>
 <item>
-<title>[B]Ártico - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR white]ÁRTICO[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLODHT</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuhXR5rYiHf5soWL8jZSw6AqGr.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuhXR5rYiHf5soWL8jZSw6AqGr.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:Um homem fica perdido no Ártico e está prestes a ser socorrido. Contudo, um acidente trágico faz com que ele perca sua aguardada oportunidade de resgate. É aí que ele precisa decidir entre ficar relativamente seguro em seu acampamento ou seguir numa jornada incerta para escapar.[/B][/COLOR]</info>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ARTCO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/%C3%81rtico.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/%C3%81rtico.jpg</fanart>
+<info>Um homem fica perdido no Ártico e está prestes a ser socorrido. Contudo, um acidente trágico faz com que ele perca sua aguardada oportunidade de resgate. É aí que ele precisa decidir entre ficar relativamente seguro em seu acampamento ou seguir numa jornada incerta para escapar.</info>
+<date>2020</date>
 </item>
 <item>
 <title>[B]As Aventuras de Timmy Failure - [COLOR deeppink](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLADO[/B]</title>
