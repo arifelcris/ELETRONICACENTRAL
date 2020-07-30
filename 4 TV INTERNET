@@ -59,7 +59,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white] CLASSIC TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<title>[B][COLOR lime] CLASSIC TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://stmv6.srvstm.com/classique/classique/chunklist_w790746133.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2019-09-16-22-00-39.png</thumbnail>
 </item>
@@ -95,6 +95,12 @@
 </item>
 
 item>
+<title>[B][COLOR lime] GOSPEL MOVIES TELEVISION [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://stmv1.srvif.com/gospelf/gospelf/chunklist_w591949135.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-16-51-47.png</thumbnail>
+</item>
+
+item>
 <title>[B][COLOR white] JORNAL RECORD [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://r7live15-lh.akamaihd.net/i/pgm15_1@833327/index_480_av-p.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNorw4WgGOgFPTWJO4DQWoW2r4c7OP9ly44kTk-PhPoXTidb7g</thumbnail>
@@ -116,6 +122,12 @@ item>
 <title>[B][COLOR white] LATINA SAT[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8</link>
 <thumbnail>https://4.bp.blogspot.com/-JwZlc2K1-vw/XqeJPjzZWqI/AAAAAAAACqU/SQ01_WsB9wQQmRpVaC1EMa1PPcy6LSrugCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-04-27-22-35-28.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR lime] LONDRINA TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w1093806606.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-24-22-22-55.png</thumbnail>
 </item>
 
 <item>
@@ -315,6 +327,18 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR lime] TV J.SID[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://srv4.zcast.com.br/idevaldo9317/idevaldo9317/chunklist_w1199950143.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-20-21-12-40.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR lime] TV JORNAL DO NORDESTE [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1932290287.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-zZN76xxZcpg/Xt_EsRKjmII/AAAAAAAAC-4/qXbnkSGOuqUJQ7eMolPBlzTmb3pUqiv9QCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-06-09-14-10-37.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR white] TV LIBERDADE [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://5c483b9d1019c.streamlock.net/8238/8238/chunklist_w1148957120.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-6H8ETl4gg1w/XguRetjPBRI/AAAAAAAACUw/PiEK3F22NT8fXcsAwywOBrUH2VHxcGb6ACLcBGAsYHQ/w1200-h630-p-k-no-nu/2019-12-31%2B15.15.23.png</thumbnail>
@@ -480,7 +504,7 @@ item>
 
 
 <item>
-<title>[B][COLOR white] WEB TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<title>[B][COLOR lime] WEB TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w467132841.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSA-VYqs1UH5xG8KrHsx6Ctse-pbV3C0y8Y5h4Tieh0wvcsSWSU</thumbnail>
 </item>
