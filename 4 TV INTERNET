@@ -6,8 +6,13 @@
 </item>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 <item>
-<title>[B][COLOR white] APARECIDA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] APARECIDA (Link 1 )[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://caikron.com.br:8082/cktvlive/cktvlive/cktv/cktv_720p/chunks.m3u8?nimblesessionid=14242363</link>
+<thumbnail>https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] APARECIDA (Link 2 )[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4kZFfL0IRQM</link>
 <thumbnail>https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png</thumbnail>
 </item>
 <item>
@@ -17,7 +22,7 @@
 </item>
 <item>
 <title>[B][COLOR white] REDE VIDA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=4kZFfL0IRQM</link>
+<link>plugin://plugin.video.youtube/play/?video_id=TPgTUBJmpOE</link>
 <thumbnail>https://iscarvasi.files.wordpress.com/2013/05/rede_vida_de_televisc3a3o_2.jpg</thumbnail>
 <fanart>https://iscarvasi.files.wordpress.com/2013/05/rede_vida_de_televisc3a3o_2.jpg</fanart>
 </item>
