@@ -4,6 +4,7 @@
 <name>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR gold] CANAIS RELIGIOSOS [/COLOR][/B]</name>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:CANAIS CATÓLICOS, EVANGÉLICOS E ESPÍRITAS ! [/COLOR][/B]</info>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 <item>
 <title>[B][COLOR white] APARECIDA (Link 1 )[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://caikron.com.br:8082/cktvlive/cktvlive/cktv/cktv_720p/chunks.m3u8</link>
@@ -28,7 +29,6 @@
 <title>[B][COLOR white] REDE VIDA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=TPgTUBJmpOE</link>
 <thumbnail>https://iscarvasi.files.wordpress.com/2013/05/rede_vida_de_televisc3a3o_2.jpg</thumbnail>
-<fanart>https://iscarvasi.files.wordpress.com/2013/05/rede_vida_de_televisc3a3o_2.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white] TV A CAMINHO DA LUZ [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
@@ -92,81 +92,6 @@
 <link>https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist_w2077797939.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-jkmJMa6L1bQ/XtKKRO6nxlI/AAAAAAAAC4Q/bc0eBBzbgE0jrffkib3kbi_G336e6p1zgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-05-30-13-22-44.png</thumbnail>
 </item>
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-<channels>
-</channels><channel>
-<name>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR gold] CULTURA [/COLOR][/B]</name>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:CANAIS DE CULTURA E APRENDIZADO ! [/COLOR][/B]</info>
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
-<item>
-<title>[B][COLOR white] CULTURA (BA)[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] CULTURA (MG) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://video-rvd-df-2.rnp.br/live/ocp(t(Fib9_j_ptYo)r(fVR9ug)a(sYN1jA)p(d(aGg)k(qNY)m(CWXVr8Zwzqi8B9oHZ3Dgag)n(a(MxJDrw)s(leg)'a(g3-cuQ)s(ymo)))s(s(Fs0)b(FFchVS1fodq1D9nmGdPMH870lsRY9DeUL27C5SFz0OAJg51Lm5vsT08O188vIka6lgXN1jPEb6VZqdXIHA)'s(if0)b(xE5ovFUJ29VIW8dlCZ84ekVMednHK_XE7D89YLeTh8miIWC65H9gFnOtm9DGs8spdv42-V9dW3QCrVPW4KcKGW3TfKDIGcL3dVRWOy0N)'s(_ww)b(sCvhh6Ew))m(0))/1_index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] CULTURA (MS) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>http://spotvtstr01.se.fertel.cds.ebtcvd.net/hls/STFERTEL01_1080/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] CULTURA (PR) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1770801959.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] CULTURA (RN) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w2137628762.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] CULTURA (TVU Uberlândia) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(Fib-KAA5HFw)r(fVR9ug)a(sYN1jA)p(d(aGg)k(qNY)m(fh-wOlhFQLeD4iMffpFdIw)n(a(0t7qVw)s(yxU)'a(F18whA)s(Xl0)))s(s(ZPs)b(k_OuKHIW1kn2pOqARY3_HwFRX-dqofFoGG5voKVHcP-T4LVB0kv6Tn00wduh9SNjB6yDzIXYJdyqDqGI9A)'s(1Nc)b(7fQqGU4suSBHFMSbM-xWRVWRuyc3OC9Iy8nCN_ErlZQTsmaqTpqsF6aEYPdzJ8sqoEYy3-Yrubs0DyKYmjrlJ6FhGDnXdeLCvYI5qG5f)'s(E2M)b(rVuSo8Jc))m(0))/1_index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] SESC TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8</link>
-<thumbnail>https://4.bp.blogspot.com/-OV1sqQRTa_k/XtbIgvin_SI/AAAAAAAAC5U/HYNuaX5vJyUlE_ktjWpLtBHCs-hvk1ROgCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-06-02%2B18.41.50.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV BRASIL 2 [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8</link>
-<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV CANDIDÉS [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_w927485057_b2146304.m3u8</link>
-<thumbnail>https://1.bp.blogspot.com/-4yRLtTpO1u0/XKee145OuoI/AAAAAAAAAtU/--ibs_tKaI4TChvyKThhslwTEezkfCbhQCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-04-05-15-29-17.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV FAAP [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://midiamobile.faap.br/faaplatamlive-live/stream_480/chunklist_w2111034803.m3u8</link>
-<thumbnail>https://2.bp.blogspot.com/-tIxRMyERpgI/XYLBTE4BQKI/AAAAAAAAB84/f5hwFYjH-VoMIWWGoWVhDwoer5YdZxxGACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2019-09-18-20-42-33.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV PARANÁ TURISMO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://200.189.113.201/hls/tve.m3u8</link>
-<thumbnail>https://1.bp.blogspot.com/-AyvQ_GWHHRk/XidTZEc01uI/AAAAAAAACYk/7NPVArAhge0ehksYnONeuvCPQ7dDh8oDACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-01-21-16-36-15.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TVU Recife [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://150.161.93.220/hls/480/index.m3u8</link>
-<thumbnail>https://3.bp.blogspot.com/-t-uZ0bq-tcM/XDdn999XyKI/AAAAAAAAAd0/VSFDUJ7O0ZQ2EgtnHfahIQMFwt5d22eHgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-01-10-12-55-52.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] UNIVESP TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=biWQ61cJO0c</link>
-<thumbnail>https://1.bp.blogspot.com/-0DT862fQfnw/XtbAufp6clI/AAAAAAAAC5A/-PbjcSbjH7whxtTgZ6ZmIwhAoUkomZ5UwCPcBGAYYCw/w1200-h630-p-k-no-nu/2020-06-02%2B18.09.13.png</thumbnail>
-</item>
-
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 <channels>
@@ -251,7 +176,6 @@
 <thumbnail>https://3.bp.blogspot.com/-S-iIlMTVLr8/XqX1Bwf0XMI/AAAAAAAACpI/2CEospJ1RQIdMyukE99W4IcpZ4k1epBUgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-04-26-17-49-57.png</thumbnail>
 </item>
 
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 <channels>
 </channels><channel>
@@ -325,6 +249,78 @@
 <thumbnail>https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-04-26-17-09-52.png</thumbnail>
 </item>
 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<channels>
+</channels><channel>
+<name>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR gold] CULTURA [/COLOR][/B]</name>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:CANAIS DE CULTURA E APRENDIZADO ! [/COLOR][/B]</info>
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+<item>
+<title>[B][COLOR white] CULTURA (BA)[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] CULTURA (MG) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://video-rvd-df-2.rnp.br/live/ocp(t(Fib9_j_ptYo)r(fVR9ug)a(sYN1jA)p(d(aGg)k(qNY)m(CWXVr8Zwzqi8B9oHZ3Dgag)n(a(MxJDrw)s(leg)'a(g3-cuQ)s(ymo)))s(s(Fs0)b(FFchVS1fodq1D9nmGdPMH870lsRY9DeUL27C5SFz0OAJg51Lm5vsT08O188vIka6lgXN1jPEb6VZqdXIHA)'s(if0)b(xE5ovFUJ29VIW8dlCZ84ekVMednHK_XE7D89YLeTh8miIWC65H9gFnOtm9DGs8spdv42-V9dW3QCrVPW4KcKGW3TfKDIGcL3dVRWOy0N)'s(_ww)b(sCvhh6Ew))m(0))/1_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] CULTURA (MS) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>http://spotvtstr01.se.fertel.cds.ebtcvd.net/hls/STFERTEL01_1080/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] CULTURA (PR) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1770801959.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] CULTURA (RN) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w2137628762.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] CULTURA (TVU Uberlândia) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(Fib-KAA5HFw)r(fVR9ug)a(sYN1jA)p(d(aGg)k(qNY)m(fh-wOlhFQLeD4iMffpFdIw)n(a(0t7qVw)s(yxU)'a(F18whA)s(Xl0)))s(s(ZPs)b(k_OuKHIW1kn2pOqARY3_HwFRX-dqofFoGG5voKVHcP-T4LVB0kv6Tn00wduh9SNjB6yDzIXYJdyqDqGI9A)'s(1Nc)b(7fQqGU4suSBHFMSbM-xWRVWRuyc3OC9Iy8nCN_ErlZQTsmaqTpqsF6aEYPdzJ8sqoEYy3-Yrubs0DyKYmjrlJ6FhGDnXdeLCvYI5qG5f)'s(E2M)b(rVuSo8Jc))m(0))/1_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] SESC TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-OV1sqQRTa_k/XtbIgvin_SI/AAAAAAAAC5U/HYNuaX5vJyUlE_ktjWpLtBHCs-hvk1ROgCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-06-02%2B18.41.50.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] TV BRASIL 2 [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8</link>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] TV CANDIDÉS [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_w927485057_b2146304.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-4yRLtTpO1u0/XKee145OuoI/AAAAAAAAAtU/--ibs_tKaI4TChvyKThhslwTEezkfCbhQCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-04-05-15-29-17.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] TV FAAP [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://midiamobile.faap.br/faaplatamlive-live/stream_480/chunklist_w2111034803.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-tIxRMyERpgI/XYLBTE4BQKI/AAAAAAAAB84/f5hwFYjH-VoMIWWGoWVhDwoer5YdZxxGACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2019-09-18-20-42-33.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] TV PARANÁ TURISMO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://200.189.113.201/hls/tve.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-AyvQ_GWHHRk/XidTZEc01uI/AAAAAAAACYk/7NPVArAhge0ehksYnONeuvCPQ7dDh8oDACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-01-21-16-36-15.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] TVU Recife [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>http://150.161.93.220/hls/480/index.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-t-uZ0bq-tcM/XDdn999XyKI/AAAAAAAAAd0/VSFDUJ7O0ZQ2EgtnHfahIQMFwt5d22eHgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-01-10-12-55-52.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] UNIVESP TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=biWQ61cJO0c</link>
+<thumbnail>https://1.bp.blogspot.com/-0DT862fQfnw/XtbAufp6clI/AAAAAAAAC5A/-PbjcSbjH7whxtTgZ6ZmIwhAoUkomZ5UwCPcBGAYYCw/w1200-h630-p-k-no-nu/2020-06-02%2B18.09.13.png</thumbnail>
+</item>
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 <channels>
@@ -391,7 +387,6 @@
 <link>https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w2108776781.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-dujMg4rd8a4/XriKbnJOt3I/AAAAAAAACvo/1olo3x6Iydga8wrQmsXUm8NW6-NkVp9eACLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-05-10%2B20.09.46.png</thumbnail>
 </item>
-
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 <channels>
@@ -485,7 +480,6 @@
 <link>https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w1107944239.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-1TCGsaQEg9s/XRZKVMdeEEI/AAAAAAAABO8/0qSSE4Mih4s0bt1ukoar-LdQaGr06VTqQCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-14-08-47.png</thumbnail>
 </item>
-
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 <channels>
@@ -588,13 +582,11 @@
 <title>[B][COLOR white] SBT (SP) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w148208327.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png</thumbnail>
-<fanart>https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png</fanart>
 </item>
 <item>
 <title>[B][COLOR white] SBT (GO) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://5a7bcfb834235.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1754098596_b350000.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png</thumbnail>
-<fanart>https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png</fanart>
 </item>
 <item>
 <title>[B][COLOR white] TV8 [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
