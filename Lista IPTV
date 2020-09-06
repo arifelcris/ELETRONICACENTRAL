@@ -163,3 +163,385 @@ https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+####################################################################################################################
+
+
+####################################################################################################################
+	 Online	iptvtools_1	https://i.imgur.com/DpuAtAS.mp4      	960x766
+(0:1)	h264	2 mb/s
+>8M
+2	 Online	iptvtools_2	https://i.imgur.com/K9XaFur.mp4      	960x540
+(16:9)	h264	652 kb/s
+8M
+3	 Online	iptvtools_3	https://i.imgur.com/1lmUhKg.mp4      	960x540
+(16:9)	h264	712 kb/s
+8M
+4	 Online	iptvtools_4	https://i.imgur.com/9J4vwbj.mp4      	960x540
+(0:1)	h264	2 mb/s
+>8M
+5	 Online	iptvtools_5	https://i.imgur.com/65uJ4SU.mp4      	960x540
+(16:9)	h264	755 kb/s
+8M
+12	 Online	iptvtools_12	http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8      	1280x720
+(0:1)	h264	
+
+14	 Online	iptvtools_14	https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8      	720x480
+(0:1)	h264	
+
+27	 Online	iptvtools_27	https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8      	1280x720
+(0:1)	h264	
+
+28	 Online	iptvtools_28	https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8?sd=10&rebase=on      	640x360
+(16:9)	h264	
+
+38	 Online	iptvtools_38	https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8      	1280x1080
+(16:9)	h264	
+
+39	 Online	iptvtools_39	https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8      	1280x720
+(16:9)	h264	
+
+40	 Online	iptvtools_40	http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8      	1280x720
+(0:1)	h264	
+
+41	 Online	iptvtools_41	http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8      	640x360
+(16:9)	h264	
+
+43	 Online	iptvtools_43	http://200.189.113.201/hls/tve.m3u8      	696x392
+(0:1)	h264	
+
+44	 Online	iptvtools_44	http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8      	1024x576
+(16:9)	h264	
+
+45	 Online	iptvtools_45	https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/livestream.m3u8      	1280x720
+(16:9)	h264	
+
+47	 Online	iptvtools_47	http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8      	1280x720
+(16:9)	h264	
+
+50	 Online	iptvtools_50	https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8      	1920x1080
+(0:1)	h264	
+
+51	 Online	iptvtools_51	https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8      	1280x720
+(0:1)	h264	
+
+52	 Online	iptvtools_52	https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8      	1920x1080
+(0:1)	h264	
+
+53	 Online	iptvtools_53	http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8      	1280x720
+(16:9)	h264	
+
+54	 Online	iptvtools_54	https://livefocamundo.com:8081/8470/index.m3u8      	1280x528
+(80:33)	h264	
+
+56	 Online	iptvtools_56	http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8      	1920x1080
+(0:1)	h264	
+
+57	 Online	iptvtools_57	https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8      	320x180
+(16:9)	h264	
+
+58	 Online	iptvtools_58	http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8      	1920x1080
+(16:9)	h264	
+
+59	 Online	iptvtools_59	http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8      	1280x720
+(0:1)	h264	
+
+60	 Online	iptvtools_60	http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8      	256x144
+(16:9)	h264	
+
+62	 Online	iptvtools_62	https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8      	640x360
+(16:9)	h264	
+
+63	 Online	iptvtools_63	http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8      	320x180
+(16:9)	h264	
+
+64	 Online	iptvtools_64	https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8      	1920x1080
+(16:9)	h264	
+
+65	 Online	iptvtools_65	http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8      	1280x720
+(16:9)	h264	
+
+66	 Online	iptvtools_66	https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8      	640x360
+(16:9)	h264	
+
+70	 Online	iptvtools_70	https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8      	320x180
+(16:9)	h264	
+
+71	 Online	iptvtools_71	https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8      	1920x1080
+(0:1)	h264	
+
+72	 Online	iptvtools_72	https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8      	1920x1080
+(16:9)	h264	
+
+73	 Online	iptvtools_73	http://flash32k.crossdigital.com.br/evangelizar/tv/playlist.m3u8      	864x480
+(9:5)	h264	
+
+77	 Online	iptvtools_77	https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8      	426x240
+(16:9)	h264	
+
+78	 Online	iptvtools_78	http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8      	512x288
+(0:1)	h264	
+
+79	 Online	iptvtools_79	http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8      	426x240
+(71:40)	h264	
+
+##################################################################################################
+1	 Online	iptvtools_1	http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8      	426x240
+(71:40)	h264	
+
+3	 Online	iptvtools_3	http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8      	1280x720
+(16:9)	h264	
+
+4	 Online	iptvtools_4	http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8      	1280x720
+(16:9)	h264	
+
+5	 Online	iptvtools_5	http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8      	426x240
+(71:40)	h264	94 kb/s
+1M
+12	 Online	iptvtools_12	http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8      	1920x1080
+(0:1)	h264	
+
+22	 Online	iptvtools_22	http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8      	720x404
+(180:101)	h264	
+
+25	 Online	iptvtools_25	http://rtmp.one.by:1200      	720x576
+(4:3)	h264	184 kb/s
+2M
+26	 Online	iptvtools_26	http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8      	480x360
+(4:3)	h264	
+
+30	 Online	iptvtools_30	http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8      	1280x720
+(0:1)	h264	
+
+31	 Online	iptvtools_31	http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8      	1280x720
+(0:1)	h264	
+
+32	 Online	iptvtools_32	http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8      	640x360
+(16:9)	h264	
+
+35	 Online	iptvtools_35	http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8      	640x360
+(16:9)	h264	
+
+42	 Online	iptvtools_42	http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4      	640x480
+(4:3)	h264	940 kb/s
+>8M
+43	 Online	iptvtools_43	http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4      	490x360
+(49:36)	h264	351 kb/s
+4M
+44	 Online	iptvtools_44	http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4      	640x480
+(15:11)	h264	681 kb/s
+8M
+45	 Online	iptvtools_45	http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4      	640x480
+(15:11)	h264	682 kb/s
+8M
+46	 Online	iptvtools_46	http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4      	640x480
+(15:11)	h264	682 kb/s
+8M
+47	 Online	iptvtools_47	http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4      	640x360
+(16:9)	h264	682 kb/s
+8M
+48	 Online	iptvtools_48	http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4      	720x480
+(0:1)	h264	811 kb/s
+8M
+49	 Online	iptvtools_49	http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4      	720x480
+(3:2)	h264	758 kb/s
+8M
+50	 Online	iptvtools_50	http://200.115.193.177/live/26hd-720/.m3u8?CompartilhandoIPTV      	1280x720
+(16:9)	h264	
+
+51	 Online	iptvtools_51	http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8      	1280x720
+(16:9)	h264	
+
+52	 Online	iptvtools_52	http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8      	1280x720
+(16:9)	h264	
+
+53	 Online	iptvtools_53	http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8      	320x180
+(16:9)	h264	
+
+54	 Online	iptvtools_54	http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8      	1280x720
+(16:9)	h264	
+
+55	 Online	iptvtools_55	http://www.trimi.com.ar/provincial/streaming/mystream.m3u8      	640x360
+(16:9)	h264	
+
+56	 Online	iptvtools_56	http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8      	1280x720
+(0:1)	h264	
+
+57	 Online	iptvtools_57	http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8      	720x486
+(40:27)	h264	125 kb/s
+2M
+60	 Online	iptvtools_60	http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8      	1280x720
+(0:1)	h264	
+
+62	 Online	iptvtools_62	http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8      	640x360
+(16:9)	h264	55 kb/s
+1M
+63	 Online	iptvtools_63	http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8      	640x360
+(16:9)	h264	55 kb/s
+1M
+65	 Online	iptvtools_65	http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8      	854x480
+(427:240)	h264	
+
+66	 Online	iptvtools_66	http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8      	426x240
+(71:40)	h264	
+
+70	 Online	iptvtools_70	http://cdnh4.iblups.com/hls/irtp.m3u8      	640x360
+(16:9)	h264	
+
+71	 Online	iptvtools_71	http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8      	1280x720
+(16:9)	h264	
+
+73	 Online	iptvtools_73	http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8      	1280x860
+(0:1)	h264	
+
+74	 Online	iptvtools_74	http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8      	1280x720
+(16:9)	h264	
+
+78	 Online	iptvtools_78	http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on      	640x360
+(16:9)	h264	
+
+79	 Online	iptvtools_79	http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8      	640x360
+(16:9)	h264	
+
+80	 Online	iptvtools_80	http://www.djing.com/tv/ibiza.m3u8      	640x360
+(0:1)	h264	
+
+83	 Online	iptvtools_83	http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8      	640x360
+(16:9)	h264	
+
+84	 Online	iptvtools_84	http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8      	512x288
+(0:1)	h264	
+
+85	 Online	iptvtools_85	http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8      	320x180
+(16:9)	h264	
+
+88	 Online	iptvtools_88	http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8      	1024x576
+(16:9)	h264	
+
+89	 Online	iptvtools_89	http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8      	640x360
+(16:9)	h264	
+
+90	 Online	iptvtools_90	http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8      	1280x720
+(16:9)	h264	
+
+94	 Online	iptvtools_94	http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8      	320x192
+(5:3)	h264	
+
+96	 Online	iptvtools_96	http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8      	320x180
+(16:9)	h264	
+
+97	 Online	iptvtools_97	http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8      	1280x720
+(16:9)	h264	
+
+104	 Online	iptvtools_104	http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on      	1280x720
+(16:9)	h264	
+
+108	 Online	iptvtools_108	http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8      	640x480
+(4:3)	h264	
+
+110	 Online	iptvtools_110	http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8      	0x0
+(0:0)	h264	
+
+111	 Online	iptvtools_111	http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS      	0x0
+(0:0)	h264	
+
+114	 Online	iptvtools_114	http://audio.cabobranco.tv.br:8000/cbncg      			32 kb/s
+512k
+116	 Online	iptvtools_116	http://centova6.ciclanohost.com.br:9104/;stream.nsv      			58 kb/s
+1M
+120	 Online	iptvtools_120	http://audio.cabobranco.tv.br:8000/cbfm      			32 kb/s
+512k
+121	 Online	iptvtools_121	http://server3.webradios.com.br:9404/;      			47 kb/s
+512k
+122	 Online	iptvtools_122	http://stream.7br.com.br:10018/;      			58 kb/s
+1M
+123	 Online	iptvtools_123	http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8      			60 kb/s
+1M
+124	 Online	iptvtools_124	http://centova14.ciclanohost.com.br:8180/;      			84 kb/s
+1M
+125	 Online	iptvtools_125	http://streaming15.hstbr.net:8224/live      			59 kb/s
+1M
+127	 Online	iptvtools_127	http://centova6.ciclanohost.com.br:9346/stream/1/      			58 kb/s
+1M
+129	 Online	iptvtools_129	http://centova6.ciclanohost.com.br:9518/;stream.nsv      			62 kb/s
+1M
+130	 Online	iptvtools_130	http://centova6.ciclanohost.com.br:9312/;stream.nsv      			46 kb/s
+512k
+131	 Online	iptvtools_131	http://stm45.srvstm.com:26924/stream/1/      			125 kb/s
+2M
+132	 Online	iptvtools_132	http://192.99.150.31:9155/stream      			46 kb/s
+512k
+135	 Online	iptvtools_135	http://192.99.150.31:8715/stream      			81 kb/s
+1M
+136	 Online	iptvtools_136	http://192.99.150.31:9137/stream      			47 kb/s
+512k
+137	 Online	iptvtools_137	http://192.99.150.31:9125/stream      			66 kb/s
+1M
+138	 Online	iptvtools_138	http://192.99.150.31:9473/stream      			91 kb/s
+1M
+139	 Online	iptvtools_139	http://192.99.150.31:9485/stream      			71 kb/s
+1M
+140	 Online	iptvtools_140	http://192.99.150.31:8042/stream      			70 kb/s
+1M
+141	 Online	iptvtools_141	http://192.99.150.31:8301/stream      			63 kb/s
+1M
+142	 Online	iptvtools_142	http://192.99.150.31:8989/stream      			58 kb/s
+1M
+143	 Online	iptvtools_143	http://192.99.150.31:8962/stream      			56 kb/s
+1M
+144	 Online	iptvtools_144	http://ice.paineldj3.com.br:8006/live      			126 kb/s
+2M
+145	 Online	iptvtools_145	http://m.paineldj6.com.br:8504/stream      			93 kb/s
+1M
+146	 Online	iptvtools_146	http://paineldj4.com.br:8510/stream      			55 kb/s
+1M
+147	 Online	iptvtools_147	http://paineldj4.com.br:8306/stream      			63 kb/s
+1M
+148	 Online	iptvtools_148	http://paineldj4.com.br:8594/stream      			57 kb/s
+1M
+149	 Online	iptvtools_149	http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8      			
+
+150	 Online	iptvtools_150	http://noasrv.caster.fm:10136/stream      			79 kb/s
+1M
+151	 Online	iptvtools_151	http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8      			
+
+152	 Online	iptvtools_152	http://192.99.150.31:8371/stream      			64 kb/s
+1M
+153	 Online	iptvtools_153	http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8      			
+
+155	 Online	iptvtools_155	http://noasrv.caster.fm:10124/stream      			219 kb/s
+4M
+157	 Online	iptvtools_157	http://192.99.150.31:8962/stream      			56 kb/s
+1M
+158	 Online	iptvtools_158	http://transamerica.crossradio.com.br:9114/live.mp3      			63 kb/s
+1M
+159	 Online	iptvtools_159	http://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w1768757031.m3u8      			63 kb/s
+1M
+164	 Online	iptvtools_164	http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8      	720x404
+(180:101)	h264	
+
+169	 Online	iptvtools_169	http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8      	320x180
+(16:9)	h264	
+
+170	 Online	iptvtools_170	http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8      	720x404
+(180:101)	h264	
+
+172	 Online	iptvtools_172	http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8      	426x240
+(71:40)	h264	
+
+175	 Online	iptvtools_175	http://200.189.113.201/hls/tve.m3u8      	696x392
+(0:1)	h264	
+
+176	 Online	iptvtools_176	http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8      	426x240
+(71:40)	h264	
+
+177	 Online	iptvtools_177	http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?      	0x0
+(0:0)	h264	
+
+178	 Online	iptvtools_178	http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?LISTASGLAU      	640x360
+(0:1)	h264	
+
+180	 Online	iptvtools_180	http://stmv2.srvstm.com/classique/classique/playlist.m3u8?CANAISGLAU      	640x480
+(4:3)	h264	
+
+
