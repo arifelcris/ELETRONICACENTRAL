@@ -238,19 +238,19 @@ http://stmv1.ifantasy.com.br/emerson/emerson/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/f/0/4f0dcea9d5f61c539d3df4dc9b45c90b_icon.png?w=240" group-title="TVs no Mundo",TV ZOOM Nova Friburgo RJ
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
 
-##Religião ##
+##CANAIS RELIGIOSOS ##
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-So7mg3331tw/WNFbaAulz1I/AAAAAAAARcM/g5c3VPzdOvQJLU8p7wK_NiW7LNFNMFDmQCLcB/s1600/TV_Novo_Tempo.png" group-title="Religião",Tv Novo Tempo
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-So7mg3331tw/WNFbaAulz1I/AAAAAAAARcM/g5c3VPzdOvQJLU8p7wK_NiW7LNFNMFDmQCLcB/s1600/TV_Novo_Tempo.png" group-title="CANAIS RELIGIOSOS",Tv Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg" group-title="Religião",Hope Channel HD USA
+#EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg" group-title="CANAIS RELIGIOSOS",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="Religião",IURD TV UNIVERSAL 480p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d4bERo.png?1" group-title="CANAIS RELIGIOSOS",IURD TV UNIVERSAL 480p
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
-#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="Religião",TV TERCEIRO ANJO HD Igreja Adventista
+#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/Px-Q7JlM9Vo/0.jpg" group-title="CANAIS RELIGIOSOS",TV TERCEIRO ANJO HD Igreja Adventista
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w73001287.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="Religião",Cristo Vive IGreja Cristã
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/justice/512/bible_hand_sacrament_swear-512.png" group-title="CANAIS RELIGIOSOS",Cristo Vive IGreja Cristã
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w885785483.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9YL4S-qLZPw/T_xe1Sj7bPI/AAAAAAAAB6U/DCaxGCPmby0/s1600/logo+da+Fonte+TV.PNG" group-title="Religião",FonteTV Goiânia-GO
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9YL4S-qLZPw/T_xe1Sj7bPI/AAAAAAAAB6U/DCaxGCPmby0/s1600/logo+da+Fonte+TV.PNG" group-title="CANAIS RELIGIOSOS",FonteTV Goiânia-GO
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
 ## TV Clipes ##
