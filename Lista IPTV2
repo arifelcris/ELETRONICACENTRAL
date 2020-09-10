@@ -417,6 +417,13 @@ http://centova6.ciclanohost.com.br:9256/;
 http://noasrv.caster.fm:10136/stream
 
 ## FILMES ## 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmMWY5YzYtNGU0OS00OWExLWE4MTEtZjdmZTczNGEwNjhmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg" group-title="FILMES",A.X.L - O-Cao-Robo
+http://aranami.lhmtv.gq/filmes/A.X.L-O-Cao-Robo.mp4?LHMTv
+#EXTINF:-1,A Feiticeira 24hs
+http://lista.lorddark.club:8080/2770229816/0130649453/1084
+#EXTINF:-1,A Grande Familia 24h
+http://lista.lorddark.club:8080/2770229816/0130649453/961
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6a/09/22/6a09222b46fffdf5533bde6308aef103.jpg" group-title="FILMES",007 Cassino Royale
 http://aranami.lhmtv.gq/filmes/007-Cassino-Royale.mp4
@@ -1051,6 +1058,4 @@ http://aranami.lhmtv.gq/filmes/A-Volta-dos-Mortos-Vivos-2.mp4?LHMTv
 http://aranami.lhmtv.gq/filmes/A-Young-Man-With-High-Potential-Legendado.mp4?LHMTv
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmMWY5YzYtNGU0OS00OWExLWE4MTEtZjdmZTczNGEwNjhmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg" group-title="FILMES",A.X.L - O-Cao-Robo
-http://aranami.lhmtv.gq/filmes/A.X.L-O-Cao-Robo.mp4?LHMTv
 
