@@ -4,6 +4,7 @@
 https://caikron.com.br:8082/aparecida/aparecida/tvaparecida/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png" group-title="CANAIS RELIGIOSOS", APARECIDA (Link 2 ) 
 plugin://plugin.video.youtube/play/?video_id=4kZFfL0IRQM
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4kZFfL0IRQM
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0Jg8FXAAUj-AfwWwkZRaHxDA96XKdcc2APiZr0UNNP3lk2O42" group-title="CANAIS RELIGIOSOS", REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1j_EH8_vGes/XQ0fWGnJYvI/AAAAAAAABLo/E07XkNQKZzA2hNUZlJIUwSuUTKwqlWU-wCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-43-45.png" group-title="CANAIS RELIGIOSOS", REDE SÉCULO 21 
