@@ -307,16 +307,15 @@ plugin://plugin.video.youtube/play/?video_id=biWQ61cJO0c
 
 ###############################################################################################
 
-ESPORTE 
+ESPORTES 
 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-15-36-14.png" group-title="ESPORTE ", ALL SPORTS 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-15-36-14.png" group-title="ESPORTES", ALL SPORTS 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1316418020.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-34stsac5xoc/XLuWF2_Dc6I/AAAAAAAAAzA/PWgHaG0VOJACXrBMAS7FWsmnu9Iark6AACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-04-20-18-56-01.png" group-title="ESPORTE ", FISH TV 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-34stsac5xoc/XLuWF2_Dc6I/AAAAAAAAAzA/PWgHaG0VOJACXrBMAS7FWsmnu9Iark6AACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-04-20-18-56-01.png" group-title="ESPORTES", FISH TV 
 plugin://plugin.video.youtube/play/?video_id=avGq_HKhhvQ&feature=emb_logo
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JagdtxZ4nm4/XC4qmGeAwQI/AAAAAAAAAX8/mLkJJ7AX-MAyYle4sDOo3ZZGHTzXXI3dQCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-01-03-02-23-21.png" group-title="ESPORTE ", REAL MADRID TV 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JagdtxZ4nm4/XC4qmGeAwQI/AAAAAAAAAX8/mLkJJ7AX-MAyYle4sDOo3ZZGHTzXXI3dQCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-01-03-02-23-21.png" group-title="ESPORTES", REAL MADRID TV 
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTE ", RED BULL TV (USA) 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTES", RED BULL TV (USA) 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZS3-1kNuS2CNPZvLg6z6gfDC64g2Xl91uAvfmK32quSyHuyX7" group-title="ESPORTE ", TVN AO VIVO 
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/chunklist_w379724938.m3u8
