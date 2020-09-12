@@ -56,12 +56,23 @@ VARIEDADES
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1581324329.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzdDhbMqf8HurmuYU2skxVrJ4GRLfEHC61lD-odZmkpDGvkrAw" group-title="VARIEDADES",  BAND  
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1768931610.m3u8
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="VARIEDADES",BAND (PA)
+     https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="VARIEDADES", BRASIL OESTE (MT)
+     https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoGVToyWgpPlgsPh4Gh83pWjz5-SATbpfePbeqNCKtFwFtKzli" group-title="VARIEDADES", CANAL 10 (SP) 
 http://wowza.acessaradios.com.br:1935/canaldez/canaldez/chunklist_w1125158668.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCMDY1N6SGkX_wSz1MIdxLiaw2WDmX639SRL1odW68eZIiqdHO" group-title="VARIEDADES", CANAL RICOS 
 https://video01.kshost.com.br/canalricos548/canalricos548/chunklist_w215257170.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BUmM3RjY9yc/XYfZdqGdzhI/AAAAAAAACAU/-0ocKlowHKcOraPHzD9MF8jPOl87EoyuQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2019-09-22-17-08-28.png" group-title="VARIEDADES", CHEF TV 
 plugin://plugin.video.youtube/play/?video_id=EGnnj4NDhVY&feature=emb_logo
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="VARIEDADES",CNN BRASIL 
+     https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/034f0b8545241e8c0b5b7cc9c58c5e77.png" group-title="VARIEDADES", CREAT 
 https://stmv3.srvstm.com/ceak/ceak/playlist.m3u8|Referer=http://www.cxtv.com.br/tv-ao-vivo/ceak-tv
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-WoyAbHmtFRk/XQlyNE_F0gI/AAAAAAAABHE/0I8aKX_x6tEtaarSLuMvW6w6Rp1ZiwBPwCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-20-19-51.png" group-title="VARIEDADES", GAZETA 
@@ -74,24 +85,54 @@ plugin://plugin.video.youtube/play/?video_id=N7721V5hl1Y&feature=emb_logo
 https://59f2354c05961.streamlock.net:1443/mkkweb/_definst_/mkkweb/chunklist_w1992776570.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_0yXcpvwwdh8/S_lqEJmHZEI/AAAAAAAABq0/YWb4W6vgWrk/s1600/logo.jpg" group-title="VARIEDADES", NGP TV 
 https://novo.bitstreaming.info/8278/8278/chunklist_w1639635617.m3u8
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="VARIEDADES",PARANÁ TURISMO
+     http://200.189.113.201/hls/tve.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vCGt6FQ9jZ4/XQlbSeitKSI/AAAAAAAABFs/ihgbZR6mpdMUUN3ZYOyxWpqHhJBO-bSdgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-11-15.png" group-title="VARIEDADES", RECORD (DF) 
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vCGt6FQ9jZ4/XQlbSeitKSI/AAAAAAAABFs/ihgbZR6mpdMUUN3ZYOyxWpqHhJBO-bSdgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-11-15.png" group-title="VARIEDADES", RECORD (GO) 
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-p.m3u8?sd=10&rebase=on
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="VARIEDADES", RECORD (MG) 
+     http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vCGt6FQ9jZ4/XQlbSeitKSI/AAAAAAAABFs/ihgbZR6mpdMUUN3ZYOyxWpqHhJBO-bSdgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-11-15.png" group-title="VARIEDADES", RECORD (RN) 
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w1018637283.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/tAJs4fleaz54N9UgkzO7hS7MBRRYEpprK9MPTIP4Koyjk5UtjXzjahh5Bu7bQoyKeod9cVia2OSB1A_u8Wmt9uD2e_iXno1zd5umgtXpNygFlGfeUrwU" group-title="VARIEDADES", RECORD NEWS 
 plugin://plugin.video.youtube/play/?video_id=RpDkRX0cDAY&feature=emb_logo
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdnpW5Zhp8g8QjVnBiw4S-jxXF3_GT_uny2ErhOS8ghWMBzpk3" group-title="VARIEDADES", REDE CNT (PR) 
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p528k/index.m3u8
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="VARIEDADES", REDE METRÓPOLE
+     http://177.130.81.30/hls/metropole.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="VARIEDADES", REDE TV  
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w4763438.m3u8
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="VARIEDADES", REDE TV 
+     https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvesp.png" group-title="VARIEDADES", REDE TV (ES)
+     https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=7485000014348485000
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="VARIEDADES", REDE TV (RS) 
+     https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="VARIEDADES", REDE TV (TV PAMPA) 
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w977763806.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png" group-title="VARIEDADES", SBT (SP) 
-plugin://plugin.video.youtube/play/?video_id=9z_8k1Ir-6U
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png" group-title="VARIEDADES", SBT (PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w918573194.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png" group-title="VARIEDADES", SBT (SP) 
+plugin://plugin.video.youtube/play/?video_id=9z_8k1Ir-6U
+
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="VARIEDADES", SBT - TV Jornal (PE)
+     http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="VARIEDADES",SBT - TV Difusora (MA)
+     https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png" group-title="VARIEDADES", TV8 
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ae8c4979f2cb848a2f112d8afd097cb.jpg" group-title="VARIEDADES", TV ABERTA SP 
@@ -110,6 +151,8 @@ https://59f1cbe63db89.streamlock.net:1443/toptv/_definst_/toptv/chunklist_w17649
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1603181287.m3u8
 #EXTINF:-1 tvg-logo="https://portal.tvdopovo.com/wp-content/uploads/2019/02/tv1.png" group-title="VARIEDADES", TV O POVO 
 https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/chunklist_w1398013854.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I2RHCPDWC20/X0p9VuSlpuI/AAAAAAAADNE/TBCM20y9HpoEyDOw-CvDCM9pbsczlbgnQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-08-29-12-52-17.png" group-title="VARIEDADES",TV PRECABURA
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/chunklist_w1637996250.m3u8
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/6_X-dtwh4E4/hqdefault.jpg" group-title="VARIEDADES", TV SHOPTIME 
 plugin://plugin.video.youtube/play/?video_id=ZC0_rKob80I&amp
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy5Lc-_xVdyi8-yHDxqGRSFEJbXWBzGfBoI-rTCJHRmVHKdAhX" group-title="VARIEDADES", TV SOTEROPOLITANA 
@@ -154,6 +197,11 @@ https://stmv.voxtvhd.com.br/istv/istv/chunklist_w1771063860.m3u8
 https://59f2354c05961.streamlock.net:1443/kcepatv/_definst_/kcepatv/chunklist_w1827084850.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xRCBFLNE8Us/XwJqkuq7rgI/AAAAAAAADEo/QeRVwAJlQMgcVo1-9-FoFtodGOcpEHFewCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-07-05-21-01-09.png" group-title="FILMES E VARIEDADES", KRONOS MOVIE WEB TV 
 https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="FILMES E VARIEDADES", KURIAKOS KIDS
+     http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JwZlc2K1-vw/XqeJPjzZWqI/AAAAAAAACqU/SQ01_WsB9wQQmRpVaC1EMa1PPcy6LSrugCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-04-27-22-35-28.png" group-title="FILMES E VARIEDADES", LATINA SAT 
 https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjreX0RysCVRq6pRi6bN9EcPQUd1RLERs7qDnC79GHHCdT7f4N" group-title="FILMES E VARIEDADES", REDE BRASIL 
@@ -196,13 +244,20 @@ https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chun
 
 FILMES 24 HORAS
 
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dUseWAWU-AY/X1wVOIzQA8I/AAAAAAAADRU/icD0-UVwTU0NDeb953O41z0G_1fzCLGfwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-09-11-21-00-12.png" group-title="FILMES 24 HORAS", CHAVES 
+https://www.youtube.com/embed/ltt5Z_PW2Lw?controls=0&modestbranding=0&rel=0&showinfo=0&loop=0&disablekb=1&fs=0&hl=pt&iv_load_policy=3&playsinline=1&widget_referrer=http%3A%2F%2Fwww.olhosnatv.com.br%2F2020%2F01%2Ftv-chaves.html&enablejsapi=1&origin=http%3A%2F%2Fapp.viloud.tv&widgetid=2
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-k0sQXwQB-2I/X1wUu4BIekI/AAAAAAAADRM/9q3ss9I4iqk8V3KYoZXD293w30GDPesFACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-09-11-20-58-39.png" group-title="FILMES 24 HORAS", Eu, a Patroa e as Crianças 
+https://www.youtube.com/embed/__RhpGM0y3c?controls=0&modestbranding=0&rel=0&showinfo=0&loop=0&disablekb=1&fs=0&hl=pt&iv_load_policy=3&playsinline=1&widget_referrer=http%3A%2F%2Fwww.olhosnatv.com.br%2F2020%2F01%2Feu-patroa-e-as-criancas.html&enablejsapi=1&origin=http%3A%2F%2Fapp.viloud.tv&widgetid=1
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES 24 HORAS", CLASSIC TV 
 https://stmv6.srvstm.com/classique/classique/chunklist_w790746133.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-16-51-47.png" group-title="FILMES 24 HORAS", GOSPEL MOVIES TELEVISION 
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w591949135.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-24-22-22-55.png" group-title="FILMES 24 HORAS", LONDRINA TV 
 https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w1093806606.m3u8
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="FILMES 24 HORAS", RETRÔ CARTOON
+     https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t71A1yZhLw0/XcTsT2mNzMI/AAAAAAAAAHE/4bvVdcG7yyI9Bj-f6bH2k-w2Ki-mcEwEgCLcBGAsYHQ/s1600/TV-Carioca.jpg" group-title="FILMES 24 HORAS", TV CARIOCA
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w1030994637.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-20-21-12-40.png" group-title="FILMES 24 HORAS", TV J.SID 
@@ -217,7 +272,8 @@ https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w2108776781.m3u8
 
 CULTURA
 
-
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CULTURA", CULTURA
+     https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CULTURA", CULTURA 
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CULTURA", CULTURA (Catve Paraná) 
@@ -240,6 +296,10 @@ https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_w9274
 http://midiamobile.faap.br/faaplatamlive-live/stream_480/chunklist_w2111034803.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AyvQ_GWHHRk/XidTZEc01uI/AAAAAAAACYk/7NPVArAhge0ehksYnONeuvCPQ7dDh8oDACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-01-21-16-36-15.png" group-title="CULTURA", TV PARANÁ TURISMO 
 http://200.189.113.201/hls/tve.m3u8
+
+     #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="CULTURA", TVE (BH)
+     http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-t-uZ0bq-tcM/XDdn999XyKI/AAAAAAAAAd0/VSFDUJ7O0ZQ2EgtnHfahIQMFwt5d22eHgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-01-10-12-55-52.png" group-title="CULTURA", TVU Recife 
 http://150.161.93.220/hls/480/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0DT862fQfnw/XtbAufp6clI/AAAAAAAAC5A/-PbjcSbjH7whxtTgZ6ZmIwhAoUkomZ5UwCPcBGAYYCw/w1200-h630-p-k-no-nu/2020-06-02%2B18.09.13.png" group-title="CULTURA", UNIVESP TV 
