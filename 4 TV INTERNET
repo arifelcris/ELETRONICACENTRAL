@@ -36,13 +36,8 @@
 <thumbnail>http://www.perdaoamorcaridade.com.br/images/testatv.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR white] TV CANÇÃO NOVA (Link 1 ) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<title>[B][COLOR white] TV CANÇÃO NOVA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=ILfBOmhsvwo</link>
-<thumbnail>https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV CANÇÃO NOVA (Link 2 ) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=vJGIajFUTVE</link>
 <thumbnail>https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png</thumbnail>
 </item>
 <title>[B][COLOR white] TV ESPÍRITA DO PARANÁ [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
