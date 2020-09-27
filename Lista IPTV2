@@ -2,11 +2,6 @@
 
 CANAIS RELIGIOSOS
 
-
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/XXXXXXX/hqdefault.jpg" group-title="SERIADO O FANTASMA DA VILA ",[B] [COLOR gold]SERIADO O SORTUDO DA VILA [/COLOR] [/B]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4kZFfL0IRQM
-
-
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png" group-title="CANAIS RELIGIOSOS", APARECIDA (Link 1 ) 
 https://caikron.com.br:8082/aparecida/aparecida/tvaparecida/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png" group-title="CANAIS RELIGIOSOS", APARECIDA (Link 2 ) 
@@ -46,11 +41,9 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jkmJMa6L1bQ/XtKKRO6nxlI/AAAAAAAAC4Q/bc0eBBzbgE0jrffkib3kbi_G336e6p1zgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-05-30-13-22-44.png" group-title="CANAIS RELIGIOSOS", TV VIANNEY  
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist_w2077797939.m3u8
 
-
 #######################################################################################################
 
 VARIEDADES
-
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JPAUihjtghI/XiiUPErQOzI/AAAAAAAACYw/9MNZWRapDFwiCH7A2Pk0ufNIjBzK1W7EACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-01-22-15-25-21.png" group-title="VARIEDADES", AGROBRASIL TV 
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1581324329.m3u8
@@ -177,7 +170,6 @@ http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBfbKC3DnJDcfPWnfA_Ty9nNLT7myhtDXjUIEqun9XNgL7AtZq" group-title="VARIEDADES", TVE (RS) 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1769320766.m3u8
 
-
 ###############################################################################
 
 FILMES E VARIEDADES
@@ -248,7 +240,6 @@ https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w1882957533.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-04-26-17-09-52.png" group-title="FILMES E VARIEDADES", WEB TV PROGRESSO 
 https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w106056719.m3u8
 
-
 ###########################################################################################
 
 FILMES 24 HORAS
@@ -287,7 +278,6 @@ https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w37548500.m3u8
 https://stmv4.srvstm.com/tvserie/tvserie/chunklist_w1929727589.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dujMg4rd8a4/XriKbnJOt3I/AAAAAAAACvo/1olo3x6Iydga8wrQmsXUm8NW6-NkVp9eACLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-05-10%2B20.09.46.png" group-title="FILMES 24 HORAS", WEB TV RWCG 
 https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w2108776781.m3u8
-
 
 #################################################################################################
 
@@ -342,14 +332,12 @@ plugin://plugin.video.youtube/play/?video_id=avGq_HKhhvQ&feature=emb_logo
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTES", RED BULL TV (USA) 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZS3-1kNuS2CNPZvLg6z6gfDC64g2Xl91uAvfmK32quSyHuyX7" group-title="ESPORTE ", TVN AO VIVO 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZS3-1kNuS2CNPZvLg6z6gfDC64g2Xl91uAvfmK32quSyHuyX7" group-title="ESPORTES", TVN AO VIVO 
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/chunklist_w379724938.m3u8
 
 ##################################################################################################
 
-
 MÚSICAS 
-
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FYiGJUkgeNs/XufFU_Ndb0I/AAAAAAAADAc/69y4FMT2j3k1Towld_VmQXvoZ9hcZOr3gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-15-15-56-30.png" group-title=" MÚSICAS ", ALX TV 
 https://srv3.zcast.com.br/alxtv/alxtv/chunklist_w1633443454.m3u8
