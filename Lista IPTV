@@ -244,10 +244,6 @@ https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chun
 
 FILMES 24 HORAS
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dUseWAWU-AY/X1wVOIzQA8I/AAAAAAAADRU/icD0-UVwTU0NDeb953O41z0G_1fzCLGfwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-09-11-21-00-12.png" group-title="FILMES 24 HORAS", CHAVES 
-http://www.olhosnatv.com.br/2020/01/tv-chaves.html
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-k0sQXwQB-2I/X1wUu4BIekI/AAAAAAAADRM/9q3ss9I4iqk8V3KYoZXD293w30GDPesFACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-09-11-20-58-39.png" group-title="FILMES 24 HORAS", EU A PATROA E AS CRIANÇAS 
-http://www.olhosnatv.com.br/2020/01/eu-patroa-e-as-criancas.html
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-dntGYzVFEFQ/XtvGraowjJI/AAAAAAAAC7A/TwSrvMwM1pU4wADUfkwBEDZYXG_Ps5jQACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-06-13-35-36.png" group-title="FILMES 24 HORAS", CANAL 29 
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1915094351.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES 24 HORAS", CLASSIQUE TV 
@@ -337,7 +333,7 @@ http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/chunklist_w379724938.m3u8
 
 ##################################################################################################
 
-MÚSICAS 
+#EXTINF:-1tvg-logo=" " group-title=" MÚSICAS "
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FYiGJUkgeNs/XufFU_Ndb0I/AAAAAAAADAc/69y4FMT2j3k1Towld_VmQXvoZ9hcZOr3gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-15-15-56-30.png" group-title=" MÚSICAS ", ALX TV 
 https://srv3.zcast.com.br/alxtv/alxtv/chunklist_w1633443454.m3u8
