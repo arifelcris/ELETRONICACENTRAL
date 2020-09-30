@@ -1,13 +1,12 @@
 #EXTM3U
 
-" CANAIS RELIGIOSOS "
+CANAIS RELIGIOSOS 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png" group-title="CANAIS RELIGIOSOS", APARECIDA (Link 1 ) 
 https://caikron.com.br:8082/aparecida/aparecida/tvaparecida/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png" group-title="CANAIS RELIGIOSOS", APARECIDA (Link 2 ) 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4kZFfL0IRQM
 plugin://plugin.video.youtube/play/?video_id=4kZFfL0IRQM
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4kZFfL0IRQM
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0Jg8FXAAUj-AfwWwkZRaHxDA96XKdcc2APiZr0UNNP3lk2O42" group-title="CANAIS RELIGIOSOS", REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1j_EH8_vGes/XQ0fWGnJYvI/AAAAAAAABLo/E07XkNQKZzA2hNUZlJIUwSuUTKwqlWU-wCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-43-45.png" group-title="CANAIS RELIGIOSOS", REDE SÉCULO 21 
@@ -17,7 +16,7 @@ plugin://plugin.video.youtube/play/?video_id=TPgTUBJmpOE
 #EXTINF:-1 tvg-logo="http://www.perdaoamorcaridade.com.br/images/testatv.png" group-title="CANAIS RELIGIOSOS", TV A CAMINHO DA LUZ 
 http://wse01.logicahost.com.br:1935/tvacaminhodaluz/_definst_/tvacaminhodaluz/chunklist_w395126121.m3u8
 #EXTINF:-1 tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png" group-title="CANAIS RELIGIOSOS", TV CANÇÃO NOVA 
-plugin://plugin.video.youtube/play/?video_id=vJGIajFUTVE
+plugin://plugin.video.youtube/play/?video_id=979E53tP62w
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3273e6ac3e1898fe443ef9182133054a.png" group-title="CANAIS RELIGIOSOS", TV ESPÍRITA DO PARANÁ
 https://srv4.zcast.com.br/rodney2576/rodney2576/chunklist_w1855702479.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79ZA8bYeL95uc67JnPavJ_wTHp9ag2BH5qr2Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="CANAIS RELIGIOSOS", TV EVANGELIZAR 
@@ -43,7 +42,7 @@ https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunkl
 
 #######################################################################################################
 
-" VARIEDADES "
+VARIEDADES 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JPAUihjtghI/XiiUPErQOzI/AAAAAAAACYw/9MNZWRapDFwiCH7A2Pk0ufNIjBzK1W7EACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-01-22-15-25-21.png" group-title="VARIEDADES", AGROBRASIL TV 
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1581324329.m3u8
@@ -172,7 +171,7 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1769320766.m3u8
 
 ###############################################################################
 
- " FILMES E VARIEDADES "
+FILMES E VARIEDADES
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-85yToGesSc8/XZVVTRDVJfI/AAAAAAAACDs/8gVh_qQB0T005QjJrsIBF0LTZiQ9iml1ACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-10-02-22-55-09.png" group-title="FILMES E VARIEDADES", ÁGUA BOA 
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1606081356.m3u8
@@ -242,7 +241,7 @@ https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chun
 
 ###########################################################################################
 
-" FILMES 24 HORAS "
+FILMES 24 HORAS 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-dntGYzVFEFQ/XtvGraowjJI/AAAAAAAAC7A/TwSrvMwM1pU4wADUfkwBEDZYXG_Ps5jQACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-06-13-35-36.png" group-title="FILMES 24 HORAS", CANAL 29 
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1915094351.m3u8
@@ -277,7 +276,7 @@ https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w2108776781.m3u8
 
 #################################################################################################
 
-" CULTURA "
+CULTURA 
 
      #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CULTURA", CULTURA
      https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
@@ -318,7 +317,7 @@ plugin://plugin.video.youtube/play/?video_id=biWQ61cJO0c
 
 ###############################################################################################
 
-" ESPORTES "
+ESPORTES 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-15-36-14.png" group-title="ESPORTES", ALL SPORTS 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1316418020.m3u8
@@ -333,7 +332,7 @@ http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/chunklist_w379724938.m3u8
 
 ##################################################################################################
 
-" MÚSICAS "
+MÚSICAS 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FYiGJUkgeNs/XufFU_Ndb0I/AAAAAAAADAc/69y4FMT2j3k1Towld_VmQXvoZ9hcZOr3gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-15-15-56-30.png" group-title=" MÚSICAS ", ALX TV 
 https://srv3.zcast.com.br/alxtv/alxtv/chunklist_w1633443454.m3u8
