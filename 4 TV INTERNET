@@ -7,7 +7,7 @@
 
 <item>
 <title>[B][COLOR white] APARECIDA (Link 1 )[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://caikron.com.br:8082/aparecida/aparecida/tvaparecida/live_720p/chunks.m3u8</link>
+<link>https://caikron.com.br:8082/tvaparecidalive/tvaparecidalive/aparecidalive/aparecidalive_source/chunks.m3u8</link>
 <thumbnail>https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png</thumbnail>
 </item>
 <item>
@@ -38,11 +38,6 @@
 <item>
 <title>[B][COLOR white] TV CANÇÃO NOVA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=OjkBZ-shFsw&feature=emb_logo</link>
-<thumbnail>https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV CANÇÃO NOVA (2)[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1601794602/ei/yh15X572BMGgxwTtvYa4Cg/ip/177.131.117.169/id/OjkBZ-shFsw.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r1---sn-bboxu-m52l.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/7980/mh/N8/mm/44/mn/sn-bboxu-m52l/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/dover/11/keepalive/yes/fexp/23915654/mt/1601773158/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhALjtTzEhuE1CzmiYoO1ozPdCVL8XNPyZODoxM8_4PxngAiBYmomxFelLWQP2I6Lf6SQ2wcORnLiylF0vflkCsJx85w%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhAMgdjSgbMe6JPW_oAFAGA0sRzh1sXE7HxBoqBj0trn59AiEArsg39f0uy_0zzzTY_YlqBOu5jesAwDQ7sY7fWX2Q8y4%3D/playlist/index.m3u8</link>
 <thumbnail>https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png</thumbnail>
 </item>
 <item>
