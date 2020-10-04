@@ -1,7 +1,6 @@
 #EXTM3U
 
-CANAIS RELIGIOSOS 
-
+#EXTINF:-1 tvg-logo="https://imagem" group-title="CANAIS RELIGIOSOS", CANAIS RELIGIOSOS
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png" group-title="CANAIS RELIGIOSOS", APARECIDA (Link 1 ) 
 https://caikron.com.br:8082/aparecida/aparecida/tvaparecida/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png" group-title="CANAIS RELIGIOSOS", APARECIDA (Link 2 ) 
