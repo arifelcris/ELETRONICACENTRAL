@@ -155,13 +155,8 @@
 </item>
 <item>
 <title>[B][COLOR white] TV NATAL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://177.195.16.123:1935/vmix/myStream/chunklist_w1283019136.m3u8</link>
+<link>http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w772957694.m3u8</link>
 <thumbnail>https://4.bp.blogspot.com/-Ncu3PyRUS7E/XNzjm4CVk1I/AAAAAAAAA3Q/tOw-OymRFDY4xF11fUfvKsqnmc6kV1HMwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-05-16-01-11-16.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV NOVA ONDA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w1187328980.m3u8</link>
-<thumbnail>https://3.bp.blogspot.com/-S-iIlMTVLr8/XqX1Bwf0XMI/AAAAAAAACpI/2CEospJ1RQIdMyukE99W4IcpZ4k1epBUgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-04-26-17-49-57.png</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] TV PONTA DA SERRA [/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
@@ -193,7 +188,7 @@
 </item>
 <item>
 <title>[B][COLOR white] CTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://5d2c98775bafe.streamlock.net/cariritv/cariritv/chunklist_w1588867059.m3u8</link>
+<link>https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1355304969.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-faI3sYffT0w/Xrh_hrkuOcI/AAAAAAAACvE/3mt6BIKei_EHg9lOQetZU9Kk9kH2SJsMwCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-05-10%2B19.21.05.png</thumbnail>
 </item>
 <item>
@@ -205,11 +200,6 @@
 <title>[B][COLOR white] REDE PREMIUM [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1392640.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-DIel-15w_RA/XYQUDMew-3I/AAAAAAAAB9Y/g8ZgiEk-3BQt9t9LIsRr3pD3Yzj6zrcfgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2019-09-19-20-29-00.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV CARIOCA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w1030994637.m3u8</link>
-<thumbnail>https://1.bp.blogspot.com/-t71A1yZhLw0/XcTsT2mNzMI/AAAAAAAAAHE/4bvVdcG7yyI9Bj-f6bH2k-w2Ki-mcEwEgCLcBGAsYHQ/s1600/TV-Carioca.jpg</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] TV DIGITAL BIRIGUI [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
@@ -286,7 +276,7 @@ item>
 </item>
 <item>
 <title>[B][COLOR white] TV BRASIL 2 [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://video-rvd-pe-cdc-gw-1-2.rnp.br/live/ocp(t(FidPb-gRg-4)r(fVR9ug)a(sYN1mQ)p(d(aGg)k(qNY)m(N042WCQ71ro3hxdJ_Aeptw)n(a(6g483g)s(HW0)'a(Nh6B0A)s(E00)))s(s(Jm8)b(dw4GsS1B2hablL9Z4NO95FsUmblEU_FLAxEXmeih2XtqwJ4e03WdQCQ1eGqIHteffVFa31cqsK3himX1-w)'s(IpA)b(lMvmQ0_n8M0HmmAePgBLBsESlNBvtVktsf5mUYB18r8UwuDFy-AnpGAs6KecvjZO9iXmR5MzTFQ2DO8W7qCSMVOBjbGF6U06G4I572AX)'s(6yA)b(S7lTd-31))m(0))/28_index.m3u8</link>
+<link>https://video-rvd-pr-gw-1.rnp.br/live/ocp(t(FjvaNW9AYug)r(fVR9ug)a(sYN1GQ)p(d(2xc)k(q8A)m(KAgFgKn6SbAxl-Ns9jXZLA)n(a(N1s8QQ)s(TIA)'a(6o3HEA)s(Sbo)))s(s(4Is)b(hsueOiIKhxdw3zMDGKLcqt9VDqIUVOn3IaqPPPDlsNG0PJOazK_01pw4fnGvFiEoO6OcI-TBO215j-CQpA)'s(Hkg)b(XMykezwkIUwBA3Yc1JLXftnkk2xSWJnFavUCPlKEyRPudmhSpgzs223jQduZ7dgl6xCnK5cQt4Bs_wyq_fCt9gQ65aU1mnLKU_UrHpYc)'s(27A)b(lkJyrl54))m(0))/30_index.m3u8</link>
 <thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png</thumbnail>
 </item>
 <item>
@@ -329,7 +319,7 @@ item>
 </item>
 <item>
 <title>[B][COLOR white] FISH TV[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=avGq_HKhhvQ&feature=emb_logo</link>
+<link>plugin://plugin.video.youtube/play/?video_id=ZMNKkiiShZI&feature=emb_logo</link>
 <thumbnail>https://2.bp.blogspot.com/-34stsac5xoc/XLuWF2_Dc6I/AAAAAAAAAzA/PWgHaG0VOJACXrBMAS7FWsmnu9Iark6AACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-04-20-18-56-01.png</thumbnail>
 </item>
 <item>
@@ -369,6 +359,11 @@ item>
 <title>[B][COLOR white] LONDRINA TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w1093806606.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-24-22-22-55.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white] TV CARIOCA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w1030994637.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-t71A1yZhLw0/XcTsT2mNzMI/AAAAAAAAAHE/4bvVdcG7yyI9Bj-f6bH2k-w2Ki-mcEwEgCLcBGAsYHQ/s1600/TV-Carioca.jpg</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] TV J.SID[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
@@ -572,18 +567,18 @@ item>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR white] SBT (SP) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=9z_8k1Ir-6U</link>
-<thumbnail>https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png</thumbnail>
-</item>
-<item>
 <title>[B][COLOR white] SBT (PI) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w918573194.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png</thumbnail>
 </item>
 <item>
+<title>[B][COLOR white] SBT (RS) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=d3mgbTAUqd4</link>
+<thumbnail>https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png</thumbnail>
+</item>
+<item>
 <title>[B][COLOR white] TV8 [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b1064000.m3u8</link>
+<link>https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b864000.m3u8</link>
 <thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png</thumbnail>
 </item>
 <item>
@@ -613,7 +608,7 @@ item>
 </item>
 <item>
 <title>[B][COLOR white] TV MACEIÓ (AL) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://59f1cbe63db89.streamlock.net:1443/toptv/_definst_/toptv/chunklist_w1764954402.m3u8</link>
+<link>https://srv3.zcast.com.br/tvmaceio/tvmaceio/chunklist_w290279115.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbTEh5ApumVuWbeIa_LFqO7E-e40Z2ofzef8M88PTL-RSKAov4</thumbnail>
 </item>
 <item>
