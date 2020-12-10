@@ -7,12 +7,12 @@
 
 <item>
 <title>[B][COLOR white] APARECIDA (Link 1 )[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://caikron.com.br:8082/padroeira/padroeira/cktv/teste_source/chunks.m3u8?nimblesessionid=32157490</link>
+<link>https://caikron.com.br:8082/padroeira/padroeira/cktv/teste_source/chunks.m3u8?nimblesessionid=46503260</link>
 <thumbnail>https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] APARECIDA (Link 2 )[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=k5FEpD9fe9k</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Hzu0r5IMf2w</link>
 <thumbnail>https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-14-00-01.png</thumbnail>
 </item>
 <item>
@@ -37,7 +37,7 @@
 </item>
 <item>
 <title>[B][COLOR white] TV CANÇÃO NOVA (Link 1) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=lJBfhlqYorQ</link>
+<link>plugin://plugin.video.youtube/play/?video_id=-ay_MdbzTi0</link>
 <thumbnail>https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png</thumbnail>
 </item>
 <item>
@@ -57,7 +57,7 @@
 </item>
 <item>
 <title>[B][COLOR white] TV HORIZONTE [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=IFA6Y7M9oeY</link>
+<link>plugin://plugin.video.youtube/play/?video_id=YkWqJ0TeTCo</link>
 <thumbnail>https://4.bp.blogspot.com/-p4hOsadMkcI/XikDE3x4IHI/AAAAAAAACZg/jG2odwzP9Xc1lmMBJFHJO1j9OwlFzlAjQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-01-22%2B23.17.41.png</thumbnail>
 </item>
 <item>
@@ -67,12 +67,12 @@
 </item>
 <item>
 <title>[B][COLOR white] TV MUNDO MAIOR [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=VYTvXmtgQAo</link>
+<link>plugin://plugin.video.youtube/play/?video_id=FPHCNlCgrZo</link>
 <thumbnail>https://2.bp.blogspot.com/-CKqe5dX-N0M/XVNoNYmuJuI/AAAAAAAABdg/e_CvFlCulooKU_swsxBYDEp-35ZbF7Y8QCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-08-13-22-29-31.png</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] TV NOVO MILÊNIO [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://wz5.dnip.com.br/mileniotv/mileniotv.sdp/chunklist_w1633105753.m3u8</link>
+<link>http://stmv3.samcast.com.br/jaguaraci8037/jaguaraci8037/chunklist_w1160004526.m3u8</link>
 <thumbnail>https://3.bp.blogspot.com/-OPMHeuw5BXM/XYU2LU-kbMI/AAAAAAAAB_A/O8iYAZT_ui4JGdoIPwuRoEbpX7VoesqPACLcBGAsYHQ/w1200-h630-p-k-no-nu/2019-09-20%2B17.22.30.png</thumbnail>
 </item>
 <item>
@@ -150,7 +150,7 @@
 </item>
 <item>
 <title>[B][COLOR white] TV MANCHETE  [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1461708635.m3u8</link>
+<link>https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1359478117.m3u8</link>
 <thumbnail>https://3.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5I/FACX4ryNonI-ynqkfSkHhf7yIFvK95eqACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-02-18-28-37.png</thumbnail>
 </item>
 <item>
@@ -244,7 +244,7 @@
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse:CANAIS DE CULTURA E APRENDIZADO ! [/COLOR][/B]</info>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-<item>
+item>
 <title>[B][COLOR white] CULTURA (BA)[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
@@ -276,7 +276,7 @@ item>
 </item>
 <item>
 <title>[B][COLOR white] SESC TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8</link>
+<link>https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/e48d0a10fc266bc1121b9e0e2af7ce9b/video/0c5c065d-aef3-4c15-8480-671268f9bd85_index1080p.m3u8</link>
 <thumbnail>https://4.bp.blogspot.com/-OV1sqQRTa_k/XtbIgvin_SI/AAAAAAAAC5U/HYNuaX5vJyUlE_ktjWpLtBHCs-hvk1ROgCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-06-02%2B18.41.50.png</thumbnail>
 </item>
 <item>
@@ -286,7 +286,7 @@ item>
 </item>
 <item>
 <title>[B][COLOR white] TV CANDIDÉS [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_w927485057_b2146304.m3u8</link>
+<link>https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b1327104.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-4yRLtTpO1u0/XKee145OuoI/AAAAAAAAAtU/--ibs_tKaI4TChvyKThhslwTEezkfCbhQCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-04-05-15-29-17.png</thumbnail>
 </item>
 <item>
@@ -301,7 +301,7 @@ item>
 </item>
 <item>
 <title>[B][COLOR white] TVU Recife [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>http://150.161.93.220/hls/480/index.m3u8</link>
+<link>http://150.161.93.220/hls/720/index.m3u8</link>
 <thumbnail>https://3.bp.blogspot.com/-t-uZ0bq-tcM/XDdn999XyKI/AAAAAAAAAd0/VSFDUJ7O0ZQ2EgtnHfahIQMFwt5d22eHgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-01-10-12-55-52.png</thumbnail>
 </item>
 <item>
@@ -322,9 +322,9 @@ item>
 <link>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1316418020.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-15-36-14.png</thumbnail>
 </item>
-<item>
+item>
 <title>[B][COLOR white] FISH TV[/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ZMNKkiiShZI&feature=emb_logo</link>
+<link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail>https://2.bp.blogspot.com/-34stsac5xoc/XLuWF2_Dc6I/AAAAAAAAAzA/PWgHaG0VOJACXrBMAS7FWsmnu9Iark6AACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-04-20-18-56-01.png</thumbnail>
 </item>
 <item>
@@ -367,7 +367,7 @@ item>
 </item>
 <item>
 <title>[B][COLOR white] TV CARIOCA [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w1030994637.m3u8</link>
+<link>https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w767775372.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-t71A1yZhLw0/XcTsT2mNzMI/AAAAAAAAAHE/4bvVdcG7yyI9Bj-f6bH2k-w2Ki-mcEwEgCLcBGAsYHQ/s1600/TV-Carioca.jpg</thumbnail>
 </item>
 <item>
@@ -393,11 +393,6 @@ item>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse: VÁRIOS CANAIS DE MÚSICAS ATUAIS E ANTIGAS ! [/COLOR][/B]</info>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-<item>
-<title>[B][COLOR white] ALX TV [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://srv3.zcast.com.br/alxtv/alxtv/chunklist_w1633443454.m3u8</link>
-<thumbnail>https://3.bp.blogspot.com/-FYiGJUkgeNs/XufFU_Ndb0I/AAAAAAAADAc/69y4FMT2j3k1Towld_VmQXvoZ9hcZOr3gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-15-15-56-30.png</thumbnail>
-</item>
 <item>
 <title>[B][COLOR white] CALIFORNIA MUSIC CHANNEL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8</link>
@@ -425,7 +420,7 @@ item>
 </item>
 <item>
 <title>[B][COLOR white] OTTO FM TV [/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
-<link>http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?sessId=27331</link>
+<link>http://streaming.bitonlive.net:8080/hls/ottofmtv/2_1/index.m3u8?sessId=27619</link>
 <thumbnail>https://2.bp.blogspot.com/-rQzY1wPAwJc/XLuDxBhpWDI/AAAAAAAAAyA/9yJBYRjU_r80180qMKch4mhoCzM0CTfdQCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-04-20-17-38-56.png</thumbnail>
 </item>
 <item>
@@ -462,11 +457,6 @@ item>
 <title>[B][COLOR white] TOP LATINO TV [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w858803545.m3u8</link>
 <thumbnail>https://4.bp.blogspot.com/-8GCMWmEqu-4/XQgVdBaFCqI/AAAAAAAABEU/bhgmhmbLEOslIK_tvMzujXA3seEldGVXQCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-17-19-30-30.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TOP TV [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1491983820.m3u8</link>
-<thumbnail>https://1.bp.blogspot.com/-6c4zqybh1wo/XQ7jYQfG8UI/AAAAAAAABMY/uneDcaDrYr4uglted32-rhYirCooF5XjwCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-22-23-23-54.png</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] TV UNIÃO DE NATAL [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
