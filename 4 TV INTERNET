@@ -471,7 +471,7 @@ item>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]ELETRÔNICA[/B][/COLOR][COLOR deeppink][B]CENTRAL[/B][/COLOR] - [COLOR lime][B]Sinopse: VARIEDADES [/COLOR][/B]</info>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-<item>
+item>
 <title>[B][COLOR white] AGROBRASIL TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1581324329.m3u8</link>
 <thumbnail>https://4.bp.blogspot.com/-JPAUihjtghI/XiiUPErQOzI/AAAAAAAACYw/9MNZWRapDFwiCH7A2Pk0ufNIjBzK1W7EACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-01-22-15-25-21.png</thumbnail>
@@ -491,7 +491,7 @@ item>
 <link>https://video01.kshost.com.br/canalricos548/canalricos548/chunklist_w215257170.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCMDY1N6SGkX_wSz1MIdxLiaw2WDmX639SRL1odW68eZIiqdHO</thumbnail>
 </item>
-<item>
+item>
 <title>[B][COLOR white] CHEF TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=EGnnj4NDhVY&feature=emb_logo</link>
 <thumbnail>https://1.bp.blogspot.com/-BUmM3RjY9yc/XYfZdqGdzhI/AAAAAAAACAU/-0ocKlowHKcOraPHzD9MF8jPOl87EoyuQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2019-09-22-17-08-28.png</thumbnail>
@@ -511,7 +511,7 @@ item>
 <link>http://c2.manasat.com:1935/kkids/kkids2/chunklist_w1895202748.m3u8</link>
 <thumbnail>https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-11-16-51-42.png</thumbnail>
 </item>
-<item>
+item>
 <title>[B][COLOR white] MEGA TV [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=N7721V5hl1Y&feature=emb_logo</link>
 <thumbnail>https://1.bp.blogspot.com/-zlBMunuU8mU/XukK9_C4pRI/AAAAAAAADA4/bizuuP6PE5goH-8hq3lf-8o7nUgMLpOJwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-16-15-05-47.png</thumbnail>
@@ -543,12 +543,12 @@ item>
 </item>
 <item>
 <title>[B][COLOR white] RECORD NEWS [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=RpDkRX0cDAY&feature=emb_logo</link>
+<link>plugin://plugin.video.youtube/play/?video_id=VQRH6xM6T2o&feature=emb_logo</link>
 <thumbnail>https://1.bp.blogspot.com/-qC3WnRbjawk/XQq-p4bwJII/AAAAAAAABHY/ZPQTIfZpXScHUQy-BclnBT_2nvSsHn2ugCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-19-19-57-14.png</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] REDE CNT (PR) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p528k/index.m3u8</link>
+<link>https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdnpW5Zhp8g8QjVnBiw4S-jxXF3_GT_uny2ErhOS8ghWMBzpk3</thumbnail>
 </item>
 <item>
@@ -562,18 +562,23 @@ item>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png</thumbnail>
 </item>
 <item>
+<title>[B][COLOR white] REDE TV SUL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://novo.bitstreaming.info:1936/8032/8032/chunklist_w1597980218.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-06-24%2B22.12.15.png</thumbnail>
+</item>
+<item>
 <title>[B][COLOR white] SBT (PI) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
 <link>https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w918573194.m3u8</link>
 <thumbnail>https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] SBT (RS) [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=d3mgbTAUqd4</link>
+<link>plugin://plugin.video.youtube/play/?video_id=h0nPKAes45E</link>
 <thumbnail>https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-18-21-12.png</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] TV8 [/COLOR] [COLOR lime]FULLHD[/COLOR][/B]</title>
-<link>https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b864000.m3u8</link>
+<link>https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2628000.m3u8</link>
 <thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png</thumbnail>
 </item>
 <item>
@@ -590,11 +595,6 @@ item>
 <title>[B][COLOR white] TV CLIC BRASIL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8</link>
 <thumbnail>http://tvclicbrasil.com/wp-content/uploads/2019/08/logo-da-tv.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV COMUNIDADE RESTAURAÇÃO (Joinvile) [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://stmv1.ifantasy.com.br/webtv/webtv/playlist.m3u8?wowzasessionid=626797172</link>
-<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/9910c09c5a205cc3e6cee0b3b97ac6c6.png</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] TV INTERLAGOS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
@@ -625,11 +625,6 @@ item>
 <title>[B][COLOR white] TV SOTEROPOLITANA [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTy5Lc-_xVdyi8-yHDxqGRSFEJbXWBzGfBoI-rTCJHRmVHKdAhX</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white] TV SUL [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://tv.bitstreaming.info:1936/redetvsultvstation/redetvsultvstation/chunklist_w1828679664.m3u8</link>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJzMLWx03uZGCOz5aewJaVoffa0-cjkmQi5oS5qqkQ=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white] TV TERRA VIVA [/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
